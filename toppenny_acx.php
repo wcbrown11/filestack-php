@@ -1,1 +1,3315 @@
-{"0":Unknown symbol,"1":Unknown symbol,"2":[{"date":"2018-01-19","open":12.4968,"high":12.8129,"low":11.8546,"close":12.2399,"volume":68187376,"unadjustedVolume":68187376,"change":-29.2316,"changePercent":-70.486,"vwap":12.3208,"label":"Jan 19, 18","changeOverTime":0},{"date":"2018-01-22","open":11.9732,"high":12.0325,"low":10.9853,"close":11.3113,"volume":26132855,"unadjustedVolume":26132855,"change":-0.928614,"changePercent":-7.587,"vwap":11.3863,"label":"Jan 22, 18","changeOverTime":-0.07586663289732769},{"date":"2018-01-23","open":11.3311,"high":11.9732,"low":11.3113,"close":11.7657,"volume":8272057,"unadjustedVolume":8272057,"change":0.454427,"changePercent":4.017,"vwap":11.6905,"label":"Jan 23, 18","changeOverTime":-0.0387421465861649},{"date":"2018-01-24","open":11.7657,"high":11.9972,"low":11.1631,"close":11.7657,"volume":10369003,"unadjustedVolume":10369003,"change":0,"changePercent":0,"vwap":11.5507,"label":"Jan 24, 18","changeOverTime":-0.0387421465861649},{"date":"2018-01-25","open":11.7657,"high":11.7954,"low":11.4595,"close":11.7558,"volume":9448552,"unadjustedVolume":9448552,"change":-0.009877,"changePercent":-0.084,"vwap":11.6936,"label":"Jan 25, 18","changeOverTime":-0.039550976723666025},{"date":"2018-01-26","open":11.6669,"high":11.7756,"low":11.6077,"close":11.7558,"volume":7910563,"unadjustedVolume":7910563,"change":0,"changePercent":0,"vwap":11.6533,"label":"Jan 26, 18","changeOverTime":-0.039550976723666025},{"date":"2018-01-29","open":11.746,"high":12.0818,"low":11.7065,"close":11.9337,"volume":9508361,"unadjustedVolume":9508361,"change":0.177819,"changePercent":1.513,"vwap":11.8925,"label":"Jan 29, 18","changeOverTime":-0.02501654425281256},{"date":"2018-01-30","open":11.8546,"high":12.2498,"low":11.7657,"close":12.2498,"volume":5639085,"unadjustedVolume":5639085,"change":0.316123,"changePercent":2.649,"vwap":12.0777,"label":"Jan 30, 18","changeOverTime":0.0008088301375011249},{"date":"2018-01-31","open":12.3091,"high":12.4177,"low":12.2498,"close":12.3288,"volume":6624857,"unadjustedVolume":6624857,"change":0.079031,"changePercent":0.645,"vwap":12.335,"label":"Jan 31, 18","changeOverTime":0.007263131234732217},{"date":"2018-02-01","open":12.3288,"high":12.6548,"low":12.2992,"close":12.5955,"volume":6075130,"unadjustedVolume":6075130,"change":0.266729,"changePercent":2.163,"vwap":12.5135,"label":"Feb 1, 18","changeOverTime":0.02905252493892916},{"date":"2018-02-02","open":12.4869,"high":12.7931,"low":12.4474,"close":12.7042,"volume":6012350,"unadjustedVolume":6012350,"change":0.108668,"changePercent":0.863,"vwap":12.65,"label":"Feb 2, 18","changeOverTime":0.037933316448663774},{"date":"2018-02-05","open":12.6449,"high":12.6943,"low":12.3091,"close":12.4869,"volume":4006403,"unadjustedVolume":4006403,"change":-0.217335,"changePercent":-1.711,"vwap":12.4687,"label":"Feb 5, 18","changeOverTime":0.020179903430583575},{"date":"2018-02-06","open":12.0522,"high":12.3486,"low":11.9929,"close":12.151,"volume":4608500,"unadjustedVolume":4608500,"change":-0.335881,"changePercent":-2.69,"vwap":12.1652,"label":"Feb 6, 18","changeOverTime":-0.007263131234732362},{"date":"2018-02-07","open":12.072,"high":12.3881,"low":12.0522,"close":12.3585,"volume":2671197,"unadjustedVolume":2671197,"change":0.207456,"changePercent":1.707,"vwap":12.2658,"label":"Feb 7, 18","changeOverTime":0.009689621647235592},{"date":"2018-02-08","open":12.4177,"high":12.4177,"low":12.1214,"close":12.2202,"volume":4065769,"unadjustedVolume":4065769,"change":-0.138304,"changePercent":-1.119,"vwap":12.2559,"label":"Feb 8, 18","changeOverTime":-0.0016094902736133688},{"date":"2018-02-09","open":12.2399,"high":12.5264,"low":12.0028,"close":12.4869,"volume":4091483,"unadjustedVolume":4091483,"change":0.266729,"changePercent":2.183,"vwap":12.2032,"label":"Feb 9, 18","changeOverTime":0.020179903430583575},{"date":"2018-02-12","open":12.4869,"high":12.6153,"low":12.3189,"close":12.5264,"volume":2783082,"unadjustedVolume":2783082,"change":0.039515,"changePercent":0.316,"vwap":12.5082,"label":"Feb 12, 18","changeOverTime":0.02340705397919919},{"date":"2018-02-13","open":12.8425,"high":12.8623,"low":11.9435,"close":12.0028,"volume":6081717,"unadjustedVolume":6081717,"change":-0.52358,"changePercent":-4.18,"vwap":12.2932,"label":"Feb 13, 18","changeOverTime":-0.01937107329308245},{"date":"2018-02-14","open":12.0325,"high":12.0423,"low":11.6274,"close":11.7954,"volume":5808108,"unadjustedVolume":5808108,"change":-0.207455,"changePercent":-1.728,"vwap":11.8409,"label":"Feb 14, 18","changeOverTime":-0.036315656173661524},{"date":"2018-02-15","open":11.7954,"high":11.8339,"low":11.0446,"close":11.5484,"volume":5526800,"unadjustedVolume":5526800,"change":-0.246972,"changePercent":-2.094,"vwap":11.3175,"label":"Feb 15, 18","changeOverTime":-0.05649555960424509},{"date":"2018-02-16","open":11.6175,"high":11.7558,"low":11.415,"close":11.4397,"volume":1617400,"unadjustedVolume":1617400,"change":-0.108667,"changePercent":-0.941,"vwap":11.543,"label":"Feb 16, 18","changeOverTime":-0.06537635111397971},{"date":"2018-02-20","open":11.3903,"high":11.5484,"low":11.2817,"close":11.4496,"volume":1824463,"unadjustedVolume":1824463,"change":0.009878,"changePercent":0.086,"vwap":11.4381,"label":"Feb 20, 18","changeOverTime":-0.06456752097647858},{"date":"2018-02-21","open":11.5286,"high":11.5879,"low":11.4101,"close":11.5089,"volume":2562499,"unadjustedVolume":2562499,"change":0.059274,"changePercent":0.518,"vwap":11.5088,"label":"Feb 21, 18","changeOverTime":-0.059722710152860715},{"date":"2018-02-22","open":11.5188,"high":11.8546,"low":11.4496,"close":11.7657,"volume":2007155,"unadjustedVolume":2007155,"change":0.256849,"changePercent":2.232,"vwap":11.6541,"label":"Feb 22, 18","changeOverTime":-0.0387421465861649},{"date":"2018-02-23","open":11.7558,"high":11.9435,"low":11.5681,"close":11.8349,"volume":3210080,"unadjustedVolume":3210080,"change":0.069153,"changePercent":0.588,"vwap":11.7627,"label":"Feb 23, 18","changeOverTime":-0.03308850562504605},{"date":"2018-02-26","open":11.8843,"high":12.0473,"low":11.7262,"close":12.0028,"volume":1639731,"unadjustedVolume":1639731,"change":0.16794,"changePercent":1.419,"vwap":11.876,"label":"Feb 26, 18","changeOverTime":-0.01937107329308245},{"date":"2018-02-27","open":11.9929,"high":12.23,"low":11.3311,"close":11.4595,"volume":1849165,"unadjustedVolume":1849165,"change":-0.543336,"changePercent":-4.527,"vwap":11.7065,"label":"Feb 27, 18","changeOverTime":-0.06375869083897746},{"date":"2018-02-28","open":11.2421,"high":11.2421,"low":10.4222,"close":10.4321,"volume":6566511,"unadjustedVolume":6566511,"change":-1.0274,"changePercent":-8.966,"vwap":10.6861,"label":"Feb 28, 18","changeOverTime":-0.1476972851085385},{"date":"2018-03-01","open":10.5605,"high":10.6988,"low":10.442,"close":10.5506,"volume":2502025,"unadjustedVolume":2502025,"change":0.118547,"changePercent":1.136,"vwap":10.5438,"label":"Mar 1, 18","changeOverTime":-0.13801583346269178},{"date":"2018-03-02","open":10.5605,"high":11.0248,"low":10.4518,"close":10.9359,"volume":3135029,"unadjustedVolume":3135029,"change":0.385276,"changePercent":3.652,"vwap":10.8617,"label":"Mar 2, 18","changeOverTime":-0.10653681811125909},{"date":"2018-03-05","open":10.847,"high":11.1137,"low":10.5901,"close":10.5901,"volume":2845497,"unadjustedVolume":2845497,"change":-0.345761,"changePercent":-3.162,"vwap":10.7472,"label":"Mar 5, 18","changeOverTime":-0.13478868291407617},{"date":"2018-03-06","open":10.6791,"high":10.6791,"low":10.1456,"close":10.2246,"volume":4146207,"unadjustedVolume":4146207,"change":-0.365517,"changePercent":-3.451,"vwap":10.2848,"label":"Mar 6, 18","changeOverTime":-0.16465003799050645},{"date":"2018-03-07","open":10.1752,"high":10.4222,"low":10.1063,"close":10.274,"volume":1714583,"unadjustedVolume":1714583,"change":0.049394,"changePercent":0.483,"vwap":10.2705,"label":"Mar 7, 18","changeOverTime":-0.16061405730438985},{"date":"2018-03-08","open":10.4123,"high":10.6395,"low":10.3333,"close":10.3926,"volume":4982720,"unadjustedVolume":4982720,"change":0.118546,"changePercent":1.154,"vwap":10.4789,"label":"Mar 8, 18","changeOverTime":-0.1509244356571541},{"date":"2018-03-09","open":10.521,"high":10.5309,"low":10.3234,"close":10.4024,"volume":1994995,"unadjustedVolume":1994995,"change":0.009879,"changePercent":0.095,"vwap":10.4294,"label":"Mar 9, 18","changeOverTime":-0.15012377552104186},{"date":"2018-03-12","open":10.4815,"high":10.6395,"low":10.402,"close":10.5803,"volume":2337482,"unadjustedVolume":2337482,"change":0.17782,"changePercent":1.709,"vwap":10.5306,"label":"Mar 12, 18","changeOverTime":-0.1355893430501884},{"date":"2018-03-13","open":10.521,"high":10.6692,"low":10.4024,"close":10.4123,"volume":3052673,"unadjustedVolume":3052673,"change":-0.167941,"changePercent":-1.587,"vwap":10.5019,"label":"Mar 13, 18","changeOverTime":-0.14931494538354073},{"date":"2018-03-14","open":10.5407,"high":10.5506,"low":10.0863,"close":10.0863,"volume":5656738,"unadjustedVolume":5656738,"change":-0.326002,"changePercent":-3.131,"vwap":10.3478,"label":"Mar 14, 18","changeOverTime":-0.17594914991135555},{"date":"2018-03-15","open":10.6198,"high":10.6198,"low":8.7922,"close":8.8218,"volume":10323873,"unadjustedVolume":10323873,"change":-1.2645,"changePercent":-12.537,"vwap":9.2398,"label":"Mar 15, 18","changeOverTime":-0.279258817473999},{"date":"2018-03-16","open":8.9206,"high":9.3256,"low":8.5946,"close":8.6242,"volume":17341266,"unadjustedVolume":17341266,"change":-0.197577,"changePercent":-2.24,"vwap":8.77,"label":"Mar 16, 18","changeOverTime":-0.29540274021846585},{"date":"2018-03-19","open":8.6144,"high":9.0886,"low":8.4563,"close":9.0293,"volume":6452452,"unadjustedVolume":6452452,"change":0.405034,"changePercent":4.696,"vwap":8.9148,"label":"Mar 19, 18","changeOverTime":-0.2623060645920311},{"date":"2018-03-20","open":9.1281,"high":9.1281,"low":8.7823,"close":8.8515,"volume":3126495,"unadjustedVolume":3126495,"change":-0.17782,"changePercent":-1.969,"vwap":8.878,"label":"Mar 20, 18","changeOverTime":-0.27683232706149563},{"date":"2018-03-21","open":8.891,"high":9.0787,"low":8.8021,"close":8.8613,"volume":3754751,"unadjustedVolume":3754751,"change":0.009878,"changePercent":0.112,"vwap":8.9127,"label":"Mar 21, 18","changeOverTime":-0.2760316669253834},{"date":"2018-03-22","open":8.7922,"high":8.8317,"low":8.5156,"close":8.565,"volume":2408097,"unadjustedVolume":2408097,"change":-0.296365,"changePercent":-3.344,"vwap":8.6353,"label":"Mar 22, 18","changeOverTime":-0.30023938104069486},{"date":"2018-03-23","open":8.6691,"high":8.689,"low":7.9599,"close":8.0343,"volume":4169006,"unadjustedVolume":4169006,"change":-0.530661,"changePercent":-6.196,"vwap":8.267,"label":"Mar 23, 18","changeOverTime":-0.34359757841158833},{"date":"2018-03-26","open":8.1533,"high":8.1831,"low":7.826,"close":7.8855,"volume":4396930,"unadjustedVolume":4396930,"change":-0.148783,"changePercent":-1.852,"vwap":7.9745,"label":"Mar 26, 18","changeOverTime":-0.3557545404782719},{"date":"2018-03-27","open":7.8855,"high":7.9252,"low":7.4491,"close":7.4987,"volume":3582946,"unadjustedVolume":3582946,"change":-0.386838,"changePercent":-4.906,"vwap":7.5838,"label":"Mar 27, 18","changeOverTime":-0.387356105850538},{"date":"2018-03-28","open":7.5681,"high":7.8756,"low":7.4689,"close":7.5384,"volume":3590930,"unadjustedVolume":3590930,"change":0.039676,"changePercent":0.529,"vwap":7.6272,"label":"Mar 28, 18","changeOverTime":-0.3841126152991446},{"date":"2018-03-29","open":7.5284,"high":7.8855,"low":7.5284,"close":7.8657,"volume":2952721,"unadjustedVolume":2952721,"change":0.327324,"changePercent":4.342,"vwap":7.7025,"label":"Mar 29, 18","changeOverTime":-0.35737220075327414},{"date":"2018-04-02","open":7.9054,"high":7.9847,"low":7.6078,"close":7.7665,"volume":2443744,"unadjustedVolume":2443744,"change":-0.09919,"changePercent":-1.261,"vwap":7.7804,"label":"Apr 2, 18","changeOverTime":-0.3654768421310632},{"date":"2018-04-03","open":7.8756,"high":7.8756,"low":7.3003,"close":7.4888,"volume":3926508,"unadjustedVolume":3926508,"change":-0.277728,"changePercent":-3.576,"vwap":7.4744,"label":"Apr 3, 18","changeOverTime":-0.38816493598803914},{"date":"2018-04-04","open":7.3995,"high":7.8558,"low":7.3896,"close":7.7863,"volume":4205620,"unadjustedVolume":4205620,"change":0.297567,"changePercent":3.974,"vwap":7.7314,"label":"Apr 4, 18","changeOverTime":-0.363859181856061},{"date":"2018-04-05","open":8.1037,"high":8.8179,"low":8.0046,"close":8.7386,"volume":10407737,"unadjustedVolume":10407737,"change":0.952214,"changePercent":12.229,"vwap":8.4742,"label":"Apr 5, 18","changeOverTime":-0.286056258629564},{"date":"2018-04-06","open":8.6096,"high":8.8278,"low":8.4311,"close":8.679,"volume":3687662,"unadjustedVolume":3687662,"change":-0.059513,"changePercent":-0.681,"vwap":8.5466,"label":"Apr 6, 18","changeOverTime":-0.29092557945734854},{"date":"2018-04-09","open":8.689,"high":9.2841,"low":8.689,"close":9.046,"volume":4643421,"unadjustedVolume":4643421,"change":0.367,"changePercent":4.229,"vwap":9.0662,"label":"Apr 9, 18","changeOverTime":-0.2609416743600847},{"date":"2018-04-10","open":9.056,"high":9.2047,"low":8.7881,"close":8.9766,"volume":4052722,"unadjustedVolume":4052722,"change":-0.069433,"changePercent":-0.768,"vwap":8.9649,"label":"Apr 10, 18","changeOverTime":-0.26661165532398146},{"date":"2018-04-11","open":8.8873,"high":9.0758,"low":8.803,"close":8.9469,"volume":1979677,"unadjustedVolume":1979677,"change":-0.029757,"changePercent":-0.331,"vwap":8.9853,"label":"Apr 11, 18","changeOverTime":-0.2690381457364848},{"date":"2018-04-12","open":8.9964,"high":9.175,"low":8.8774,"close":9.0262,"volume":2704490,"unadjustedVolume":2704490,"change":0.079351,"changePercent":0.887,"vwap":9.0045,"label":"Apr 12, 18","changeOverTime":-0.26255933463508696},{"date":"2018-04-13","open":9.0262,"high":9.2543,"low":8.7782,"close":8.9171,"volume":2198582,"unadjustedVolume":2198582,"change":-0.109108,"changePercent":-1.209,"vwap":8.9512,"label":"Apr 13, 18","changeOverTime":-0.2714728061503771},{"date":"2018-04-16","open":8.9766,"high":8.9964,"low":8.8179,"close":8.9171,"volume":1314063,"unadjustedVolume":1314063,"change":0,"changePercent":0,"vwap":8.9221,"label":"Apr 16, 18","changeOverTime":-0.2714728061503771},{"date":"2018-04-17","open":9.0064,"high":9.1948,"low":8.8923,"close":9.175,"volume":2045793,"unadjustedVolume":2045793,"change":0.257892,"changePercent":2.892,"vwap":9.0739,"label":"Apr 17, 18","changeOverTime":-0.2504023725684033},{"date":"2018-04-18","open":9.1651,"high":9.5519,"low":9.1254,"close":9.4825,"volume":2788823,"unadjustedVolume":2788823,"change":0.307486,"changePercent":3.351,"vwap":9.3794,"label":"Apr 18, 18","changeOverTime":-0.22527961829753515},{"date":"2018-04-19","open":9.423,"high":9.5817,"low":9.1452,"close":9.3039,"volume":3010841,"unadjustedVolume":3010841,"change":-0.17854,"changePercent":-1.883,"vwap":9.2751,"label":"Apr 19, 18","changeOverTime":-0.23987124077811092},{"date":"2018-04-20","open":9.294,"high":9.3634,"low":9.1056,"close":9.2246,"volume":1070898,"unadjustedVolume":1070898,"change":-0.079351,"changePercent":-0.853,"vwap":9.2118,"label":"Apr 20, 18","changeOverTime":-0.2463500518795088},{"date":"2018-04-23","open":9.175,"high":9.2543,"low":8.7584,"close":8.8774,"volume":2354195,"unadjustedVolume":2354195,"change":-0.347162,"changePercent":-3.763,"vwap":8.8926,"label":"Apr 23, 18","changeOverTime":-0.2747162967017705},{"date":"2018-04-24","open":8.9469,"high":9.1353,"low":8.9093,"close":8.9171,"volume":1617044,"unadjustedVolume":1617044,"change":0.039675,"changePercent":0.447,"vwap":9.0185,"label":"Apr 24, 18","changeOverTime":-0.2714728061503771},{"date":"2018-04-25","open":8.8477,"high":9.1254,"low":8.7683,"close":9.046,"volume":1251115,"unadjustedVolume":1251115,"change":0.128947,"changePercent":1.446,"vwap":8.9734,"label":"Apr 25, 18","changeOverTime":-0.2609416743600847},{"date":"2018-04-26","open":9.046,"high":9.0956,"low":8.6691,"close":9.0064,"volume":3967927,"unadjustedVolume":3967927,"change":-0.039676,"changePercent":-0.439,"vwap":8.9475,"label":"Apr 26, 18","changeOverTime":-0.2641769949100892},{"date":"2018-04-27","open":8.9964,"high":9.1452,"low":8.9667,"close":9.0361,"volume":1356649,"unadjustedVolume":1356649,"change":0.029757,"changePercent":0.33,"vwap":9.068,"label":"Apr 27, 18","changeOverTime":-0.26175050449758586},{"date":"2018-04-30","open":9.1155,"high":9.1452,"low":8.7485,"close":8.8377,"volume":2558341,"unadjustedVolume":2558341,"change":-0.198379,"changePercent":-2.195,"vwap":8.8587,"label":"Apr 30, 18","changeOverTime":-0.2779597872531639},{"date":"2018-05-01","open":8.8477,"high":8.9171,"low":8.5898,"close":8.6096,"volume":1698011,"unadjustedVolume":1698011,"change":-0.228134,"changePercent":-2.581,"vwap":8.6797,"label":"May 1, 18","changeOverTime":-0.29659556042124524},{"date":"2018-05-02","open":8.6294,"high":8.689,"low":8.5699,"close":8.6294,"volume":1727805,"unadjustedVolume":1727805,"change":0.019837,"changePercent":0.23,"vwap":8.6414,"label":"May 2, 18","changeOverTime":-0.29497790014624303},{"date":"2018-05-03","open":8.6394,"high":8.679,"low":8.1831,"close":8.2129,"volume":3358785,"unadjustedVolume":3358785,"change":-0.416593,"changePercent":-4.828,"vwap":8.3605,"label":"May 3, 18","changeOverTime":-0.32900595593101256},{"date":"2018-05-04","open":8.1831,"high":8.3815,"low":7.945,"close":8.0145,"volume":4964256,"unadjustedVolume":4964256,"change":-0.198379,"changePercent":-2.415,"vwap":8.0819,"label":"May 4, 18","changeOverTime":-0.3452152386865906},{"date":"2018-05-07","open":8.0839,"high":8.4013,"low":8.0839,"close":8.3716,"volume":2578199,"unadjustedVolume":2578199,"change":0.357081,"changePercent":4.455,"vwap":8.2553,"label":"May 7, 18","changeOverTime":-0.3160401637268278},{"date":"2018-05-08","open":8.3616,"high":8.679,"low":8.2724,"close":8.5005,"volume":4159222,"unadjustedVolume":4159222,"change":0.128946,"changePercent":1.54,"vwap":8.488,"label":"May 8, 18","changeOverTime":-0.3055090319365354},{"date":"2018-05-09","open":8.9171,"high":9.046,"low":7.578,"close":7.7566,"volume":11564852,"unadjustedVolume":11564852,"change":-0.743918,"changePercent":-8.751,"vwap":7.8386,"label":"May 9, 18","changeOverTime":-0.36628567226856434},{"date":"2018-05-10","open":7.7764,"high":8.0244,"low":7.7764,"close":7.8558,"volume":4317381,"unadjustedVolume":4317381,"change":0.099189,"changePercent":1.279,"vwap":7.9142,"label":"May 10, 18","changeOverTime":-0.35818103089077524},{"date":"2018-05-11","open":7.8756,"high":7.9054,"low":7.2606,"close":7.34,"volume":6672827,"unadjustedVolume":6672827,"change":-0.515783,"changePercent":-6.566,"vwap":7.4193,"label":"May 11, 18","changeOverTime":-0.4003218980547227},{"date":"2018-05-14","open":7.3896,"high":7.5086,"low":7.211,"close":7.2408,"volume":6584823,"unadjustedVolume":6584823,"change":-0.099189,"changePercent":-1.351,"vwap":7.292,"label":"May 14, 18","changeOverTime":-0.4084265394325117},{"date":"2018-05-15","open":7.1912,"high":7.211,"low":6.8738,"close":7.0722,"volume":7754614,"unadjustedVolume":7754614,"change":-0.168622,"changePercent":-2.329,"vwap":7.0282,"label":"May 15, 18","changeOverTime":-0.42220116177419753},{"date":"2018-05-16","open":7.092,"high":7.1515,"low":6.9333,"close":6.9432,"volume":3924015,"unadjustedVolume":3924015,"change":-0.128945,"changePercent":-1.823,"vwap":7.0479,"label":"May 16, 18","changeOverTime":-0.4327404635658788},{"date":"2018-05-17","open":6.9631,"high":7.3499,"low":6.9631,"close":7.1119,"volume":5713195,"unadjustedVolume":5713195,"change":0.168621,"changePercent":2.429,"vwap":7.1784,"label":"May 17, 18","changeOverTime":-0.4189576712228041},{"date":"2018-05-18","open":7.1416,"high":7.4491,"low":7.1416,"close":7.211,"volume":3752581,"unadjustedVolume":3752581,"change":0.099189,"changePercent":1.395,"vwap":7.29,"label":"May 18, 18","changeOverTime":-0.41086119984640396},{"date":"2018-05-21","open":7.2904,"high":7.7367,"low":7.2606,"close":7.6872,"volume":4144785,"unadjustedVolume":4144785,"change":0.476107,"changePercent":6.602,"vwap":7.5586,"label":"May 21, 18","changeOverTime":-0.3719556532324611},{"date":"2018-05-22","open":7.7367,"high":7.8855,"low":7.5582,"close":7.578,"volume":3737212,"unadjustedVolume":3737212,"change":-0.109108,"changePercent":-1.419,"vwap":7.717,"label":"May 22, 18","changeOverTime":-0.3808772947491401},{"date":"2018-05-23","open":7.5086,"high":7.6574,"low":7.4491,"close":7.6078,"volume":1666254,"unadjustedVolume":1666254,"change":0.029757,"changePercent":0.393,"vwap":7.5704,"label":"May 23, 18","changeOverTime":-0.37844263433524783},{"date":"2018-05-24","open":7.6177,"high":7.6872,"low":7.5185,"close":7.6376,"volume":1736045,"unadjustedVolume":1736045,"change":0.029757,"changePercent":0.391,"vwap":7.6178,"label":"May 24, 18","changeOverTime":-0.3760079739213556},{"date":"2018-05-25","open":7.6475,"high":7.6574,"low":7.3995,"close":7.4094,"volume":2114541,"unadjustedVolume":2114541,"change":-0.228135,"changePercent":-2.987,"vwap":7.5028,"label":"May 25, 18","changeOverTime":-0.3946519170908259},{"date":"2018-05-29","open":7.3598,"high":7.5284,"low":7.2904,"close":7.3995,"volume":3414149,"unadjustedVolume":3414149,"change":-0.009919,"changePercent":-0.134,"vwap":7.4177,"label":"May 29, 18","changeOverTime":-0.3954607472283271},{"date":"2018-05-30","open":7.459,"high":7.6276,"low":7.4094,"close":7.6078,"volume":2222391,"unadjustedVolume":2222391,"change":0.208297,"changePercent":2.815,"vwap":7.5265,"label":"May 30, 18","changeOverTime":-0.37844263433524783},{"date":"2018-05-31","open":7.6376,"high":7.6574,"low":7.3797,"close":7.459,"volume":3670603,"unadjustedVolume":3670603,"change":-0.148783,"changePercent":-1.956,"vwap":7.4561,"label":"May 31, 18","changeOverTime":-0.3905995964019314},{"date":"2018-06-01","open":7.4987,"high":7.6276,"low":7.3896,"close":7.578,"volume":3240474,"unadjustedVolume":3240474,"change":0.119026,"changePercent":1.596,"vwap":7.523,"label":"Jun 1, 18","changeOverTime":-0.3808772947491401},{"date":"2018-06-04","open":7.5681,"high":7.7566,"low":7.5582,"close":7.7367,"volume":1267434,"unadjustedVolume":1267434,"change":0.158703,"changePercent":2.094,"vwap":7.6906,"label":"Jun 4, 18","changeOverTime":-0.36791150254495547},{"date":"2018-06-05","open":7.7764,"high":7.9252,"low":7.6872,"close":7.8954,"volume":1447828,"unadjustedVolume":1447828,"change":0.158702,"changePercent":2.051,"vwap":7.8131,"label":"Jun 5, 18","changeOverTime":-0.35494571034077077},{"date":"2018-06-06","open":7.9252,"high":8.1037,"low":7.8062,"close":7.8954,"volume":2587321,"unadjustedVolume":2587321,"change":0,"changePercent":0,"vwap":7.9379,"label":"Jun 6, 18","changeOverTime":-0.35494571034077077},{"date":"2018-06-07","open":7.945,"high":8.0046,"low":7.7764,"close":7.9351,"volume":1368594,"unadjustedVolume":1368594,"change":0.039676,"changePercent":0.503,"vwap":7.9121,"label":"Jun 7, 18","changeOverTime":-0.3517022197893774},{"date":"2018-06-08","open":7.9351,"high":8.1881,"low":7.8558,"close":8.1533,"volume":2004691,"unadjustedVolume":2004691,"change":0.218216,"changePercent":2.75,"vwap":8.0689,"label":"Jun 8, 18","changeOverTime":-0.3338752767587971},{"date":"2018-06-11","open":8.1533,"high":8.2228,"low":7.7963,"close":7.9054,"volume":3721357,"unadjustedVolume":3721357,"change":-0.247973,"changePercent":-3.041,"vwap":7.9962,"label":"Jun 11, 18","changeOverTime":-0.35412871020188075},{"date":"2018-06-12","open":7.9054,"high":8.2476,"low":7.826,"close":8.2228,"volume":3254878,"unadjustedVolume":3254878,"change":0.317405,"changePercent":4.015,"vwap":8.1177,"label":"Jun 12, 18","changeOverTime":-0.32819712579351146},{"date":"2018-06-13","open":8.2029,"high":8.2724,"low":7.9153,"close":7.9847,"volume":3093258,"unadjustedVolume":3093258,"change":-0.238054,"changePercent":-2.895,"vwap":8.0314,"label":"Jun 13, 18","changeOverTime":-0.3476498991004829},{"date":"2018-06-14","open":8.0145,"high":8.1087,"low":7.8676,"close":8.0244,"volume":2884173,"unadjustedVolume":2884173,"change":0.039677,"changePercent":0.497,"vwap":7.9963,"label":"Jun 14, 18","changeOverTime":-0.3444064085490895},{"date":"2018-06-15","open":8.0046,"high":8.0343,"low":7.8657,"close":7.9153,"volume":2759982,"unadjustedVolume":2759982,"change":-0.109108,"changePercent":-1.36,"vwap":7.9338,"label":"Jun 15, 18","changeOverTime":-0.35331988006437964},{"date":"2018-06-18","open":7.9351,"high":8.2426,"low":7.8359,"close":8.2228,"volume":3409799,"unadjustedVolume":3409799,"change":0.307485,"changePercent":3.885,"vwap":8.1304,"label":"Jun 18, 18","changeOverTime":-0.32819712579351146},{"date":"2018-06-19","open":8.1335,"high":8.2734,"low":8.1137,"close":8.193,"volume":2222674,"unadjustedVolume":2222674,"change":-0.029757,"changePercent":-0.362,"vwap":8.202,"label":"Jun 19, 18","changeOverTime":-0.3306317862074037},{"date":"2018-06-20","open":8.2029,"high":8.7485,"low":8.1732,"close":8.6294,"volume":4370053,"unadjustedVolume":4370053,"change":0.436432,"changePercent":5.327,"vwap":8.5473,"label":"Jun 20, 18","changeOverTime":-0.29497790014624303},{"date":"2018-06-21","open":8.6691,"high":8.8675,"low":8.4608,"close":8.5997,"volume":3147659,"unadjustedVolume":3147659,"change":-0.029757,"changePercent":-0.345,"vwap":8.6462,"label":"Jun 21, 18","changeOverTime":-0.2974043905587464},{"date":"2018-06-22","open":8.6843,"high":8.764,"low":8.4852,"close":8.6943,"volume":3302088,"unadjustedVolume":3302088,"change":0.094613,"changePercent":1.1,"vwap":8.6781,"label":"Jun 22, 18","changeOverTime":-0.2896755692448468},{"date":"2018-06-25","open":8.6943,"high":8.764,"low":8.4951,"close":8.6545,"volume":4656839,"unadjustedVolume":4656839,"change":-0.039836,"changePercent":-0.458,"vwap":8.6614,"label":"Jun 25, 18","changeOverTime":-0.29292722979762903},{"date":"2018-06-26","open":8.6644,"high":8.7989,"low":8.6644,"close":8.7341,"volume":1710268,"unadjustedVolume":1710268,"change":0.079672,"changePercent":0.921,"vwap":8.7366,"label":"Jun 26, 18","changeOverTime":-0.2864239086920645},{"date":"2018-06-27","open":8.764,"high":8.9931,"low":8.7341,"close":8.8337,"volume":2056657,"unadjustedVolume":2056657,"change":0.099592,"changePercent":1.14,"vwap":8.8858,"label":"Jun 27, 18","changeOverTime":-0.27828658730871986},{"date":"2018-06-28","open":8.8437,"high":8.8636,"low":8.3557,"close":8.3856,"volume":3688771,"unadjustedVolume":3688771,"change":-0.44816,"changePercent":-5.073,"vwap":8.5505,"label":"Jun 28, 18","changeOverTime":-0.3148963635323818},{"date":"2018-06-29","open":8.4752,"high":8.8835,"low":8.3856,"close":8.6146,"volume":3132152,"unadjustedVolume":3132152,"change":0.229059,"changePercent":2.732,"vwap":8.6828,"label":"Jun 29, 18","changeOverTime":-0.2961870603518003},{"date":"2018-07-02","open":8.515,"high":8.6146,"low":7.9972,"close":8.1167,"volume":2936356,"unadjustedVolume":2936356,"change":-0.497955,"changePercent":-5.78,"vwap":8.1945,"label":"Jul 2, 18","changeOverTime":-0.33686549726713455},{"date":"2018-07-03","open":8.1466,"high":8.2561,"low":8.0071,"close":8.0171,"volume":1478858,"unadjustedVolume":1478858,"change":-0.099591,"changePercent":-1.227,"vwap":8.0625,"label":"Jul 3, 18","changeOverTime":-0.34500281865047927},{"date":"2018-07-05","open":8.1067,"high":8.1067,"low":7.7681,"close":8.047,"volume":1888821,"unadjustedVolume":1888821,"change":0.029877,"changePercent":0.373,"vwap":7.945,"label":"Jul 5, 18","changeOverTime":-0.34255998823519795},{"date":"2018-07-06","open":8.0071,"high":8.2113,"low":7.9772,"close":8.1466,"volume":794097,"unadjustedVolume":794097,"change":0.099591,"changePercent":1.238,"vwap":8.1325,"label":"Jul 6, 18","changeOverTime":-0.33442266685185346},{"date":"2018-07-09","open":8.1963,"high":8.5848,"low":8.1864,"close":8.5051,"volume":1872162,"unadjustedVolume":1872162,"change":0.358528,"changePercent":4.401,"vwap":8.4211,"label":"Jul 9, 18","changeOverTime":-0.305133211872646},{"date":"2018-07-10","open":8.5549,"high":8.6345,"low":8.3059,"close":8.5848,"volume":2203078,"unadjustedVolume":2203078,"change":0.079673,"changePercent":0.937,"vwap":8.5216,"label":"Jul 10, 18","changeOverTime":-0.2986217207656926},{"date":"2018-07-11","open":8.525,"high":8.7341,"low":8.4055,"close":8.5449,"volume":1597854,"unadjustedVolume":1597854,"change":-0.039837,"changePercent":-0.464,"vwap":8.6067,"label":"Jul 11, 18","changeOverTime":-0.3018815513198637},{"date":"2018-07-12","open":8.6345,"high":9.003,"low":8.4702,"close":8.8835,"volume":2570878,"unadjustedVolume":2570878,"change":0.33861,"changePercent":3.963,"vwap":8.8127,"label":"Jul 12, 18","changeOverTime":-0.2742179266170476},{"date":"2018-07-13","open":8.8736,"high":9.1723,"low":8.7939,"close":8.9234,"volume":2935796,"unadjustedVolume":2935796,"change":0.039837,"changePercent":0.448,"vwap":9.0183,"label":"Jul 13, 18","changeOverTime":-0.2709580960628763},{"date":"2018-07-16","open":8.9831,"high":9.1524,"low":8.9632,"close":9.1425,"volume":1453196,"unadjustedVolume":1453196,"change":0.2191,"changePercent":2.455,"vwap":9.0889,"label":"Jul 16, 18","changeOverTime":-0.25305762301979595},{"date":"2018-07-17","open":9.1425,"high":9.3865,"low":9.1126,"close":9.3516,"volume":2589178,"unadjustedVolume":2589178,"change":0.209141,"changePercent":2.288,"vwap":9.3095,"label":"Jul 17, 18","changeOverTime":-0.2359741501156056},{"date":"2018-07-18","open":9.3715,"high":9.5607,"low":9.3317,"close":9.4114,"volume":2028605,"unadjustedVolume":2028605,"change":0.059755,"changePercent":0.639,"vwap":9.4474,"label":"Jul 18, 18","changeOverTime":-0.23108848928504316},{"date":"2018-07-19","open":9.4114,"high":9.4263,"low":9.1823,"close":9.3217,"volume":2050856,"unadjustedVolume":2050856,"change":-0.089632,"changePercent":-0.952,"vwap":9.3257,"label":"Jul 19, 18","changeOverTime":-0.23841698053088672},{"date":"2018-07-20","open":9.3416,"high":9.4612,"low":9.2719,"close":9.3118,"volume":1512466,"unadjustedVolume":1512466,"change":-0.009959,"changePercent":-0.107,"vwap":9.3735,"label":"Jul 20, 18","changeOverTime":-0.23922581066838786},{"date":"2018-07-23","open":9.3616,"high":9.4313,"low":9.1972,"close":9.3217,"volume":1682307,"unadjustedVolume":1682307,"change":0.009959,"changePercent":0.107,"vwap":9.3175,"label":"Jul 23, 18","changeOverTime":-0.23841698053088672},{"date":"2018-07-24","open":9.3715,"high":9.491,"low":9.1823,"close":9.2122,"volume":1752372,"unadjustedVolume":1752372,"change":-0.10955,"changePercent":-1.175,"vwap":9.3355,"label":"Jul 24, 18","changeOverTime":-0.24736313205173255},{"date":"2018-07-25","open":9.2221,"high":9.3018,"low":8.9383,"close":9.1923,"volume":1344302,"unadjustedVolume":1344302,"change":-0.019918,"changePercent":-0.216,"vwap":9.0885,"label":"Jul 25, 18","changeOverTime":-0.24898896232812368},{"date":"2018-07-26","open":9.1624,"high":9.2819,"low":8.9632,"close":9.0628,"volume":1383901,"unadjustedVolume":1383901,"change":-0.129469,"changePercent":-1.408,"vwap":9.122,"label":"Jul 26, 18","changeOverTime":-0.2595691141267495},{"date":"2018-07-27","open":9.1425,"high":9.1524,"low":8.8337,"close":8.9732,"volume":2238197,"unadjustedVolume":2238197,"change":-0.089632,"changePercent":-0.989,"vwap":8.9758,"label":"Jul 27, 18","changeOverTime":-0.266889435371204},{"date":"2018-07-30","open":8.9632,"high":9.003,"low":8.7341,"close":8.7441,"volume":1711625,"unadjustedVolume":1711625,"change":-0.229059,"changePercent":-2.553,"vwap":8.8185,"label":"Jul 30, 18","changeOverTime":-0.2856069085531745},{"date":"2018-07-31","open":8.764,"high":9.1425,"low":8.7441,"close":8.9732,"volume":3398845,"unadjustedVolume":3398845,"change":0.229059,"changePercent":2.62,"vwap":8.9431,"label":"Jul 31, 18","changeOverTime":-0.266889435371204},{"date":"2018-08-01","open":8.9931,"high":9.1126,"low":8.8238,"close":8.9134,"volume":1071516,"unadjustedVolume":1071516,"change":-0.059755,"changePercent":-0.666,"vwap":8.9385,"label":"Aug 1, 18","changeOverTime":-0.27177509620176643},{"date":"2018-08-02","open":8.8437,"high":8.8736,"low":8.525,"close":8.5848,"volume":2390251,"unadjustedVolume":2390251,"change":-0.32865,"changePercent":-3.687,"vwap":8.6865,"label":"Aug 2, 18","changeOverTime":-0.2986217207656926},{"date":"2018-08-03","open":8.6047,"high":8.9084,"low":8.6047,"close":8.8736,"volume":1804505,"unadjustedVolume":1804505,"change":0.288814,"changePercent":3.364,"vwap":8.8181,"label":"Aug 3, 18","changeOverTime":-0.2750267567545487},{"date":"2018-08-06","open":8.8835,"high":9.003,"low":8.8138,"close":8.9433,"volume":1465114,"unadjustedVolume":1465114,"change":0.069714,"changePercent":0.786,"vwap":8.9006,"label":"Aug 6, 18","changeOverTime":-0.26933226578648517},{"date":"2018-08-07","open":9.0429,"high":9.2122,"low":8.9931,"close":9.1126,"volume":2852719,"unadjustedVolume":2852719,"change":0.169305,"changePercent":1.893,"vwap":9.1,"label":"Aug 7, 18","changeOverTime":-0.25550045343507705},{"date":"2018-08-08","open":9.1723,"high":9.4761,"low":9.1026,"close":9.4412,"volume":5827839,"unadjustedVolume":5827839,"change":0.32865,"changePercent":3.607,"vwap":9.3507,"label":"Aug 8, 18","changeOverTime":-0.2286538288711509},{"date":"2018-08-09","open":8.8935,"high":9.2919,"low":8.3756,"close":8.4354,"volume":6841959,"unadjustedVolume":6841959,"change":-1.0059,"changePercent":-10.654,"vwap":8.7399,"label":"Aug 9, 18","changeOverTime":-0.31082770284070954},{"date":"2018-08-10","open":8.6744,"high":9.1126,"low":8.515,"close":8.8636,"volume":4928879,"unadjustedVolume":4928879,"change":0.428242,"changePercent":5.077,"vwap":8.8249,"label":"Aug 10, 18","changeOverTime":-0.2758437568934387},{"date":"2018-08-13","open":8.8536,"high":9.1923,"low":8.8536,"close":9.1126,"volume":2992987,"unadjustedVolume":2992987,"change":0.248978,"changePercent":2.809,"vwap":9.1141,"label":"Aug 13, 18","changeOverTime":-0.25550045343507705},{"date":"2018-08-14","open":9.1624,"high":9.1723,"low":8.8238,"close":8.8636,"volume":3111342,"unadjustedVolume":3111342,"change":-0.248978,"changePercent":-2.732,"vwap":9.0112,"label":"Aug 14, 18","changeOverTime":-0.2758437568934387},{"date":"2018-08-15","open":8.8337,"high":8.8636,"low":8.6744,"close":8.6943,"volume":1996555,"unadjustedVolume":1996555,"change":-0.169305,"changePercent":-1.91,"vwap":8.7634,"label":"Aug 15, 18","changeOverTime":-0.2896755692448468},{"date":"2018-08-16","open":8.7541,"high":8.8088,"low":8.5101,"close":8.6843,"volume":2377149,"unadjustedVolume":2377149,"change":-0.009959,"changePercent":-0.115,"vwap":8.6628,"label":"Aug 16, 18","changeOverTime":-0.2904925693837368},{"date":"2018-08-17","open":8.6943,"high":8.7341,"low":8.5648,"close":8.6744,"volume":1376797,"unadjustedVolume":1376797,"change":-0.009959,"changePercent":-0.115,"vwap":8.6822,"label":"Aug 17, 18","changeOverTime":-0.2913013995212379},{"date":"2018-08-20","open":8.7142,"high":8.7839,"low":8.5947,"close":8.6545,"volume":1857748,"unadjustedVolume":1857748,"change":-0.019918,"changePercent":-0.23,"vwap":8.6436,"label":"Aug 20, 18","changeOverTime":-0.29292722979762903},{"date":"2018-08-21","open":8.7242,"high":9.1823,"low":8.6744,"close":9.1026,"volume":3549052,"unadjustedVolume":3549052,"change":0.44816,"changePercent":5.178,"vwap":9.0527,"label":"Aug 21, 18","changeOverTime":-0.25631745357396707},{"date":"2018-08-22","open":9.1026,"high":9.1126,"low":8.774,"close":9.0429,"volume":2491277,"unadjustedVolume":2491277,"change":-0.059755,"changePercent":-0.656,"vwap":8.9446,"label":"Aug 22, 18","changeOverTime":-0.2611949444031406},{"date":"2018-08-23","open":9.0429,"high":9.0927,"low":8.8636,"close":8.9532,"volume":3268332,"unadjustedVolume":3268332,"change":-0.089632,"changePercent":-0.991,"vwap":8.9924,"label":"Aug 23, 18","changeOverTime":-0.268523435648984},{"date":"2018-08-24","open":8.9831,"high":9.0927,"low":8.9134,"close":8.9732,"volume":1129170,"unadjustedVolume":1129170,"change":0.019918,"changePercent":0.222,"vwap":8.9881,"label":"Aug 24, 18","changeOverTime":-0.266889435371204},{"date":"2018-08-27","open":9.013,"high":9.023,"low":8.9134,"close":9.003,"volume":1856135,"unadjustedVolume":1856135,"change":0.029877,"changePercent":0.333,"vwap":8.9756,"label":"Aug 27, 18","changeOverTime":-0.26445477495731173},{"date":"2018-08-28","open":9.013,"high":9.5558,"low":8.9632,"close":9.1723,"volume":4667882,"unadjustedVolume":4667882,"change":0.169305,"changePercent":1.881,"vwap":9.2174,"label":"Aug 28, 18","changeOverTime":-0.25062296260590367},{"date":"2018-08-29","open":9.2321,"high":9.3018,"low":8.9283,"close":9.2122,"volume":3119927,"unadjustedVolume":3119927,"change":0.039837,"changePercent":0.434,"vwap":9.1775,"label":"Aug 29, 18","changeOverTime":-0.24736313205173255},{"date":"2018-08-30","open":9.2122,"high":9.2819,"low":8.8039,"close":8.8935,"volume":3088130,"unadjustedVolume":3088130,"change":-0.318692,"changePercent":-3.459,"vwap":8.9652,"label":"Aug 30, 18","changeOverTime":-0.27340092647815756},{"date":"2018-08-31","open":8.9234,"high":9.003,"low":8.8238,"close":8.9134,"volume":999543,"unadjustedVolume":999543,"change":0.019918,"changePercent":0.224,"vwap":8.9307,"label":"Aug 31, 18","changeOverTime":-0.27177509620176643},{"date":"2018-09-04","open":8.9234,"high":9.2122,"low":8.7939,"close":9.1524,"volume":1721672,"unadjustedVolume":1721672,"change":0.239019,"changePercent":2.682,"vwap":9.0981,"label":"Sep 4, 18","changeOverTime":-0.2522487928822948},{"date":"2018-09-05","open":8.7939,"high":8.8835,"low":8.2611,"close":8.7341,"volume":8316081,"unadjustedVolume":8316081,"change":-0.418283,"changePercent":-4.57,"vwap":8.6056,"label":"Sep 5, 18","changeOverTime":-0.2864239086920645},{"date":"2018-09-06","open":8.7441,"high":9.0727,"low":8.6246,"close":8.9234,"volume":3998746,"unadjustedVolume":3998746,"change":0.189224,"changePercent":2.166,"vwap":8.8624,"label":"Sep 6, 18","changeOverTime":-0.2709580960628763},{"date":"2018-09-07","open":8.8935,"high":8.9682,"low":8.7242,"close":8.764,"volume":1034293,"unadjustedVolume":1034293,"change":-0.159346,"changePercent":-1.786,"vwap":8.8457,"label":"Sep 7, 18","changeOverTime":-0.28398107827678337},{"date":"2018-09-10","open":8.8138,"high":8.8536,"low":8.5499,"close":8.6047,"volume":2081465,"unadjustedVolume":2081465,"change":-0.159346,"changePercent":-1.818,"vwap":8.6421,"label":"Sep 10, 18","changeOverTime":-0.2969958904893015},{"date":"2018-09-11","open":8.5449,"high":8.6545,"low":8.4453,"close":8.4852,"volume":2682542,"unadjustedVolume":2682542,"change":-0.119509,"changePercent":-1.389,"vwap":8.5214,"label":"Sep 11, 18","changeOverTime":-0.30675904214903715},{"date":"2018-09-12","open":8.515,"high":8.6047,"low":8.4055,"close":8.5748,"volume":1540952,"unadjustedVolume":1540952,"change":0.089632,"changePercent":1.056,"vwap":8.5234,"label":"Sep 12, 18","changeOverTime":-0.2994387209045826},{"date":"2018-09-13","open":8.5848,"high":8.6694,"low":8.525,"close":8.5549,"volume":1068224,"unadjustedVolume":1068224,"change":-0.019919,"changePercent":-0.232,"vwap":8.5904,"label":"Sep 13, 18","changeOverTime":-0.30106455118097375},{"date":"2018-09-14","open":8.515,"high":8.6146,"low":8.5051,"close":8.525,"volume":1302037,"unadjustedVolume":1302037,"change":-0.029877,"changePercent":-0.349,"vwap":8.5816,"label":"Sep 14, 18","changeOverTime":-0.30350738159625484},{"date":"2018-09-17","open":8.52,"high":8.599,"low":8.37,"close":8.4,"volume":1658310,"unadjustedVolume":1658310,"change":-0.124998,"changePercent":-1.466,"vwap":8.4704,"label":"Sep 17, 18","changeOverTime":-0.31371988333238016},{"date":"2018-09-18","open":8.39,"high":8.9,"low":8.39,"close":8.59,"volume":6629853,"unadjustedVolume":6629853,"change":0.19,"changePercent":2.262,"vwap":8.6228,"label":"Sep 18, 18","changeOverTime":-0.2981968806934698},{"date":"2018-09-19","open":8.58,"high":8.64,"low":8.35,"close":8.37,"volume":1707181,"unadjustedVolume":1707181,"change":-0.22,"changePercent":-2.561,"vwap":8.4857,"label":"Sep 19, 18","changeOverTime":-0.31617088374905034},{"date":"2018-09-20","open":8.44,"high":9.07,"low":8.32,"close":8.92,"volume":9326749,"unadjustedVolume":9326749,"change":0.55,"changePercent":6.571,"vwap":8.7924,"label":"Sep 20, 18","changeOverTime":-0.271235876110099},{"date":"2018-09-21","open":9.79,"high":9.84,"low":9.32,"close":9.37,"volume":10142754,"unadjustedVolume":10142754,"change":0.45,"changePercent":5.045,"vwap":9.4867,"label":"Sep 21, 18","changeOverTime":-0.23447086986004798},{"date":"2018-09-24","open":9.35,"high":9.47,"low":9.21,"close":9.26,"volume":2853049,"unadjustedVolume":2853049,"change":-0.11,"changePercent":-1.174,"vwap":9.3076,"label":"Sep 24","changeOverTime":-0.24345787138783817},{"date":"2018-09-25","open":9.3,"high":9.375,"low":9.175,"close":9.23,"volume":1323200,"unadjustedVolume":1323200,"change":-0.03,"changePercent":-0.324,"vwap":9.2575,"label":"Sep 25","changeOverTime":-0.2459088718045082},{"date":"2018-09-26","open":9.21,"high":9.45,"low":9.1999,"close":9.38,"volume":1443944,"unadjustedVolume":1443944,"change":0.15,"changePercent":1.625,"vwap":9.3725,"label":"Sep 26","changeOverTime":-0.23365386972115781},{"date":"2018-09-27","open":9.36,"high":9.58,"low":9.29,"close":9.39,"volume":2025298,"unadjustedVolume":2025298,"change":0.01,"changePercent":0.107,"vwap":9.4213,"label":"Sep 27","changeOverTime":-0.23283686958226782},{"date":"2018-09-28","open":9.4,"high":9.57,"low":9.3,"close":9.39,"volume":2296296,"unadjustedVolume":2296296,"change":0,"changePercent":0,"vwap":9.4893,"label":"Sep 28","changeOverTime":-0.23283686958226782},{"date":"2018-10-01","open":9.46,"high":9.54,"low":9.04,"close":9.2,"volume":2084212,"unadjustedVolume":2084212,"change":-0.19,"changePercent":-2.023,"vwap":9.2299,"label":"Oct 1","changeOverTime":-0.24835987222117836},{"date":"2018-10-02","open":9.13,"high":9.19,"low":8.63,"close":8.74,"volume":4000792,"unadjustedVolume":4000792,"change":-0.46,"changePercent":-5,"vwap":8.8016,"label":"Oct 2","changeOverTime":-0.2859418786101194},{"date":"2018-10-03","open":8.84,"high":8.85,"low":8.59,"close":8.81,"volume":1962120,"unadjustedVolume":1962120,"change":0.07,"changePercent":0.801,"vwap":8.76,"label":"Oct 3","changeOverTime":-0.28022287763788917},{"date":"2018-10-04","open":8.84,"high":8.87,"low":8.69,"close":8.79,"volume":1194326,"unadjustedVolume":1194326,"change":-0.02,"changePercent":-0.227,"vwap":8.7769,"label":"Oct 4","changeOverTime":-0.2818568779156693},{"date":"2018-10-05","open":8.78,"high":8.87,"low":8.62,"close":8.69,"volume":1243438,"unadjustedVolume":1243438,"change":-0.1,"changePercent":-1.138,"vwap":8.7227,"label":"Oct 5","changeOverTime":-0.29002687930456955},{"date":"2018-10-08","open":8.64,"high":8.72,"low":8.55,"close":8.64,"volume":1512413,"unadjustedVolume":1512413,"change":-0.05,"changePercent":-0.575,"vwap":8.6351,"label":"Oct 8","changeOverTime":-0.29411187999901955},{"date":"2018-10-09","open":8.66,"high":8.765,"low":8.57,"close":8.63,"volume":943702,"unadjustedVolume":943702,"change":-0.01,"changePercent":-0.116,"vwap":8.6832,"label":"Oct 9","changeOverTime":-0.2949288801379096},{"date":"2018-10-10","open":8.6,"high":8.64,"low":8.13,"close":8.14,"volume":2213744,"unadjustedVolume":2213744,"change":-0.49,"changePercent":-5.678,"vwap":8.3725,"label":"Oct 10","changeOverTime":-0.33496188694352075},{"date":"2018-10-11","open":8.06,"high":8.18,"low":7.73,"close":7.77,"volume":3517028,"unadjustedVolume":3517028,"change":-0.37,"changePercent":-4.545,"vwap":7.8805,"label":"Oct 11","changeOverTime":-0.3651908920824517},{"date":"2018-10-12","open":7.9,"high":7.99,"low":7.41,"close":7.52,"volume":3163478,"unadjustedVolume":3163478,"change":-0.25,"changePercent":-3.218,"vwap":7.6077,"label":"Oct 12","changeOverTime":-0.3856158955547023},{"date":"2018-10-15","open":7.47,"high":7.7473,"low":7.4,"close":7.72,"volume":1794940,"unadjustedVolume":1794940,"change":0.2,"changePercent":2.66,"vwap":7.6285,"label":"Oct 15","changeOverTime":-0.3692758927769018},{"date":"2018-10-16","open":7.79,"high":8.02,"low":7.715,"close":8.01,"volume":1131512,"unadjustedVolume":1131512,"change":0.29,"changePercent":3.756,"vwap":7.9154,"label":"Oct 16","changeOverTime":-0.34558288874909115},{"date":"2018-10-17","open":7.97,"high":7.98,"low":7.66,"close":7.77,"volume":1031127,"unadjustedVolume":1031127,"change":-0.24,"changePercent":-2.996,"vwap":7.755,"label":"Oct 17","changeOverTime":-0.3651908920824517},{"date":"2018-10-18","open":7.68,"high":7.8,"low":7.65,"close":7.75,"volume":873197,"unadjustedVolume":873197,"change":-0.02,"changePercent":-0.257,"vwap":7.7279,"label":"Oct 18","changeOverTime":-0.36682489236023175},{"date":"2018-10-19","open":7.77,"high":7.96,"low":7.73,"close":7.77,"volume":1430853,"unadjustedVolume":1430853,"change":0.02,"changePercent":0.258,"vwap":7.7989,"label":"Oct 19","changeOverTime":-0.3651908920824517},{"date":"2018-10-22","open":7.79,"high":7.81,"low":7.295,"close":7.38,"volume":1821824,"unadjustedVolume":1821824,"change":-0.39,"changePercent":-5.019,"vwap":7.4332,"label":"Oct 22","changeOverTime":-0.3970538974991626},{"date":"2018-10-23","open":7.3,"high":7.5484,"low":7.2,"close":7.5,"volume":1264080,"unadjustedVolume":1264080,"change":0.12,"changePercent":1.626,"vwap":7.3698,"label":"Oct 23","changeOverTime":-0.3872498958324823},{"date":"2018-10-24","open":7.46,"high":7.51,"low":7.19,"close":7.37,"volume":2820261,"unadjustedVolume":2820261,"change":-0.13,"changePercent":-1.733,"vwap":7.3588,"label":"Oct 24","changeOverTime":-0.3978708976380526},{"date":"2018-10-25","open":7.39,"high":7.53,"low":7.29,"close":7.49,"volume":1478708,"unadjustedVolume":1478708,"change":0.12,"changePercent":1.628,"vwap":7.4299,"label":"Oct 25","changeOverTime":-0.38806689597137234},{"date":"2018-10-26","open":7.41,"high":7.52,"low":7.17,"close":7.42,"volume":2303960,"unadjustedVolume":2303960,"change":-0.07,"changePercent":-0.935,"vwap":7.3564,"label":"Oct 26","changeOverTime":-0.3937858969436025},{"date":"2018-10-29","open":7.5,"high":7.55,"low":7.23,"close":7.3,"volume":1730786,"unadjustedVolume":1730786,"change":-0.12,"changePercent":-1.617,"vwap":7.3857,"label":"Oct 29","changeOverTime":-0.4035898986102828},{"date":"2018-10-30","open":7.26,"high":7.36,"low":7.225,"close":7.3,"volume":1201431,"unadjustedVolume":1201431,"change":0,"changePercent":0,"vwap":7.3,"label":"Oct 30","changeOverTime":-0.4035898986102828},{"date":"2018-10-31","open":7.39,"high":7.82,"low":7.3611,"close":7.74,"volume":2404062,"unadjustedVolume":2404062,"change":0.44,"changePercent":6.027,"vwap":7.6349,"label":"Oct 31","changeOverTime":-0.3676418924991217},{"date":"2018-11-01","open":7.75,"high":7.76,"low":7.57,"close":7.72,"volume":1445367,"unadjustedVolume":1445367,"change":-0.02,"changePercent":-0.258,"vwap":7.6972,"label":"Nov 1","changeOverTime":-0.3692758927769018},{"date":"2018-11-02","open":7.8,"high":7.94,"low":7.63,"close":7.77,"volume":932635,"unadjustedVolume":932635,"change":0.05,"changePercent":0.648,"vwap":7.7394,"label":"Nov 2","changeOverTime":-0.3651908920824517}],"3":Unknown symbol,"4":Unknown symbol,"5":Unknown symbol,"6":Unknown symbol,"7":[{"date":"2017-10-24","open":118.1266,"high":119.0394,"low":117.913,"close":118.5345,"volume":425762,"unadjustedVolume":425762,"change":0.106814,"changePercent":0.09,"vwap":118.53,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":118.4082,"high":119.2093,"low":117.8353,"close":118.4859,"volume":392416,"unadjustedVolume":392416,"change":-0.048552,"changePercent":-0.041,"vwap":118.3706,"label":"Oct 25, 17","changeOverTime":-0.00041000721308980355},{"date":"2017-10-26","open":119.1948,"high":119.1948,"low":117.5149,"close":118.2043,"volume":466331,"unadjustedVolume":466331,"change":-0.2816,"changePercent":-0.238,"vwap":118.3361,"label":"Oct 26, 17","changeOverTime":-0.0027856868675363777},{"date":"2017-10-27","open":118.0587,"high":119.4084,"low":118.0489,"close":118.6219,"volume":491236,"unadjustedVolume":491236,"change":0.417547,"changePercent":0.353,"vwap":118.6073,"label":"Oct 27, 17","changeOverTime":0.0007373380745690273},{"date":"2017-10-30","open":118.4859,"high":118.7093,"low":117.6994,"close":118.1946,"volume":408903,"unadjustedVolume":408903,"change":-0.427257,"changePercent":-0.36,"vwap":118.125,"label":"Oct 30, 17","changeOverTime":-0.0028675195829062435},{"date":"2017-10-31","open":117.7673,"high":120.5639,"low":117.1847,"close":120.3697,"volume":629265,"unadjustedVolume":629265,"change":2.1751,"changePercent":1.84,"vwap":119.751,"label":"Oct 31, 17","changeOverTime":0.015482412293467307},{"date":"2017-11-01","open":121.0689,"high":122.0788,"low":120.3406,"close":121.5835,"volume":630816,"unadjustedVolume":630816,"change":1.2138,"changePercent":1.008,"vwap":121.4372,"label":"Nov 1, 17","changeOverTime":0.025722468985822748},{"date":"2017-11-02","open":121.5641,"high":122.3409,"low":120.8747,"close":120.9523,"volume":508760,"unadjustedVolume":508760,"change":-0.631173,"changePercent":-0.519,"vwap":121.4397,"label":"Nov 2, 17","changeOverTime":0.020397437033100065},{"date":"2017-11-03","open":120.3794,"high":122.1856,"low":119.6803,"close":121.6709,"volume":414288,"unadjustedVolume":414288,"change":0.718567,"changePercent":0.594,"vwap":121.7046,"label":"Nov 3, 17","changeOverTime":0.026459807060391777},{"date":"2017-11-06","open":121.5738,"high":122.8556,"low":121.5738,"close":122.0302,"volume":453105,"unadjustedVolume":453105,"change":0.359283,"changePercent":0.295,"vwap":122.361,"label":"Nov 6, 17","changeOverTime":0.029490992074037513},{"date":"2017-11-07","open":122.069,"high":122.9527,"low":121.5641,"close":122.4089,"volume":603361,"unadjustedVolume":603361,"change":0.378705,"changePercent":0.31,"vwap":122.2357,"label":"Nov 7, 17","changeOverTime":0.03268584251842298},{"date":"2017-11-08","open":122.0885,"high":123.2052,"low":122.0885,"close":122.574,"volume":368104,"unadjustedVolume":368104,"change":0.165075,"changePercent":0.135,"vwap":122.4789,"label":"Nov 8, 17","changeOverTime":0.03407868595219117},{"date":"2017-11-09","open":122.2438,"high":122.9236,"low":121.836,"close":122.4477,"volume":331757,"unadjustedVolume":331757,"change":-0.126234,"changePercent":-0.103,"vwap":122.3546,"label":"Nov 9, 17","changeOverTime":0.03301317337990208},{"date":"2017-11-10","open":121.9137,"high":123.0012,"low":121.9137,"close":122.9721,"volume":304298,"unadjustedVolume":304298,"change":0.52436,"changePercent":0.428,"vwap":122.7294,"label":"Nov 10, 17","changeOverTime":0.03743720182731613},{"date":"2017-11-13","open":123.3314,"high":123.4673,"low":122.3895,"close":122.943,"volume":570353,"unadjustedVolume":570353,"change":-0.029131,"changePercent":-0.024,"vwap":122.9713,"label":"Nov 13, 17","changeOverTime":0.03719170368120677},{"date":"2017-11-14","open":122.8556,"high":123.1275,"low":122.2244,"close":122.6225,"volume":499134,"unadjustedVolume":499134,"change":-0.320442,"changePercent":-0.261,"vwap":122.5593,"label":"Nov 14, 17","changeOverTime":0.03448784952904014},{"date":"2017-11-15","open":122.5546,"high":122.574,"low":120.1464,"close":120.3018,"volume":653342,"unadjustedVolume":653342,"change":-2.3208,"changePercent":-1.893,"vwap":121.0917,"label":"Nov 15, 17","changeOverTime":0.014909583285878845},{"date":"2017-11-16","open":120.3309,"high":122.8264,"low":120.3309,"close":122.5351,"volume":563014,"unadjustedVolume":563014,"change":2.2334,"changePercent":1.856,"vwap":122.2285,"label":"Nov 16, 17","changeOverTime":0.03375051145447111},{"date":"2017-11-17","open":122.0011,"high":122.574,"low":121.433,"close":122.5546,"volume":1306769,"unadjustedVolume":1306769,"change":0.019421,"changePercent":0.016,"vwap":122.4396,"label":"Nov 17, 17","changeOverTime":0.03391502052145156},{"date":"2017-11-20","open":122.4769,"high":123.1372,"low":122.0205,"close":122.5934,"volume":518320,"unadjustedVolume":518320,"change":0.038842,"changePercent":0.032,"vwap":122.6333,"label":"Nov 20, 17","changeOverTime":0.03424235138293078},{"date":"2017-11-21","open":122.9333,"high":124.2927,"low":122.6808,"close":124.2539,"volume":526351,"unadjustedVolume":526351,"change":1.6605,"changePercent":1.354,"vwap":123.7453,"label":"Nov 21, 17","changeOverTime":0.04825093116350099},{"date":"2017-11-22","open":123.7004,"high":124.5792,"low":123.2731,"close":123.2731,"volume":362041,"unadjustedVolume":362041,"change":-0.980747,"changePercent":-0.789,"vwap":123.6612,"label":"Nov 22, 17","changeOverTime":0.03997654691250231},{"date":"2017-11-24","open":123.3217,"high":123.8752,"low":123.0255,"close":123.1178,"volume":158341,"unadjustedVolume":158341,"change":-0.155366,"changePercent":-0.126,"vwap":123.3356,"label":"Nov 24, 17","changeOverTime":0.03866637983034482},{"date":"2017-11-27","open":123.545,"high":124.1956,"low":123.0789,"close":123.545,"volume":349674,"unadjustedVolume":349674,"change":0.427257,"changePercent":0.347,"vwap":123.6979,"label":"Nov 27, 17","changeOverTime":0.042270393851579144},{"date":"2017-11-28","open":123.4479,"high":124.1762,"low":121.9234,"close":122.2244,"volume":660631,"unadjustedVolume":660631,"change":-1.3206,"changePercent":-1.069,"vwap":122.4675,"label":"Nov 28, 17","changeOverTime":0.031129333653915178},{"date":"2017-11-29","open":122.1564,"high":123.4382,"low":120.3309,"close":123.2925,"volume":695755,"unadjustedVolume":695755,"change":1.0681,"changePercent":0.874,"vwap":122.4087,"label":"Nov 29, 17","changeOverTime":0.04014021234324192},{"date":"2017-11-30","open":123.0789,"high":123.8072,"low":122.8653,"close":123.3799,"volume":1027537,"unadjustedVolume":1027537,"change":0.087394,"changePercent":0.071,"vwap":123.367,"label":"Nov 30, 17","changeOverTime":0.04087755041781095},{"date":"2017-12-01","open":123.8655,"high":125.3026,"low":123.2586,"close":124.9627,"volume":894809,"unadjustedVolume":894809,"change":1.5828,"changePercent":1.283,"vwap":124.575,"label":"Dec 1, 17","changeOverTime":0.054230624839181875},{"date":"2017-12-04","open":126.2057,"high":126.6815,"low":125.2735,"close":125.2929,"volume":837585,"unadjustedVolume":837585,"change":0.330151,"changePercent":0.264,"vwap":125.9432,"label":"Dec 4, 17","changeOverTime":0.05701631170671837},{"date":"2017-12-05","open":125.2638,"high":125.4677,"low":122.0593,"close":122.3701,"volume":1278545,"unadjustedVolume":1278545,"change":-2.9228,"changePercent":-2.333,"vwap":122.468,"label":"Dec 5, 17","changeOverTime":0.032358511656943756},{"date":"2017-12-06","open":122.7391,"high":123.3605,"low":122.0399,"close":123.176,"volume":635895,"unadjustedVolume":635895,"change":0.80596,"changePercent":0.659,"vwap":122.7974,"label":"Dec 6, 17","changeOverTime":0.03915737612256354},{"date":"2017-12-07","open":123.2634,"high":124.584,"low":122.7245,"close":124.4578,"volume":834960,"unadjustedVolume":834960,"change":1.2818,"changePercent":1.041,"vwap":124.2149,"label":"Dec 7, 17","changeOverTime":0.0499711054587484},{"date":"2017-12-08","open":125.0307,"high":126.361,"low":124.5063,"close":126.2348,"volume":596498,"unadjustedVolume":596498,"change":1.777,"changePercent":1.428,"vwap":125.7971,"label":"Dec 8, 17","changeOverTime":0.064962521459997},{"date":"2017-12-11","open":126.4581,"high":126.764,"low":125.8658,"close":126.4193,"volume":447908,"unadjustedVolume":447908,"change":0.184498,"changePercent":0.146,"vwap":126.2586,"label":"Dec 11, 17","changeOverTime":0.06651903032450479},{"date":"2017-12-12","open":126.3804,"high":127.905,"low":125.6133,"close":127.5942,"volume":788727,"unadjustedVolume":788727,"change":1.175,"changePercent":0.929,"vwap":127.3422,"label":"Dec 12, 17","changeOverTime":0.07643091251914005},{"date":"2017-12-13","open":127.3806,"high":128.3905,"low":127.2155,"close":127.3612,"volume":777805,"unadjustedVolume":777805,"change":-0.233049,"changePercent":-0.183,"vwap":127.6503,"label":"Dec 13, 17","changeOverTime":0.07446524007778328},{"date":"2017-12-14","open":128.1574,"high":128.6041,"low":127.3903,"close":128.07,"volume":609694,"unadjustedVolume":609694,"change":0.708857,"changePercent":0.557,"vwap":128.0961,"label":"Dec 14, 17","changeOverTime":0.08044493375346418},{"date":"2017-12-15","open":128.4196,"high":129.1479,"low":128.1089,"close":128.9925,"volume":1379873,"unadjustedVolume":1379873,"change":0.922485,"changePercent":0.72,"vwap":128.8708,"label":"Dec 15, 17","changeOverTime":0.0882274780760033},{"date":"2017-12-18","open":129.7111,"high":130.4102,"low":129.0702,"close":130.1481,"volume":512978,"unadjustedVolume":512978,"change":1.1555,"changePercent":0.896,"vwap":130.0334,"label":"Dec 18, 17","changeOverTime":0.09797653847613991},{"date":"2017-12-19","open":129.915,"high":130.4782,"low":127.3126,"close":127.7884,"volume":690049,"unadjustedVolume":690049,"change":-2.3596,"changePercent":-1.813,"vwap":128.1312,"label":"Dec 19, 17","changeOverTime":0.0780692540990176},{"date":"2017-12-20","open":127.7059,"high":128.2303,"low":124.9045,"close":124.9045,"volume":2323765,"unadjustedVolume":2323765,"change":-2.884,"changePercent":-2.257,"vwap":125.707,"label":"Dec 20, 17","changeOverTime":0.05373962854696316},{"date":"2017-12-21","open":125.2929,"high":125.6522,"low":124.4772,"close":125.0987,"volume":438439,"unadjustedVolume":438439,"change":0.194208,"changePercent":0.155,"vwap":125.0147,"label":"Dec 21, 17","changeOverTime":0.05537797012684071},{"date":"2017-12-22","open":125.0695,"high":126.1377,"low":124.9676,"close":125.7104,"volume":283465,"unadjustedVolume":283465,"change":0.611754,"changePercent":0.489,"vwap":125.7411,"label":"Dec 22, 17","changeOverTime":0.06053849301258295},{"date":"2017-12-26","open":125.8075,"high":126.8271,"low":125.4191,"close":126.6135,"volume":404586,"unadjustedVolume":404586,"change":0.903063,"changePercent":0.718,"vwap":126.4468,"label":"Dec 26, 17","changeOverTime":0.06815737190438234},{"date":"2017-12-27","open":127.1476,"high":127.8176,"low":126.8271,"close":127.4292,"volume":556625,"unadjustedVolume":556625,"change":0.815672,"changePercent":0.644,"vwap":127.4061,"label":"Dec 27, 17","changeOverTime":0.0750389127216127},{"date":"2017-12-28","open":127.8593,"high":128.0647,"low":126.9989,"close":127.7616,"volume":513598,"unadjustedVolume":513598,"change":0.332408,"changePercent":0.261,"vwap":127.5739,"label":"Dec 28, 17","changeOverTime":0.07784315958644958},{"date":"2017-12-29","open":127.8202,"high":128.1527,"low":127.4389,"close":127.6834,"volume":373468,"unadjustedVolume":373468,"change":-0.078219,"changePercent":-0.061,"vwap":127.7925,"label":"Dec 29, 17","changeOverTime":0.07718343604604577},{"date":"2018-01-02","open":128.0842,"high":128.0842,"low":126.7936,"close":127.038,"volume":540403,"unadjustedVolume":540403,"change":-0.645311,"changePercent":-0.505,"vwap":127.3234,"label":"Jan 2, 18","changeOverTime":0.07173860774711162},{"date":"2018-01-03","open":127.2531,"high":127.3705,"low":126.0505,"close":126.4416,"volume":469967,"unadjustedVolume":469967,"change":-0.596422,"changePercent":-0.469,"vwap":126.5069,"label":"Jan 3, 18","changeOverTime":0.0667071612062311},{"date":"2018-01-04","open":122.5698,"high":125.5519,"low":122.4133,"close":123.919,"volume":2719641,"unadjustedVolume":2719641,"change":-2.5226,"changePercent":-1.995,"vwap":124.0754,"label":"Jan 4, 18","changeOverTime":0.04542559339264099},{"date":"2018-01-05","open":124.0755,"high":125.0337,"low":123.9093,"close":124.1733,"volume":1075575,"unadjustedVolume":1075575,"change":0.254213,"changePercent":0.205,"vwap":124.2955,"label":"Jan 5, 18","changeOverTime":0.04757096035331489},{"date":"2018-01-08","open":124.535,"high":125.327,"low":124.007,"close":124.447,"volume":918994,"unadjustedVolume":918994,"change":0.273768,"changePercent":0.22,"vwap":124.4779,"label":"Jan 8, 18","changeOverTime":0.0498799927447284},{"date":"2018-01-09","open":124.4079,"high":124.4764,"low":123.2737,"close":123.5084,"volume":866146,"unadjustedVolume":866146,"change":-0.938633,"changePercent":-0.754,"vwap":123.715,"label":"Jan 9, 18","changeOverTime":0.0419616229874003},{"date":"2018-01-10","open":123.4791,"high":123.4791,"low":121.7084,"close":122.4915,"volume":1087388,"unadjustedVolume":1087388,"change":-1.0169,"changePercent":-0.823,"vwap":122.3725,"label":"Jan 10, 18","changeOverTime":0.03338268605342755},{"date":"2018-01-11","open":123.1369,"high":123.7235,"low":122.1396,"close":122.3155,"volume":840115,"unadjustedVolume":840115,"change":-0.175993,"changePercent":-0.144,"vwap":122.6447,"label":"Jan 11, 18","changeOverTime":0.031897886269398414},{"date":"2018-01-12","open":122.3155,"high":122.5698,"low":120.8294,"close":122.3351,"volume":1622004,"unadjustedVolume":1622004,"change":0.019555,"changePercent":0.016,"vwap":122.137,"label":"Jan 12, 18","changeOverTime":0.03206323897261981},{"date":"2018-01-16","open":122.4915,"high":123.7822,"low":122.0613,"close":122.1493,"volume":558247,"unadjustedVolume":558247,"change":-0.185772,"changePercent":-0.152,"vwap":122.5725,"label":"Jan 16, 18","changeOverTime":0.030495762836979974},{"date":"2018-01-17","open":122.6675,"high":123.3324,"low":121.4845,"close":122.7066,"volume":1227147,"unadjustedVolume":1227147,"change":0.557314,"changePercent":0.456,"vwap":122.1508,"label":"Jan 17, 18","changeOverTime":0.03519734760765853},{"date":"2018-01-18","open":122.6773,"high":123.0977,"low":121.7778,"close":122.5893,"volume":651543,"unadjustedVolume":651543,"change":-0.11733,"changePercent":-0.096,"vwap":122.5312,"label":"Jan 18, 18","changeOverTime":0.03420776229705276},{"date":"2018-01-19","open":122.8826,"high":123.3031,"low":122.3449,"close":123.1466,"volume":616812,"unadjustedVolume":616812,"change":0.557313,"changePercent":0.455,"vwap":122.8745,"label":"Jan 19, 18","changeOverTime":0.03890934706773144},{"date":"2018-01-22","open":123.1564,"high":124.4861,"low":122.5649,"close":124.4861,"volume":738629,"unadjustedVolume":738629,"change":1.3395,"changePercent":1.088,"vwap":124.2259,"label":"Jan 22, 18","changeOverTime":0.05020985451493025},{"date":"2018-01-23","open":124.4666,"high":125.0239,"low":123.9777,"close":124.8283,"volume":524049,"unadjustedVolume":524049,"change":0.342209,"changePercent":0.275,"vwap":124.5654,"label":"Jan 23, 18","changeOverTime":0.053096777731377824},{"date":"2018-01-24","open":124.5741,"high":125.0826,"low":123.0977,"close":123.8017,"volume":562129,"unadjustedVolume":562129,"change":-1.0266,"changePercent":-0.822,"vwap":123.782,"label":"Jan 24, 18","changeOverTime":0.04443600808203521},{"date":"2018-01-25","open":123.6844,"high":124.2808,"low":123.2151,"close":124.1439,"volume":425465,"unadjustedVolume":425465,"change":0.34221,"changePercent":0.276,"vwap":123.8548,"label":"Jan 25, 18","changeOverTime":0.04732293129848279},{"date":"2018-01-26","open":124.4275,"high":124.5741,"low":122.7555,"close":123.6551,"volume":365743,"unadjustedVolume":365743,"change":-0.488871,"changePercent":-0.394,"vwap":123.4338,"label":"Jan 26, 18","changeOverTime":0.043199237352838295},{"date":"2018-01-29","open":123.4008,"high":123.4008,"low":121.4062,"close":121.7387,"volume":570715,"unadjustedVolume":570715,"change":-1.9164,"changePercent":-1.55,"vwap":121.8986,"label":"Jan 29, 18","changeOverTime":0.027031792431739286},{"date":"2018-01-30","open":122.6578,"high":123.3128,"low":120.5947,"close":122.9511,"volume":727398,"unadjustedVolume":727398,"change":1.2124,"changePercent":0.996,"vwap":122.4363,"label":"Jan 30, 18","changeOverTime":0.03726003821672174},{"date":"2018-01-31","open":123.0684,"high":126.8132,"low":123.0684,"close":126.8132,"volume":926192,"unadjustedVolume":926192,"change":3.8621,"changePercent":3.141,"vwap":125.878,"label":"Jan 31, 18","changeOverTime":0.06984211347751078},{"date":"2018-02-01","open":126.8132,"high":127.5025,"low":122.3644,"close":122.4329,"volume":848941,"unadjustedVolume":848941,"change":-4.3803,"changePercent":-3.454,"vwap":123.317,"label":"Feb 1, 18","changeOverTime":0.03288831521624514},{"date":"2018-02-02","open":121.6898,"high":122.8817,"low":119.9494,"close":121.3574,"volume":672220,"unadjustedVolume":672220,"change":-1.0755,"changePercent":-0.878,"vwap":121.4571,"label":"Feb 2, 18","changeOverTime":0.023815007445089863},{"date":"2018-02-05","open":121.1814,"high":121.6605,"low":117.0162,"close":117.2117,"volume":852131,"unadjustedVolume":852131,"change":-4.1456,"changePercent":-3.416,"vwap":118.7686,"label":"Feb 5, 18","changeOverTime":-0.011159620194964344},{"date":"2018-02-06","open":116.4589,"high":117.6126,"low":113.8581,"close":115.9016,"volume":1051676,"unadjustedVolume":1051676,"change":-1.3102,"changePercent":-1.118,"vwap":115.7361,"label":"Feb 6, 18","changeOverTime":-0.02221209858733105},{"date":"2018-02-07","open":115.5691,"high":118.2188,"low":115.1487,"close":116.3122,"volume":963488,"unadjustedVolume":963488,"change":0.410652,"changePercent":0.354,"vwap":117.1118,"label":"Feb 7, 18","changeOverTime":-0.018748128182090363},{"date":"2018-02-08","open":115.9504,"high":117.6957,"low":111.4626,"close":112.0297,"volume":1065853,"unadjustedVolume":1065853,"change":-4.2825,"changePercent":-3.682,"vwap":114.5239,"label":"Feb 8, 18","changeOverTime":-0.054876850199730785},{"date":"2018-02-09","open":113.2519,"high":116.2633,"low":112.0395,"close":115.4127,"volume":958186,"unadjustedVolume":958186,"change":3.383,"changePercent":3.02,"vwap":114.0753,"label":"Feb 9, 18","changeOverTime":-0.026336636169216502},{"date":"2018-02-12","open":116.1656,"high":117.0162,"low":112.7923,"close":116.4295,"volume":920817,"unadjustedVolume":920817,"change":1.0169,"changePercent":0.881,"vwap":115.6548,"label":"Feb 12, 18","changeOverTime":-0.017758542871484588},{"date":"2018-02-13","open":116.2047,"high":118.1699,"low":115.2367,"close":117.6811,"volume":792487,"unadjustedVolume":792487,"change":1.2515,"changePercent":1.075,"vwap":116.8858,"label":"Feb 13, 18","changeOverTime":-0.007199591680059338},{"date":"2018-02-14","open":116.6838,"high":117.769,"low":115.2758,"close":117.3877,"volume":498772,"unadjustedVolume":498772,"change":-0.293323,"changePercent":-0.249,"vwap":116.953,"label":"Feb 14, 18","changeOverTime":-0.009674820410935205},{"date":"2018-02-15","open":117.8864,"high":119.0597,"low":117.4855,"close":119.0303,"volume":559750,"unadjustedVolume":559750,"change":1.6426,"changePercent":1.399,"vwap":118.497,"label":"Feb 15, 18","changeOverTime":0.004182748482509335},{"date":"2018-02-16","open":119.1868,"high":120.4383,"low":119.0206,"close":119.9299,"volume":575957,"unadjustedVolume":575957,"change":0.899523,"changePercent":0.756,"vwap":119.8385,"label":"Feb 16, 18","changeOverTime":0.011772100105876428},{"date":"2018-02-20","open":119.5583,"high":121.1814,"low":118.1113,"close":118.2775,"volume":774519,"unadjustedVolume":774519,"change":-1.6524,"changePercent":-1.378,"vwap":119.0087,"label":"Feb 20, 18","changeOverTime":-0.002168145139178811},{"date":"2018-02-21","open":117.8864,"high":118.5219,"low":115.6865,"close":115.794,"volume":680856,"unadjustedVolume":680856,"change":-2.4835,"changePercent":-2.1,"vwap":116.4869,"label":"Feb 21, 18","changeOverTime":-0.02311985118256708},{"date":"2018-02-22","open":116.4198,"high":118.1113,"low":116.3904,"close":117.2997,"volume":515925,"unadjustedVolume":515925,"change":1.5057,"changePercent":1.3,"vwap":117.4119,"label":"Feb 22, 18","changeOverTime":-0.010417220302949714},{"date":"2018-02-23","open":117.8179,"high":119.9396,"low":117.5246,"close":119.9201,"volume":273958,"unadjustedVolume":273958,"change":2.6203,"changePercent":2.234,"vwap":119.1324,"label":"Feb 23, 18","changeOverTime":0.011689423754265727},{"date":"2018-02-26","open":120.4285,"high":120.6534,"low":118.9814,"close":120.6338,"volume":308953,"unadjustedVolume":308953,"change":0.713752,"changePercent":0.595,"vwap":120.141,"label":"Feb 26, 18","changeOverTime":0.017710455605751907},{"date":"2018-02-27","open":120.409,"high":120.8049,"low":117.769,"close":118.1504,"volume":543491,"unadjustedVolume":543491,"change":-2.4835,"changePercent":-2.059,"vwap":118.6554,"label":"Feb 27, 18","changeOverTime":-0.0032404068013952856},{"date":"2018-02-28","open":118.6001,"high":120.5067,"low":118.5806,"close":118.6099,"volume":848276,"unadjustedVolume":848276,"change":0.45954,"changePercent":0.389,"vwap":119.1187,"label":"Feb 28, 18","changeOverTime":0.000636101725657947},{"date":"2018-03-01","open":118.121,"high":120.3601,"low":117.5442,"close":119.8712,"volume":653889,"unadjustedVolume":653889,"change":1.2613,"changePercent":1.063,"vwap":119.5679,"label":"Mar 1, 18","changeOverTime":0.011276885632453063},{"date":"2018-03-02","open":119.5192,"high":120.9467,"low":118.4339,"close":120.7414,"volume":512203,"unadjustedVolume":512203,"change":0.870191,"changePercent":0.726,"vwap":119.9285,"label":"Mar 2, 18","changeOverTime":0.01861820820098794},{"date":"2018-03-05","open":120.0374,"high":123.0244,"low":119.793,"close":122.208,"volume":618839,"unadjustedVolume":618839,"change":1.4666,"changePercent":1.215,"vwap":122.1049,"label":"Mar 5, 18","changeOverTime":0.030990977310403338},{"date":"2018-03-06","open":122.1298,"high":122.9609,"low":120.4383,"close":122.6186,"volume":589452,"unadjustedVolume":589452,"change":0.410651,"changePercent":0.336,"vwap":121.9034,"label":"Mar 6, 18","changeOverTime":0.03445494771564402},{"date":"2018-03-07","open":122.1787,"high":123.4302,"low":121.9733,"close":122.9804,"volume":470484,"unadjustedVolume":470484,"change":0.361765,"changePercent":0.295,"vwap":122.9433,"label":"Mar 7, 18","changeOverTime":0.037507223635313},{"date":"2018-03-08","open":123.352,"high":123.5866,"low":122.1004,"close":122.8435,"volume":388090,"unadjustedVolume":388090,"change":-0.136885,"changePercent":-0.111,"vwap":122.66,"label":"Mar 8, 18","changeOverTime":0.036352285621485826},{"date":"2018-03-09","open":123.4595,"high":123.6062,"low":121.7387,"close":123.176,"volume":471960,"unadjustedVolume":471960,"change":0.332434,"changePercent":0.271,"vwap":122.7675,"label":"Mar 9, 18","changeOverTime":0.03915737612256354},{"date":"2018-03-12","open":123.1466,"high":123.7333,"low":122.6773,"close":123.2249,"volume":714545,"unadjustedVolume":714545,"change":0.048887,"changePercent":0.04,"vwap":123.2248,"label":"Mar 12, 18","changeOverTime":0.039569914244376204},{"date":"2018-03-13","open":123.4497,"high":124.6621,"low":122.8924,"close":123.7431,"volume":439494,"unadjustedVolume":439494,"change":0.518202,"changePercent":0.421,"vwap":123.9401,"label":"Mar 13, 18","changeOverTime":0.0439416372448528},{"date":"2018-03-14","open":124.0168,"high":124.4861,"low":122.6675,"close":123.5866,"volume":586726,"unadjustedVolume":586726,"change":-0.156438,"changePercent":-0.126,"vwap":123.7582,"label":"Mar 14, 18","changeOverTime":0.04262134652780423},{"date":"2018-03-15","open":123.7724,"high":124.6524,"low":123.4888,"close":124.2515,"volume":436725,"unadjustedVolume":436725,"change":0.664865,"changePercent":0.538,"vwap":124.1606,"label":"Mar 15, 18","changeOverTime":0.0482306838937187},{"date":"2018-03-16","open":123.8799,"high":125.7083,"low":123.6062,"close":125.3857,"volume":1269042,"unadjustedVolume":1269042,"change":1.1342,"changePercent":0.913,"vwap":125.1463,"label":"Mar 16, 18","changeOverTime":0.05779920613829734},{"date":"2018-03-19","open":125.3954,"high":125.5959,"low":123.6844,"close":124.4079,"volume":490267,"unadjustedVolume":490267,"change":-0.977743,"changePercent":-0.78,"vwap":124.5012,"label":"Mar 19, 18","changeOverTime":0.049550130974526437},{"date":"2018-03-20","open":124.5252,"high":125.3563,"low":123.1075,"close":123.5768,"volume":621297,"unadjustedVolume":621297,"change":-0.831081,"changePercent":-0.668,"vwap":123.6191,"label":"Mar 20, 18","changeOverTime":0.042538670176193526},{"date":"2018-03-21","open":123.5866,"high":123.6111,"low":121.6751,"close":122.5698,"volume":364994,"unadjustedVolume":364994,"change":-1.0071,"changePercent":-0.815,"vwap":122.6836,"label":"Mar 21, 18","changeOverTime":0.03404325323007231},{"date":"2018-03-22","open":122.0027,"high":123.0195,"low":119.3237,"close":119.4605,"volume":1061627,"unadjustedVolume":1061627,"change":-3.1092,"changePercent":-2.537,"vwap":121.0659,"label":"Mar 22, 18","changeOverTime":0.007812071590971421},{"date":"2018-03-23","open":119.3432,"high":119.7441,"low":115.4323,"close":115.9602,"volume":968974,"unadjustedVolume":968974,"change":-3.5003,"changePercent":-2.93,"vwap":117.054,"label":"Mar 23, 18","changeOverTime":-0.02171772775014864},{"date":"2018-03-26","open":117.0749,"high":118.649,"low":116.1167,"close":118.4144,"volume":764855,"unadjustedVolume":764855,"change":2.4541,"changePercent":2.116,"vwap":117.4212,"label":"Mar 26, 18","changeOverTime":-0.0010132071253516374},{"date":"2018-03-27","open":118.9032,"high":121.3671,"low":116.9282,"close":119.265,"volume":981063,"unadjustedVolume":981063,"change":0.850637,"changePercent":0.718,"vwap":119.622,"label":"Mar 27, 18","changeOverTime":0.006162762739961837},{"date":"2018-03-28","open":119.9545,"high":121.9737,"low":119.9052,"close":121.7078,"volume":441217,"unadjustedVolume":441217,"change":2.4428,"changePercent":2.048,"vwap":121.5048,"label":"Mar 28, 18","changeOverTime":0.02677110883329336},{"date":"2018-03-29","open":121.9245,"high":123.1951,"low":121.3828,"close":123.0178,"volume":590892,"unadjustedVolume":590892,"change":1.3101,"changePercent":1.076,"vwap":122.7618,"label":"Mar 29, 18","changeOverTime":0.03782274358941912},{"date":"2018-04-02","open":122.9686,"high":123.2444,"low":118.7725,"close":119.9643,"volume":718255,"unadjustedVolume":718255,"change":-3.0535,"changePercent":-2.482,"vwap":119.8616,"label":"Apr 2, 18","changeOverTime":0.01206231097275477},{"date":"2018-04-03","open":120.2007,"high":121.4123,"low":119.3438,"close":120.9887,"volume":601440,"unadjustedVolume":601440,"change":1.0244,"changePercent":0.854,"vwap":120.7891,"label":"Apr 3, 18","changeOverTime":0.020704520624797003},{"date":"2018-04-04","open":120.4568,"high":122.6829,"low":119.7476,"close":122.5647,"volume":509863,"unadjustedVolume":509863,"change":1.576,"changePercent":1.303,"vwap":121.8044,"label":"Apr 4, 18","changeOverTime":0.03400022778178512},{"date":"2018-04-05","open":122.8405,"high":122.8405,"low":120.7179,"close":121.3236,"volume":543111,"unadjustedVolume":543111,"change":-1.2411,"changePercent":-1.013,"vwap":121.2342,"label":"Apr 5, 18","changeOverTime":0.023529858395657},{"date":"2018-04-06","open":121.6881,"high":121.9048,"low":119.9052,"close":120.2401,"volume":456275,"unadjustedVolume":456275,"change":-1.0835,"changePercent":-0.893,"vwap":120.8022,"label":"Apr 6, 18","changeOverTime":0.01438905972522771},{"date":"2018-04-09","open":120.3386,"high":120.9099,"low":119.3438,"close":119.5211,"volume":627538,"unadjustedVolume":627538,"change":-0.719056,"changePercent":-0.598,"vwap":119.9087,"label":"Apr 9, 18","changeOverTime":0.008323315152972426},{"date":"2018-04-10","open":120.1909,"high":120.2894,"low":119.2945,"close":119.8757,"volume":557856,"unadjustedVolume":557856,"change":0.354603,"changePercent":0.297,"vwap":119.8998,"label":"Apr 10, 18","changeOverTime":0.011314849263294659},{"date":"2018-04-11","open":119.5112,"high":120.1909,"low":119.265,"close":119.2748,"volume":533336,"unadjustedVolume":533336,"change":-0.600856,"changePercent":-0.501,"vwap":119.6128,"label":"Apr 11, 18","changeOverTime":0.006245439091572537},{"date":"2018-04-12","open":119.5309,"high":119.5309,"low":118.2997,"close":118.9793,"volume":647605,"unadjustedVolume":647605,"change":-0.295502,"changePercent":-0.248,"vwap":118.8499,"label":"Apr 12, 18","changeOverTime":0.0037524939996372427},{"date":"2018-04-13","open":119.2551,"high":120.2992,"low":118.7232,"close":120.2204,"volume":392354,"unadjustedVolume":392354,"change":1.2411,"changePercent":1.043,"vwap":119.9048,"label":"Apr 13, 18","changeOverTime":0.014222863385765358},{"date":"2018-04-16","open":120.575,"high":121.6388,"low":120.1268,"close":121.0872,"volume":361023,"unadjustedVolume":361023,"change":0.866809,"changePercent":0.721,"vwap":121.067,"label":"Apr 16, 18","changeOverTime":0.021535502322108768},{"date":"2018-04-17","open":121.3827,"high":123.5191,"low":120.841,"close":122.3874,"volume":454577,"unadjustedVolume":454577,"change":1.3002,"changePercent":1.074,"vwap":122.677,"label":"Apr 17, 18","changeOverTime":0.03250446072662394},{"date":"2018-04-18","open":122.5746,"high":123.4217,"low":122.2889,"close":122.4465,"volume":453419,"unadjustedVolume":453419,"change":0.059101,"changePercent":0.048,"vwap":122.7679,"label":"Apr 18, 18","changeOverTime":0.033003049745011},{"date":"2018-04-19","open":122.1313,"high":122.1313,"low":119.3241,"close":120.2303,"volume":356197,"unadjustedVolume":356197,"change":-2.2163,"changePercent":-1.81,"vwap":120.2073,"label":"Apr 19, 18","changeOverTime":0.014306383373617011},{"date":"2018-04-20","open":120.4962,"high":120.8508,"low":119.3339,"close":119.4817,"volume":527388,"unadjustedVolume":527388,"change":-0.748607,"changePercent":-0.623,"vwap":119.6838,"label":"Apr 20, 18","changeOverTime":0.007990922474047719},{"date":"2018-04-23","open":119.5605,"high":120.2992,"low":119.0384,"close":119.5506,"volume":320264,"unadjustedVolume":320264,"change":0.06895,"changePercent":0.058,"vwap":119.4463,"label":"Apr 23, 18","changeOverTime":0.008572187844045478},{"date":"2018-04-24","open":119.9151,"high":120.5061,"low":119.0089,"close":119.8363,"volume":420210,"unadjustedVolume":420210,"change":0.285652,"changePercent":0.239,"vwap":119.7085,"label":"Apr 24, 18","changeOverTime":0.010982456584369953},{"date":"2018-04-25","open":119.5703,"high":120.3485,"low":119.0187,"close":120.0333,"volume":411352,"unadjustedVolume":411352,"change":0.197002,"changePercent":0.164,"vwap":119.838,"label":"Apr 25, 18","changeOverTime":0.012644419978993482},{"date":"2018-04-26","open":120.2894,"high":122.348,"low":120.0333,"close":121.4615,"volume":457644,"unadjustedVolume":457644,"change":1.4283,"changePercent":1.19,"vwap":121.576,"label":"Apr 26, 18","changeOverTime":0.024693232771893472},{"date":"2018-04-27","open":121.4123,"high":123.471,"low":121.363,"close":122.9883,"volume":393181,"unadjustedVolume":393181,"change":1.5268,"changePercent":1.257,"vwap":122.8081,"label":"Apr 27, 18","changeOverTime":0.03757387089834606},{"date":"2018-04-30","open":123.402,"high":123.402,"low":122.22,"close":122.7026,"volume":657254,"unadjustedVolume":657254,"change":-0.285652,"changePercent":-0.232,"vwap":122.7389,"label":"Apr 30, 18","changeOverTime":0.03516360215802159},{"date":"2018-05-01","open":123.7369,"high":128.5733,"low":122.7814,"close":127.4701,"volume":1224242,"unadjustedVolume":1224242,"change":4.7674,"changePercent":3.885,"vwap":126.7388,"label":"May 1, 18","changeOverTime":0.07538395994415135},{"date":"2018-05-02","open":126.82,"high":126.9973,"low":124.4658,"close":125.6577,"volume":1060541,"unadjustedVolume":1060541,"change":-1.8124,"changePercent":-1.422,"vwap":126.0782,"label":"May 2, 18","changeOverTime":0.06009389671361512},{"date":"2018-05-03","open":125.3031,"high":125.7069,"low":124.1605,"close":124.8303,"volume":721397,"unadjustedVolume":721397,"change":-0.827407,"changePercent":-0.658,"vwap":124.8134,"label":"May 3, 18","changeOverTime":0.0531136504561963},{"date":"2018-05-04","open":124.8401,"high":126.9677,"low":124.259,"close":126.623,"volume":455214,"unadjustedVolume":455214,"change":1.7927,"changePercent":1.436,"vwap":126.0663,"label":"May 4, 18","changeOverTime":0.0682375173472703},{"date":"2018-05-07","open":127.2435,"high":128.1103,"low":126.4161,"close":127.8542,"volume":454862,"unadjustedVolume":454862,"change":1.2313,"changePercent":0.972,"vwap":127.4572,"label":"May 7, 18","changeOverTime":0.07862436674554675},{"date":"2018-05-08","open":127.1352,"high":127.2928,"low":125.9827,"close":126.4161,"volume":621579,"unadjustedVolume":621579,"change":-1.4381,"changePercent":-1.125,"vwap":126.5558,"label":"May 8, 18","changeOverTime":0.06649203396479511},{"date":"2018-05-09","open":126.7116,"high":127.9626,"low":126.3324,"close":127.8936,"volume":316640,"unadjustedVolume":316640,"change":1.4775,"changePercent":1.169,"vwap":127.5476,"label":"May 9, 18","changeOverTime":0.07895675942447146},{"date":"2018-05-10","open":128.0512,"high":128.5635,"low":126.8889,"close":127.4208,"volume":446638,"unadjustedVolume":446638,"change":-0.472804,"changePercent":-0.37,"vwap":127.5571,"label":"May 10, 18","changeOverTime":0.074968047277375},{"date":"2018-05-11","open":127.6572,"high":128.0414,"low":126.032,"close":126.1206,"volume":664458,"unadjustedVolume":664458,"change":-1.3002,"changePercent":-1.02,"vwap":126.6234,"label":"May 11, 18","changeOverTime":0.06399908887285982},{"date":"2018-05-14","open":126.2684,"high":126.4506,"low":124.4461,"close":125.0765,"volume":609501,"unadjustedVolume":609501,"change":-1.0441,"changePercent":-0.828,"vwap":125.0879,"label":"May 14, 18","changeOverTime":0.05519068288135524},{"date":"2018-05-15","open":124.6727,"high":124.6727,"low":121.9442,"close":122.2889,"volume":639897,"unadjustedVolume":639897,"change":-2.7876,"changePercent":-2.229,"vwap":122.7072,"label":"May 15, 18","changeOverTime":0.031673479029312175},{"date":"2018-05-16","open":122.5844,"high":122.8208,"low":120.5849,"close":120.8016,"volume":844802,"unadjustedVolume":844802,"change":-1.4874,"changePercent":-1.216,"vwap":121.0895,"label":"May 16, 18","changeOverTime":0.019126077218025127},{"date":"2018-05-17","open":120.8016,"high":121.2547,"low":119.8274,"close":119.9249,"volume":516196,"unadjustedVolume":516196,"change":-0.876658,"changePercent":-0.726,"vwap":120.1672,"label":"May 17, 18","changeOverTime":0.011729918293830063},{"date":"2018-05-18","open":119.8855,"high":120.1022,"low":118.7774,"close":119.4029,"volume":808941,"unadjustedVolume":808941,"change":-0.522055,"changePercent":-0.435,"vwap":119.3224,"label":"May 18, 18","changeOverTime":0.007326137116198308},{"date":"2018-05-21","open":120.2106,"high":121.9442,"low":118.9399,"close":121.5797,"volume":706113,"unadjustedVolume":706113,"change":2.1769,"changePercent":1.823,"vwap":120.9131,"label":"May 21, 18","changeOverTime":0.02569041080866759},{"date":"2018-05-22","open":121.4615,"high":122.151,"low":121.0084,"close":121.9442,"volume":643024,"unadjustedVolume":643024,"change":0.364453,"changePercent":0.3,"vwap":121.749,"label":"May 22, 18","changeOverTime":0.028765464906841478},{"date":"2018-05-23","open":121.9245,"high":124.387,"low":121.5699,"close":123.9241,"volume":504062,"unadjustedVolume":504062,"change":1.9799,"changePercent":1.624,"vwap":123.8083,"label":"May 23, 18","changeOverTime":0.045468618840928184},{"date":"2018-05-24","open":124.0915,"high":124.0915,"low":121.1168,"close":121.954,"volume":782744,"unadjustedVolume":782744,"change":-1.97,"changePercent":-1.59,"vwap":122.067,"label":"May 24, 18","changeOverTime":0.028848141258452177},{"date":"2018-05-25","open":122.0525,"high":122.4367,"low":121.4418,"close":121.6487,"volume":612747,"unadjustedVolume":612747,"change":-0.305353,"changePercent":-0.25,"vwap":121.7209,"label":"May 25, 18","changeOverTime":0.026272519814906303},{"date":"2018-05-29","open":121.2547,"high":122.5844,"low":120.841,"close":122.5253,"volume":1026753,"unadjustedVolume":1026753,"change":0.876658,"changePercent":0.721,"vwap":121.8488,"label":"May 29, 18","changeOverTime":0.033667835102860415},{"date":"2018-05-30","open":122.7519,"high":124.3181,"low":122.1806,"close":123.4513,"volume":1178735,"unadjustedVolume":1178735,"change":0.925909,"changePercent":0.756,"vwap":123.4484,"label":"May 30, 18","changeOverTime":0.041479906693831836},{"date":"2018-05-31","open":122.7814,"high":123.6187,"low":122.4958,"close":123.0474,"volume":1356449,"unadjustedVolume":1356449,"change":-0.403854,"changePercent":-0.327,"vwap":123.1612,"label":"May 31, 18","changeOverTime":0.03807245991673312},{"date":"2018-06-01","open":123.3626,"high":123.8847,"low":122.3382,"close":123.6975,"volume":905487,"unadjustedVolume":905487,"change":0.650106,"changePercent":0.528,"vwap":123.3579,"label":"Jun 1, 18","changeOverTime":0.043556939118990765},{"date":"2018-06-04","open":124.1506,"high":125.436,"low":123.8748,"close":125.3031,"volume":549155,"unadjustedVolume":549155,"change":1.6056,"changePercent":1.298,"vwap":124.7488,"label":"Jun 4, 18","changeOverTime":0.05710236260329277},{"date":"2018-06-05","open":125.5592,"high":126.1403,"low":124.3181,"close":124.7121,"volume":591835,"unadjustedVolume":591835,"change":-0.591006,"changePercent":-0.472,"vwap":124.9207,"label":"Jun 5, 18","changeOverTime":0.0521164724194223},{"date":"2018-06-06","open":124.2787,"high":124.8106,"low":123.7369,"close":124.4264,"volume":770034,"unadjustedVolume":770034,"change":-0.285652,"changePercent":-0.229,"vwap":124.324,"label":"Jun 6, 18","changeOverTime":0.049706203679097706},{"date":"2018-06-07","open":124.9386,"high":124.978,"low":123.402,"close":124.4461,"volume":563381,"unadjustedVolume":563381,"change":0.0197,"changePercent":0.016,"vwap":124.3437,"label":"Jun 7, 18","changeOverTime":0.04987240001856006},{"date":"2018-06-08","open":124.3378,"high":125.6084,"low":123.8059,"close":125.2834,"volume":598444,"unadjustedVolume":598444,"change":0.837257,"changePercent":0.673,"vwap":125.1565,"label":"Jun 8, 18","changeOverTime":0.05693616626383042},{"date":"2018-06-11","open":125.4016,"high":125.4016,"low":122.8011,"close":123.3922,"volume":861208,"unadjustedVolume":861208,"change":-1.8912,"changePercent":-1.51,"vwap":123.5062,"label":"Jun 11, 18","changeOverTime":0.04098131767544477},{"date":"2018-06-12","open":123.136,"high":125.2932,"low":123.136,"close":124.9189,"volume":608612,"unadjustedVolume":608612,"change":1.5268,"changePercent":1.237,"vwap":124.7253,"label":"Jun 12, 18","changeOverTime":0.05386111216565641},{"date":"2018-06-13","open":124.8894,"high":125.4114,"low":123.1262,"close":123.8157,"volume":877033,"unadjustedVolume":877033,"change":-1.1032,"changePercent":-0.883,"vwap":123.9068,"label":"Jun 13, 18","changeOverTime":0.044554117155764884},{"date":"2018-06-14","open":124.1211,"high":126.2881,"low":123.6187,"close":125.7463,"volume":599867,"unadjustedVolume":599867,"change":1.9306,"changePercent":1.559,"vwap":125.5609,"label":"Jun 14, 18","changeOverTime":0.06084135842307523},{"date":"2018-06-15","open":125.9926,"high":126.6821,"low":125.5198,"close":125.9236,"volume":1465053,"unadjustedVolume":1465053,"change":0.177302,"changePercent":0.141,"vwap":126.0885,"label":"Jun 15, 18","changeOverTime":0.06233712547823629},{"date":"2018-06-18","open":125.2144,"high":125.9532,"low":123.3331,"close":124.5052,"volume":778516,"unadjustedVolume":778516,"change":-1.4184,"changePercent":-1.126,"vwap":124.5303,"label":"Jun 18, 18","changeOverTime":0.05037098903694712},{"date":"2018-06-19","open":124.0915,"high":125.0283,"low":123.8157,"close":124.4658,"volume":759878,"unadjustedVolume":759878,"change":-0.039401,"changePercent":-0.032,"vwap":124.4113,"label":"Jun 19, 18","changeOverTime":0.050038596358022415},{"date":"2018-06-20","open":124.2491,"high":125.3129,"low":123.8059,"close":124.7022,"volume":715742,"unadjustedVolume":715742,"change":0.236402,"changePercent":0.19,"vwap":124.6738,"label":"Jun 20, 18","changeOverTime":0.05203295243157065},{"date":"2018-06-21","open":124.7909,"high":124.8795,"low":123.5793,"close":124.5151,"volume":682094,"unadjustedVolume":682094,"change":-0.187152,"changePercent":-0.15,"vwap":124.3088,"label":"Jun 21, 18","changeOverTime":0.05045450902479877},{"date":"2018-06-22","open":125.0864,"high":125.4705,"low":124.1802,"close":125.175,"volume":1308666,"unadjustedVolume":1308666,"change":0.659957,"changePercent":0.53,"vwap":125.1481,"label":"Jun 22, 18","changeOverTime":0.056021664578666995},{"date":"2018-06-25","open":125.4016,"high":125.4016,"low":123.3922,"close":124.0521,"volume":885664,"unadjustedVolume":885664,"change":-1.1229,"changePercent":-0.897,"vwap":123.9805,"label":"Jun 25, 18","changeOverTime":0.046548473229313},{"date":"2018-06-26","open":124.2984,"high":124.5446,"low":123.7172,"close":123.7172,"volume":585461,"unadjustedVolume":585461,"change":-0.334904,"changePercent":-0.27,"vwap":124.0609,"label":"Jun 26, 18","changeOverTime":0.04372313545845312},{"date":"2018-06-27","open":124.0127,"high":124.259,"low":122.9193,"close":122.9489,"volume":714926,"unadjustedVolume":714926,"change":-0.768307,"changePercent":-0.621,"vwap":123.4214,"label":"Jun 27, 18","changeOverTime":0.03724147821942136},{"date":"2018-06-28","open":123.2169,"high":125.549,"low":123.1375,"close":125.3803,"volume":692737,"unadjustedVolume":692737,"change":2.4314,"changePercent":1.978,"vwap":124.4911,"label":"Jun 28, 18","changeOverTime":0.0577536497812874},{"date":"2018-06-29","open":125.0826,"high":126.601,"low":124.0902,"close":125.2116,"volume":945812,"unadjustedVolume":945812,"change":-0.168708,"changePercent":-0.135,"vwap":125.3639,"label":"Jun 29, 18","changeOverTime":0.05633043544284584},{"date":"2018-07-02","open":124.9437,"high":125.549,"low":122.5123,"close":124.7253,"volume":542723,"unadjustedVolume":542723,"change":-0.486278,"changePercent":-0.388,"vwap":124.1999,"label":"Jul 2, 18","changeOverTime":0.05222783240322446},{"date":"2018-07-03","open":124.7948,"high":126.5514,"low":124.3581,"close":125.688,"volume":319594,"unadjustedVolume":319594,"change":0.962632,"changePercent":0.772,"vwap":125.7317,"label":"Jul 3, 18","changeOverTime":0.06034951849461556},{"date":"2018-07-05","open":125.8269,"high":126.8392,"low":125.3307,"close":126.6804,"volume":824957,"unadjustedVolume":824957,"change":0.992404,"changePercent":0.79,"vwap":126.231,"label":"Jul 5, 18","changeOverTime":0.06872176454956162},{"date":"2018-07-06","open":126.9285,"high":127.7323,"low":126.338,"close":126.7002,"volume":480320,"unadjustedVolume":480320,"change":0.019848,"changePercent":0.016,"vwap":126.7818,"label":"Jul 6, 18","changeOverTime":0.0688888045252648},{"date":"2018-07-09","open":127.2163,"high":127.5338,"low":126.2834,"close":127.2262,"volume":769109,"unadjustedVolume":769109,"change":0.525974,"changePercent":0.415,"vwap":126.986,"label":"Jul 9, 18","changeOverTime":0.07332633115253376},{"date":"2018-07-10","open":126.988,"high":127.3751,"low":126.2139,"close":126.4124,"volume":556302,"unadjustedVolume":556302,"change":-0.813771,"changePercent":-0.64,"vwap":126.5334,"label":"Jul 10, 18","changeOverTime":0.0664608194238809},{"date":"2018-07-11","open":126.1445,"high":128.0201,"low":126.1445,"close":127.0575,"volume":735053,"unadjustedVolume":735053,"change":0.645062,"changePercent":0.51,"vwap":126.9873,"label":"Jul 11, 18","changeOverTime":0.07190311681409219},{"date":"2018-07-12","open":127.3651,"high":127.385,"low":126.343,"close":126.9582,"volume":1079329,"unadjustedVolume":1079329,"change":-0.09924,"changePercent":-0.078,"vwap":126.9245,"label":"Jul 12, 18","changeOverTime":0.07106538602685304},{"date":"2018-07-13","open":127.0476,"high":127.7819,"low":126.7598,"close":126.9384,"volume":495599,"unadjustedVolume":495599,"change":-0.019848,"changePercent":-0.016,"vwap":127.0683,"label":"Jul 13, 18","changeOverTime":0.07089834605114972},{"date":"2018-07-16","open":126.5315,"high":126.6258,"low":125.3307,"close":125.9956,"volume":495854,"unadjustedVolume":495854,"change":-0.942784,"changePercent":-0.743,"vwap":126.0812,"label":"Jul 16, 18","changeOverTime":0.06294454357170277},{"date":"2018-07-17","open":126.1345,"high":126.3628,"low":124.6062,"close":124.8147,"volume":497924,"unadjustedVolume":497924,"change":-1.181,"changePercent":-0.937,"vwap":124.9502,"label":"Jul 17, 18","changeOverTime":0.05298204320261197},{"date":"2018-07-18","open":124.6162,"high":125.3902,"low":123.6883,"close":124.6856,"volume":499517,"unadjustedVolume":499517,"change":-0.129012,"changePercent":-0.103,"vwap":124.4958,"label":"Jul 18, 18","changeOverTime":0.0518929088155769},{"date":"2018-07-19","open":124.4078,"high":126.6954,"low":124.0902,"close":125.9559,"volume":378375,"unadjustedVolume":378375,"change":1.2703,"changePercent":1.019,"vwap":125.8058,"label":"Jul 19, 18","changeOverTime":0.06260961998405533},{"date":"2018-07-20","open":125.549,"high":125.7326,"low":123.2665,"close":123.7429,"volume":439717,"unadjustedVolume":439717,"change":-2.2131,"changePercent":-1.757,"vwap":123.9488,"label":"Jul 20, 18","changeOverTime":0.043939949972371016},{"date":"2018-07-23","open":123.6238,"high":124.0406,"low":122.0161,"close":122.6115,"volume":561095,"unadjustedVolume":561095,"change":-1.1313,"changePercent":-0.914,"vwap":122.5896,"label":"Jul 23, 18","changeOverTime":0.03439504954253835},{"date":"2018-07-24","open":122.681,"high":122.681,"low":121.5695,"close":121.9367,"volume":487010,"unadjustedVolume":487010,"change":-0.674835,"changePercent":-0.55,"vwap":122.0183,"label":"Jul 24, 18","changeOverTime":0.02870219218877211},{"date":"2018-07-25","open":121.7878,"high":123.0482,"low":121.5397,"close":122.4031,"volume":314628,"unadjustedVolume":314628,"change":0.46643,"changePercent":0.383,"vwap":122.3875,"label":"Jul 25, 18","changeOverTime":0.03263691161644923},{"date":"2018-07-26","open":122.681,"high":123.197,"low":121.9367,"close":122.3634,"volume":346587,"unadjustedVolume":346587,"change":-0.039696,"changePercent":-0.032,"vwap":122.451,"label":"Jul 26, 18","changeOverTime":0.03230198802880178},{"date":"2018-07-27","open":122.8695,"high":122.8695,"low":121.3015,"close":121.6191,"volume":566174,"unadjustedVolume":566174,"change":-0.744303,"changePercent":-0.608,"vwap":121.6755,"label":"Jul 27, 18","changeOverTime":0.026022803487592297},{"date":"2018-07-30","open":121.5695,"high":122.0061,"low":120.6863,"close":121.8871,"volume":615037,"unadjustedVolume":615037,"change":0.267949,"changePercent":0.22,"vwap":121.6331,"label":"Jul 30, 18","changeOverTime":0.02828374861327301},{"date":"2018-07-31","open":122.8894,"high":127.3751,"low":122.0161,"close":126.472,"volume":1437458,"unadjustedVolume":1437458,"change":4.5849,"changePercent":3.762,"vwap":126.4091,"label":"Jul 31, 18","changeOverTime":0.0669636266234725},{"date":"2018-08-01","open":125.2414,"high":127.3751,"low":124.4921,"close":127.1964,"volume":678965,"unadjustedVolume":678965,"change":0.724455,"changePercent":0.573,"vwap":126.3124,"label":"Aug 1, 18","changeOverTime":0.07307492755273784},{"date":"2018-08-02","open":126.4521,"high":127.2361,"low":125.0032,"close":125.0925,"volume":662691,"unadjustedVolume":662691,"change":-2.1039,"changePercent":-1.654,"vwap":125.6334,"label":"Aug 2, 18","changeOverTime":0.05532566467990338},{"date":"2018-08-03","open":125.0925,"high":126.5117,"low":124.507,"close":126.4918,"volume":429127,"unadjustedVolume":429127,"change":1.3993,"changePercent":1.119,"vwap":126.1143,"label":"Aug 3, 18","changeOverTime":0.0671306665991758},{"date":"2018-08-06","open":126.5216,"high":127.3651,"low":126.0006,"close":127.2361,"volume":567376,"unadjustedVolume":567376,"change":0.744303,"changePercent":0.588,"vwap":126.899,"label":"Aug 6, 18","changeOverTime":0.07340985114038528},{"date":"2018-08-07","open":126.8689,"high":126.8689,"low":125.946,"close":126.5117,"volume":398199,"unadjustedVolume":398199,"change":-0.724455,"changePercent":-0.569,"vwap":126.4,"label":"Aug 7, 18","changeOverTime":0.06729855021112006},{"date":"2018-08-08","open":126.7101,"high":126.9781,"low":125.7773,"close":125.8765,"volume":261785,"unadjustedVolume":261785,"change":-0.635139,"changePercent":-0.502,"vwap":126.0465,"label":"Aug 8, 18","changeOverTime":0.06193977280876031},{"date":"2018-08-09","open":125.6483,"high":125.9956,"low":125.2463,"close":125.5093,"volume":328037,"unadjustedVolume":328037,"change":-0.367189,"changePercent":-0.292,"vwap":125.5929,"label":"Aug 9, 18","changeOverTime":0.058841940532081395},{"date":"2018-08-10","open":125.2414,"high":125.7574,"low":124.0803,"close":124.2589,"volume":411887,"unadjustedVolume":411887,"change":-1.2504,"changePercent":-0.996,"vwap":124.4703,"label":"Aug 10, 18","changeOverTime":0.04829311297554723},{"date":"2018-08-13","open":124.3581,"high":124.8742,"low":123.217,"close":123.2367,"volume":499949,"unadjustedVolume":499949,"change":-1.0222,"changePercent":-0.823,"vwap":123.4787,"label":"Aug 13, 18","changeOverTime":0.03966946332080538},{"date":"2018-08-14","open":123.336,"high":123.9215,"low":122.2344,"close":123.5543,"volume":592088,"unadjustedVolume":592088,"change":0.317569,"changePercent":0.258,"vwap":123.4007,"label":"Aug 14, 18","changeOverTime":0.04234885202198519},{"date":"2018-08-15","open":123.6337,"high":125.9361,"low":123.5741,"close":125.7773,"volume":463994,"unadjustedVolume":463994,"change":2.223,"changePercent":1.799,"vwap":125.4482,"label":"Aug 15, 18","changeOverTime":0.06110288565776211},{"date":"2018-08-16","open":125.559,"high":128.0499,"low":125.559,"close":127.643,"volume":587395,"unadjustedVolume":587395,"change":1.8657,"changePercent":1.483,"vwap":127.4061,"label":"Aug 16, 18","changeOverTime":0.07684260700471177},{"date":"2018-08-17","open":127.5934,"high":128.8041,"low":127.3304,"close":128.7743,"volume":433483,"unadjustedVolume":433483,"change":1.1313,"changePercent":0.886,"vwap":128.6035,"label":"Aug 17, 18","changeOverTime":0.08638666379830359},{"date":"2018-08-20","open":129.4293,"high":129.4293,"low":127.2659,"close":127.4346,"volume":441384,"unadjustedVolume":441384,"change":-1.3397,"changePercent":-1.04,"vwap":127.9273,"label":"Aug 20, 18","changeOverTime":0.07508446907862276},{"date":"2018-08-21","open":126.8888,"high":127.9209,"low":126.1445,"close":126.3231,"volume":516908,"unadjustedVolume":516908,"change":-1.1115,"changePercent":-0.872,"vwap":126.5289,"label":"Aug 21, 18","changeOverTime":0.06570745226073424},{"date":"2018-08-22","open":126.2239,"high":126.6208,"low":124.6956,"close":125.559,"volume":523113,"unadjustedVolume":523113,"change":-0.764151,"changePercent":-0.605,"vwap":125.5084,"label":"Aug 22, 18","changeOverTime":0.05926122774382145},{"date":"2018-08-23","open":125.7674,"high":126.7002,"low":125.3902,"close":125.559,"volume":347704,"unadjustedVolume":347704,"change":0,"changePercent":0,"vwap":125.771,"label":"Aug 23, 18","changeOverTime":0.05926122774382145},{"date":"2018-08-24","open":125.4299,"high":126.0055,"low":124.636,"close":125.6681,"volume":392823,"unadjustedVolume":392823,"change":0.109165,"changePercent":0.087,"vwap":125.5335,"label":"Aug 24, 18","changeOverTime":0.0601816348826713},{"date":"2018-08-27","open":126.0353,"high":126.0849,"low":124.5963,"close":125.3902,"volume":439305,"unadjustedVolume":439305,"change":-0.277874,"changePercent":-0.221,"vwap":125.2556,"label":"Aug 27, 18","changeOverTime":0.057837169769138934},{"date":"2018-08-28","open":125.3208,"high":127.4743,"low":124.9734,"close":127.3751,"volume":420921,"unadjustedVolume":420921,"change":1.9848,"changePercent":1.583,"vwap":126.9235,"label":"Aug 28, 18","changeOverTime":0.074582505515272},{"date":"2018-08-29","open":127.6728,"high":127.8415,"low":126.6208,"close":127.1071,"volume":459500,"unadjustedVolume":459500,"change":-0.267949,"changePercent":-0.21,"vwap":127.1203,"label":"Aug 29, 18","changeOverTime":0.0723215603895913},{"date":"2018-08-30","open":127.1964,"high":127.4048,"low":125.9361,"close":126.3826,"volume":712054,"unadjustedVolume":712054,"change":-0.724455,"changePercent":-0.57,"vwap":126.7208,"label":"Aug 30, 18","changeOverTime":0.06620941582408499},{"date":"2018-08-31","open":126.5117,"high":127.5438,"low":126.4422,"close":127.3751,"volume":537285,"unadjustedVolume":537285,"change":0.992404,"changePercent":0.785,"vwap":127.2884,"label":"Aug 31, 18","changeOverTime":0.074582505515272},{"date":"2018-09-04","open":127.0972,"high":127.3056,"low":124.8147,"close":125.0231,"volume":455665,"unadjustedVolume":455665,"change":-2.352,"changePercent":-1.847,"vwap":125.4929,"label":"Sep 4, 18","changeOverTime":0.05474018112870097},{"date":"2018-09-05","open":124.5368,"high":126.7936,"low":124.0704,"close":126.5414,"volume":882750,"unadjustedVolume":882750,"change":1.5184,"changePercent":1.214,"vwap":126.3091,"label":"Sep 5, 18","changeOverTime":0.0675491101746749},{"date":"2018-09-06","open":126.8193,"high":128.03,"low":126.5315,"close":127.6331,"volume":1152797,"unadjustedVolume":1152797,"change":1.0916,"changePercent":0.863,"vwap":127.6251,"label":"Sep 6, 18","changeOverTime":0.07675908701686011},{"date":"2018-09-07","open":127.0277,"high":127.2659,"low":125.5788,"close":125.688,"volume":530009,"unadjustedVolume":530009,"change":-1.9451,"changePercent":-1.524,"vwap":126.1114,"label":"Sep 7, 18","changeOverTime":0.06034951849461556},{"date":"2018-09-10","open":126.5712,"high":127.5289,"low":126.2636,"close":126.4223,"volume":365723,"unadjustedVolume":365723,"change":0.734379,"changePercent":0.584,"vwap":126.5832,"label":"Sep 10, 18","changeOverTime":0.06654433941173256},{"date":"2018-09-11","open":125.8071,"high":127.2609,"low":125.7475,"close":126.988,"volume":435748,"unadjustedVolume":435748,"change":0.56567,"changePercent":0.447,"vwap":126.905,"label":"Sep 11, 18","changeOverTime":0.07131678962664884},{"date":"2018-09-12","open":127.0476,"high":127.1468,"low":126.5613,"close":126.6704,"volume":303650,"unadjustedVolume":303650,"change":-0.317569,"changePercent":-0.25,"vwap":126.7869,"label":"Sep 12, 18","changeOverTime":0.06863740092546901},{"date":"2018-09-13","open":127.0277,"high":127.3552,"low":126.4323,"close":127.0476,"volume":555288,"unadjustedVolume":555288,"change":0.377113,"changePercent":0.298,"vwap":127.062,"label":"Sep 13, 18","changeOverTime":0.07181959682624053},{"date":"2018-09-14","open":126.6903,"high":126.7498,"low":124.9734,"close":126.0254,"volume":395375,"unadjustedVolume":395375,"change":-1.0222,"changePercent":-0.805,"vwap":125.9613,"label":"Sep 14, 18","changeOverTime":0.06319594717149868},{"date":"2018-09-17","open":126.0849,"high":126.7796,"low":125.1421,"close":126.6109,"volume":704515,"unadjustedVolume":704515,"change":0.585518,"changePercent":0.465,"vwap":126.3306,"label":"Sep 17, 18","changeOverTime":0.06813543736211826},{"date":"2018-09-18","open":126.601,"high":126.9285,"low":125.1818,"close":125.6383,"volume":352866,"unadjustedVolume":352866,"change":-0.972556,"changePercent":-0.768,"vwap":125.7375,"label":"Sep 18, 18","changeOverTime":0.05993023128287551},{"date":"2018-09-19","open":125.8368,"high":126.1941,"low":124.0803,"close":124.4872,"volume":451049,"unadjustedVolume":451049,"change":-1.1512,"changePercent":-0.916,"vwap":124.7309,"label":"Sep 19, 18","changeOverTime":0.050219134513580496},{"date":"2018-09-20","open":124.5169,"high":125.549,"low":123.8719,"close":125.2811,"volume":464818,"unadjustedVolume":464818,"change":0.793923,"changePercent":0.638,"vwap":125.0387,"label":"Sep 20, 18","changeOverTime":0.05691676263028908},{"date":"2018-09-21","open":125.0727,"high":127.1964,"low":124.8692,"close":125.8368,"volume":1484498,"unadjustedVolume":1484498,"change":0.555746,"changePercent":0.444,"vwap":125.8614,"label":"Sep 21, 18","changeOverTime":0.06160484922111287},{"date":"2018-09-24","open":125.4994,"high":126.1941,"low":122.7008,"close":123.4054,"volume":397222,"unadjustedVolume":397222,"change":-2.4314,"changePercent":-1.932,"vwap":123.6416,"label":"Sep 24","changeOverTime":0.041092677659246936},{"date":"2018-09-25","open":123.3757,"high":123.7627,"low":121.7878,"close":122.3039,"volume":608927,"unadjustedVolume":608927,"change":-1.1016,"changePercent":-0.893,"vwap":122.2575,"label":"Sep 25","changeOverTime":0.03180002446545103},{"date":"2018-09-26","open":122.3535,"high":122.8894,"low":121.3412,"close":121.5,"volume":711865,"unadjustedVolume":711865,"change":-0.803847,"changePercent":-0.657,"vwap":121.9021,"label":"Sep 26","changeOverTime":0.025018032724649836},{"date":"2018-09-27","open":122.12,"high":123.88,"low":121.77,"close":122.73,"volume":599886,"unadjustedVolume":599886,"change":1.23,"changePercent":1.012,"vwap":122.9749,"label":"Sep 27","changeOverTime":0.035394758488035215},{"date":"2018-09-28","open":122.85,"high":125.89,"low":122.85,"close":125.79,"volume":792818,"unadjustedVolume":792818,"change":3.06,"changePercent":2.493,"vwap":125.0922,"label":"Sep 28","changeOverTime":0.061210027460359744},{"date":"2018-10-01","open":125.38,"high":126.03,"low":123.15,"close":123.36,"volume":675115,"unadjustedVolume":675115,"change":-2.43,"changePercent":-1.932,"vwap":123.9074,"label":"Oct 1","changeOverTime":0.04070966680586669},{"date":"2018-10-02","open":123.48,"high":123.87,"low":122.67,"close":123.4,"volume":359872,"unadjustedVolume":359872,"change":0.04,"changePercent":0.032,"vwap":123.4228,"label":"Oct 2","changeOverTime":0.041047121302237},{"date":"2018-10-03","open":123.4,"high":124.46,"low":121.93,"close":122.98,"volume":510464,"unadjustedVolume":510464,"change":-0.42,"changePercent":-0.34,"vwap":123.0526,"label":"Oct 3","changeOverTime":0.03750384909034931},{"date":"2018-10-04","open":122.46,"high":122.97,"low":121.07,"close":122.66,"volume":403911,"unadjustedVolume":403911,"change":-0.32,"changePercent":-0.26,"vwap":122.3702,"label":"Oct 4","changeOverTime":0.0348042131193872},{"date":"2018-10-05","open":122.82,"high":123.82,"low":122.65,"close":122.88,"volume":502804,"unadjustedVolume":502804,"change":0.22,"changePercent":0.179,"vwap":123.175,"label":"Oct 5","changeOverTime":0.0366602128494236},{"date":"2018-10-08","open":123.05,"high":126.12,"low":122.97,"close":125.35,"volume":852708,"unadjustedVolume":852708,"change":2.47,"changePercent":2.01,"vwap":125.3788,"label":"Oct 8","changeOverTime":0.05749802800028684},{"date":"2018-10-09","open":125.16,"high":126,"low":123.9,"close":125.96,"volume":811537,"unadjustedVolume":811537,"change":0.61,"changePercent":0.487,"vwap":125.248,"label":"Oct 9","changeOverTime":0.06264420906993323},{"date":"2018-10-10","open":125.39,"high":126.89,"low":124.7,"close":124.71,"volume":724722,"unadjustedVolume":724722,"change":-1.25,"changePercent":-0.992,"vwap":125.5026,"label":"Oct 10","changeOverTime":0.052098756058362755},{"date":"2018-10-11","open":125,"high":125.01,"low":119.56,"close":119.79,"volume":1062905,"unadjustedVolume":1062905,"change":-4.92,"changePercent":-3.945,"vwap":121.9323,"label":"Oct 11","changeOverTime":0.010591853004821484},{"date":"2018-10-12","open":120.71,"high":121.5,"low":119.24,"close":120.04,"volume":871984,"unadjustedVolume":871984,"change":0.25,"changePercent":0.209,"vwap":120.3359,"label":"Oct 12","changeOverTime":0.012700943607135577},{"date":"2018-10-15","open":119.5,"high":123.02,"low":119.5,"close":121.06,"volume":642883,"unadjustedVolume":642883,"change":1.02,"changePercent":0.85,"vwap":121.5943,"label":"Oct 15","changeOverTime":0.02130603326457705},{"date":"2018-10-16","open":121.54,"high":123.84,"low":120.98,"close":123.45,"volume":586316,"unadjustedVolume":586316,"change":2.39,"changePercent":1.974,"vwap":123.0258,"label":"Oct 16","changeOverTime":0.041468939422699795},{"date":"2018-10-17","open":123.34,"high":123.74,"low":121.61,"close":122.57,"volume":625624,"unadjustedVolume":625624,"change":-0.88,"changePercent":-0.713,"vwap":122.5901,"label":"Oct 17","changeOverTime":0.034044940502554105},{"date":"2018-10-18","open":122.51,"high":123.88,"low":121.44,"close":121.79,"volume":436515,"unadjustedVolume":436515,"change":-0.78,"changePercent":-0.636,"vwap":122.1907,"label":"Oct 18","changeOverTime":0.027464577823334238},{"date":"2018-10-19","open":121.95,"high":122.89,"low":121.68,"close":122.42,"volume":644400,"unadjustedVolume":644400,"change":0.63,"changePercent":0.517,"vwap":122.302,"label":"Oct 19","changeOverTime":0.032779486141165715},{"date":"2018-10-22","open":122.66,"high":123.0944,"low":120.5,"close":120.56,"volume":580899,"unadjustedVolume":580899,"change":-1.86,"changePercent":-1.519,"vwap":121.1876,"label":"Oct 22","changeOverTime":0.01708785205994886},{"date":"2018-10-23","open":119.94,"high":123.06,"low":119.57,"close":122.5,"volume":604211,"unadjustedVolume":604211,"change":1.94,"changePercent":1.609,"vwap":121.5783,"label":"Oct 23","changeOverTime":0.03345439513390621},{"date":"2018-10-24","open":122.28,"high":124.47,"low":121.99,"close":123.24,"volume":463322,"unadjustedVolume":463322,"change":0.74,"changePercent":0.604,"vwap":123.3465,"label":"Oct 24","changeOverTime":0.03969730331675589},{"date":"2018-10-25","open":123.33,"high":125.24,"low":122.67,"close":124.66,"volume":406020,"unadjustedVolume":406020,"change":1.42,"changePercent":1.152,"vwap":124.2749,"label":"Oct 25","changeOverTime":0.05167693793789996},{"date":"2018-10-26","open":123.97,"high":124.33,"low":120.51,"close":121.09,"volume":447771,"unadjustedVolume":447771,"change":-3.57,"changePercent":-2.864,"vwap":121.4859,"label":"Oct 26","changeOverTime":0.02155912413685475},{"date":"2018-10-29","open":122,"high":123.43,"low":121.81,"close":123.19,"volume":443427,"unadjustedVolume":443427,"change":2.1,"changePercent":1.734,"vwap":122.7419,"label":"Oct 29","changeOverTime":0.03927548519629309},{"date":"2018-10-30","open":124.22,"high":128.35,"low":121.58,"close":123.95,"volume":864518,"unadjustedVolume":864518,"change":0.76,"changePercent":0.617,"vwap":125.4239,"label":"Oct 30","changeOverTime":0.045687120627327986},{"date":"2018-10-31","open":124.25,"high":124.38,"low":121.54,"close":122.23,"volume":922482,"unadjustedVolume":922482,"change":-1.72,"changePercent":-1.388,"vwap":122.667,"label":"Oct 31","changeOverTime":0.031176577283407024},{"date":"2018-11-01","open":122.65,"high":123.73,"low":121.89,"close":122.29,"volume":754805,"unadjustedVolume":754805,"change":0.06,"changePercent":0.049,"vwap":122.5988,"label":"Nov 1","changeOverTime":0.03168275902796243},{"date":"2018-11-02","open":122.29,"high":122.58,"low":118.9,"close":120.12,"volume":656722,"unadjustedVolume":656722,"change":-2.17,"changePercent":-1.774,"vwap":120.0816,"label":"Nov 2","changeOverTime":0.013375852599876073}],"8":[{"date":"2017-10-24","open":66.0805,"high":67.0287,"low":66.0805,"close":66.8213,"volume":404718,"unadjustedVolume":404718,"change":0.790199,"changePercent":1.197,"vwap":66.6988,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":66.604,"high":67.167,"low":66.3669,"close":66.8805,"volume":330669,"unadjustedVolume":330669,"change":0.059264,"changePercent":0.089,"vwap":66.7556,"label":"Oct 25, 17","changeOverTime":0.0008859450504555306},{"date":"2017-10-26","open":67.1571,"high":67.7991,"low":66.7127,"close":67.5621,"volume":343793,"unadjustedVolume":343793,"change":0.681548,"changePercent":1.019,"vwap":67.5288,"label":"Oct 26, 17","changeOverTime":0.011086285361105026},{"date":"2017-10-27","open":67.5127,"high":67.8732,"low":66.6435,"close":67.3547,"volume":312087,"unadjustedVolume":312087,"change":-0.207427,"changePercent":-0.307,"vwap":67.1888,"label":"Oct 27, 17","changeOverTime":0.007982484626907893},{"date":"2017-10-30","open":67.1867,"high":67.246,"low":66.5052,"close":66.7422,"volume":359650,"unadjustedVolume":359650,"change":-0.612404,"changePercent":-0.909,"vwap":66.7436,"label":"Oct 30, 17","changeOverTime":-0.0011837542819429859},{"date":"2017-10-31","open":66.9102,"high":67.5621,"low":66.8509,"close":67.1472,"volume":439189,"unadjustedVolume":439189,"change":0.404977,"changePercent":0.607,"vwap":67.2087,"label":"Oct 31, 17","changeOverTime":0.004877187363909477},{"date":"2017-11-01","open":67.6115,"high":68.4807,"low":67.3547,"close":67.8386,"volume":781884,"unadjustedVolume":781884,"change":0.691424,"changePercent":1.03,"vwap":67.9838,"label":"Nov 1, 17","changeOverTime":0.015224187497100564},{"date":"2017-11-02","open":67.7004,"high":67.9769,"low":67.3744,"close":67.888,"volume":583088,"unadjustedVolume":583088,"change":0.049387,"changePercent":0.073,"vwap":67.7268,"label":"Nov 2, 17","changeOverTime":0.015963472725014503},{"date":"2017-11-03","open":67.7399,"high":68.056,"low":67.2065,"close":67.8189,"volume":519420,"unadjustedVolume":519420,"change":-0.069142,"changePercent":-0.102,"vwap":67.8302,"label":"Nov 3, 17","changeOverTime":0.014929371323215887},{"date":"2017-11-06","open":67.5917,"high":68.1449,"low":67.4238,"close":67.5522,"volume":988367,"unadjustedVolume":988367,"change":-0.266693,"changePercent":-0.393,"vwap":67.7329,"label":"Nov 6, 17","changeOverTime":0.010938129009761939},{"date":"2017-11-07","open":68.3622,"high":68.3622,"low":64.9149,"close":65.3495,"volume":1040312,"unadjustedVolume":1040312,"change":-2.2027,"changePercent":-3.261,"vwap":66.0601,"label":"Nov 7, 17","changeOverTime":-0.022025910899668037},{"date":"2017-11-08","open":65.6162,"high":65.8434,"low":64.3025,"close":64.4309,"volume":1232168,"unadjustedVolume":1232168,"change":-0.918608,"changePercent":-1.406,"vwap":64.8374,"label":"Nov 8, 17","changeOverTime":-0.03577302446974243},{"date":"2017-11-09","open":63.8778,"high":64.3716,"low":63.3444,"close":64.2827,"volume":696809,"unadjustedVolume":696809,"change":-0.148163,"changePercent":-0.23,"vwap":63.9151,"label":"Nov 9, 17","changeOverTime":-0.03799088015348382},{"date":"2017-11-10","open":64.1543,"high":65.2705,"low":64.0309,"close":65.2014,"volume":637996,"unadjustedVolume":637996,"change":0.918607,"changePercent":1.429,"vwap":64.8957,"label":"Nov 10, 17","changeOverTime":-0.024242270054608144},{"date":"2017-11-13","open":64.8853,"high":66.3373,"low":64.8063,"close":66.278,"volume":628649,"unadjustedVolume":628649,"change":1.0766,"changePercent":1.651,"vwap":65.9709,"label":"Nov 13, 17","changeOverTime":-0.008130640978250767},{"date":"2017-11-14","open":66.0014,"high":66.12,"low":65.3989,"close":65.8533,"volume":557149,"unadjustedVolume":557149,"change":-0.424733,"changePercent":-0.641,"vwap":65.7679,"label":"Nov 14, 17","changeOverTime":-0.014486398797987908},{"date":"2017-11-15","open":65.4187,"high":66.3768,"low":64.5791,"close":66.3373,"volume":1082649,"unadjustedVolume":1082649,"change":0.483998,"changePercent":0.735,"vwap":65.9735,"label":"Nov 15, 17","changeOverTime":-0.007243199398993954},{"date":"2017-11-16","open":66.3768,"high":70.0216,"low":66.3768,"close":69.8833,"volume":1363378,"unadjustedVolume":1363378,"change":3.546,"changePercent":5.345,"vwap":69.1045,"label":"Nov 16, 17","changeOverTime":0.04582371190024756},{"date":"2017-11-17","open":69.745,"high":70.0117,"low":69.3203,"close":69.8932,"volume":748509,"unadjustedVolume":748509,"change":0.009877,"changePercent":0.014,"vwap":69.7461,"label":"Nov 17, 17","changeOverTime":0.04597186825159043},{"date":"2017-11-20","open":69.7648,"high":70.15,"low":69.0536,"close":69.3005,"volume":799910,"unadjustedVolume":799910,"change":-0.592649,"changePercent":-0.848,"vwap":69.5418,"label":"Nov 20, 17","changeOverTime":0.037101942045425725},{"date":"2017-11-21","open":69.3894,"high":69.587,"low":68.7573,"close":69.4092,"volume":717064,"unadjustedVolume":717064,"change":0.108651,"changePercent":0.157,"vwap":69.09,"label":"Nov 21, 17","changeOverTime":0.03872866885259648},{"date":"2017-11-22","open":69.4684,"high":69.5079,"low":68.7573,"close":69.3005,"volume":517952,"unadjustedVolume":517952,"change":-0.108651,"changePercent":-0.157,"vwap":69.1065,"label":"Nov 22, 17","changeOverTime":0.037101942045425725},{"date":"2017-11-24","open":69.4882,"high":70.1599,"low":69.2215,"close":69.9426,"volume":147573,"unadjustedVolume":147573,"change":0.642037,"changePercent":0.926,"vwap":69.8638,"label":"Nov 24, 17","changeOverTime":0.04671115347950437},{"date":"2017-11-27","open":69.8339,"high":70.3475,"low":69.3993,"close":69.5079,"volume":353869,"unadjustedVolume":353869,"change":-0.434611,"changePercent":-0.621,"vwap":69.7197,"label":"Nov 27, 17","changeOverTime":0.04020574277962286},{"date":"2017-11-28","open":69.4684,"high":70.2586,"low":68.8363,"close":70.2586,"volume":1390878,"unadjustedVolume":1390878,"change":0.75069,"changePercent":1.08,"vwap":69.713,"label":"Nov 28, 17","changeOverTime":0.05144018449207076},{"date":"2017-11-29","open":70.3772,"high":72.8169,"low":69.6067,"close":72.807,"volume":1101788,"unadjustedVolume":1101788,"change":2.5484,"changePercent":3.627,"vwap":72.0975,"label":"Nov 29, 17","changeOverTime":0.08957772446809639},{"date":"2017-11-30","open":72.9012,"high":74.0604,"low":72.6089,"close":73.2975,"volume":1150448,"unadjustedVolume":1150448,"change":0.49047,"changePercent":0.674,"vwap":73.3468,"label":"Nov 30, 17","changeOverTime":0.09691819823918431},{"date":"2017-12-01","open":73.5749,"high":73.7533,"low":71.8212,"close":72.8219,"volume":1326038,"unadjustedVolume":1326038,"change":-0.475571,"changePercent":-0.649,"vwap":72.9201,"label":"Dec 1, 17","changeOverTime":0.08980070725951166},{"date":"2017-12-04","open":73.2579,"high":73.892,"low":72.5346,"close":72.6238,"volume":975114,"unadjustedVolume":975114,"change":-0.198155,"changePercent":-0.272,"vwap":73.1239,"label":"Dec 4, 17","changeOverTime":0.08683608370384907},{"date":"2017-12-05","open":72.594,"high":72.594,"low":70.7809,"close":70.9295,"volume":922908,"unadjustedVolume":922908,"change":-1.6942,"changePercent":-2.333,"vwap":71.3496,"label":"Dec 5, 17","changeOverTime":0.061480396220965634},{"date":"2017-12-06","open":70.5035,"high":70.5035,"low":69.2353,"close":69.7505,"volume":1049253,"unadjustedVolume":1049253,"change":-1.179,"changePercent":-1.662,"vwap":69.6975,"label":"Dec 6, 17","changeOverTime":0.04383632165192849},{"date":"2017-12-07","open":69.8991,"high":70.1369,"low":69.2502,"close":69.909,"volume":661357,"unadjustedVolume":661357,"change":0.158524,"changePercent":0.227,"vwap":69.8257,"label":"Dec 7, 17","changeOverTime":0.04620831980221894},{"date":"2017-12-08","open":70.0478,"high":70.0478,"low":69.374,"close":69.4929,"volume":429233,"unadjustedVolume":429233,"change":-0.416125,"changePercent":-0.595,"vwap":69.5429,"label":"Dec 8, 17","changeOverTime":0.03998126345940609},{"date":"2017-12-11","open":69.7604,"high":70.8701,"low":69.6267,"close":70.0676,"volume":544776,"unadjustedVolume":544776,"change":0.574649,"changePercent":0.827,"vwap":70.2468,"label":"Dec 11, 17","changeOverTime":0.04858181448131068},{"date":"2017-12-12","open":70.2955,"high":70.5085,"low":70.1369,"close":70.3747,"volume":385412,"unadjustedVolume":385412,"change":0.30714,"changePercent":0.438,"vwap":70.3384,"label":"Dec 12, 17","changeOverTime":0.053177654430548504},{"date":"2017-12-13","open":70.3648,"high":70.6819,"low":70.0081,"close":70.345,"volume":544472,"unadjustedVolume":544472,"change":-0.029723,"changePercent":-0.042,"vwap":70.3763,"label":"Dec 13, 17","changeOverTime":0.05273318537651925},{"date":"2017-12-14","open":70.3846,"high":70.5431,"low":69.2849,"close":69.4137,"volume":419138,"unadjustedVolume":419138,"change":-0.931329,"changePercent":-1.324,"vwap":69.6642,"label":"Dec 14, 17","changeOverTime":0.038796012648661615},{"date":"2017-12-15","open":69.909,"high":70.4738,"low":69.6019,"close":69.8793,"volume":1066864,"unadjustedVolume":1066864,"change":0.465664,"changePercent":0.671,"vwap":69.8985,"label":"Dec 15, 17","changeOverTime":0.045763850748189686},{"date":"2017-12-18","open":70.563,"high":70.6175,"low":70.0378,"close":70.3846,"volume":762887,"unadjustedVolume":762887,"change":0.505296,"changePercent":0.723,"vwap":70.3429,"label":"Dec 18, 17","changeOverTime":0.053325810781891594},{"date":"2017-12-19","open":70.3648,"high":70.5927,"low":69.6812,"close":70.0676,"volume":572525,"unadjustedVolume":572525,"change":-0.317048,"changePercent":-0.45,"vwap":70.0687,"label":"Dec 19, 17","changeOverTime":0.04858181448131068},{"date":"2017-12-20","open":70.2558,"high":70.5035,"low":69.6713,"close":70.2162,"volume":393993,"unadjustedVolume":393993,"change":0.148615,"changePercent":0.212,"vwap":70.1775,"label":"Dec 20, 17","changeOverTime":0.05080565628025805},{"date":"2017-12-21","open":70.2955,"high":70.771,"low":70.1865,"close":70.7314,"volume":321140,"unadjustedVolume":321140,"change":0.515204,"changePercent":0.734,"vwap":70.5126,"label":"Dec 21, 17","changeOverTime":0.058515772665302834},{"date":"2017-12-22","open":70.771,"high":71.1475,"low":70.4936,"close":70.8107,"volume":203134,"unadjustedVolume":203134,"change":0.079262,"changePercent":0.112,"vwap":70.8443,"label":"Dec 22, 17","changeOverTime":0.05970252000484881},{"date":"2017-12-26","open":70.6918,"high":70.9593,"low":70.4787,"close":70.6323,"volume":160571,"unadjustedVolume":160571,"change":-0.17834,"changePercent":-0.252,"vwap":70.6878,"label":"Dec 26, 17","changeOverTime":0.0570327126230709},{"date":"2017-12-27","open":70.7314,"high":70.9989,"low":70.4157,"close":70.6719,"volume":154799,"unadjustedVolume":154799,"change":0.039631,"changePercent":0.056,"vwap":70.737,"label":"Dec 27, 17","changeOverTime":0.05762533802844303},{"date":"2017-12-28","open":70.8305,"high":70.9494,"low":70.4738,"close":70.8305,"volume":226522,"unadjustedVolume":226522,"change":0.158524,"changePercent":0.224,"vwap":70.7637,"label":"Dec 28, 17","changeOverTime":0.059998832707534984},{"date":"2017-12-29","open":71.2367,"high":71.2367,"low":70.4738,"close":70.5431,"volume":350770,"unadjustedVolume":350770,"change":-0.287324,"changePercent":-0.406,"vwap":70.7578,"label":"Dec 29, 17","changeOverTime":0.05569780893218183},{"date":"2018-01-02","open":70.7017,"high":72.5742,"low":70.4243,"close":72.4553,"volume":588519,"unadjustedVolume":588519,"change":1.9122,"changePercent":2.711,"vwap":71.914,"label":"Jan 2, 18","changeOverTime":0.08431443267341403},{"date":"2018-01-03","open":72.4851,"high":73.2975,"low":72.1581,"close":72.9111,"volume":558406,"unadjustedVolume":558406,"change":0.455756,"changePercent":0.629,"vwap":73.0073,"label":"Jan 3, 18","changeOverTime":0.09113561095040072},{"date":"2018-01-04","open":73.1786,"high":74.1198,"low":72.9705,"close":73.0102,"volume":689727,"unadjustedVolume":689727,"change":0.099077,"changePercent":0.136,"vwap":73.3502,"label":"Jan 4, 18","changeOverTime":0.09261867099263266},{"date":"2018-01-05","open":73.2876,"high":73.456,"low":73.0795,"close":73.3966,"volume":351224,"unadjustedVolume":351224,"change":0.386402,"changePercent":0.529,"vwap":73.3213,"label":"Jan 5, 18","changeOverTime":0.09840125828141645},{"date":"2018-01-08","open":73.4263,"high":73.4511,"low":72.2572,"close":72.703,"volume":410942,"unadjustedVolume":410942,"change":-0.693542,"changePercent":-0.945,"vwap":72.6882,"label":"Jan 8, 18","changeOverTime":0.08802133451459354},{"date":"2018-01-09","open":72.7427,"high":72.8269,"low":71.8807,"close":72.1185,"volume":572661,"unadjustedVolume":572661,"change":-0.584557,"changePercent":-0.804,"vwap":72.2027,"label":"Jan 9, 18","changeOverTime":0.07927412367014716},{"date":"2018-01-10","open":71.8411,"high":71.9699,"low":71.2466,"close":71.633,"volume":489467,"unadjustedVolume":489467,"change":-0.48548,"changePercent":-0.673,"vwap":71.6376,"label":"Jan 10, 18","changeOverTime":0.07200847633913142},{"date":"2018-01-11","open":71.8708,"high":73.0696,"low":71.4249,"close":73.0597,"volume":482325,"unadjustedVolume":482325,"change":1.4267,"changePercent":1.992,"vwap":72.2601,"label":"Jan 11, 18","changeOverTime":0.09335945274934809},{"date":"2018-01-12","open":73.2975,"high":73.5353,"low":72.6287,"close":73.4362,"volume":367775,"unadjustedVolume":367775,"change":0.376494,"changePercent":0.515,"vwap":73.2088,"label":"Jan 12, 18","changeOverTime":0.09899388368678859},{"date":"2018-01-16","open":72.7823,"high":73.5056,"low":71.742,"close":71.8807,"volume":581031,"unadjustedVolume":581031,"change":-1.5555,"changePercent":-2.118,"vwap":72.4629,"label":"Jan 16, 18","changeOverTime":0.07571537818031093},{"date":"2018-01-17","open":72.0788,"high":72.2374,"low":71.1376,"close":71.8807,"volume":558992,"unadjustedVolume":558992,"change":0,"changePercent":0,"vwap":71.6162,"label":"Jan 17, 18","changeOverTime":0.07571537818031093},{"date":"2018-01-18","open":71.6825,"high":72.5742,"low":71.2565,"close":72.2968,"volume":986426,"unadjustedVolume":986426,"change":0.416125,"changePercent":0.579,"vwap":72.1972,"label":"Jan 18, 18","changeOverTime":0.08194243452312379},{"date":"2018-01-19","open":72.495,"high":73.9316,"low":71.8411,"close":73.6443,"volume":1130818,"unadjustedVolume":1130818,"change":1.3475,"changePercent":1.864,"vwap":73.2978,"label":"Jan 19, 18","changeOverTime":0.10210816012259576},{"date":"2018-01-22","open":73.6839,"high":73.6839,"low":72.2968,"close":73.1687,"volume":1254428,"unadjustedVolume":1254428,"change":-0.47557,"changePercent":-0.646,"vwap":72.9628,"label":"Jan 22, 18","changeOverTime":0.09499066914292312},{"date":"2018-01-23","open":73.0894,"high":74.4567,"low":72.5049,"close":73.2777,"volume":1278648,"unadjustedVolume":1278648,"change":0.108984,"changePercent":0.149,"vwap":73.5805,"label":"Jan 23, 18","changeOverTime":0.09662188553649813},{"date":"2018-01-24","open":73.3867,"high":75.0512,"low":73.1786,"close":73.7632,"volume":1042286,"unadjustedVolume":1042286,"change":0.485479,"changePercent":0.663,"vwap":74.2599,"label":"Jan 24, 18","changeOverTime":0.10388753286751387},{"date":"2018-01-25","open":74.2288,"high":75.2295,"low":73.7235,"close":75.0115,"volume":858727,"unadjustedVolume":858727,"change":1.2484,"changePercent":1.692,"vwap":74.7038,"label":"Jan 25, 18","changeOverTime":0.12256870189595241},{"date":"2018-01-26","open":75.2196,"high":75.6952,"low":71.7222,"close":71.7618,"volume":1654274,"unadjustedVolume":1654274,"change":-3.2497,"changePercent":-4.332,"vwap":73.0001,"label":"Jan 26, 18","changeOverTime":0.07393600543539261},{"date":"2018-01-29","open":71.2763,"high":72.7625,"low":70.6422,"close":71.7222,"volume":1522992,"unadjustedVolume":1522992,"change":-0.039631,"changePercent":-0.055,"vwap":71.5488,"label":"Jan 29, 18","changeOverTime":0.07334338003002049},{"date":"2018-01-30","open":68.4922,"high":74.7341,"low":65.6586,"close":72.0095,"volume":3475700,"unadjustedVolume":3475700,"change":0.287326,"changePercent":0.401,"vwap":72.1741,"label":"Jan 30, 18","changeOverTime":0.07764290727657214},{"date":"2018-01-31","open":71.3159,"high":72.3464,"low":70.989,"close":71.9203,"volume":1857741,"unadjustedVolume":1857741,"change":-0.08917,"changePercent":-0.124,"vwap":71.6887,"label":"Jan 31, 18","changeOverTime":0.07630800358568307},{"date":"2018-02-01","open":71.8906,"high":72.4851,"low":69.4038,"close":69.9388,"volume":1469025,"unadjustedVolume":1469025,"change":-1.9815,"changePercent":-2.755,"vwap":70.4813,"label":"Feb 1, 18","changeOverTime":0.04665428538504948},{"date":"2018-02-02","open":69.3938,"high":74.1496,"low":68.0761,"close":73.1885,"volume":3885972,"unadjustedVolume":3885972,"change":3.2497,"changePercent":4.647,"vwap":72.1541,"label":"Feb 2, 18","changeOverTime":0.09528698184560928},{"date":"2018-02-05","open":72.8616,"high":76.4482,"low":71.6825,"close":72.0689,"volume":2584713,"unadjustedVolume":2584713,"change":-1.1196,"changePercent":-1.53,"vwap":73.8846,"label":"Feb 5, 18","changeOverTime":0.07853184538463044},{"date":"2018-02-06","open":71.306,"high":73.6245,"low":69.8892,"close":73.0498,"volume":3941098,"unadjustedVolume":3941098,"change":0.980867,"changePercent":1.361,"vwap":72.3885,"label":"Feb 6, 18","changeOverTime":0.093211296398005},{"date":"2018-02-07","open":69.8496,"high":73.6641,"low":69.6911,"close":71.9897,"volume":3637964,"unadjustedVolume":3637964,"change":-1.0601,"changePercent":-1.451,"vwap":72.0906,"label":"Feb 7, 18","changeOverTime":0.07734659457388596},{"date":"2018-02-08","open":72.168,"high":72.594,"low":69.7902,"close":69.81,"volume":1459817,"unadjustedVolume":1459817,"change":-2.1797,"changePercent":-3.028,"vwap":70.5474,"label":"Feb 8, 18","changeOverTime":0.04472675628878829},{"date":"2018-02-09","open":70.345,"high":71.1079,"low":67.1547,"close":69.1263,"volume":1966668,"unadjustedVolume":1966668,"change":-0.683634,"changePercent":-0.979,"vwap":68.6033,"label":"Feb 9, 18","changeOverTime":0.034494988873308464},{"date":"2018-02-12","open":69.3542,"high":70.1468,"low":68.4427,"close":69.592,"volume":879075,"unadjustedVolume":879075,"change":0.465662,"changePercent":0.674,"vwap":69.4197,"label":"Feb 12, 18","changeOverTime":0.04146432350163803},{"date":"2018-02-13","open":69.483,"high":69.8892,"low":68.0266,"close":69.7604,"volume":1210172,"unadjustedVolume":1210172,"change":0.168432,"changePercent":0.242,"vwap":69.012,"label":"Feb 13, 18","changeOverTime":0.04398447800327157},{"date":"2018-02-14","open":69.3443,"high":71.6825,"low":69.3443,"close":71.1178,"volume":1746724,"unadjustedVolume":1746724,"change":1.3574,"changePercent":1.946,"vwap":71.0706,"label":"Feb 14, 18","changeOverTime":0.06429835995408663},{"date":"2018-02-15","open":71.6528,"high":72.9408,"low":70.6521,"close":72.4652,"volume":1659174,"unadjustedVolume":1659174,"change":1.3475,"changePercent":1.895,"vwap":71.8751,"label":"Feb 15, 18","changeOverTime":0.08446258902475712},{"date":"2018-02-16","open":72.1383,"high":72.8318,"low":71.3556,"close":71.5735,"volume":1279449,"unadjustedVolume":1279449,"change":-0.891697,"changePercent":-1.231,"vwap":71.9218,"label":"Feb 16, 18","changeOverTime":0.07111804170227162},{"date":"2018-02-20","open":71.2664,"high":71.8312,"low":70.127,"close":70.3252,"volume":858609,"unadjustedVolume":858609,"change":-1.2484,"changePercent":-1.744,"vwap":70.6859,"label":"Feb 20, 18","changeOverTime":0.052436872673833075},{"date":"2018-02-21","open":70.3054,"high":71.0782,"low":69.9982,"close":70.0081,"volume":599606,"unadjustedVolume":599606,"change":-0.317047,"changePercent":-0.451,"vwap":70.4606,"label":"Feb 21, 18","changeOverTime":0.047691379844450876},{"date":"2018-02-22","open":70.0279,"high":70.5828,"low":69.3938,"close":69.701,"volume":667374,"unadjustedVolume":667374,"change":-0.30714,"changePercent":-0.439,"vwap":69.8529,"label":"Feb 22, 18","changeOverTime":0.04309553989521305},{"date":"2018-02-23","open":69.8694,"high":70.9295,"low":69.701,"close":70.7611,"volume":567476,"unadjustedVolume":567476,"change":1.0601,"changePercent":1.521,"vwap":70.3599,"label":"Feb 23, 18","changeOverTime":0.0589602417193321},{"date":"2018-02-26","open":70.9791,"high":70.9791,"low":69.8793,"close":70.8007,"volume":511048,"unadjustedVolume":511048,"change":0.039631,"changePercent":0.056,"vwap":70.4727,"label":"Feb 26, 18","changeOverTime":0.059552867124704444},{"date":"2018-02-27","open":70.7809,"high":72.0987,"low":70.6026,"close":71.6528,"volume":682149,"unadjustedVolume":682149,"change":0.852066,"changePercent":1.203,"vwap":71.6881,"label":"Feb 27, 18","changeOverTime":0.0723047890418176},{"date":"2018-02-28","open":71.7572,"high":71.8963,"low":70.3856,"close":70.3856,"volume":689754,"unadjustedVolume":689754,"change":-1.2672,"changePercent":-1.769,"vwap":71.1332,"label":"Feb 28, 18","changeOverTime":0.0533407760699059},{"date":"2018-03-01","open":70.3459,"high":70.6738,"low":69.0936,"close":69.67,"volume":662461,"unadjustedVolume":662461,"change":-0.715583,"changePercent":-1.017,"vwap":69.8611,"label":"Mar 1, 18","changeOverTime":0.042631615966765214},{"date":"2018-03-02","open":69.1035,"high":69.7098,"low":68.5569,"close":69.4216,"volume":590644,"unadjustedVolume":590644,"change":-0.248466,"changePercent":-0.357,"vwap":69.3328,"label":"Mar 2, 18","changeOverTime":0.03891423842397566},{"date":"2018-03-05","open":69.0936,"high":72.0653,"low":69.0936,"close":71.7273,"volume":693937,"unadjustedVolume":693937,"change":2.3058,"changePercent":3.321,"vwap":71.1757,"label":"Mar 5, 18","changeOverTime":0.07341970299889417},{"date":"2018-03-06","open":72.0653,"high":72.3932,"low":71.1211,"close":71.7572,"volume":1902297,"unadjustedVolume":1902297,"change":0.029816,"changePercent":0.042,"vwap":71.7222,"label":"Mar 6, 18","changeOverTime":0.0738671651105262},{"date":"2018-03-07","open":71.4988,"high":73.1386,"low":71.4093,"close":71.8267,"volume":841765,"unadjustedVolume":841765,"change":0.06957,"changePercent":0.097,"vwap":72.2316,"label":"Mar 7, 18","changeOverTime":0.07490725262753058},{"date":"2018-03-08","open":72.1646,"high":72.1646,"low":70.5049,"close":71.6379,"volume":554494,"unadjustedVolume":554494,"change":-0.188834,"changePercent":-0.263,"vwap":71.327,"label":"Mar 8, 18","changeOverTime":0.07208180625040232},{"date":"2018-03-09","open":72.1348,"high":72.7709,"low":71.3894,"close":72.1746,"volume":720889,"unadjustedVolume":720889,"change":0.536688,"changePercent":0.749,"vwap":72.017,"label":"Mar 9, 18","changeOverTime":0.08011367632775784},{"date":"2018-03-12","open":72.3932,"high":73.1088,"low":72.1845,"close":72.274,"volume":658969,"unadjustedVolume":658969,"change":0.099386,"changePercent":0.138,"vwap":72.4288,"label":"Mar 12, 18","changeOverTime":0.08160122595639425},{"date":"2018-03-13","open":72.8703,"high":72.8703,"low":70.9322,"close":71.2403,"volume":864915,"unadjustedVolume":864915,"change":-1.0336,"changePercent":-1.43,"vwap":71.7292,"label":"Mar 13, 18","changeOverTime":0.06613160773585686},{"date":"2018-03-14","open":71.6081,"high":71.6081,"low":70.5546,"close":70.7335,"volume":543452,"unadjustedVolume":543452,"change":-0.506871,"changePercent":-0.711,"vwap":71.0156,"label":"Mar 14, 18","changeOverTime":0.058547199770133375},{"date":"2018-03-15","open":70.8925,"high":71.9559,"low":70.0477,"close":71.777,"volume":759400,"unadjustedVolume":759400,"change":1.0436,"changePercent":1.475,"vwap":71.2285,"label":"Mar 15, 18","changeOverTime":0.07416347781321236},{"date":"2018-03-16","open":71.7671,"high":76.5178,"low":71.4689,"close":74.2716,"volume":3783873,"unadjustedVolume":3783873,"change":2.4946,"changePercent":3.475,"vwap":74.4274,"label":"Mar 16, 18","changeOverTime":0.11149588529406063},{"date":"2018-03-19","open":73.7051,"high":73.7051,"low":71.5484,"close":72.3435,"volume":1330774,"unadjustedVolume":1330774,"change":-1.9281,"changePercent":-2.596,"vwap":72.476,"label":"Mar 19, 18","changeOverTime":0.08264131347339865},{"date":"2018-03-20","open":72.7311,"high":73.8294,"low":70.3906,"close":71.3795,"volume":2016071,"unadjustedVolume":2016071,"change":-0.964051,"changePercent":-1.333,"vwap":71.7214,"label":"Mar 20, 18","changeOverTime":0.06821477582746818},{"date":"2018-03-21","open":71.2006,"high":71.4292,"low":69.3918,"close":69.6601,"volume":1371861,"unadjustedVolume":1371861,"change":-1.7194,"changePercent":-2.409,"vwap":70.1179,"label":"Mar 21, 18","changeOverTime":0.042483459615422124},{"date":"2018-03-22","open":69.1532,"high":69.4713,"low":67.6525,"close":67.7618,"volume":1580879,"unadjustedVolume":1580879,"change":-1.8983,"changePercent":-2.725,"vwap":68.2055,"label":"Mar 22, 18","changeOverTime":0.014074853377590681},{"date":"2018-03-23","open":69.0538,"high":69.5706,"low":67.076,"close":67.5432,"volume":1302465,"unadjustedVolume":1302465,"change":-0.218651,"changePercent":-0.323,"vwap":68.0534,"label":"Mar 23, 18","changeOverTime":0.010803441417631881},{"date":"2018-03-26","open":69.5905,"high":69.7396,"low":68.1494,"close":69.1632,"volume":1035328,"unadjustedVolume":1035328,"change":1.62,"changePercent":2.398,"vwap":68.8614,"label":"Mar 26, 18","changeOverTime":0.03504720800104173},{"date":"2018-03-27","open":69.5011,"high":69.5508,"low":68.2886,"close":68.5768,"volume":695606,"unadjustedVolume":695606,"change":-0.586381,"changePercent":-0.848,"vwap":68.7871,"label":"Mar 27, 18","changeOverTime":0.026271563109368005},{"date":"2018-03-28","open":68.9246,"high":69.7297,"low":68.3084,"close":68.6464,"volume":898436,"unadjustedVolume":898436,"change":0.069571,"changePercent":0.101,"vwap":68.8177,"label":"Mar 28, 18","changeOverTime":0.02731314715517367},{"date":"2018-03-29","open":68.7954,"high":69.7495,"low":68.06,"close":69.3619,"volume":626565,"unadjustedVolume":626565,"change":0.715583,"changePercent":1.042,"vwap":69.1285,"label":"Mar 29, 18","changeOverTime":0.03802081072951308},{"date":"2018-04-02","open":69.1731,"high":69.3719,"low":67.404,"close":67.9705,"volume":536279,"unadjustedVolume":536279,"change":-1.3914,"changePercent":-2.006,"vwap":67.9829,"label":"Apr 2, 18","changeOverTime":0.01719810898620661},{"date":"2018-04-03","open":68.1792,"high":68.4774,"low":67.404,"close":68.2985,"volume":608616,"unadjustedVolume":608616,"change":0.327975,"changePercent":0.483,"vwap":68.1135,"label":"Apr 3, 18","changeOverTime":0.022106723454946412},{"date":"2018-04-04","open":67.414,"high":68.9147,"low":67.096,"close":68.7954,"volume":493939,"unadjustedVolume":493939,"change":0.496934,"changePercent":0.728,"vwap":68.0911,"label":"Apr 4, 18","changeOverTime":0.029542975069326804},{"date":"2018-04-05","open":69.352,"high":70.3856,"low":69.193,"close":70.1272,"volume":483880,"unadjustedVolume":483880,"change":1.3318,"changePercent":1.936,"vwap":70.0207,"label":"Apr 5, 18","changeOverTime":0.049473745646971976},{"date":"2018-04-06","open":69.5905,"high":69.8291,"low":67.9109,"close":68.1792,"volume":598282,"unadjustedVolume":598282,"change":-1.948,"changePercent":-2.778,"vwap":68.5986,"label":"Apr 6, 18","changeOverTime":0.020321364594822325},{"date":"2018-04-09","open":68.6364,"high":69.3421,"low":68.1295,"close":68.6861,"volume":790025,"unadjustedVolume":790025,"change":0.506872,"changePercent":0.743,"vwap":68.7621,"label":"Apr 9, 18","changeOverTime":0.0279072690893473},{"date":"2018-04-10","open":69.5806,"high":70.1073,"low":69.0141,"close":69.1532,"volume":628568,"unadjustedVolume":628568,"change":0.467117,"changePercent":0.68,"vwap":69.422,"label":"Apr 10, 18","changeOverTime":0.03489755512089715},{"date":"2018-04-11","open":68.6662,"high":69.2824,"low":68.2886,"close":69.0638,"volume":496151,"unadjustedVolume":496151,"change":-0.089448,"changePercent":-0.129,"vwap":68.9429,"label":"Apr 11, 18","changeOverTime":0.033559658372405314},{"date":"2018-04-12","open":69.4713,"high":69.7297,"low":68.7259,"close":69.0837,"volume":395573,"unadjustedVolume":395573,"change":0.019878,"changePercent":0.029,"vwap":69.2601,"label":"Apr 12, 18","changeOverTime":0.033857467603892764},{"date":"2018-04-13","open":69.3918,"high":69.7098,"low":68.7954,"close":69.1135,"volume":371958,"unadjustedVolume":371958,"change":0.029816,"changePercent":0.043,"vwap":69.1497,"label":"Apr 13, 18","changeOverTime":0.03430343318672352},{"date":"2018-04-16","open":69.3719,"high":70.2564,"low":68.8054,"close":69.9086,"volume":801606,"unadjustedVolume":801606,"change":0.795093,"changePercent":1.15,"vwap":69.687,"label":"Apr 16, 18","changeOverTime":0.046202333687013174},{"date":"2018-04-17","open":70.2763,"high":70.6738,"low":69.7992,"close":70.2564,"volume":674710,"unadjustedVolume":674710,"change":0.347853,"changePercent":0.498,"vwap":70.1698,"label":"Apr 17, 18","changeOverTime":0.05140726085843894},{"date":"2018-04-18","open":70.5943,"high":71.3397,"low":70.1471,"close":70.3956,"volume":490331,"unadjustedVolume":490331,"change":0.139141,"changePercent":0.198,"vwap":70.6242,"label":"Apr 18, 18","changeOverTime":0.05349042895005048},{"date":"2018-04-19","open":70.2664,"high":70.3756,"low":69.521,"close":69.9583,"volume":361200,"unadjustedVolume":361200,"change":-0.4373,"changePercent":-0.621,"vwap":69.8667,"label":"Apr 19, 18","changeOverTime":0.04694610850133117},{"date":"2018-04-20","open":70.0974,"high":70.0974,"low":69.1731,"close":69.2526,"volume":600873,"unadjustedVolume":600873,"change":-0.705646,"changePercent":-1.009,"vwap":69.3902,"label":"Apr 20, 18","changeOverTime":0.03638510474953357},{"date":"2018-04-23","open":69.2427,"high":69.6601,"low":68.8252,"close":69.2924,"volume":477821,"unadjustedVolume":477821,"change":0.039754,"changePercent":0.057,"vwap":69.2072,"label":"Apr 23, 18","changeOverTime":0.03698072321250869},{"date":"2018-04-24","open":69.5508,"high":69.9781,"low":67.2451,"close":68.0401,"volume":2122323,"unadjustedVolume":2122323,"change":-1.2523,"changePercent":-1.807,"vwap":68.0947,"label":"Apr 24, 18","changeOverTime":0.018239693032012273},{"date":"2018-04-25","open":68.2587,"high":68.9346,"low":67.8115,"close":68.7159,"volume":662862,"unadjustedVolume":662862,"change":0.675829,"changePercent":0.993,"vwap":68.6125,"label":"Apr 25, 18","changeOverTime":0.028353234672178054},{"date":"2018-04-26","open":68.8551,"high":68.8849,"low":67.9805,"close":68.219,"volume":522638,"unadjustedVolume":522638,"change":-0.496933,"changePercent":-0.723,"vwap":68.3186,"label":"Apr 26, 18","changeOverTime":0.020916983057797447},{"date":"2018-04-27","open":68.3979,"high":68.3979,"low":67.6823,"close":67.8811,"volume":553554,"unadjustedVolume":553554,"change":-0.337914,"changePercent":-0.495,"vwap":67.9666,"label":"Apr 27, 18","changeOverTime":0.01586021223771477},{"date":"2018-04-30","open":67.8214,"high":68.0351,"low":65.7343,"close":65.7741,"volume":1264203,"unadjustedVolume":1264203,"change":-2.107,"changePercent":-3.104,"vwap":66.566,"label":"Apr 30, 18","changeOverTime":-0.01567164960873239},{"date":"2018-05-01","open":65.6648,"high":65.8933,"low":64.4125,"close":65.784,"volume":1263985,"unadjustedVolume":1263985,"change":0.009939,"changePercent":0.015,"vwap":65.2436,"label":"May 1, 18","changeOverTime":-0.015523493257389302},{"date":"2018-05-02","open":67.8413,"high":72.274,"low":67.8413,"close":70.8627,"volume":1911619,"unadjustedVolume":1911619,"change":5.0787,"changePercent":7.72,"vwap":70.9563,"label":"May 2, 18","changeOverTime":0.060480714981600334},{"date":"2018-05-03","open":71.2105,"high":71.4888,"low":70.1372,"close":71.0416,"volume":744341,"unadjustedVolume":744341,"change":0.178895,"changePercent":0.252,"vwap":70.9779,"label":"May 3, 18","changeOverTime":0.06315800500738551},{"date":"2018-05-04","open":70.9024,"high":72.9697,"low":69.844,"close":72.751,"volume":1115896,"unadjustedVolume":1115896,"change":1.7095,"changePercent":2.406,"vwap":72.0652,"label":"May 4, 18","changeOverTime":0.0887396683392872},{"date":"2018-05-07","open":73.1983,"high":73.7548,"low":72.5224,"close":72.8703,"volume":854045,"unadjustedVolume":854045,"change":0.119264,"changePercent":0.164,"vwap":73.0575,"label":"May 7, 18","changeOverTime":0.09052502719941108},{"date":"2018-05-08","open":72.5821,"high":73.1784,"low":72.5224,"close":72.8305,"volume":553719,"unadjustedVolume":553719,"change":-0.039754,"changePercent":-0.055,"vwap":72.8689,"label":"May 8, 18","changeOverTime":0.08992940873643596},{"date":"2018-05-09","open":73.248,"high":73.8542,"low":72.7212,"close":73.7151,"volume":446856,"unadjustedVolume":446856,"change":0.884541,"changePercent":1.215,"vwap":73.4575,"label":"May 9, 18","changeOverTime":0.10316770251401894},{"date":"2018-05-10","open":73.894,"high":74.3114,"low":73.5064,"close":74.2021,"volume":441678,"unadjustedVolume":441678,"change":0.486994,"changePercent":0.661,"vwap":73.9958,"label":"May 10, 18","changeOverTime":0.11045579777705625},{"date":"2018-05-11","open":74.371,"high":74.9673,"low":73.8492,"close":73.9238,"volume":418764,"unadjustedVolume":418764,"change":-0.278283,"changePercent":-0.375,"vwap":74.2664,"label":"May 11, 18","changeOverTime":0.10629095812263466},{"date":"2018-05-14","open":73.8642,"high":74.5002,"low":73.7349,"close":74.2418,"volume":435908,"unadjustedVolume":435908,"change":0.318037,"changePercent":0.43,"vwap":74.2296,"label":"May 14, 18","changeOverTime":0.11104991971122988},{"date":"2018-05-15","open":74.0629,"high":75.1164,"low":73.5561,"close":75.0071,"volume":888233,"unadjustedVolume":888233,"change":0.765277,"changePercent":1.031,"vwap":74.7197,"label":"May 15, 18","changeOverTime":0.12250285462868878},{"date":"2018-05-16","open":75.0767,"high":76.647,"low":74.7884,"close":76.0407,"volume":947734,"unadjustedVolume":947734,"change":1.0336,"changePercent":1.378,"vwap":76.077,"label":"May 16, 18","changeOverTime":0.1379709763204249},{"date":"2018-05-17","open":76.3389,"high":77.4421,"low":76.15,"close":76.7762,"volume":694915,"unadjustedVolume":694915,"change":0.735461,"changePercent":0.967,"vwap":76.7741,"label":"May 17, 18","changeOverTime":0.14897794565505326},{"date":"2018-05-18","open":76.7662,"high":77.8197,"low":76.5575,"close":77.2731,"volume":629794,"unadjustedVolume":629794,"change":0.496933,"changePercent":0.647,"vwap":77.3005,"label":"May 18, 18","changeOverTime":0.15641419726943365},{"date":"2018-05-21","open":77.78,"high":78.0483,"low":77.4918,"close":77.7502,"volume":273472,"unadjustedVolume":273472,"change":0.477056,"changePercent":0.617,"vwap":77.7911,"label":"May 21, 18","changeOverTime":0.16355413618112807},{"date":"2018-05-22","open":78.0881,"high":79.1913,"low":77.6806,"close":77.9291,"volume":546099,"unadjustedVolume":546099,"change":0.178896,"changePercent":0.23,"vwap":78.3942,"label":"May 22, 18","changeOverTime":0.16623142620691325},{"date":"2018-05-23","open":77.5713,"high":77.9224,"low":76.9451,"close":77.2731,"volume":584725,"unadjustedVolume":584725,"change":-0.655952,"changePercent":-0.842,"vwap":77.3604,"label":"May 23, 18","changeOverTime":0.15641419726943365},{"date":"2018-05-24","open":77.2831,"high":77.4918,"low":76.7563,"close":77.3924,"volume":1590030,"unadjustedVolume":1590030,"change":0.119264,"changePercent":0.154,"vwap":77.3443,"label":"May 24, 18","changeOverTime":0.15819955612955752},{"date":"2018-05-25","open":76.9948,"high":78.6943,"low":76.9551,"close":78.5353,"volume":723641,"unadjustedVolume":723641,"change":1.1429,"changePercent":1.477,"vwap":78.0613,"label":"May 25, 18","changeOverTime":0.17530338380127317},{"date":"2018-05-29","open":78.1577,"high":78.4856,"low":77.0644,"close":77.4222,"volume":544104,"unadjustedVolume":544104,"change":-1.1131,"changePercent":-1.417,"vwap":77.653,"label":"May 29, 18","changeOverTime":0.15864552171238827},{"date":"2018-05-30","open":77.7204,"high":78.0285,"low":77.3278,"close":77.8694,"volume":396200,"unadjustedVolume":396200,"change":0.44724,"changePercent":0.578,"vwap":77.8641,"label":"May 30, 18","changeOverTime":0.16533799851245046},{"date":"2018-05-31","open":78.1387,"high":78.4079,"low":76.9522,"close":77.4906,"volume":361375,"unadjustedVolume":361375,"change":-0.378863,"changePercent":-0.487,"vwap":77.574,"label":"May 31, 18","changeOverTime":0.15966914741257665},{"date":"2018-06-01","open":77.8894,"high":78.2284,"low":77.5005,"close":77.9492,"volume":367503,"unadjustedVolume":367503,"change":0.458642,"changePercent":0.592,"vwap":77.8612,"label":"Jun 1, 18","changeOverTime":0.1665322284960037},{"date":"2018-06-04","open":78.6272,"high":78.9014,"low":77.7697,"close":78.7668,"volume":408325,"unadjustedVolume":408325,"change":0.817579,"changePercent":1.049,"vwap":78.6208,"label":"Jun 4, 18","changeOverTime":0.1787678479766184},{"date":"2018-06-05","open":78.7768,"high":79.7938,"low":78.7768,"close":79.7638,"volume":412425,"unadjustedVolume":412425,"change":0.997048,"changePercent":1.266,"vwap":79.5802,"label":"Jun 5, 18","changeOverTime":0.19368824012702554},{"date":"2018-06-06","open":79.5445,"high":79.9034,"low":78.6172,"close":79.7638,"volume":535832,"unadjustedVolume":535832,"change":0,"changePercent":0,"vwap":79.5654,"label":"Jun 6, 18","changeOverTime":0.19368824012702554},{"date":"2018-06-07","open":79.8835,"high":80.6014,"low":79.1856,"close":79.375,"volume":412295,"unadjustedVolume":412295,"change":-0.388849,"changePercent":-0.488,"vwap":79.5656,"label":"Jun 7, 18","changeOverTime":0.18786973614700714},{"date":"2018-06-08","open":79.385,"high":80.0231,"low":78.7369,"close":79.7738,"volume":335321,"unadjustedVolume":335321,"change":0.398819,"changePercent":0.502,"vwap":79.5297,"label":"Jun 8, 18","changeOverTime":0.1938378930071699},{"date":"2018-06-11","open":79.8835,"high":80.1726,"low":79.1158,"close":79.375,"volume":443037,"unadjustedVolume":443037,"change":-0.398819,"changePercent":-0.5,"vwap":79.5144,"label":"Jun 11, 18","changeOverTime":0.18786973614700714},{"date":"2018-06-12","open":79.4747,"high":80.1278,"low":79.1756,"close":79.2553,"volume":405617,"unadjustedVolume":405617,"change":-0.119645,"changePercent":-0.151,"vwap":79.5583,"label":"Jun 12, 18","changeOverTime":0.1860783911716775},{"date":"2018-06-13","open":79.385,"high":79.7539,"low":78.5076,"close":78.8067,"volume":605969,"unadjustedVolume":605969,"change":-0.448672,"changePercent":-0.566,"vwap":78.9928,"label":"Jun 13, 18","changeOverTime":0.17936496296839502},{"date":"2018-06-14","open":78.9861,"high":79.4348,"low":78.3779,"close":78.8466,"volume":348860,"unadjustedVolume":348860,"change":0.039882,"changePercent":0.051,"vwap":78.8252,"label":"Jun 14, 18","changeOverTime":0.1799620779601714},{"date":"2018-06-15","open":78.8366,"high":78.8466,"low":77.9293,"close":77.9991,"volume":768390,"unadjustedVolume":768390,"change":-0.847491,"changePercent":-1.075,"vwap":78.2419,"label":"Jun 15, 18","changeOverTime":0.16727899636792468},{"date":"2018-06-18","open":77.5903,"high":78.5474,"low":77.4108,"close":78.1187,"volume":818538,"unadjustedVolume":818538,"change":0.119646,"changePercent":0.153,"vwap":78.2294,"label":"Jun 18, 18","changeOverTime":0.16906884481445306},{"date":"2018-06-19","open":77.5803,"high":78.5873,"low":77.2064,"close":78.1885,"volume":711819,"unadjustedVolume":711819,"change":0.069793,"changePercent":0.089,"vwap":78.0981,"label":"Jun 19, 18","changeOverTime":0.1701134219178617},{"date":"2018-06-20","open":78.3879,"high":78.4378,"low":77.7598,"close":78.0689,"volume":272278,"unadjustedVolume":272278,"change":-0.119646,"changePercent":-0.153,"vwap":78.1195,"label":"Jun 20, 18","changeOverTime":0.16832357347133334},{"date":"2018-06-21","open":78.0988,"high":78.5574,"low":77.1017,"close":77.4108,"volume":441372,"unadjustedVolume":441372,"change":-0.658051,"changePercent":-0.843,"vwap":77.7677,"label":"Jun 21, 18","changeOverTime":0.15847491742902342},{"date":"2018-06-22","open":77.8595,"high":78.4527,"low":77.6401,"close":78.2782,"volume":481640,"unadjustedVolume":481640,"change":0.867431,"changePercent":1.121,"vwap":78.1833,"label":"Jun 22, 18","changeOverTime":0.1714558082527578},{"date":"2018-06-25","open":77.9193,"high":78.3129,"low":76.9821,"close":77.2613,"volume":463472,"unadjustedVolume":463472,"change":-1.017,"changePercent":-1.299,"vwap":77.4771,"label":"Jun 25, 18","changeOverTime":0.15623760687086322},{"date":"2018-06-26","open":77.4407,"high":77.7797,"low":77.1516,"close":77.7398,"volume":404525,"unadjustedVolume":404525,"change":0.478583,"changePercent":0.619,"vwap":77.5378,"label":"Jun 26, 18","changeOverTime":0.16339849718577773},{"date":"2018-06-27","open":77.7498,"high":78.4677,"low":76.7528,"close":76.8026,"volume":641601,"unadjustedVolume":641601,"change":-0.937226,"changePercent":-1.206,"vwap":77.485,"label":"Jun 27, 18","changeOverTime":0.1493730292586347},{"date":"2018-06-28","open":76.8525,"high":77.9392,"low":76.3141,"close":77.8495,"volume":392990,"unadjustedVolume":392990,"change":1.0469,"changePercent":1.363,"vwap":77.4282,"label":"Jun 28, 18","changeOverTime":0.165040189280963},{"date":"2018-06-29","open":78.1287,"high":78.7568,"low":77.9368,"close":77.9492,"volume":554076,"unadjustedVolume":554076,"change":0.099705,"changePercent":0.128,"vwap":78.2129,"label":"Jun 29, 18","changeOverTime":0.1665322284960037},{"date":"2018-07-02","open":77.8894,"high":78.1885,"low":77.1815,"close":78.019,"volume":439658,"unadjustedVolume":439658,"change":0.069793,"changePercent":0.09,"vwap":77.894,"label":"Jul 2, 18","changeOverTime":0.16757680559941235},{"date":"2018-07-03","open":78.0689,"high":78.4876,"low":77.341,"close":77.7,"volume":187943,"unadjustedVolume":187943,"change":-0.319055,"changePercent":-0.409,"vwap":77.6952,"label":"Jul 3, 18","changeOverTime":0.1628028787228026},{"date":"2018-07-05","open":77.9392,"high":78.4278,"low":77.4607,"close":78.348,"volume":293813,"unadjustedVolume":293813,"change":0.648081,"changePercent":0.834,"vwap":78.1023,"label":"Jul 5, 18","changeOverTime":0.17250038535616646},{"date":"2018-07-06","open":78.3281,"high":78.697,"low":78.0589,"close":78.3879,"volume":335943,"unadjustedVolume":335943,"change":0.039882,"changePercent":0.051,"vwap":78.4482,"label":"Jul 6, 18","changeOverTime":0.17309750034794308},{"date":"2018-07-09","open":78.5175,"high":79.704,"low":78.4876,"close":79.4647,"volume":396286,"unadjustedVolume":396286,"change":1.0768,"changePercent":1.374,"vwap":79.2209,"label":"Jul 9, 18","changeOverTime":0.18921212248190325},{"date":"2018-07-10","open":79.5046,"high":80.8307,"low":79.4647,"close":80.6113,"volume":691827,"unadjustedVolume":691827,"change":1.1466,"changePercent":1.443,"vwap":80.3918,"label":"Jul 10, 18","changeOverTime":0.20637132171927225},{"date":"2018-07-11","open":79.9433,"high":80.392,"low":79.0421,"close":80.1228,"volume":570990,"unadjustedVolume":570990,"change":-0.488554,"changePercent":-0.606,"vwap":80.0547,"label":"Jul 11, 18","changeOverTime":0.19906077852421317},{"date":"2018-07-12","open":80.033,"high":81.0201,"low":79.5943,"close":80.8706,"volume":487726,"unadjustedVolume":487726,"change":0.747786,"changePercent":0.933,"vwap":80.5397,"label":"Jul 12, 18","changeOverTime":0.21025182090141922},{"date":"2018-07-13","open":80.9902,"high":81.1597,"low":80.5714,"close":80.9404,"volume":394545,"unadjustedVolume":394545,"change":0.069794,"changePercent":0.086,"vwap":80.9494,"label":"Jul 13, 18","changeOverTime":0.21129639800482786},{"date":"2018-07-16","open":81.389,"high":81.389,"low":79.2155,"close":79.6243,"volume":509068,"unadjustedVolume":509068,"change":-1.3161,"changePercent":-1.626,"vwap":79.893,"label":"Jul 16, 18","changeOverTime":0.1916005824490097},{"date":"2018-07-17","open":78.7867,"high":80.7908,"low":78.7867,"close":80.6712,"volume":429198,"unadjustedVolume":429198,"change":1.0469,"changePercent":1.315,"vwap":80.2671,"label":"Jul 17, 18","changeOverTime":0.20726774247133783},{"date":"2018-07-18","open":80.8706,"high":81.2395,"low":80.2025,"close":80.4418,"volume":326347,"unadjustedVolume":326347,"change":-0.229321,"changePercent":-0.284,"vwap":80.4565,"label":"Jul 18, 18","changeOverTime":0.2038347054008229},{"date":"2018-07-19","open":79.7938,"high":81.1697,"low":79.7938,"close":81.0201,"volume":607620,"unadjustedVolume":607620,"change":0.578287,"changePercent":0.719,"vwap":80.8464,"label":"Jul 19, 18","changeOverTime":0.21248913145957962},{"date":"2018-07-20","open":80.9603,"high":81.045,"low":80.2424,"close":80.7709,"volume":257427,"unadjustedVolume":257427,"change":-0.249262,"changePercent":-0.308,"vwap":80.814,"label":"Jul 20, 18","changeOverTime":0.20875978168637851},{"date":"2018-07-23","open":80.8107,"high":82.6054,"low":80.4319,"close":82.2066,"volume":932880,"unadjustedVolume":932880,"change":1.4357,"changePercent":1.778,"vwap":81.815,"label":"Jul 23, 18","changeOverTime":0.23024544568872504},{"date":"2018-07-24","open":82.6952,"high":83.0142,"low":81.6183,"close":81.7081,"volume":1046411,"unadjustedVolume":1046411,"change":-0.498524,"changePercent":-0.606,"vwap":82.2043,"label":"Jul 24, 18","changeOverTime":0.22278524961352159},{"date":"2018-07-25","open":81.6483,"high":82.0471,"low":80.7908,"close":81.5585,"volume":1093560,"unadjustedVolume":1093560,"change":-0.149558,"changePercent":-0.183,"vwap":81.4205,"label":"Jul 25, 18","changeOverTime":0.2205464425265597},{"date":"2018-07-26","open":81.5486,"high":82.755,"low":81.5486,"close":82.5855,"volume":666846,"unadjustedVolume":666846,"change":1.027,"changePercent":1.259,"vwap":82.4123,"label":"Jul 26, 18","changeOverTime":0.23591579331740034},{"date":"2018-07-27","open":82.5556,"high":82.755,"low":81.7779,"close":82.3661,"volume":648584,"unadjustedVolume":648584,"change":-0.219351,"changePercent":-0.266,"vwap":82.3834,"label":"Jul 27, 18","changeOverTime":0.23263240912703},{"date":"2018-07-30","open":82.4359,"high":82.4758,"low":81.4688,"close":81.5286,"volume":593326,"unadjustedVolume":593326,"change":-0.83752,"changePercent":-1.017,"vwap":81.9638,"label":"Jul 30, 18","changeOverTime":0.22009898041492765},{"date":"2018-07-31","open":81.728,"high":82.2066,"low":81.4189,"close":81.8676,"volume":631070,"unadjustedVolume":631070,"change":0.338996,"changePercent":0.416,"vwap":81.7791,"label":"Jul 31, 18","changeOverTime":0.22517221305182633},{"date":"2018-08-01","open":82.765,"high":84.3503,"low":81.1896,"close":83.5626,"volume":1383604,"unadjustedVolume":1383604,"change":1.695,"changePercent":2.07,"vwap":82.7791,"label":"Aug 1, 18","changeOverTime":0.25053837623632},{"date":"2018-08-02","open":83.752,"high":85.7262,"low":83.4529,"close":84.6394,"volume":626558,"unadjustedVolume":626558,"change":1.0768,"changePercent":1.289,"vwap":84.8505,"label":"Aug 2, 18","changeOverTime":0.26665299837028017},{"date":"2018-08-03","open":84.8288,"high":85.3772,"low":84.0312,"close":84.6893,"volume":331917,"unadjustedVolume":331917,"change":0.049852,"changePercent":0.059,"vwap":84.5323,"label":"Aug 3, 18","changeOverTime":0.26739976624220135},{"date":"2018-08-06","open":84.6095,"high":85.2077,"low":83.6424,"close":84.9186,"volume":374650,"unadjustedVolume":374650,"change":0.229321,"changePercent":0.271,"vwap":84.9577,"label":"Aug 6, 18","changeOverTime":0.2708313067839148},{"date":"2018-08-07","open":85.2476,"high":85.9954,"low":85.0183,"close":85.467,"volume":451714,"unadjustedVolume":451714,"change":0.548377,"changePercent":0.646,"vwap":85.5104,"label":"Aug 7, 18","changeOverTime":0.27903827073103943},{"date":"2018-08-08","open":85.3972,"high":86.3244,"low":85.128,"close":85.6265,"volume":483815,"unadjustedVolume":483815,"change":0.159527,"changePercent":0.187,"vwap":85.8101,"label":"Aug 8, 18","changeOverTime":0.28142523416934423},{"date":"2018-08-09","open":85.6165,"high":86.3745,"low":85.3782,"close":85.8558,"volume":374421,"unadjustedVolume":374421,"change":0.229321,"changePercent":0.268,"vwap":85.9182,"label":"Aug 9, 18","changeOverTime":0.28485677471105786},{"date":"2018-08-10","open":85.4171,"high":86.135,"low":84.8073,"close":85.1978,"volume":491150,"unadjustedVolume":491150,"change":-0.658051,"changePercent":-0.766,"vwap":85.4211,"label":"Aug 10, 18","changeOverTime":0.2750096151975494},{"date":"2018-08-13","open":84.9285,"high":85.5866,"low":83.8617,"close":84.1209,"volume":322686,"unadjustedVolume":322686,"change":-1.0768,"changePercent":-1.264,"vwap":84.4004,"label":"Aug 13, 18","changeOverTime":0.25889349653478777},{"date":"2018-08-14","open":84.3004,"high":84.687,"low":84.1608,"close":84.5596,"volume":278336,"unadjustedVolume":278336,"change":0.438701,"changePercent":0.522,"vwap":84.4555,"label":"Aug 14, 18","changeOverTime":0.26545876838672716},{"date":"2018-08-15","open":84.1409,"high":84.1409,"low":82.7151,"close":83.5626,"volume":529375,"unadjustedVolume":529375,"change":-0.997048,"changePercent":-1.179,"vwap":83.2264,"label":"Aug 15, 18","changeOverTime":0.25053837623632},{"date":"2018-08-16","open":84.1209,"high":84.769,"low":83.7121,"close":84.3303,"volume":269440,"unadjustedVolume":269440,"change":0.767727,"changePercent":0.919,"vwap":84.3874,"label":"Aug 16, 18","changeOverTime":0.26202722784501353},{"date":"2018-08-17","open":84.2805,"high":84.9086,"low":83.9895,"close":84.5696,"volume":289888,"unadjustedVolume":289888,"change":0.239291,"changePercent":0.284,"vwap":84.4154,"label":"Aug 17, 18","changeOverTime":0.2656084212668715},{"date":"2018-08-20","open":84.7491,"high":84.8488,"low":84.0611,"close":84.1409,"volume":385239,"unadjustedVolume":385239,"change":-0.42873,"changePercent":-0.507,"vwap":84.3146,"label":"Aug 20, 18","changeOverTime":0.25919280229507674},{"date":"2018-08-21","open":84.3802,"high":85.457,"low":84.3802,"close":85.2077,"volume":660557,"unadjustedVolume":660557,"change":1.0668,"changePercent":1.268,"vwap":85.0969,"label":"Aug 21, 18","changeOverTime":0.2751577715488925},{"date":"2018-08-22","open":85.1778,"high":85.801,"low":84.7989,"close":85.6564,"volume":323656,"unadjustedVolume":323656,"change":0.448672,"changePercent":0.527,"vwap":85.6384,"label":"Aug 22, 18","changeOverTime":0.2818726962809765},{"date":"2018-08-23","open":85.806,"high":85.8857,"low":85.1978,"close":85.3174,"volume":371541,"unadjustedVolume":371541,"change":-0.338997,"changePercent":-0.396,"vwap":85.4877,"label":"Aug 23, 18","changeOverTime":0.27679946364407776},{"date":"2018-08-24","open":84.9186,"high":85.0183,"low":84.4001,"close":84.5896,"volume":1091407,"unadjustedVolume":1091407,"change":-0.727845,"changePercent":-0.853,"vwap":84.6315,"label":"Aug 24, 18","changeOverTime":0.2659077270271607},{"date":"2018-08-27","open":84.6394,"high":85.2376,"low":84.4799,"close":84.9784,"volume":422014,"unadjustedVolume":422014,"change":0.388849,"changePercent":0.46,"vwap":84.9754,"label":"Aug 27, 18","changeOverTime":0.27172623100717885},{"date":"2018-08-28","open":85.1579,"high":85.5766,"low":84.0761,"close":84.3503,"volume":273204,"unadjustedVolume":273204,"change":-0.62814,"changePercent":-0.739,"vwap":84.5341,"label":"Aug 28, 18","changeOverTime":0.26232653360530267},{"date":"2018-08-29","open":84.3503,"high":84.8887,"low":83.6822,"close":84.45,"volume":397997,"unadjustedVolume":397997,"change":0.099705,"changePercent":0.118,"vwap":84.3827,"label":"Aug 29, 18","changeOverTime":0.2638185728203434},{"date":"2018-08-30","open":84.41,"high":84.41,"low":83.74,"close":83.91,"volume":305033,"unadjustedVolume":305033,"change":-0.539966,"changePercent":-0.639,"vwap":83.9691,"label":"Aug 30, 18","changeOverTime":0.25573731729254},{"date":"2018-08-31","open":83.79,"high":84.3,"low":83.21,"close":84.2,"volume":663973,"unadjustedVolume":663973,"change":0.29,"changePercent":0.346,"vwap":84.0324,"label":"Aug 31, 18","changeOverTime":0.2600772508167308},{"date":"2018-09-04","open":83.68,"high":84.2,"low":83.42,"close":83.83,"volume":398458,"unadjustedVolume":398458,"change":-0.37,"changePercent":-0.439,"vwap":83.8308,"label":"Sep 4, 18","changeOverTime":0.254540094251384},{"date":"2018-09-05","open":83.63,"high":84.56,"low":83.63,"close":84.33,"volume":357975,"unadjustedVolume":357975,"change":0.5,"changePercent":0.596,"vwap":84.2952,"label":"Sep 5, 18","changeOverTime":0.2620227382586092},{"date":"2018-09-06","open":84.5,"high":84.82,"low":83.915,"close":84.42,"volume":512918,"unadjustedVolume":512918,"change":0.09,"changePercent":0.107,"vwap":84.3773,"label":"Sep 6, 18","changeOverTime":0.26336961417990984},{"date":"2018-09-07","open":84.07,"high":84.42,"low":83.51,"close":83.86,"volume":374081,"unadjustedVolume":374081,"change":-0.56,"changePercent":-0.663,"vwap":83.8822,"label":"Sep 7, 18","changeOverTime":0.25498905289181756},{"date":"2018-09-10","open":84.19,"high":84.5,"low":83.55,"close":83.55,"volume":615985,"unadjustedVolume":615985,"change":-0.31,"changePercent":-0.37,"vwap":83.7305,"label":"Sep 10, 18","changeOverTime":0.2503498136073379},{"date":"2018-09-11","open":83.41,"high":84.49,"low":83.17,"close":84.34,"volume":509204,"unadjustedVolume":509204,"change":0.79,"changePercent":0.946,"vwap":84.197,"label":"Sep 11, 18","changeOverTime":0.26217239113875385},{"date":"2018-09-12","open":84.37,"high":84.45,"low":83.52,"close":83.83,"volume":307656,"unadjustedVolume":307656,"change":-0.51,"changePercent":-0.605,"vwap":83.9349,"label":"Sep 12, 18","changeOverTime":0.254540094251384},{"date":"2018-09-13","open":84.17,"high":84.715,"low":84.03,"close":84.6,"volume":351378,"unadjustedVolume":351378,"change":0.77,"changePercent":0.919,"vwap":84.4002,"label":"Sep 13, 18","changeOverTime":0.2660633660225108},{"date":"2018-09-14","open":84.76,"high":85.1745,"low":84.29,"close":84.6,"volume":310859,"unadjustedVolume":310859,"change":0,"changePercent":0,"vwap":84.6515,"label":"Sep 14, 18","changeOverTime":0.2660633660225108},{"date":"2018-09-17","open":84.61,"high":85.01,"low":83.77,"close":84.7,"volume":461181,"unadjustedVolume":461181,"change":0.1,"changePercent":0.118,"vwap":84.7098,"label":"Sep 17, 18","changeOverTime":0.267559894823956},{"date":"2018-09-18","open":84.71,"high":85.0764,"low":84.37,"close":84.79,"volume":289537,"unadjustedVolume":289537,"change":0.09,"changePercent":0.106,"vwap":84.7953,"label":"Sep 18, 18","changeOverTime":0.2689067707452566},{"date":"2018-09-19","open":84.85,"high":85.89,"low":84.85,"close":85.26,"volume":245719,"unadjustedVolume":245719,"change":0.47,"changePercent":0.554,"vwap":85.196,"label":"Sep 19, 18","changeOverTime":0.2759404561120483},{"date":"2018-09-20","open":85.52,"high":86.325,"low":85.52,"close":86.1,"volume":324039,"unadjustedVolume":324039,"change":0.84,"changePercent":0.985,"vwap":86.0271,"label":"Sep 20, 18","changeOverTime":0.28851129804418657},{"date":"2018-09-21","open":86.31,"high":86.525,"low":85.645,"close":85.67,"volume":445948,"unadjustedVolume":445948,"change":-0.43,"changePercent":-0.499,"vwap":85.9048,"label":"Sep 21, 18","changeOverTime":0.28207622419797296},{"date":"2018-09-24","open":85.44,"high":85.68,"low":84.97,"close":85.31,"volume":370550,"unadjustedVolume":370550,"change":-0.36,"changePercent":-0.42,"vwap":85.3102,"label":"Sep 24","changeOverTime":0.27668872051277077},{"date":"2018-09-25","open":85.61,"high":86.29,"low":85.05,"close":85.98,"volume":507467,"unadjustedVolume":507467,"change":0.67,"changePercent":0.785,"vwap":85.8768,"label":"Sep 25","changeOverTime":0.28671546348245264},{"date":"2018-09-26","open":85.94,"high":85.94,"low":84.51,"close":84.55,"volume":397868,"unadjustedVolume":397868,"change":-1.43,"changePercent":-1.663,"vwap":85.0159,"label":"Sep 26","changeOverTime":0.26531510162178834},{"date":"2018-09-27","open":84.58,"high":84.98,"low":83.95,"close":84.03,"volume":293379,"unadjustedVolume":293379,"change":-0.52,"changePercent":-0.615,"vwap":84.1739,"label":"Sep 27","changeOverTime":0.25753315185427417},{"date":"2018-09-28","open":83.72,"high":84.25,"low":83.45,"close":83.86,"volume":433386,"unadjustedVolume":433386,"change":-0.17,"changePercent":-0.202,"vwap":83.8437,"label":"Sep 28","changeOverTime":0.25498905289181756},{"date":"2018-10-01","open":84.39,"high":84.84,"low":83.98,"close":84.21,"volume":344890,"unadjustedVolume":344890,"change":0.35,"changePercent":0.417,"vwap":84.4979,"label":"Oct 1","changeOverTime":0.2602269036968751},{"date":"2018-10-02","open":84.33,"high":84.65,"low":83.4,"close":83.47,"volume":368993,"unadjustedVolume":368993,"change":-0.74,"changePercent":-0.879,"vwap":83.8764,"label":"Oct 2","changeOverTime":0.24915259056618183},{"date":"2018-10-03","open":83.69,"high":84.2425,"low":83.29,"close":83.54,"volume":407858,"unadjustedVolume":407858,"change":0.07,"changePercent":0.084,"vwap":83.8064,"label":"Oct 3","changeOverTime":0.2502001607271935},{"date":"2018-10-04","open":83.34,"high":83.5,"low":82.47,"close":83.01,"volume":375816,"unadjustedVolume":375816,"change":-0.53,"changePercent":-0.634,"vwap":82.9308,"label":"Oct 4","changeOverTime":0.2422685580795347},{"date":"2018-10-05","open":83.04,"high":83.09,"low":81.98,"close":82.88,"volume":362304,"unadjustedVolume":362304,"change":-0.13,"changePercent":-0.157,"vwap":82.7581,"label":"Oct 5","changeOverTime":0.240323070637656},{"date":"2018-10-08","open":82.68,"high":83.2495,"low":81.85,"close":82.36,"volume":888515,"unadjustedVolume":888515,"change":-0.52,"changePercent":-0.627,"vwap":82.4039,"label":"Oct 8","changeOverTime":0.2325411208701418},{"date":"2018-10-09","open":81.78,"high":81.86,"low":79.49,"close":79.73,"volume":1204369,"unadjustedVolume":1204369,"change":-2.63,"changePercent":-3.193,"vwap":80.3125,"label":"Oct 9","changeOverTime":0.1931824133921371},{"date":"2018-10-10","open":79.49,"high":79.79,"low":77,"close":77.05,"volume":942128,"unadjustedVolume":942128,"change":-2.68,"changePercent":-3.361,"vwap":77.8218,"label":"Oct 10","changeOverTime":0.1530754415134097},{"date":"2018-10-11","open":77,"high":77.18,"low":75.14,"close":75.23,"volume":785618,"unadjustedVolume":785618,"change":-1.82,"changePercent":-2.362,"vwap":75.9154,"label":"Oct 11","changeOverTime":0.12583861732710994},{"date":"2018-10-12","open":75.9,"high":76.1,"low":74.09,"close":74.88,"volume":566322,"unadjustedVolume":566322,"change":-0.35,"changePercent":-0.465,"vwap":74.9201,"label":"Oct 12","changeOverTime":0.12060076652205214},{"date":"2018-10-15","open":74.6,"high":75.09,"low":74.08,"close":74.69,"volume":417888,"unadjustedVolume":417888,"change":-0.19,"changePercent":-0.254,"vwap":74.6112,"label":"Oct 15","changeOverTime":0.11775736179930658},{"date":"2018-10-16","open":75.03,"high":76.44,"low":74.58,"close":76.32,"volume":273405,"unadjustedVolume":273405,"change":1.63,"changePercent":2.182,"vwap":76.0636,"label":"Oct 16","changeOverTime":0.1421507812628608},{"date":"2018-10-17","open":75.99,"high":76.1864,"low":75.19,"close":75.65,"volume":266867,"unadjustedVolume":266867,"change":-0.67,"changePercent":-0.878,"vwap":75.6565,"label":"Oct 17","changeOverTime":0.13212403829317917},{"date":"2018-10-18","open":75.51,"high":76.28,"low":74.6,"close":74.85,"volume":563050,"unadjustedVolume":563050,"change":-0.8,"changePercent":-1.058,"vwap":75.3688,"label":"Oct 18","changeOverTime":0.12015180788161861},{"date":"2018-10-19","open":75.13,"high":75.38,"low":74.27,"close":74.66,"volume":392690,"unadjustedVolume":392690,"change":-0.19,"changePercent":-0.254,"vwap":74.7338,"label":"Oct 19","changeOverTime":0.11730840315887305},{"date":"2018-10-22","open":74.92,"high":75.21,"low":74.34,"close":75.04,"volume":525905,"unadjustedVolume":525905,"change":0.38,"changePercent":0.509,"vwap":74.9469,"label":"Oct 22","changeOverTime":0.12299521260436437},{"date":"2018-10-23","open":73.98,"high":75.08,"low":73.08,"close":74.74,"volume":410365,"unadjustedVolume":410365,"change":-0.3,"changePercent":-0.4,"vwap":74.1895,"label":"Oct 23","changeOverTime":0.11850562620002907},{"date":"2018-10-24","open":74.65,"high":74.97,"low":72.49,"close":72.57,"volume":542876,"unadjustedVolume":542876,"change":-2.17,"changePercent":-2.903,"vwap":73.5851,"label":"Oct 24","changeOverTime":0.08603095120867149},{"date":"2018-10-25","open":72.96,"high":75.07,"low":72.23,"close":74.08,"volume":1193791,"unadjustedVolume":1193791,"change":1.51,"changePercent":2.081,"vwap":73.7893,"label":"Oct 25","changeOverTime":0.1086285361104918},{"date":"2018-10-26","open":73.11,"high":74.83,"low":72.28,"close":73.71,"volume":415258,"unadjustedVolume":415258,"change":-0.37,"changePercent":-0.499,"vwap":73.559,"label":"Oct 26","changeOverTime":0.10309137954514505},{"date":"2018-10-29","open":74.71,"high":74.78,"low":71.4,"close":72.13,"volume":887494,"unadjustedVolume":887494,"change":-1.58,"changePercent":-2.144,"vwap":72.9976,"label":"Oct 29","changeOverTime":0.07944622448231331},{"date":"2018-10-30","open":72.28,"high":73.68,"low":71.71,"close":73.58,"volume":681156,"unadjustedVolume":681156,"change":1.45,"changePercent":2.01,"vwap":72.9111,"label":"Oct 30","changeOverTime":0.10114589210326655},{"date":"2018-10-31","open":74.29,"high":75.11,"low":73.86,"close":73.98,"volume":377297,"unadjustedVolume":377297,"change":0.4,"changePercent":0.544,"vwap":74.3792,"label":"Oct 31","changeOverTime":0.10713200730904683},{"date":"2018-11-01","open":74.53,"high":75.88,"low":74,"close":75.49,"volume":535348,"unadjustedVolume":535348,"change":1.51,"changePercent":2.041,"vwap":75.2013,"label":"Nov 1","changeOverTime":0.1297295922108669},{"date":"2018-11-02","open":75.92,"high":77.155,"low":75.64,"close":76.33,"volume":501732,"unadjustedVolume":501732,"change":0.84,"changePercent":1.113,"vwap":76.3181,"label":"Nov 2","changeOverTime":0.1423004341430054}],"9":Unknown symbol,"10":Unknown symbol,"11":Unknown symbol,"12":[{"date":"2017-10-24","open":83,"high":84.95,"low":73.55,"close":75.35,"volume":572353,"unadjustedVolume":572353,"change":-11.25,"changePercent":-12.991,"vwap":78.2027,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":74.35,"high":74.35,"low":66,"close":66,"volume":550639,"unadjustedVolume":550639,"change":-9.35,"changePercent":-12.409,"vwap":68.7043,"label":"Oct 25, 17","changeOverTime":-0.12408759124087584},{"date":"2017-10-26","open":66.2,"high":68.75,"low":65.55,"close":68.45,"volume":269872,"unadjustedVolume":269872,"change":2.45,"changePercent":3.712,"vwap":67.8262,"label":"Oct 26, 17","changeOverTime":-0.09157266091572651},{"date":"2017-10-27","open":68.35,"high":69.25,"low":67.1,"close":68.9,"volume":228225,"unadjustedVolume":228225,"change":0.45,"changePercent":0.657,"vwap":68.4636,"label":"Oct 27, 17","changeOverTime":-0.08560053085600516},{"date":"2017-10-30","open":68.6,"high":69.05,"low":67.15,"close":68.4,"volume":206686,"unadjustedVolume":206686,"change":-0.5,"changePercent":-0.726,"vwap":68.0147,"label":"Oct 30, 17","changeOverTime":-0.09223623092236216},{"date":"2017-10-31","open":68.6,"high":69.05,"low":68.2,"close":68.7,"volume":343200,"unadjustedVolume":343200,"change":0.3,"changePercent":0.439,"vwap":68.6349,"label":"Oct 31, 17","changeOverTime":-0.088254810882548},{"date":"2017-11-01","open":69.4,"high":69.45,"low":66.6,"close":67.25,"volume":197353,"unadjustedVolume":197353,"change":-1.45,"changePercent":-2.111,"vwap":67.8186,"label":"Nov 1, 17","changeOverTime":-0.10749834107498335},{"date":"2017-11-02","open":67,"high":68.25,"low":67,"close":67.9,"volume":154696,"unadjustedVolume":154696,"change":0.65,"changePercent":0.967,"vwap":67.9283,"label":"Nov 2, 17","changeOverTime":-0.09887193098871917},{"date":"2017-11-03","open":68.1,"high":68.1,"low":66.35,"close":66.7,"volume":100507,"unadjustedVolume":100507,"change":-1.2,"changePercent":-1.767,"vwap":66.8788,"label":"Nov 3, 17","changeOverTime":-0.114797611147976},{"date":"2017-11-06","open":66.8,"high":67.25,"low":66.3,"close":66.85,"volume":95800,"unadjustedVolume":95800,"change":0.15,"changePercent":0.225,"vwap":66.853,"label":"Nov 6, 17","changeOverTime":-0.11280690112806901},{"date":"2017-11-07","open":66.7,"high":66.95,"low":65.8,"close":65.95,"volume":177823,"unadjustedVolume":177823,"change":-0.9,"changePercent":-1.346,"vwap":66.2954,"label":"Nov 7, 17","changeOverTime":-0.12475116124751151},{"date":"2017-11-08","open":65.95,"high":66.6,"low":64.35,"close":64.45,"volume":245229,"unadjustedVolume":245229,"change":-1.5,"changePercent":-2.274,"vwap":64.8574,"label":"Nov 8, 17","changeOverTime":-0.1446582614465825},{"date":"2017-11-09","open":63.65,"high":64.845,"low":63.25,"close":63.75,"volume":127438,"unadjustedVolume":127438,"change":-0.7,"changePercent":-1.086,"vwap":63.9257,"label":"Nov 9, 17","changeOverTime":-0.15394824153948236},{"date":"2017-11-10","open":63.5,"high":63.95,"low":62.9,"close":63.3,"volume":130459,"unadjustedVolume":130459,"change":-0.45,"changePercent":-0.706,"vwap":63.4049,"label":"Nov 10, 17","changeOverTime":-0.1599203715992037},{"date":"2017-11-13","open":62.85,"high":63.65,"low":62.4,"close":63.5,"volume":246194,"unadjustedVolume":246194,"change":0.2,"changePercent":0.316,"vwap":63.2023,"label":"Nov 13, 17","changeOverTime":-0.15726609157266086},{"date":"2017-11-14","open":63.3,"high":64,"low":63,"close":63.7,"volume":140675,"unadjustedVolume":140675,"change":0.2,"changePercent":0.315,"vwap":63.609,"label":"Nov 14, 17","changeOverTime":-0.15461181154611803},{"date":"2017-11-15","open":62.85,"high":63.625,"low":62.5,"close":63.15,"volume":285061,"unadjustedVolume":285061,"change":-0.55,"changePercent":-0.863,"vwap":63.2126,"label":"Nov 15, 17","changeOverTime":-0.16191108161911077},{"date":"2017-11-16","open":63.7,"high":64.9197,"low":63.7,"close":64.45,"volume":163199,"unadjustedVolume":163199,"change":1.3,"changePercent":2.059,"vwap":64.4232,"label":"Nov 16, 17","changeOverTime":-0.1446582614465825},{"date":"2017-11-17","open":64,"high":64.55,"low":63.75,"close":64,"volume":116292,"unadjustedVolume":116292,"change":-0.45,"changePercent":-0.698,"vwap":64.0972,"label":"Nov 17, 17","changeOverTime":-0.15063039150630386},{"date":"2017-11-20","open":64.25,"high":64.6,"low":63.9,"close":64.45,"volume":234905,"unadjustedVolume":234905,"change":0.45,"changePercent":0.703,"vwap":64.296,"label":"Nov 20, 17","changeOverTime":-0.1446582614465825},{"date":"2017-11-21","open":65,"high":65.5,"low":64.8,"close":65.4,"volume":165525,"unadjustedVolume":165525,"change":0.95,"changePercent":1.474,"vwap":65.3162,"label":"Nov 21, 17","changeOverTime":-0.13205043132050417},{"date":"2017-11-22","open":65.9,"high":67.15,"low":65.4,"close":66,"volume":161054,"unadjustedVolume":161054,"change":0.6,"changePercent":0.917,"vwap":66.0128,"label":"Nov 22, 17","changeOverTime":-0.12408759124087584},{"date":"2017-11-24","open":66.3,"high":66.85,"low":65.45,"close":66.45,"volume":102158,"unadjustedVolume":102158,"change":0.45,"changePercent":0.682,"vwap":66.3596,"label":"Nov 24, 17","changeOverTime":-0.11811546118115451},{"date":"2017-11-27","open":66.35,"high":67.4,"low":66.35,"close":67.1,"volume":219646,"unadjustedVolume":219646,"change":0.65,"changePercent":0.978,"vwap":66.7852,"label":"Nov 27, 17","changeOverTime":-0.10948905109489052},{"date":"2017-11-28","open":67.9,"high":69.95,"low":67.5753,"close":69.9,"volume":206105,"unadjustedVolume":206105,"change":2.8,"changePercent":4.173,"vwap":68.9909,"label":"Nov 28, 17","changeOverTime":-0.07232913072329117},{"date":"2017-11-29","open":69.95,"high":70.7,"low":69.35,"close":70.25,"volume":180598,"unadjustedVolume":180598,"change":0.35,"changePercent":0.501,"vwap":70.1232,"label":"Nov 29, 17","changeOverTime":-0.06768414067684134},{"date":"2017-11-30","open":70.95,"high":71.9,"low":70.35,"close":71.5,"volume":253512,"unadjustedVolume":253512,"change":1.25,"changePercent":1.779,"vwap":71.3679,"label":"Nov 30, 17","changeOverTime":-0.051094890510948836},{"date":"2017-12-01","open":71.25,"high":72.9,"low":70.05,"close":72.3,"volume":248253,"unadjustedVolume":248253,"change":0.8,"changePercent":1.119,"vwap":71.7126,"label":"Dec 1, 17","changeOverTime":-0.040477770404777666},{"date":"2017-12-04","open":73.65,"high":74.7,"low":72.3,"close":72.3,"volume":274231,"unadjustedVolume":274231,"change":0,"changePercent":0,"vwap":73.4095,"label":"Dec 4, 17","changeOverTime":-0.040477770404777666},{"date":"2017-12-05","open":72.8,"high":72.8,"low":70.55,"close":70.85,"volume":258497,"unadjustedVolume":258497,"change":-1.45,"changePercent":-2.006,"vwap":71.0644,"label":"Dec 5, 17","changeOverTime":-0.05972130059721301},{"date":"2017-12-06","open":70.5,"high":71.45,"low":70.4,"close":70.85,"volume":109727,"unadjustedVolume":109727,"change":0,"changePercent":0,"vwap":71.0247,"label":"Dec 6, 17","changeOverTime":-0.05972130059721301},{"date":"2017-12-07","open":70.75,"high":71.05,"low":69.6,"close":69.95,"volume":174700,"unadjustedVolume":174700,"change":-0.9,"changePercent":-1.27,"vwap":70.0657,"label":"Dec 7, 17","changeOverTime":-0.0716655607166555},{"date":"2017-12-08","open":70.65,"high":71.1,"low":69.75,"close":70.1,"volume":179911,"unadjustedVolume":179911,"change":0.15,"changePercent":0.214,"vwap":70.3989,"label":"Dec 8, 17","changeOverTime":-0.06967485069674852},{"date":"2017-12-11","open":70.15,"high":71,"low":69.95,"close":70.1,"volume":92989,"unadjustedVolume":92989,"change":0,"changePercent":0,"vwap":70.1911,"label":"Dec 11, 17","changeOverTime":-0.06967485069674852},{"date":"2017-12-12","open":70.2,"high":71,"low":70.1,"close":70.55,"volume":120385,"unadjustedVolume":120385,"change":0.45,"changePercent":0.642,"vwap":70.5682,"label":"Dec 12, 17","changeOverTime":-0.06370272063702717},{"date":"2017-12-13","open":70.8,"high":71.55,"low":70.2,"close":70.25,"volume":236294,"unadjustedVolume":236294,"change":-0.3,"changePercent":-0.425,"vwap":71.0414,"label":"Dec 13, 17","changeOverTime":-0.06768414067684134},{"date":"2017-12-14","open":70.5,"high":70.75,"low":68.55,"close":68.65,"volume":206905,"unadjustedVolume":206905,"change":-1.6,"changePercent":-2.278,"vwap":69.5894,"label":"Dec 14, 17","changeOverTime":-0.08891838088918366},{"date":"2017-12-15","open":69.65,"high":71.6,"low":68.7,"close":70.35,"volume":518060,"unadjustedVolume":518060,"change":1.7,"changePercent":2.476,"vwap":70.3014,"label":"Dec 15, 17","changeOverTime":-0.06635700066357002},{"date":"2017-12-18","open":72.7,"high":73,"low":69.8,"close":72.2,"volume":242316,"unadjustedVolume":242316,"change":1.85,"changePercent":2.63,"vwap":71.8843,"label":"Dec 18, 17","changeOverTime":-0.04180491041804899},{"date":"2017-12-19","open":72.25,"high":72.9,"low":71.75,"close":72.25,"volume":170426,"unadjustedVolume":170426,"change":0.05,"changePercent":0.069,"vwap":72.3212,"label":"Dec 19, 17","changeOverTime":-0.04114134041141333},{"date":"2017-12-20","open":72.6,"high":75,"low":72.2985,"close":74.75,"volume":211641,"unadjustedVolume":211641,"change":2.5,"changePercent":3.46,"vwap":74.2502,"label":"Dec 20, 17","changeOverTime":-0.007962840079628325},{"date":"2017-12-21","open":74.7,"high":75.25,"low":73.6,"close":74.35,"volume":217998,"unadjustedVolume":217998,"change":-0.4,"changePercent":-0.535,"vwap":74.5515,"label":"Dec 21, 17","changeOverTime":-0.013271400132714002},{"date":"2017-12-22","open":73.8,"high":75.05,"low":73.75,"close":74.8,"volume":154914,"unadjustedVolume":154914,"change":0.45,"changePercent":0.605,"vwap":74.5594,"label":"Dec 22, 17","changeOverTime":-0.007299270072992663},{"date":"2017-12-26","open":74.8,"high":75.3,"low":74.725,"close":75,"volume":155182,"unadjustedVolume":155182,"change":0.2,"changePercent":0.267,"vwap":75.0219,"label":"Dec 26, 17","changeOverTime":-0.004644990046449826},{"date":"2017-12-27","open":74.9,"high":75.35,"low":74.85,"close":75.2,"volume":151215,"unadjustedVolume":151215,"change":0.2,"changePercent":0.267,"vwap":75.1526,"label":"Dec 27, 17","changeOverTime":-0.0019907100199069872},{"date":"2017-12-28","open":75.5,"high":76,"low":75.05,"close":75.8,"volume":96455,"unadjustedVolume":96455,"change":0.6,"changePercent":0.798,"vwap":75.6476,"label":"Dec 28, 17","changeOverTime":0.005972130059721339},{"date":"2017-12-29","open":76.1,"high":76.85,"low":75.75,"close":76,"volume":137663,"unadjustedVolume":137663,"change":0.2,"changePercent":0.264,"vwap":76.1904,"label":"Dec 29, 17","changeOverTime":0.008626410086264177},{"date":"2018-01-02","open":76.5,"high":76.5,"low":75.05,"close":76.15,"volume":171478,"unadjustedVolume":171478,"change":0.15,"changePercent":0.197,"vwap":75.8827,"label":"Jan 2, 18","changeOverTime":0.010617120106171352},{"date":"2018-01-03","open":76.35,"high":76.85,"low":76,"close":76.15,"volume":117373,"unadjustedVolume":117373,"change":0,"changePercent":0,"vwap":76.294,"label":"Jan 3, 18","changeOverTime":0.010617120106171352},{"date":"2018-01-04","open":76.65,"high":76.95,"low":76.05,"close":76.3,"volume":100656,"unadjustedVolume":100656,"change":0.15,"changePercent":0.197,"vwap":76.4415,"label":"Jan 4, 18","changeOverTime":0.01260783012607834},{"date":"2018-01-05","open":76.8,"high":78.3,"low":75.3,"close":76.05,"volume":145882,"unadjustedVolume":145882,"change":-0.25,"changePercent":-0.328,"vwap":75.9171,"label":"Jan 5, 18","changeOverTime":0.009289980092899839},{"date":"2018-01-08","open":76,"high":77.1,"low":75.1,"close":76.95,"volume":155177,"unadjustedVolume":155177,"change":0.9,"changePercent":1.183,"vwap":76.5538,"label":"Jan 8, 18","changeOverTime":0.021234240212342517},{"date":"2018-01-09","open":77.3,"high":77.7,"low":76,"close":76.1,"volume":271305,"unadjustedVolume":271305,"change":-0.85,"changePercent":-1.105,"vwap":76.1505,"label":"Jan 9, 18","changeOverTime":0.009953550099535502},{"date":"2018-01-10","open":75.4,"high":77.05,"low":75.4,"close":76.2,"volume":258894,"unadjustedVolume":258894,"change":0.1,"changePercent":0.131,"vwap":76.1116,"label":"Jan 10, 18","changeOverTime":0.011280690112807015},{"date":"2018-01-11","open":76.25,"high":77.15,"low":76.1,"close":76.8,"volume":149673,"unadjustedVolume":149673,"change":0.6,"changePercent":0.787,"vwap":76.7388,"label":"Jan 11, 18","changeOverTime":0.01924353019243534},{"date":"2018-01-12","open":77.2,"high":78.85,"low":76.9,"close":78.5,"volume":332408,"unadjustedVolume":332408,"change":1.7,"changePercent":2.214,"vwap":77.9249,"label":"Jan 12, 18","changeOverTime":0.041804910418049186},{"date":"2018-01-16","open":79.5,"high":80.5,"low":77.95,"close":78,"volume":166181,"unadjustedVolume":166181,"change":-0.5,"changePercent":-0.637,"vwap":79.05,"label":"Jan 16, 18","changeOverTime":0.03516921035169218},{"date":"2018-01-17","open":78.7,"high":79.4,"low":77.6,"close":78.45,"volume":161886,"unadjustedVolume":161886,"change":0.45,"changePercent":0.577,"vwap":78.0872,"label":"Jan 17, 18","changeOverTime":0.04114134041141352},{"date":"2018-01-18","open":78.15,"high":78.775,"low":77.5,"close":77.5,"volume":146525,"unadjustedVolume":146525,"change":-0.95,"changePercent":-1.211,"vwap":78.1138,"label":"Jan 18, 18","changeOverTime":0.02853351028533518},{"date":"2018-01-19","open":77.8,"high":80.2,"low":76.95,"close":79.95,"volume":278634,"unadjustedVolume":278634,"change":2.45,"changePercent":3.161,"vwap":79.2285,"label":"Jan 19, 18","changeOverTime":0.061048440610484526},{"date":"2018-01-22","open":79.85,"high":80,"low":78.75,"close":79.95,"volume":192717,"unadjustedVolume":192717,"change":0,"changePercent":0,"vwap":79.5227,"label":"Jan 22, 18","changeOverTime":0.061048440610484526},{"date":"2018-01-23","open":79.45,"high":80.3,"low":78.65,"close":79.6,"volume":196668,"unadjustedVolume":196668,"change":-0.35,"changePercent":-0.438,"vwap":79.5724,"label":"Jan 23, 18","changeOverTime":0.05640345056403451},{"date":"2018-01-24","open":80.35,"high":81.475,"low":79.3,"close":80.15,"volume":237844,"unadjustedVolume":237844,"change":0.55,"changePercent":0.691,"vwap":80.5496,"label":"Jan 24, 18","changeOverTime":0.06370272063702737},{"date":"2018-01-25","open":80.8,"high":80.9,"low":79.4,"close":80.55,"volume":213911,"unadjustedVolume":213911,"change":0.4,"changePercent":0.499,"vwap":80.1919,"label":"Jan 25, 18","changeOverTime":0.06901128069011285},{"date":"2018-01-26","open":80.8,"high":81,"low":79.5,"close":79.65,"volume":239231,"unadjustedVolume":239231,"change":-0.9,"changePercent":-1.117,"vwap":79.9825,"label":"Jan 26, 18","changeOverTime":0.05706702057067036},{"date":"2018-01-29","open":79.1,"high":80.95,"low":79.05,"close":80.5,"volume":282497,"unadjustedVolume":282497,"change":0.85,"changePercent":1.067,"vwap":80.4254,"label":"Jan 29, 18","changeOverTime":0.06834771068347718},{"date":"2018-01-30","open":82.5,"high":88.85,"low":82.5,"close":85.15,"volume":547456,"unadjustedVolume":547456,"change":4.65,"changePercent":5.776,"vwap":85.5574,"label":"Jan 30, 18","changeOverTime":0.13005972130059737},{"date":"2018-01-31","open":85.7,"high":86.4,"low":82.35,"close":83.7,"volume":333957,"unadjustedVolume":333957,"change":-1.45,"changePercent":-1.703,"vwap":84.0677,"label":"Jan 31, 18","changeOverTime":0.11081619110816203},{"date":"2018-02-01","open":83.45,"high":85.45,"low":82.5,"close":85.35,"volume":315131,"unadjustedVolume":315131,"change":1.65,"changePercent":1.971,"vwap":84.575,"label":"Feb 1, 18","changeOverTime":0.13271400132714004},{"date":"2018-02-02","open":84.1,"high":84.1,"low":82.43,"close":82.85,"volume":172322,"unadjustedVolume":172322,"change":-2.5,"changePercent":-2.929,"vwap":83.0821,"label":"Feb 2, 18","changeOverTime":0.09953550099535502},{"date":"2018-02-05","open":82,"high":82.6,"low":79.15,"close":79.2,"volume":191045,"unadjustedVolume":191045,"change":-3.65,"changePercent":-4.406,"vwap":80.5746,"label":"Feb 5, 18","changeOverTime":0.05109489051094902},{"date":"2018-02-06","open":77.25,"high":79.75,"low":77,"close":78.85,"volume":177136,"unadjustedVolume":177136,"change":-0.35,"changePercent":-0.442,"vwap":78.5102,"label":"Feb 6, 18","changeOverTime":0.04644990046449901},{"date":"2018-02-07","open":77.95,"high":79.45,"low":77.9,"close":78.55,"volume":147387,"unadjustedVolume":147387,"change":-0.3,"changePercent":-0.38,"vwap":78.7872,"label":"Feb 7, 18","changeOverTime":0.042468480424684846},{"date":"2018-02-08","open":78.55,"high":78.7,"low":75.95,"close":75.95,"volume":159903,"unadjustedVolume":159903,"change":-2.6,"changePercent":-3.31,"vwap":77.0624,"label":"Feb 8, 18","changeOverTime":0.007962840079628514},{"date":"2018-02-09","open":77.15,"high":77.2,"low":73.9,"close":76.35,"volume":148790,"unadjustedVolume":148790,"change":0.4,"changePercent":0.527,"vwap":75.8595,"label":"Feb 9, 18","changeOverTime":0.013271400132714002},{"date":"2018-02-12","open":76.7,"high":77.35,"low":75.7,"close":76.65,"volume":154599,"unadjustedVolume":154599,"change":0.3,"changePercent":0.393,"vwap":76.6463,"label":"Feb 12, 18","changeOverTime":0.017252820172528355},{"date":"2018-02-13","open":76.15,"high":77.35,"low":75.5,"close":77,"volume":169123,"unadjustedVolume":169123,"change":0.35,"changePercent":0.457,"vwap":76.4839,"label":"Feb 13, 18","changeOverTime":0.02189781021897818},{"date":"2018-02-14","open":76.4,"high":79.05,"low":76.4,"close":78.5,"volume":104401,"unadjustedVolume":104401,"change":1.5,"changePercent":1.948,"vwap":78.1777,"label":"Feb 14, 18","changeOverTime":0.041804910418049186},{"date":"2018-02-15","open":79,"high":79,"low":76.8,"close":78.05,"volume":131582,"unadjustedVolume":131582,"change":-0.45,"changePercent":-0.573,"vwap":77.7566,"label":"Feb 15, 18","changeOverTime":0.03583278035832784},{"date":"2018-02-16","open":77.65,"high":78.5,"low":77.5,"close":77.6,"volume":130915,"unadjustedVolume":130915,"change":-0.45,"changePercent":-0.577,"vwap":77.9072,"label":"Feb 16, 18","changeOverTime":0.029860650298606507},{"date":"2018-02-20","open":77,"high":78.25,"low":76.45,"close":76.75,"volume":165548,"unadjustedVolume":165548,"change":-0.85,"changePercent":-1.095,"vwap":77.2215,"label":"Feb 20, 18","changeOverTime":0.018579960185799677},{"date":"2018-02-21","open":77.2,"high":78.6,"low":76.7,"close":76.8,"volume":164991,"unadjustedVolume":164991,"change":0.05,"changePercent":0.065,"vwap":77.6441,"label":"Feb 21, 18","changeOverTime":0.01924353019243534},{"date":"2018-02-22","open":77.15,"high":78.05,"low":76.8,"close":77.5,"volume":96801,"unadjustedVolume":96801,"change":0.7,"changePercent":0.911,"vwap":77.57,"label":"Feb 22, 18","changeOverTime":0.02853351028533518},{"date":"2018-02-23","open":78,"high":78.75,"low":77.2,"close":78.15,"volume":92958,"unadjustedVolume":92958,"change":0.65,"changePercent":0.839,"vwap":78.01,"label":"Feb 23, 18","changeOverTime":0.037159920371599355},{"date":"2018-02-26","open":78.25,"high":79.15,"low":77.85,"close":79.05,"volume":93152,"unadjustedVolume":93152,"change":0.9,"changePercent":1.152,"vwap":78.6297,"label":"Feb 26, 18","changeOverTime":0.04910418049104184},{"date":"2018-02-27","open":78.75,"high":79.8,"low":77.3,"close":77.3,"volume":84906,"unadjustedVolume":84906,"change":-1.75,"changePercent":-2.214,"vwap":78.0867,"label":"Feb 27, 18","changeOverTime":0.02587923025879234},{"date":"2018-02-28","open":77.85,"high":77.9,"low":75.5,"close":75.55,"volume":115734,"unadjustedVolume":115734,"change":-1.75,"changePercent":-2.264,"vwap":76.3127,"label":"Feb 28, 18","changeOverTime":0.002654280026542838},{"date":"2018-03-01","open":75.75,"high":76.4,"low":74.35,"close":74.9,"volume":151534,"unadjustedVolume":151534,"change":-0.65,"changePercent":-0.86,"vwap":75.2572,"label":"Mar 1, 18","changeOverTime":-0.00597213005972115},{"date":"2018-03-02","open":73.95,"high":75.55,"low":73.2,"close":75.45,"volume":121155,"unadjustedVolume":121155,"change":0.55,"changePercent":0.734,"vwap":74.8378,"label":"Mar 2, 18","changeOverTime":0.0013271400132715133},{"date":"2018-03-05","open":74.8,"high":76.3,"low":74.65,"close":75.7,"volume":137807,"unadjustedVolume":137807,"change":0.25,"changePercent":0.331,"vwap":75.5156,"label":"Mar 5, 18","changeOverTime":0.004644990046450014},{"date":"2018-03-06","open":76.25,"high":77.6,"low":74.95,"close":76.85,"volume":164299,"unadjustedVolume":164299,"change":1.15,"changePercent":1.519,"vwap":76.4568,"label":"Mar 6, 18","changeOverTime":0.019907100199071003},{"date":"2018-03-07","open":75.8,"high":76.7,"low":75.7,"close":76.1,"volume":142230,"unadjustedVolume":142230,"change":-0.75,"changePercent":-0.976,"vwap":76.1505,"label":"Mar 7, 18","changeOverTime":0.009953550099535502},{"date":"2018-03-08","open":76.55,"high":76.7,"low":75.1,"close":75.8,"volume":127904,"unadjustedVolume":127904,"change":-0.3,"changePercent":-0.394,"vwap":75.5916,"label":"Mar 8, 18","changeOverTime":0.005972130059721339},{"date":"2018-03-09","open":76.45,"high":78.35,"low":76.45,"close":77.75,"volume":119141,"unadjustedVolume":119141,"change":1.95,"changePercent":2.573,"vwap":77.6725,"label":"Mar 9, 18","changeOverTime":0.03185136031851368},{"date":"2018-03-12","open":78.15,"high":79.5,"low":77.8,"close":78.55,"volume":109708,"unadjustedVolume":109708,"change":0.8,"changePercent":1.029,"vwap":78.6267,"label":"Mar 12, 18","changeOverTime":0.042468480424684846},{"date":"2018-03-13","open":79.2,"high":79.6,"low":78.4,"close":78.5,"volume":220495,"unadjustedVolume":220495,"change":-0.05,"changePercent":-0.064,"vwap":78.6407,"label":"Mar 13, 18","changeOverTime":0.041804910418049186},{"date":"2018-03-14","open":79.05,"high":79.05,"low":78.05,"close":78.3,"volume":189938,"unadjustedVolume":189938,"change":-0.2,"changePercent":-0.255,"vwap":78.388,"label":"Mar 14, 18","changeOverTime":0.03915063039150635},{"date":"2018-03-15","open":78.5,"high":79.65,"low":77.4,"close":78.3,"volume":105970,"unadjustedVolume":105970,"change":0,"changePercent":0,"vwap":78.1007,"label":"Mar 15, 18","changeOverTime":0.03915063039150635},{"date":"2018-03-16","open":78.4,"high":80.5,"low":78.4,"close":80.35,"volume":293680,"unadjustedVolume":293680,"change":2.05,"changePercent":2.618,"vwap":79.9577,"label":"Mar 16, 18","changeOverTime":0.06635700066357002},{"date":"2018-03-19","open":80,"high":80.165,"low":77.65,"close":78.9,"volume":167418,"unadjustedVolume":167418,"change":-1.45,"changePercent":-1.805,"vwap":78.7409,"label":"Mar 19, 18","changeOverTime":0.04711347047113486},{"date":"2018-03-20","open":79.1,"high":79.6,"low":78.505,"close":78.7,"volume":95564,"unadjustedVolume":95564,"change":-0.2,"changePercent":-0.253,"vwap":78.8457,"label":"Mar 20, 18","changeOverTime":0.04445919044459202},{"date":"2018-03-21","open":78.5,"high":80.4,"low":78.15,"close":79.1,"volume":70722,"unadjustedVolume":70722,"change":0.4,"changePercent":0.508,"vwap":79.5455,"label":"Mar 21, 18","changeOverTime":0.04976775049767751},{"date":"2018-03-22","open":78.15,"high":78.35,"low":75.45,"close":75.6,"volume":115408,"unadjustedVolume":115408,"change":-3.5,"changePercent":-4.425,"vwap":76.5114,"label":"Mar 22, 18","changeOverTime":0.0033178500331785005},{"date":"2018-03-23","open":75.75,"high":75.75,"low":71.9,"close":71.95,"volume":185123,"unadjustedVolume":185123,"change":-3.65,"changePercent":-4.828,"vwap":72.9972,"label":"Mar 23, 18","changeOverTime":-0.0451227604512275},{"date":"2018-03-26","open":73.4,"high":75.25,"low":72.65,"close":75.15,"volume":122268,"unadjustedVolume":122268,"change":3.2,"changePercent":4.448,"vwap":74.3057,"label":"Mar 26, 18","changeOverTime":-0.0026542800265426498},{"date":"2018-03-27","open":75.15,"high":75.7,"low":73.5,"close":73.9,"volume":112924,"unadjustedVolume":112924,"change":-1.25,"changePercent":-1.663,"vwap":74.326,"label":"Mar 27, 18","changeOverTime":-0.019243530192435153},{"date":"2018-03-28","open":73.85,"high":74.85,"low":72.95,"close":74.35,"volume":117711,"unadjustedVolume":117711,"change":0.45,"changePercent":0.609,"vwap":74.2636,"label":"Mar 28, 18","changeOverTime":-0.013271400132714002},{"date":"2018-03-29","open":74.8,"high":76.55,"low":74.65,"close":75.75,"volume":156202,"unadjustedVolume":156202,"change":1.4,"changePercent":1.883,"vwap":75.8343,"label":"Mar 29, 18","changeOverTime":0.005308560053085676},{"date":"2018-04-02","open":75.15,"high":75.2,"low":72.8,"close":73.6,"volume":123610,"unadjustedVolume":123610,"change":-2.15,"changePercent":-2.838,"vwap":73.6865,"label":"Apr 2, 18","changeOverTime":-0.023224950232249505},{"date":"2018-04-03","open":74.3,"high":75.2,"low":73.5,"close":74.9,"volume":94774,"unadjustedVolume":94774,"change":1.3,"changePercent":1.766,"vwap":74.624,"label":"Apr 3, 18","changeOverTime":-0.00597213005972115},{"date":"2018-04-04","open":73.4,"high":75.7,"low":73.4,"close":75.4,"volume":64227,"unadjustedVolume":64227,"change":0.5,"changePercent":0.668,"vwap":75.0608,"label":"Apr 4, 18","changeOverTime":0.000663570006635851},{"date":"2018-04-05","open":76.2,"high":77.05,"low":75.1,"close":76.5,"volume":74776,"unadjustedVolume":74776,"change":1.1,"changePercent":1.459,"vwap":76.57,"label":"Apr 5, 18","changeOverTime":0.015262110152621178},{"date":"2018-04-06","open":75.55,"high":76.65,"low":74.1,"close":74.7,"volume":107401,"unadjustedVolume":107401,"change":-1.8,"changePercent":-2.353,"vwap":74.9574,"label":"Apr 6, 18","changeOverTime":-0.008626410086263988},{"date":"2018-04-09","open":75.35,"high":75.45,"low":74.35,"close":74.5,"volume":98806,"unadjustedVolume":98806,"change":-0.2,"changePercent":-0.268,"vwap":74.7407,"label":"Apr 9, 18","changeOverTime":-0.011280690112806826},{"date":"2018-04-10","open":76.2,"high":78.05,"low":74.95,"close":77.3,"volume":122992,"unadjustedVolume":122992,"change":2.8,"changePercent":3.758,"vwap":77.2499,"label":"Apr 10, 18","changeOverTime":0.02587923025879234},{"date":"2018-04-11","open":75.85,"high":76.45,"low":74.85,"close":76.15,"volume":276865,"unadjustedVolume":276865,"change":-1.15,"changePercent":-1.488,"vwap":75.572,"label":"Apr 11, 18","changeOverTime":0.010617120106171352},{"date":"2018-04-12","open":76.45,"high":77,"low":76.05,"close":76.4,"volume":63435,"unadjustedVolume":63435,"change":0.25,"changePercent":0.328,"vwap":76.4502,"label":"Apr 12, 18","changeOverTime":0.013934970139349852},{"date":"2018-04-13","open":76.7,"high":77.2,"low":76.15,"close":77,"volume":170954,"unadjustedVolume":170954,"change":0.6,"changePercent":0.785,"vwap":76.718,"label":"Apr 13, 18","changeOverTime":0.02189781021897818},{"date":"2018-04-16","open":77.55,"high":78.25,"low":77.15,"close":77.85,"volume":93564,"unadjustedVolume":93564,"change":0.85,"changePercent":1.104,"vwap":77.7747,"label":"Apr 16, 18","changeOverTime":0.03317850033178501},{"date":"2018-04-17","open":78.35,"high":79,"low":78.15,"close":78.85,"volume":319886,"unadjustedVolume":319886,"change":1,"changePercent":1.285,"vwap":78.6956,"label":"Apr 17, 18","changeOverTime":0.04644990046449901},{"date":"2018-04-18","open":79.1,"high":80.1,"low":78.925,"close":79.15,"volume":96825,"unadjustedVolume":96825,"change":0.3,"changePercent":0.38,"vwap":79.247,"label":"Apr 18, 18","changeOverTime":0.05043132050431336},{"date":"2018-04-19","open":79.2,"high":79.2,"low":77.85,"close":78.2,"volume":126907,"unadjustedVolume":126907,"change":-0.95,"changePercent":-1.2,"vwap":78.4733,"label":"Apr 19, 18","changeOverTime":0.03782349037823502},{"date":"2018-04-20","open":77.8,"high":78.75,"low":77.3,"close":78.05,"volume":74436,"unadjustedVolume":74436,"change":-0.15,"changePercent":-0.192,"vwap":77.9064,"label":"Apr 20, 18","changeOverTime":0.03583278035832784},{"date":"2018-04-23","open":78,"high":78.45,"low":77.8,"close":78.15,"volume":79402,"unadjustedVolume":79402,"change":0.1,"changePercent":0.128,"vwap":78.1052,"label":"Apr 23, 18","changeOverTime":0.037159920371599355},{"date":"2018-04-24","open":78.45,"high":78.75,"low":77.5,"close":78.5,"volume":303364,"unadjustedVolume":303364,"change":0.35,"changePercent":0.448,"vwap":78.1835,"label":"Apr 24, 18","changeOverTime":0.041804910418049186},{"date":"2018-04-25","open":78.3,"high":79.25,"low":77.7,"close":78.35,"volume":156255,"unadjustedVolume":156255,"change":-0.15,"changePercent":-0.191,"vwap":78.4427,"label":"Apr 25, 18","changeOverTime":0.039814200398142006},{"date":"2018-04-26","open":74.95,"high":74.95,"low":58.7,"close":60.1,"volume":1198624,"unadjustedVolume":1198624,"change":-18.25,"changePercent":-23.293,"vwap":61.2642,"label":"Apr 26, 18","changeOverTime":-0.20238885202388845},{"date":"2018-04-27","open":60.85,"high":60.85,"low":59.3,"close":59.8,"volume":503783,"unadjustedVolume":503783,"change":-0.3,"changePercent":-0.499,"vwap":59.7546,"label":"Apr 27, 18","changeOverTime":-0.2063702720637027},{"date":"2018-04-30","open":59.6,"high":61.15,"low":58.1322,"close":58.9,"volume":529016,"unadjustedVolume":529016,"change":-0.9,"changePercent":-1.505,"vwap":59.0786,"label":"Apr 30, 18","changeOverTime":-0.21831453218314528},{"date":"2018-05-01","open":60.1,"high":60.85,"low":59.625,"close":60.45,"volume":460593,"unadjustedVolume":460593,"change":1.55,"changePercent":2.632,"vwap":60.1088,"label":"May 1, 18","changeOverTime":-0.1977438619774385},{"date":"2018-05-02","open":60.7,"high":61.25,"low":60.05,"close":60.1,"volume":277123,"unadjustedVolume":277123,"change":-0.35,"changePercent":-0.579,"vwap":60.3769,"label":"May 2, 18","changeOverTime":-0.20238885202388845},{"date":"2018-05-03","open":59.7,"high":60.25,"low":56.5,"close":56.75,"volume":302709,"unadjustedVolume":302709,"change":-3.35,"changePercent":-5.574,"vwap":57.2121,"label":"May 3, 18","changeOverTime":-0.24684804246848036},{"date":"2018-05-04","open":56.35,"high":58.75,"low":56.25,"close":58.3,"volume":183484,"unadjustedVolume":183484,"change":1.55,"changePercent":2.731,"vwap":58.1972,"label":"May 4, 18","changeOverTime":-0.2262773722627737},{"date":"2018-05-07","open":58.45,"high":59.9,"low":58.45,"close":59.75,"volume":205412,"unadjustedVolume":205412,"change":1.45,"changePercent":2.487,"vwap":59.3311,"label":"May 7, 18","changeOverTime":-0.20703384207033837},{"date":"2018-05-08","open":60.1,"high":60.6,"low":59.55,"close":60.45,"volume":175038,"unadjustedVolume":175038,"change":0.7,"changePercent":1.172,"vwap":60.175,"label":"May 8, 18","changeOverTime":-0.1977438619774385},{"date":"2018-05-09","open":60.8,"high":61.7,"low":60.75,"close":61.35,"volume":256798,"unadjustedVolume":256798,"change":0.9,"changePercent":1.489,"vwap":61.3197,"label":"May 9, 18","changeOverTime":-0.18579960185799593},{"date":"2018-05-10","open":61.5,"high":63.55,"low":61.45,"close":63.3,"volume":256796,"unadjustedVolume":256796,"change":1.95,"changePercent":3.178,"vwap":63.0539,"label":"May 10, 18","changeOverTime":-0.1599203715992037},{"date":"2018-05-11","open":63.55,"high":64,"low":63.2,"close":63.8,"volume":160824,"unadjustedVolume":160824,"change":0.5,"changePercent":0.79,"vwap":63.7803,"label":"May 11, 18","changeOverTime":-0.1532846715328467},{"date":"2018-05-14","open":64,"high":64.35,"low":63.155,"close":63.7,"volume":239537,"unadjustedVolume":239537,"change":-0.1,"changePercent":-0.157,"vwap":63.8707,"label":"May 14, 18","changeOverTime":-0.15461181154611803},{"date":"2018-05-15","open":63.2,"high":63.7,"low":62.9,"close":63.2,"volume":259653,"unadjustedVolume":259653,"change":-0.5,"changePercent":-0.785,"vwap":63.1881,"label":"May 15, 18","changeOverTime":-0.16124751161247503},{"date":"2018-05-16","open":63.1,"high":63.45,"low":62.05,"close":62.2,"volume":235738,"unadjustedVolume":235738,"change":-1,"changePercent":-1.582,"vwap":62.4888,"label":"May 16, 18","changeOverTime":-0.17451891174518902},{"date":"2018-05-17","open":62.15,"high":62.55,"low":61.7,"close":61.9,"volume":269677,"unadjustedVolume":269677,"change":-0.3,"changePercent":-0.482,"vwap":62.0269,"label":"May 17, 18","changeOverTime":-0.17850033178500327},{"date":"2018-05-18","open":62.1,"high":62.7,"low":61.6,"close":62.55,"volume":144093,"unadjustedVolume":144093,"change":0.65,"changePercent":1.05,"vwap":62.3196,"label":"May 18, 18","changeOverTime":-0.1698739216987392},{"date":"2018-05-21","open":63,"high":63.95,"low":62.9306,"close":63.75,"volume":109123,"unadjustedVolume":109123,"change":1.2,"changePercent":1.918,"vwap":63.6836,"label":"May 21, 18","changeOverTime":-0.15394824153948236},{"date":"2018-05-22","open":63.95,"high":64.2,"low":62.35,"close":62.4,"volume":136651,"unadjustedVolume":136651,"change":-1.35,"changePercent":-2.118,"vwap":62.9483,"label":"May 22, 18","changeOverTime":-0.17186463171864627},{"date":"2018-05-23","open":61.9,"high":62.2502,"low":61.2,"close":61.45,"volume":118893,"unadjustedVolume":118893,"change":-0.95,"changePercent":-1.522,"vwap":61.6159,"label":"May 23, 18","changeOverTime":-0.18447246184472452},{"date":"2018-05-24","open":61.5,"high":61.6,"low":60.85,"close":61.1,"volume":107958,"unadjustedVolume":107958,"change":-0.35,"changePercent":-0.57,"vwap":61.1891,"label":"May 24, 18","changeOverTime":-0.18911745189117443},{"date":"2018-05-25","open":60.85,"high":61.8,"low":60.75,"close":61.1,"volume":164232,"unadjustedVolume":164232,"change":0,"changePercent":0,"vwap":61.1473,"label":"May 25, 18","changeOverTime":-0.18911745189117443},{"date":"2018-05-29","open":60.3,"high":61.3,"low":60.3,"close":60.8,"volume":142733,"unadjustedVolume":142733,"change":-0.3,"changePercent":-0.491,"vwap":60.831,"label":"May 29, 18","changeOverTime":-0.1930988719309887},{"date":"2018-05-30","open":61.5,"high":62.6,"low":61.05,"close":61.9,"volume":187836,"unadjustedVolume":187836,"change":1.1,"changePercent":1.809,"vwap":61.9776,"label":"May 30, 18","changeOverTime":-0.17850033178500327},{"date":"2018-05-31","open":62,"high":62.25,"low":61.15,"close":61.25,"volume":177977,"unadjustedVolume":177977,"change":-0.65,"changePercent":-1.05,"vwap":61.4834,"label":"May 31, 18","changeOverTime":-0.18712674187126735},{"date":"2018-06-01","open":61.85,"high":62.75,"low":61.85,"close":62.2,"volume":194880,"unadjustedVolume":194880,"change":0.95,"changePercent":1.551,"vwap":62.2024,"label":"Jun 1, 18","changeOverTime":-0.17451891174518902},{"date":"2018-06-04","open":62.7,"high":63.85,"low":62.7,"close":63.35,"volume":178379,"unadjustedVolume":178379,"change":1.15,"changePercent":1.849,"vwap":63.4348,"label":"Jun 4, 18","changeOverTime":-0.15925680159256794},{"date":"2018-06-05","open":63.25,"high":64.1,"low":63.05,"close":64.1,"volume":103024,"unadjustedVolume":103024,"change":0.75,"changePercent":1.184,"vwap":63.6709,"label":"Jun 5, 18","changeOverTime":-0.14930325149303253},{"date":"2018-06-06","open":64.3,"high":64.55,"low":63.4,"close":64.4,"volume":116534,"unadjustedVolume":116534,"change":0.3,"changePercent":0.468,"vwap":64.1273,"label":"Jun 6, 18","changeOverTime":-0.14532183145321817},{"date":"2018-06-07","open":64.45,"high":65.45,"low":64.15,"close":65.05,"volume":104915,"unadjustedVolume":104915,"change":0.65,"changePercent":1.009,"vwap":64.9733,"label":"Jun 7, 18","changeOverTime":-0.13669542136695417},{"date":"2018-06-08","open":64.65,"high":65.05,"low":64.3951,"close":64.8,"volume":104732,"unadjustedVolume":104732,"change":-0.25,"changePercent":-0.384,"vwap":64.7507,"label":"Jun 8, 18","changeOverTime":-0.1400132714001327},{"date":"2018-06-11","open":64.95,"high":66.175,"low":64.95,"close":66.05,"volume":90995,"unadjustedVolume":90995,"change":1.25,"changePercent":1.929,"vwap":65.8301,"label":"Jun 11, 18","changeOverTime":-0.12342402123424018},{"date":"2018-06-12","open":66.05,"high":66.3961,"low":64.8,"close":65.05,"volume":148680,"unadjustedVolume":148680,"change":-1,"changePercent":-1.514,"vwap":65.3551,"label":"Jun 12, 18","changeOverTime":-0.13669542136695417},{"date":"2018-06-13","open":65.3,"high":65.3,"low":64.75,"close":64.9,"volume":101503,"unadjustedVolume":101503,"change":-0.15,"changePercent":-0.231,"vwap":64.9952,"label":"Jun 13, 18","changeOverTime":-0.13868613138686117},{"date":"2018-06-14","open":65.2,"high":66.3,"low":65,"close":66,"volume":79196,"unadjustedVolume":79196,"change":1.1,"changePercent":1.695,"vwap":65.8391,"label":"Jun 14, 18","changeOverTime":-0.12408759124087584},{"date":"2018-06-15","open":65.8,"high":66.15,"low":65.15,"close":66,"volume":202856,"unadjustedVolume":202856,"change":0,"changePercent":0,"vwap":65.9015,"label":"Jun 15, 18","changeOverTime":-0.12408759124087584},{"date":"2018-06-18","open":65.4,"high":66.125,"low":65.15,"close":65.95,"volume":118932,"unadjustedVolume":118932,"change":-0.05,"changePercent":-0.076,"vwap":65.7789,"label":"Jun 18, 18","changeOverTime":-0.12475116124751151},{"date":"2018-06-19","open":65.35,"high":66.6502,"low":64.95,"close":66.15,"volume":152537,"unadjustedVolume":152537,"change":0.2,"changePercent":0.303,"vwap":66.0847,"label":"Jun 19, 18","changeOverTime":-0.12209688122096866},{"date":"2018-06-20","open":66,"high":66.75,"low":65.3,"close":66.65,"volume":178671,"unadjustedVolume":178671,"change":0.5,"changePercent":0.756,"vwap":66.2713,"label":"Jun 20, 18","changeOverTime":-0.11546118115461167},{"date":"2018-06-21","open":66.55,"high":66.55,"low":64.9,"close":65.05,"volume":136075,"unadjustedVolume":136075,"change":-1.6,"changePercent":-2.401,"vwap":65.3405,"label":"Jun 21, 18","changeOverTime":-0.13669542136695417},{"date":"2018-06-22","open":65.5,"high":66.1,"low":65.05,"close":65.25,"volume":219053,"unadjustedVolume":219053,"change":0.2,"changePercent":0.307,"vwap":65.361,"label":"Jun 22, 18","changeOverTime":-0.13404114134041134},{"date":"2018-06-25","open":65.2,"high":65.4,"low":63.55,"close":64.15,"volume":121095,"unadjustedVolume":121095,"change":-1.1,"changePercent":-1.686,"vwap":64.2248,"label":"Jun 25, 18","changeOverTime":-0.14863968148639667},{"date":"2018-06-26","open":64.15,"high":64.45,"low":62.9,"close":64.2,"volume":115664,"unadjustedVolume":115664,"change":0.05,"changePercent":0.078,"vwap":63.9005,"label":"Jun 26, 18","changeOverTime":-0.147976111479761},{"date":"2018-06-27","open":64.45,"high":64.95,"low":63.65,"close":63.7,"volume":116863,"unadjustedVolume":116863,"change":-0.5,"changePercent":-0.779,"vwap":64.1515,"label":"Jun 27, 18","changeOverTime":-0.15461181154611803},{"date":"2018-06-28","open":63.75,"high":63.75,"low":62.7,"close":63.3,"volume":105637,"unadjustedVolume":105637,"change":-0.4,"changePercent":-0.628,"vwap":63.2767,"label":"Jun 28, 18","changeOverTime":-0.1599203715992037},{"date":"2018-06-29","open":62.85,"high":64.4,"low":62.25,"close":63.3,"volume":151786,"unadjustedVolume":151786,"change":0,"changePercent":0,"vwap":63.6261,"label":"Jun 29, 18","changeOverTime":-0.1599203715992037},{"date":"2018-07-02","open":62.7,"high":63.65,"low":62.575,"close":63.65,"volume":186734,"unadjustedVolume":186734,"change":0.35,"changePercent":0.553,"vwap":63.1375,"label":"Jul 2, 18","changeOverTime":-0.15527538155275378},{"date":"2018-07-03","open":64,"high":64.15,"low":62.75,"close":62.85,"volume":87403,"unadjustedVolume":87403,"change":-0.8,"changePercent":-1.257,"vwap":63.4249,"label":"Jul 3, 18","changeOverTime":-0.16589250165892494},{"date":"2018-07-05","open":63.5,"high":65.35,"low":62.85,"close":64.95,"volume":203257,"unadjustedVolume":203257,"change":2.1,"changePercent":3.341,"vwap":64.3826,"label":"Jul 5, 18","changeOverTime":-0.1380225613802255},{"date":"2018-07-06","open":64.95,"high":65.5087,"low":64.85,"close":65.3,"volume":121456,"unadjustedVolume":121456,"change":0.35,"changePercent":0.539,"vwap":65.268,"label":"Jul 6, 18","changeOverTime":-0.13337757133377567},{"date":"2018-07-09","open":65.95,"high":66.775,"low":65.75,"close":66.65,"volume":198305,"unadjustedVolume":198305,"change":1.35,"changePercent":2.067,"vwap":66.4194,"label":"Jul 9, 18","changeOverTime":-0.11546118115461167},{"date":"2018-07-10","open":66.75,"high":67.35,"low":65.5,"close":65.75,"volume":161955,"unadjustedVolume":161955,"change":-0.9,"changePercent":-1.35,"vwap":66.1771,"label":"Jul 10, 18","changeOverTime":-0.12740544127405434},{"date":"2018-07-11","open":65.1,"high":65.25,"low":64.225,"close":64.5,"volume":166524,"unadjustedVolume":166524,"change":-1.25,"changePercent":-1.901,"vwap":64.6672,"label":"Jul 11, 18","changeOverTime":-0.14399469143994684},{"date":"2018-07-12","open":65.15,"high":65.15,"low":63.95,"close":64.4,"volume":149625,"unadjustedVolume":149625,"change":-0.1,"changePercent":-0.155,"vwap":64.4272,"label":"Jul 12, 18","changeOverTime":-0.14532183145321817},{"date":"2018-07-13","open":64.3,"high":65,"low":64.3,"close":64.7,"volume":143731,"unadjustedVolume":143731,"change":0.3,"changePercent":0.466,"vwap":64.6832,"label":"Jul 13, 18","changeOverTime":-0.141340411413404},{"date":"2018-07-16","open":64.8,"high":64.95,"low":63.55,"close":64.25,"volume":276690,"unadjustedVolume":276690,"change":-0.45,"changePercent":-0.696,"vwap":64.168,"label":"Jul 16, 18","changeOverTime":-0.14731254147312536},{"date":"2018-07-17","open":63.9,"high":65.55,"low":63.9,"close":64.7,"volume":456635,"unadjustedVolume":456635,"change":0.45,"changePercent":0.7,"vwap":64.9639,"label":"Jul 17, 18","changeOverTime":-0.141340411413404},{"date":"2018-07-18","open":64.85,"high":66.95,"low":64.634,"close":65.65,"volume":222551,"unadjustedVolume":222551,"change":0.95,"changePercent":1.468,"vwap":65.8762,"label":"Jul 18, 18","changeOverTime":-0.12873258128732568},{"date":"2018-07-19","open":65.45,"high":66.1,"low":65.25,"close":66,"volume":297499,"unadjustedVolume":297499,"change":0.35,"changePercent":0.533,"vwap":65.7581,"label":"Jul 19, 18","changeOverTime":-0.12408759124087584},{"date":"2018-07-20","open":68,"high":75,"low":68,"close":74.7,"volume":644349,"unadjustedVolume":644349,"change":8.7,"changePercent":13.182,"vwap":73.3167,"label":"Jul 20, 18","changeOverTime":-0.008626410086263988},{"date":"2018-07-23","open":74.75,"high":74.75,"low":72.35,"close":72.5,"volume":345509,"unadjustedVolume":345509,"change":-2.2,"changePercent":-2.945,"vwap":73.0345,"label":"Jul 23, 18","changeOverTime":-0.037823490378234834},{"date":"2018-07-24","open":73.15,"high":73.4,"low":71.6,"close":71.6,"volume":383877,"unadjustedVolume":383877,"change":-0.9,"changePercent":-1.241,"vwap":72.2591,"label":"Jul 24, 18","changeOverTime":-0.04976775049767751},{"date":"2018-07-25","open":71.95,"high":72.9,"low":69.95,"close":70.7,"volume":255752,"unadjustedVolume":255752,"change":-0.9,"changePercent":-1.257,"vwap":70.7301,"label":"Jul 25, 18","changeOverTime":-0.06171201061712},{"date":"2018-07-26","open":69.8,"high":71.4,"low":69.35,"close":69.95,"volume":338324,"unadjustedVolume":338324,"change":-0.75,"changePercent":-1.061,"vwap":70.2184,"label":"Jul 26, 18","changeOverTime":-0.0716655607166555},{"date":"2018-07-27","open":70.3,"high":70.4,"low":69.25,"close":70,"volume":392015,"unadjustedVolume":392015,"change":0.05,"changePercent":0.071,"vwap":69.988,"label":"Jul 27, 18","changeOverTime":-0.07100199071001984},{"date":"2018-07-30","open":70.05,"high":71.65,"low":70.05,"close":71.35,"volume":326487,"unadjustedVolume":326487,"change":1.35,"changePercent":1.929,"vwap":71.1344,"label":"Jul 30, 18","changeOverTime":-0.05308560053085601},{"date":"2018-07-31","open":71.45,"high":73.7,"low":71.3,"close":72.9,"volume":321754,"unadjustedVolume":321754,"change":1.55,"changePercent":2.172,"vwap":72.5432,"label":"Jul 31, 18","changeOverTime":-0.032514930325149155},{"date":"2018-08-01","open":72.65,"high":73.1,"low":70,"close":70.9,"volume":279128,"unadjustedVolume":279128,"change":-2,"changePercent":-2.743,"vwap":71.0056,"label":"Aug 1, 18","changeOverTime":-0.05905773059057716},{"date":"2018-08-02","open":70.4,"high":71.625,"low":70.3,"close":71.3,"volume":224574,"unadjustedVolume":224574,"change":0.4,"changePercent":0.564,"vwap":71.121,"label":"Aug 2, 18","changeOverTime":-0.053749170537491675},{"date":"2018-08-03","open":71.35,"high":72.35,"low":70.75,"close":71.7,"volume":173411,"unadjustedVolume":173411,"change":0.4,"changePercent":0.561,"vwap":71.4646,"label":"Aug 3, 18","changeOverTime":-0.048440610484405996},{"date":"2018-08-06","open":71.9,"high":73,"low":71.7829,"close":72.1,"volume":100969,"unadjustedVolume":100969,"change":0.4,"changePercent":0.558,"vwap":72.2558,"label":"Aug 6, 18","changeOverTime":-0.043132050431320505},{"date":"2018-08-07","open":72.25,"high":73.5753,"low":72.25,"close":72.8,"volume":103625,"unadjustedVolume":103625,"change":0.7,"changePercent":0.971,"vwap":72.8962,"label":"Aug 7, 18","changeOverTime":-0.03384207033842067},{"date":"2018-08-08","open":72.65,"high":73.45,"low":72.05,"close":73.4,"volume":117284,"unadjustedVolume":117284,"change":0.6,"changePercent":0.824,"vwap":73.0297,"label":"Aug 8, 18","changeOverTime":-0.025879230258792154},{"date":"2018-08-09","open":73.25,"high":74.6,"low":72.75,"close":72.85,"volume":218548,"unadjustedVolume":218548,"change":-0.55,"changePercent":-0.749,"vwap":73.4992,"label":"Aug 9, 18","changeOverTime":-0.03317850033178501},{"date":"2018-08-10","open":72.35,"high":72.4253,"low":70.7,"close":71.4,"volume":146853,"unadjustedVolume":146853,"change":-1.45,"changePercent":-1.99,"vwap":71.5573,"label":"Aug 10, 18","changeOverTime":-0.05242203052422016},{"date":"2018-08-13","open":71.3,"high":71.649,"low":69.6,"close":69.9,"volume":174658,"unadjustedVolume":174658,"change":-1.5,"changePercent":-2.101,"vwap":70.2694,"label":"Aug 13, 18","changeOverTime":-0.07232913072329117},{"date":"2018-08-14","open":70.15,"high":72.5,"low":70,"close":71.9,"volume":158021,"unadjustedVolume":158021,"change":2,"changePercent":2.861,"vwap":71.5456,"label":"Aug 14, 18","changeOverTime":-0.04578633045786316},{"date":"2018-08-15","open":71.45,"high":71.6,"low":70.2,"close":71,"volume":128575,"unadjustedVolume":128575,"change":-0.9,"changePercent":-1.252,"vwap":70.7631,"label":"Aug 15, 18","changeOverTime":-0.05773059057730583},{"date":"2018-08-16","open":71.25,"high":72.1,"low":71.15,"close":71.4,"volume":131531,"unadjustedVolume":131531,"change":0.4,"changePercent":0.563,"vwap":71.4823,"label":"Aug 16, 18","changeOverTime":-0.05242203052422016},{"date":"2018-08-17","open":71.25,"high":72.1,"low":71.2281,"close":71.95,"volume":197545,"unadjustedVolume":197545,"change":0.55,"changePercent":0.77,"vwap":71.8984,"label":"Aug 17, 18","changeOverTime":-0.0451227604512275},{"date":"2018-08-20","open":72.2,"high":73.1,"low":72.2,"close":72.7,"volume":217557,"unadjustedVolume":217557,"change":0.75,"changePercent":1.042,"vwap":72.6966,"label":"Aug 20, 18","changeOverTime":-0.035169210351691994},{"date":"2018-08-21","open":72.75,"high":73.675,"low":72.75,"close":73.1,"volume":156914,"unadjustedVolume":156914,"change":0.4,"changePercent":0.55,"vwap":73.2265,"label":"Aug 21, 18","changeOverTime":-0.029860650298606507},{"date":"2018-08-22","open":73.1,"high":73.375,"low":72.45,"close":72.7,"volume":185914,"unadjustedVolume":185914,"change":-0.4,"changePercent":-0.547,"vwap":72.7814,"label":"Aug 22, 18","changeOverTime":-0.035169210351691994},{"date":"2018-08-23","open":72.45,"high":72.45,"low":71.35,"close":71.85,"volume":115221,"unadjustedVolume":115221,"change":-0.85,"changePercent":-1.169,"vwap":71.7701,"label":"Aug 23, 18","changeOverTime":-0.04644990046449901},{"date":"2018-08-24","open":72.35,"high":72.35,"low":71.5,"close":72.2,"volume":92821,"unadjustedVolume":92821,"change":0.35,"changePercent":0.487,"vwap":71.9784,"label":"Aug 24, 18","changeOverTime":-0.04180491041804899},{"date":"2018-08-27","open":72.55,"high":73.65,"low":72.55,"close":72.7,"volume":87738,"unadjustedVolume":87738,"change":0.5,"changePercent":0.693,"vwap":73.0178,"label":"Aug 27, 18","changeOverTime":-0.035169210351691994},{"date":"2018-08-28","open":73.05,"high":73.35,"low":71.9,"close":72.1,"volume":87744,"unadjustedVolume":87744,"change":-0.6,"changePercent":-0.825,"vwap":72.1783,"label":"Aug 28, 18","changeOverTime":-0.043132050431320505},{"date":"2018-08-29","open":72.1,"high":72.3,"low":71.3,"close":71.9,"volume":98507,"unadjustedVolume":98507,"change":-0.2,"changePercent":-0.277,"vwap":71.7549,"label":"Aug 29, 18","changeOverTime":-0.04578633045786316},{"date":"2018-08-30","open":71.6,"high":71.85,"low":70.45,"close":70.95,"volume":94783,"unadjustedVolume":94783,"change":-0.95,"changePercent":-1.321,"vwap":71.1243,"label":"Aug 30, 18","changeOverTime":-0.0583941605839415},{"date":"2018-08-31","open":70.55,"high":72.25,"low":70.25,"close":72.1,"volume":156318,"unadjustedVolume":156318,"change":1.15,"changePercent":1.621,"vwap":71.5771,"label":"Aug 31, 18","changeOverTime":-0.043132050431320505},{"date":"2018-09-04","open":71.9,"high":72.2,"low":70,"close":71,"volume":120987,"unadjustedVolume":120987,"change":-1.1,"changePercent":-1.526,"vwap":70.9171,"label":"Sep 4, 18","changeOverTime":-0.05773059057730583},{"date":"2018-09-05","open":70.9,"high":71.45,"low":70.3,"close":70.5,"volume":90010,"unadjustedVolume":90010,"change":-0.5,"changePercent":-0.704,"vwap":70.7456,"label":"Sep 5, 18","changeOverTime":-0.06436629064366284},{"date":"2018-09-06","open":70.6,"high":71,"low":69.6,"close":70.25,"volume":115324,"unadjustedVolume":115324,"change":-0.25,"changePercent":-0.355,"vwap":70.2126,"label":"Sep 6, 18","changeOverTime":-0.06768414067684134},{"date":"2018-09-07","open":69.65,"high":70.45,"low":68.55,"close":68.9,"volume":102826,"unadjustedVolume":102826,"change":-1.35,"changePercent":-1.922,"vwap":69.2489,"label":"Sep 7, 18","changeOverTime":-0.08560053085600516},{"date":"2018-09-10","open":69.1,"high":69.65,"low":68.807,"close":69.35,"volume":89154,"unadjustedVolume":89154,"change":0.45,"changePercent":0.653,"vwap":69.242,"label":"Sep 10, 18","changeOverTime":-0.07962840079628401},{"date":"2018-09-11","open":69.05,"high":69.35,"low":68.5,"close":68.9,"volume":96445,"unadjustedVolume":96445,"change":-0.45,"changePercent":-0.649,"vwap":68.8709,"label":"Sep 11, 18","changeOverTime":-0.08560053085600516},{"date":"2018-09-12","open":68.55,"high":69.3,"low":68,"close":69.15,"volume":95475,"unadjustedVolume":95475,"change":0.25,"changePercent":0.363,"vwap":68.9087,"label":"Sep 12, 18","changeOverTime":-0.08228268082282666},{"date":"2018-09-13","open":69.65,"high":71.15,"low":69.3,"close":70.95,"volume":118983,"unadjustedVolume":118983,"change":1.8,"changePercent":2.603,"vwap":70.7238,"label":"Sep 13, 18","changeOverTime":-0.0583941605839415},{"date":"2018-09-14","open":71,"high":71.7,"low":70.9,"close":71.4,"volume":83386,"unadjustedVolume":83386,"change":0.45,"changePercent":0.634,"vwap":71.4012,"label":"Sep 14, 18","changeOverTime":-0.05242203052422016},{"date":"2018-09-17","open":71.5,"high":71.5,"low":69.95,"close":70.35,"volume":95892,"unadjustedVolume":95892,"change":-1.05,"changePercent":-1.471,"vwap":70.4958,"label":"Sep 17, 18","changeOverTime":-0.06635700066357002},{"date":"2018-09-18","open":70.6,"high":70.975,"low":69.85,"close":70.5,"volume":81153,"unadjustedVolume":81153,"change":0.15,"changePercent":0.213,"vwap":70.6366,"label":"Sep 18, 18","changeOverTime":-0.06436629064366284},{"date":"2018-09-19","open":70.45,"high":72,"low":70.45,"close":71.85,"volume":159569,"unadjustedVolume":159569,"change":1.35,"changePercent":1.915,"vwap":71.7086,"label":"Sep 19, 18","changeOverTime":-0.04644990046449901},{"date":"2018-09-20","open":72.25,"high":73.3,"low":72.25,"close":73.15,"volume":125448,"unadjustedVolume":125448,"change":1.3,"changePercent":1.809,"vwap":72.9035,"label":"Sep 20, 18","changeOverTime":-0.029197080291970653},{"date":"2018-09-21","open":73.15,"high":73.5989,"low":72.35,"close":72.7,"volume":496386,"unadjustedVolume":496386,"change":-0.45,"changePercent":-0.615,"vwap":72.8092,"label":"Sep 21, 18","changeOverTime":-0.035169210351691994},{"date":"2018-09-24","open":72.3,"high":72.3,"low":70.25,"close":71.5,"volume":114251,"unadjustedVolume":114251,"change":-1.2,"changePercent":-1.651,"vwap":71.1393,"label":"Sep 24","changeOverTime":-0.051094890510948836},{"date":"2018-09-25","open":71.35,"high":71.5,"low":70.625,"close":71,"volume":105469,"unadjustedVolume":105469,"change":-0.5,"changePercent":-0.699,"vwap":70.99,"label":"Sep 25","changeOverTime":-0.05773059057730583},{"date":"2018-09-26","open":70.85,"high":71.525,"low":70.4,"close":70.65,"volume":184231,"unadjustedVolume":184231,"change":-0.35,"changePercent":-0.493,"vwap":70.7665,"label":"Sep 26","changeOverTime":-0.06237558062375566},{"date":"2018-09-27","open":70.95,"high":71.15,"low":69.9,"close":70.2,"volume":90297,"unadjustedVolume":90297,"change":-0.45,"changePercent":-0.637,"vwap":70.3592,"label":"Sep 27","changeOverTime":-0.068347710683477},{"date":"2018-09-28","open":69.95,"high":70.7,"low":69.63,"close":70.3,"volume":85794,"unadjustedVolume":85794,"change":0.1,"changePercent":0.142,"vwap":70.3367,"label":"Sep 28","changeOverTime":-0.06702057067020567},{"date":"2018-10-01","open":70.89,"high":70.89,"low":68.105,"close":68.47,"volume":90391,"unadjustedVolume":90391,"change":-1.83,"changePercent":-2.603,"vwap":68.9895,"label":"Oct 1","changeOverTime":-0.09130723291307227},{"date":"2018-10-02","open":68.25,"high":69.2199,"low":67.201,"close":67.67,"volume":73316,"unadjustedVolume":73316,"change":-0.8,"changePercent":-1.168,"vwap":68.0091,"label":"Oct 2","changeOverTime":-0.10192435301924344},{"date":"2018-10-03","open":68.12,"high":69.515,"low":67.68,"close":68.89,"volume":62038,"unadjustedVolume":62038,"change":1.22,"changePercent":1.803,"vwap":68.7889,"label":"Oct 3","changeOverTime":-0.08573324485733237},{"date":"2018-10-04","open":68.51,"high":68.96,"low":67.335,"close":68.29,"volume":78371,"unadjustedVolume":78371,"change":-0.6,"changePercent":-0.871,"vwap":68.1935,"label":"Oct 4","changeOverTime":-0.0936960849369607},{"date":"2018-10-05","open":68.37,"high":68.37,"low":66.035,"close":66.43,"volume":110333,"unadjustedVolume":110333,"change":-1.86,"changePercent":-2.724,"vwap":66.5566,"label":"Oct 5","changeOverTime":-0.11838088918380874},{"date":"2018-10-08","open":66.1,"high":66.47,"low":65.355,"close":66.05,"volume":68208,"unadjustedVolume":68208,"change":-0.38,"changePercent":-0.572,"vwap":65.942,"label":"Oct 8","changeOverTime":-0.12342402123424018},{"date":"2018-10-09","open":65.78,"high":66.6538,"low":65.39,"close":65.92,"volume":131550,"unadjustedVolume":131550,"change":-0.13,"changePercent":-0.197,"vwap":65.9284,"label":"Oct 9","changeOverTime":-0.12514930325149295},{"date":"2018-10-10","open":65.5,"high":66.81,"low":63.54,"close":63.79,"volume":115136,"unadjustedVolume":115136,"change":-2.13,"changePercent":-3.231,"vwap":64.3082,"label":"Oct 10","changeOverTime":-0.1534173855341738},{"date":"2018-10-11","open":63.44,"high":65.12,"low":62.84,"close":63.41,"volume":172200,"unadjustedVolume":172200,"change":-0.38,"changePercent":-0.596,"vwap":63.9171,"label":"Oct 11","changeOverTime":-0.15846051758460517},{"date":"2018-10-12","open":64.76,"high":64.76,"low":61.67,"close":63.05,"volume":108218,"unadjustedVolume":108218,"change":-0.36,"changePercent":-0.568,"vwap":62.871,"label":"Oct 12","changeOverTime":-0.1632382216323822},{"date":"2018-10-15","open":62.7,"high":64.99,"low":62.7,"close":64.47,"volume":123913,"unadjustedVolume":123913,"change":1.42,"changePercent":2.252,"vwap":64.243,"label":"Oct 15","changeOverTime":-0.14439283344392828},{"date":"2018-10-16","open":64.79,"high":66.825,"low":64.12,"close":66.69,"volume":103163,"unadjustedVolume":103163,"change":2.22,"changePercent":3.443,"vwap":66.1191,"label":"Oct 16","changeOverTime":-0.11493032514930321},{"date":"2018-10-17","open":66.39,"high":66.64,"low":65.12,"close":66.21,"volume":109325,"unadjustedVolume":109325,"change":-0.48,"changePercent":-0.72,"vwap":65.9138,"label":"Oct 17","changeOverTime":-0.12130059721300598},{"date":"2018-10-18","open":65.9,"high":66.69,"low":64.44,"close":64.9,"volume":83465,"unadjustedVolume":83465,"change":-1.31,"changePercent":-1.979,"vwap":65.1594,"label":"Oct 18","changeOverTime":-0.13868613138686117},{"date":"2018-10-19","open":64.56,"high":65.44,"low":63.38,"close":63.95,"volume":133234,"unadjustedVolume":133234,"change":-0.95,"changePercent":-1.464,"vwap":64.2548,"label":"Oct 19","changeOverTime":-0.1512939615129395},{"date":"2018-10-22","open":64.05,"high":64.94,"low":63.2,"close":63.34,"volume":172841,"unadjustedVolume":172841,"change":-0.61,"changePercent":-0.954,"vwap":63.6329,"label":"Oct 22","changeOverTime":-0.15938951559389505},{"date":"2018-10-23","open":59.23,"high":66.38,"low":59.23,"close":65.39,"volume":324745,"unadjustedVolume":324745,"change":2.05,"changePercent":3.237,"vwap":64.4697,"label":"Oct 23","changeOverTime":-0.13218314532183137},{"date":"2018-10-24","open":65.26,"high":65.6687,"low":61.85,"close":61.9,"volume":199028,"unadjustedVolume":199028,"change":-3.49,"changePercent":-5.337,"vwap":63.0594,"label":"Oct 24","changeOverTime":-0.17850033178500327},{"date":"2018-10-25","open":62.68,"high":64.89,"low":62.68,"close":64.74,"volume":172035,"unadjustedVolume":172035,"change":2.84,"changePercent":4.588,"vwap":64.3071,"label":"Oct 25","changeOverTime":-0.14080955540809556},{"date":"2018-10-26","open":63.61,"high":65.97,"low":62.65,"close":65.12,"volume":131497,"unadjustedVolume":131497,"change":0.38,"changePercent":0.587,"vwap":64.8887,"label":"Oct 26","changeOverTime":-0.13576642335766412},{"date":"2018-10-29","open":66.13,"high":67.48,"low":63.59,"close":64.48,"volume":96284,"unadjustedVolume":96284,"change":-0.64,"changePercent":-0.983,"vwap":65.2314,"label":"Oct 29","changeOverTime":-0.1442601194426011},{"date":"2018-10-30","open":64.23,"high":66.61,"low":64.23,"close":66.48,"volume":86470,"unadjustedVolume":86470,"change":2,"changePercent":3.102,"vwap":65.9482,"label":"Oct 30","changeOverTime":-0.11771731917717307},{"date":"2018-10-31","open":67.28,"high":68.4,"low":65.63,"close":65.69,"volume":124404,"unadjustedVolume":124404,"change":-0.79,"changePercent":-1.188,"vwap":66.3462,"label":"Oct 31","changeOverTime":-0.1282017252820172},{"date":"2018-11-01","open":66.035,"high":67.13,"low":65.75,"close":66.65,"volume":281786,"unadjustedVolume":281786,"change":0.96,"changePercent":1.461,"vwap":66.6955,"label":"Nov 1","changeOverTime":-0.11546118115461167},{"date":"2018-11-02","open":67.08,"high":68.58,"low":66.85,"close":67.55,"volume":225911,"unadjustedVolume":225911,"change":0.9,"changePercent":1.35,"vwap":67.457,"label":"Nov 2","changeOverTime":-0.10351692103516918}],"13":[{"date":"2017-10-24","open":22.1299,"high":22.5005,"low":22.0824,"close":22.168,"volume":177217,"unadjustedVolume":177217,"change":0.161533,"changePercent":0.734,"vwap":22.2443,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":22.0919,"high":22.0919,"low":21.6358,"close":21.7024,"volume":113982,"unadjustedVolume":113982,"change":-0.465594,"changePercent":-2.1,"vwap":21.7811,"label":"Oct 25, 17","changeOverTime":-0.021003247924936776},{"date":"2017-10-26","open":21.7499,"high":22.0539,"low":21.6644,"close":21.6739,"volume":135786,"unadjustedVolume":135786,"change":-0.028507,"changePercent":-0.131,"vwap":21.7667,"label":"Oct 26, 17","changeOverTime":-0.022288884879104996},{"date":"2017-10-27","open":21.6834,"high":21.9494,"low":21.4933,"close":21.7689,"volume":167750,"unadjustedVolume":167750,"change":0.095019,"changePercent":0.438,"vwap":21.7159,"label":"Oct 27, 17","changeOverTime":-0.018003428365211148},{"date":"2017-10-30","open":21.7499,"high":21.9684,"low":21.5503,"close":21.9304,"volume":213454,"unadjustedVolume":213454,"change":0.161534,"changePercent":0.742,"vwap":21.8025,"label":"Oct 30, 17","changeOverTime":-0.010718152291591504},{"date":"2017-10-31","open":21.9684,"high":22.244,"low":21.9019,"close":22.1014,"volume":235833,"unadjustedVolume":235833,"change":0.171034,"changePercent":0.78,"vwap":22.1157,"label":"Oct 31, 17","changeOverTime":-0.003004330566582351},{"date":"2017-11-01","open":22.2915,"high":22.2915,"low":21.7119,"close":22.0444,"volume":209365,"unadjustedVolume":209365,"change":-0.05701,"changePercent":-0.258,"vwap":21.9797,"label":"Nov 1, 17","changeOverTime":-0.005575604474918789},{"date":"2017-11-02","open":22.586,"high":23.7453,"low":22.586,"close":23.3842,"volume":464933,"unadjustedVolume":464933,"change":1.3398,"changePercent":6.078,"vwap":23.2548,"label":"Nov 2, 17","changeOverTime":0.054862865391555424},{"date":"2017-11-03","open":23.3937,"high":23.5077,"low":22.8141,"close":22.8141,"volume":247461,"unadjustedVolume":247461,"change":-0.570116,"changePercent":-2.438,"vwap":23.0636,"label":"Nov 3, 17","changeOverTime":0.029145615301335283},{"date":"2017-11-06","open":22.8616,"high":22.9661,"low":22.5197,"close":22.624,"volume":309096,"unadjustedVolume":309096,"change":-0.190039,"changePercent":-0.833,"vwap":22.6362,"label":"Nov 6, 17","changeOverTime":0.020570191266690706},{"date":"2017-11-07","open":22.7096,"high":22.7096,"low":22.263,"close":22.377,"volume":186372,"unadjustedVolume":186372,"change":-0.247048,"changePercent":-1.092,"vwap":22.4098,"label":"Nov 7, 17","changeOverTime":0.009428004330566566},{"date":"2017-11-08","open":22.358,"high":22.358,"low":21.9683,"close":22.2345,"volume":152652,"unadjustedVolume":152652,"change":-0.142528,"changePercent":-0.637,"vwap":22.1802,"label":"Nov 8, 17","changeOverTime":0.0029998195597257912},{"date":"2017-11-09","open":22.0254,"high":22.4245,"low":21.9593,"close":22.149,"volume":244716,"unadjustedVolume":244716,"change":-0.085518,"changePercent":-0.385,"vwap":22.1516,"label":"Nov 9, 17","changeOverTime":-0.0008570913027787059},{"date":"2017-11-10","open":22.149,"high":22.4339,"low":22.0919,"close":22.206,"volume":284515,"unadjustedVolume":284515,"change":0.057011,"changePercent":0.257,"vwap":22.2718,"label":"Nov 10, 17","changeOverTime":0.001714182605557572},{"date":"2017-11-13","open":22.1109,"high":22.1109,"low":21.4743,"close":21.5123,"volume":267764,"unadjustedVolume":267764,"change":-0.693638,"changePercent":-3.124,"vwap":21.6251,"label":"Nov 13, 17","changeOverTime":-0.029578671959581356},{"date":"2017-11-14","open":21.3983,"high":21.5313,"low":21.2558,"close":21.2938,"volume":263584,"unadjustedVolume":263584,"change":-0.218544,"changePercent":-1.016,"vwap":21.3504,"label":"Nov 14, 17","changeOverTime":-0.03943522194153728},{"date":"2017-11-15","open":21.2368,"high":21.5978,"low":20.9479,"close":21.5028,"volume":467922,"unadjustedVolume":467922,"change":0.209041,"changePercent":0.982,"vwap":21.3387,"label":"Nov 15, 17","changeOverTime":-0.03000721761097071},{"date":"2017-11-16","open":21.5978,"high":22.263,"low":21.4385,"close":22.1965,"volume":301206,"unadjustedVolume":301206,"change":0.693638,"changePercent":3.226,"vwap":22.0703,"label":"Nov 16, 17","changeOverTime":0.0012856369541682192},{"date":"2017-11-17","open":22.0539,"high":22.358,"low":21.9779,"close":22.244,"volume":183606,"unadjustedVolume":183606,"change":0.047511,"changePercent":0.214,"vwap":22.2028,"label":"Nov 17, 17","changeOverTime":0.003428365211115144},{"date":"2017-11-20","open":22.2915,"high":22.3485,"low":21.6929,"close":22.187,"volume":268437,"unadjustedVolume":268437,"change":-0.057011,"changePercent":-0.256,"vwap":22.0947,"label":"Nov 20, 17","changeOverTime":0.0008570913027788661},{"date":"2017-11-21","open":22.3485,"high":22.586,"low":22.263,"close":22.3865,"volume":189772,"unadjustedVolume":189772,"change":0.199539,"changePercent":0.899,"vwap":22.4126,"label":"Nov 21, 17","changeOverTime":0.00985654998195608},{"date":"2017-11-22","open":22.453,"high":22.6526,"low":22.168,"close":22.187,"volume":339751,"unadjustedVolume":339751,"change":-0.199539,"changePercent":-0.891,"vwap":22.3181,"label":"Nov 22, 17","changeOverTime":0.0008570913027788661},{"date":"2017-11-24","open":22.32,"high":22.4055,"low":22.225,"close":22.339,"volume":92186,"unadjustedVolume":92186,"change":0.15203,"changePercent":0.685,"vwap":22.3173,"label":"Nov 24, 17","changeOverTime":0.007713821725008994},{"date":"2017-11-27","open":22.4815,"high":22.8711,"low":22.396,"close":22.8141,"volume":320251,"unadjustedVolume":320251,"change":0.475095,"changePercent":2.127,"vwap":22.7223,"label":"Nov 27, 17","changeOverTime":0.029145615301335283},{"date":"2017-11-28","open":22.9186,"high":23.5457,"low":22.6858,"close":23.4887,"volume":409583,"unadjustedVolume":409583,"change":0.674637,"changePercent":2.957,"vwap":23.2165,"label":"Nov 28, 17","changeOverTime":0.05957686755683879},{"date":"2017-11-29","open":23.5368,"high":23.6712,"low":23.2581,"close":23.4407,"volume":226160,"unadjustedVolume":226160,"change":-0.048052,"changePercent":-0.205,"vwap":23.4601,"label":"Nov 29, 17","changeOverTime":0.0574115842656081},{"date":"2017-11-30","open":23.5656,"high":23.729,"low":23.383,"close":23.5464,"volume":291323,"unadjustedVolume":291323,"change":0.105719,"changePercent":0.451,"vwap":23.568,"label":"Nov 30, 17","changeOverTime":0.062179718513172104},{"date":"2017-12-01","open":23.5944,"high":23.5944,"low":22.7391,"close":23.4791,"volume":237397,"unadjustedVolume":237397,"change":-0.067275,"changePercent":-0.286,"vwap":23.2909,"label":"Dec 1, 17","changeOverTime":0.05914381089859255},{"date":"2017-12-04","open":23.7386,"high":24.0077,"low":23.4022,"close":23.4022,"volume":352404,"unadjustedVolume":352404,"change":-0.076886,"changePercent":-0.327,"vwap":23.5593,"label":"Dec 4, 17","changeOverTime":0.05567484662576693},{"date":"2017-12-05","open":23.4311,"high":23.5368,"low":22.9601,"close":23.0659,"volume":597089,"unadjustedVolume":597089,"change":-0.336377,"changePercent":-1.437,"vwap":23.1837,"label":"Dec 5, 17","changeOverTime":0.04050433056658246},{"date":"2017-12-06","open":23.0274,"high":23.162,"low":22.691,"close":22.7295,"volume":169950,"unadjustedVolume":169950,"change":-0.336378,"changePercent":-1.458,"vwap":22.8224,"label":"Dec 6, 17","changeOverTime":0.025329303500541425},{"date":"2017-12-07","open":22.7391,"high":22.8929,"low":22.6141,"close":22.8832,"volume":150069,"unadjustedVolume":150069,"change":0.153772,"changePercent":0.677,"vwap":22.8265,"label":"Dec 7, 17","changeOverTime":0.03226272103933595},{"date":"2017-12-08","open":22.8929,"high":22.9601,"low":22.5084,"close":22.6334,"volume":202644,"unadjustedVolume":202644,"change":-0.249879,"changePercent":-1.092,"vwap":22.6504,"label":"Dec 8, 17","changeOverTime":0.020994225911223498},{"date":"2017-12-11","open":22.6238,"high":22.7967,"low":22.2778,"close":22.3739,"volume":398993,"unadjustedVolume":398993,"change":-0.25949,"changePercent":-1.146,"vwap":22.4471,"label":"Dec 11, 17","changeOverTime":0.009288163118007928},{"date":"2017-12-12","open":22.3354,"high":22.6045,"low":22.1624,"close":22.5949,"volume":350025,"unadjustedVolume":350025,"change":0.221046,"changePercent":0.988,"vwap":22.4172,"label":"Dec 12, 17","changeOverTime":0.019257488271382166},{"date":"2017-12-13","open":22.6045,"high":22.816,"low":22.6045,"close":22.691,"volume":257611,"unadjustedVolume":257611,"change":0.096109,"changePercent":0.425,"vwap":22.7128,"label":"Dec 13, 17","changeOverTime":0.023592565860700094},{"date":"2017-12-14","open":22.8929,"high":22.989,"low":22.297,"close":22.4315,"volume":372749,"unadjustedVolume":372749,"change":-0.259491,"changePercent":-1.144,"vwap":22.5717,"label":"Dec 14, 17","changeOverTime":0.011886503067484686},{"date":"2017-12-15","open":22.5757,"high":22.8064,"low":22.3835,"close":22.5949,"volume":606126,"unadjustedVolume":606126,"change":0.163382,"changePercent":0.728,"vwap":22.5945,"label":"Dec 15, 17","changeOverTime":0.019257488271382166},{"date":"2017-12-18","open":22.9313,"high":23.1043,"low":22.7487,"close":22.8352,"volume":316958,"unadjustedVolume":316958,"change":0.24027,"changePercent":1.063,"vwap":22.8882,"label":"Dec 18, 17","changeOverTime":0.03009743774810543},{"date":"2017-12-19","open":23.0274,"high":23.1043,"low":22.7103,"close":22.7679,"volume":206364,"unadjustedVolume":206364,"change":-0.067275,"changePercent":-0.295,"vwap":22.8609,"label":"Dec 19, 17","changeOverTime":0.027061530133525878},{"date":"2017-12-20","open":22.9409,"high":23.0274,"low":22.7871,"close":22.7967,"volume":161744,"unadjustedVolume":161744,"change":0.028832,"changePercent":0.127,"vwap":22.8756,"label":"Dec 20, 17","changeOverTime":0.028360700108264258},{"date":"2017-12-21","open":22.8256,"high":22.9986,"low":22.7199,"close":22.7871,"volume":186422,"unadjustedVolume":186422,"change":-0.009611,"changePercent":-0.042,"vwap":22.8552,"label":"Dec 21, 17","changeOverTime":0.027927643450018025},{"date":"2017-12-22","open":22.7199,"high":22.8544,"low":22.6691,"close":22.7006,"volume":126266,"unadjustedVolume":126266,"change":-0.086497,"changePercent":-0.38,"vwap":22.7384,"label":"Dec 22, 17","changeOverTime":0.024025622518946327},{"date":"2017-12-26","open":22.7103,"high":22.989,"low":22.6814,"close":22.7391,"volume":140190,"unadjustedVolume":140190,"change":0.038444,"changePercent":0.169,"vwap":22.7597,"label":"Dec 26, 17","changeOverTime":0.0257623601587875},{"date":"2017-12-27","open":22.8544,"high":22.8544,"low":22.5373,"close":22.6622,"volume":151744,"unadjustedVolume":151744,"change":-0.076886,"changePercent":-0.338,"vwap":22.6919,"label":"Dec 27, 17","changeOverTime":0.022293395885961718},{"date":"2017-12-28","open":22.6526,"high":22.9025,"low":22.5373,"close":22.7487,"volume":153407,"unadjustedVolume":153407,"change":0.086497,"changePercent":0.382,"vwap":22.6995,"label":"Dec 28, 17","changeOverTime":0.026195416817033572},{"date":"2017-12-29","open":22.7871,"high":22.8544,"low":22.4508,"close":22.4796,"volume":174616,"unadjustedVolume":174616,"change":-0.269102,"changePercent":-1.183,"vwap":22.6438,"label":"Dec 29, 17","changeOverTime":0.01405629736557209},{"date":"2018-01-02","open":22.5853,"high":22.7006,"low":22.2393,"close":22.47,"volume":310509,"unadjustedVolume":310509,"change":-0.009612,"changePercent":-0.043,"vwap":22.4316,"label":"Jan 2, 18","changeOverTime":0.013623240707325858},{"date":"2018-01-03","open":22.4988,"high":22.7103,"low":22.4219,"close":22.6718,"volume":337899,"unadjustedVolume":337899,"change":0.201826,"changePercent":0.898,"vwap":22.5648,"label":"Jan 3, 18","changeOverTime":0.02272645254420795},{"date":"2018-01-04","open":22.8064,"high":22.9409,"low":22.7103,"close":22.7487,"volume":247703,"unadjustedVolume":247703,"change":0.076888,"changePercent":0.339,"vwap":22.8018,"label":"Jan 4, 18","changeOverTime":0.026195416817033572},{"date":"2018-01-05","open":22.7775,"high":22.864,"low":22.5661,"close":22.8544,"volume":184282,"unadjustedVolume":184282,"change":0.105718,"changePercent":0.465,"vwap":22.7107,"label":"Jan 5, 18","changeOverTime":0.030963551064597576},{"date":"2018-01-08","open":22.7199,"high":22.8832,"low":22.5421,"close":22.7679,"volume":180583,"unadjustedVolume":180583,"change":-0.086497,"changePercent":-0.378,"vwap":22.7366,"label":"Jan 8, 18","changeOverTime":0.027061530133525878},{"date":"2018-01-09","open":22.8448,"high":22.989,"low":22.7006,"close":22.7199,"volume":175161,"unadjustedVolume":175161,"change":-0.048054,"changePercent":-0.211,"vwap":22.8345,"label":"Jan 9, 18","changeOverTime":0.024896246842295192},{"date":"2018-01-10","open":22.7391,"high":23.1331,"low":22.6334,"close":23.0466,"volume":308736,"unadjustedVolume":308736,"change":0.326765,"changePercent":1.438,"vwap":22.9429,"label":"Jan 10, 18","changeOverTime":0.03963370624323359},{"date":"2018-01-11","open":23.0851,"high":24.123,"low":23.0851,"close":23.9981,"volume":365148,"unadjustedVolume":365148,"change":0.951467,"changePercent":4.128,"vwap":23.8007,"label":"Jan 11, 18","changeOverTime":0.08255593648502353},{"date":"2018-01-12","open":24.0269,"high":24.3153,"low":23.6041,"close":23.6521,"volume":279732,"unadjustedVolume":279732,"change":-0.345988,"changePercent":-1.442,"vwap":23.8831,"label":"Jan 12, 18","changeOverTime":0.06694785276073627},{"date":"2018-01-16","open":23.7482,"high":23.8045,"low":23.1331,"close":23.2869,"volume":225819,"unadjustedVolume":225819,"change":-0.365209,"changePercent":-1.544,"vwap":23.4559,"label":"Jan 16, 18","changeOverTime":0.0504736557199567},{"date":"2018-01-17","open":23.3734,"high":23.5464,"low":23.0947,"close":23.4215,"volume":214570,"unadjustedVolume":214570,"change":0.134551,"changePercent":0.578,"vwap":23.3994,"label":"Jan 17, 18","changeOverTime":0.05654547094911596},{"date":"2018-01-18","open":23.4599,"high":23.4599,"low":22.9794,"close":22.9986,"volume":174914,"unadjustedVolume":174914,"change":-0.422873,"changePercent":-1.805,"vwap":23.0987,"label":"Jan 18, 18","changeOverTime":0.03746842295200291},{"date":"2018-01-19","open":22.9217,"high":23.3157,"low":22.9217,"close":23.3157,"volume":188521,"unadjustedVolume":188521,"change":0.317155,"changePercent":1.379,"vwap":23.1707,"label":"Jan 19, 18","changeOverTime":0.051772825694695074},{"date":"2018-01-22","open":23.2965,"high":23.3157,"low":23.0947,"close":23.2869,"volume":175384,"unadjustedVolume":175384,"change":-0.028833,"changePercent":-0.124,"vwap":23.2264,"label":"Jan 22, 18","changeOverTime":0.0504736557199567},{"date":"2018-01-23","open":23.2292,"high":23.3926,"low":23.162,"close":23.21,"volume":153659,"unadjustedVolume":153659,"change":-0.076885,"changePercent":-0.33,"vwap":23.2606,"label":"Jan 23, 18","changeOverTime":0.047004691447131076},{"date":"2018-01-24","open":23.3638,"high":23.4983,"low":23.0082,"close":23.2004,"volume":261274,"unadjustedVolume":261274,"change":-0.009612,"changePercent":-0.041,"vwap":23.1867,"label":"Jan 24, 18","changeOverTime":0.04657163478888484},{"date":"2018-01-25","open":23.2965,"high":23.5272,"low":23.1043,"close":23.1908,"volume":260478,"unadjustedVolume":260478,"change":-0.00961,"changePercent":-0.041,"vwap":23.2439,"label":"Jan 25, 18","changeOverTime":0.04613857813063877},{"date":"2018-01-26","open":23.3542,"high":23.383,"low":23.1043,"close":23.3542,"volume":102538,"unadjustedVolume":102538,"change":0.163383,"changePercent":0.705,"vwap":23.2717,"label":"Jan 26, 18","changeOverTime":0.05350956333453625},{"date":"2018-01-29","open":23.4022,"high":23.4695,"low":23.0851,"close":23.1331,"volume":190707,"unadjustedVolume":190707,"change":-0.221048,"changePercent":-0.947,"vwap":23.2298,"label":"Jan 29, 18","changeOverTime":0.04353572717430529},{"date":"2018-01-30","open":23.037,"high":23.2388,"low":22.8352,"close":22.9697,"volume":185455,"unadjustedVolume":185455,"change":-0.163384,"changePercent":-0.706,"vwap":22.958,"label":"Jan 30, 18","changeOverTime":0.03616474197040781},{"date":"2018-01-31","open":23.0755,"high":23.1716,"low":22.6238,"close":22.7006,"volume":194630,"unadjustedVolume":194630,"change":-0.269101,"changePercent":-1.172,"vwap":22.7686,"label":"Jan 31, 18","changeOverTime":0.024025622518946327},{"date":"2018-02-01","open":22.6045,"high":22.7871,"low":22.2585,"close":22.5661,"volume":252156,"unadjustedVolume":252156,"change":-0.134551,"changePercent":-0.593,"vwap":22.5744,"label":"Feb 1, 18","changeOverTime":0.017958318296643787},{"date":"2018-02-02","open":22.4412,"high":22.5853,"low":21.8261,"close":21.9414,"volume":196807,"unadjustedVolume":196807,"change":-0.6247,"changePercent":-2.768,"vwap":22.0939,"label":"Feb 2, 18","changeOverTime":-0.010221941537351033},{"date":"2018-02-05","open":21.7492,"high":21.8837,"low":21.0476,"close":21.0572,"volume":342139,"unadjustedVolume":342139,"change":-0.884191,"changePercent":-4.03,"vwap":21.5014,"label":"Feb 5, 18","changeOverTime":-0.05010826416456142},{"date":"2018-02-06","open":20.6632,"high":21.8261,"low":20.5478,"close":21.6338,"volume":340408,"unadjustedVolume":340408,"change":0.576647,"changePercent":2.738,"vwap":21.3863,"label":"Feb 6, 18","changeOverTime":-0.024097798628653848},{"date":"2018-02-07","open":21.605,"high":21.8933,"low":21.3263,"close":21.4032,"volume":242103,"unadjustedVolume":242103,"change":-0.230659,"changePercent":-1.066,"vwap":21.4851,"label":"Feb 7, 18","changeOverTime":-0.034500180440274315},{"date":"2018-02-08","open":21.4032,"high":21.4609,"low":20.7016,"close":20.7016,"volume":218002,"unadjustedVolume":218002,"change":-0.701586,"changePercent":-3.278,"vwap":21.0984,"label":"Feb 8, 18","changeOverTime":-0.06614940454709492},{"date":"2018-02-09","open":20.9707,"high":21.1004,"low":20.1346,"close":20.7016,"volume":261553,"unadjustedVolume":261553,"change":0,"changePercent":0,"vwap":20.5726,"label":"Feb 9, 18","changeOverTime":-0.06614940454709492},{"date":"2018-02-12","open":20.6151,"high":21.211,"low":20.5286,"close":20.8842,"volume":348791,"unadjustedVolume":348791,"change":0.182604,"changePercent":0.882,"vwap":20.8971,"label":"Feb 12, 18","changeOverTime":-0.057912306026705135},{"date":"2018-02-13","open":21.259,"high":21.4441,"low":19.8366,"close":19.8943,"volume":500313,"unadjustedVolume":500313,"change":-0.989909,"changePercent":-4.74,"vwap":20.2628,"label":"Feb 13, 18","changeOverTime":-0.10256676290147952},{"date":"2018-02-14","open":19.8366,"high":20.1442,"low":18.9813,"close":19.606,"volume":696855,"unadjustedVolume":696855,"change":-0.288323,"changePercent":-1.449,"vwap":19.5228,"label":"Feb 14, 18","changeOverTime":-0.11557199566943331},{"date":"2018-02-15","open":19.6252,"high":19.7458,"low":19.4041,"close":19.481,"volume":530720,"unadjustedVolume":530720,"change":-0.12494,"changePercent":-0.637,"vwap":19.5445,"label":"Feb 15, 18","changeOverTime":-0.12121075424034634},{"date":"2018-02-16","open":19.3849,"high":19.8462,"low":19.3849,"close":19.5099,"volume":465413,"unadjustedVolume":465413,"change":0.028832,"changePercent":0.148,"vwap":19.5409,"label":"Feb 16, 18","changeOverTime":-0.1199070732587514},{"date":"2018-02-20","open":19.3945,"high":19.606,"low":18.9813,"close":19.3561,"volume":807239,"unadjustedVolume":807239,"change":-0.153772,"changePercent":-0.788,"vwap":19.2844,"label":"Feb 20, 18","changeOverTime":-0.12684500180440264},{"date":"2018-02-21","open":19.3849,"high":19.827,"low":19.2888,"close":19.5387,"volume":389902,"unadjustedVolume":389902,"change":0.182604,"changePercent":0.943,"vwap":19.62,"label":"Feb 21, 18","changeOverTime":-0.11860790328401302},{"date":"2018-02-22","open":19.5579,"high":19.6636,"low":19.2408,"close":19.3177,"volume":418745,"unadjustedVolume":418745,"change":-0.221047,"changePercent":-1.131,"vwap":19.3886,"label":"Feb 22, 18","changeOverTime":-0.12857722843738725},{"date":"2018-02-23","open":19.4618,"high":19.7021,"low":19.3369,"close":19.5964,"volume":436994,"unadjustedVolume":436994,"change":0.278712,"changePercent":1.443,"vwap":19.5301,"label":"Feb 23, 18","changeOverTime":-0.11600505232767955},{"date":"2018-02-26","open":19.7213,"high":20.0673,"low":19.4906,"close":20.0481,"volume":643134,"unadjustedVolume":643134,"change":0.451706,"changePercent":2.305,"vwap":19.8721,"label":"Feb 26, 18","changeOverTime":-0.09562883435582811},{"date":"2018-02-27","open":19.9799,"high":20.0968,"low":19.1129,"close":19.1226,"volume":598588,"unadjustedVolume":598588,"change":-0.925442,"changePercent":-4.616,"vwap":19.4467,"label":"Feb 27, 18","changeOverTime":-0.13737820281486832},{"date":"2018-02-28","open":19.2395,"high":19.3856,"low":18.9183,"close":18.9765,"volume":601523,"unadjustedVolume":601523,"change":-0.146122,"changePercent":-0.764,"vwap":19.0597,"label":"Feb 28, 18","changeOverTime":-0.14396878383255132},{"date":"2018-03-01","open":19.0447,"high":19.3564,"low":18.9375,"close":19.2688,"volume":534719,"unadjustedVolume":534719,"change":0.292245,"changePercent":1.54,"vwap":19.1934,"label":"Mar 1, 18","changeOverTime":-0.13078311079032842},{"date":"2018-03-02","open":19.1226,"high":19.2395,"low":18.7232,"close":19.22,"volume":409869,"unadjustedVolume":409869,"change":-0.048707,"changePercent":-0.253,"vwap":19.0936,"label":"Mar 2, 18","changeOverTime":-0.13298448213641287},{"date":"2018-03-05","open":19.1226,"high":19.298,"low":19.0544,"close":19.1421,"volume":354686,"unadjustedVolume":354686,"change":-0.077932,"changePercent":-0.405,"vwap":19.1626,"label":"Mar 5, 18","changeOverTime":-0.13649855647780584},{"date":"2018-03-06","open":19.1421,"high":19.1713,"low":18.9278,"close":18.9862,"volume":433827,"unadjustedVolume":433827,"change":-0.155865,"changePercent":-0.814,"vwap":19.0618,"label":"Mar 6, 18","changeOverTime":-0.14353121616744854},{"date":"2018-03-07","open":18.8791,"high":19.0616,"low":18.4797,"close":18.7135,"volume":500107,"unadjustedVolume":500107,"change":-0.272763,"changePercent":-1.437,"vwap":18.709,"label":"Mar 7, 18","changeOverTime":-0.15583273186575242},{"date":"2018-03-08","open":18.7232,"high":19.2688,"low":18.6063,"close":19.2395,"volume":416564,"unadjustedVolume":416564,"change":0.526043,"changePercent":2.811,"vwap":18.9732,"label":"Mar 8, 18","changeOverTime":-0.1321048357993504},{"date":"2018-03-09","open":19.3662,"high":19.3856,"low":19.0934,"close":19.3272,"volume":280075,"unadjustedVolume":280075,"change":0.087674,"changePercent":0.456,"vwap":19.2625,"label":"Mar 9, 18","changeOverTime":-0.12814868278599775},{"date":"2018-03-12","open":19.3564,"high":19.4344,"low":19.2395,"close":19.3175,"volume":298271,"unadjustedVolume":298271,"change":-0.009742,"changePercent":-0.05,"vwap":19.354,"label":"Mar 12, 18","changeOverTime":-0.1285862504511007},{"date":"2018-03-13","open":19.4344,"high":19.6,"low":19.259,"close":19.4051,"volume":271275,"unadjustedVolume":271275,"change":0.087674,"changePercent":0.454,"vwap":19.4333,"label":"Mar 13, 18","changeOverTime":-0.12463460844460476},{"date":"2018-03-14","open":19.6584,"high":20.0188,"low":19.5805,"close":19.8922,"volume":423186,"unadjustedVolume":423186,"change":0.487076,"changePercent":2.51,"vwap":19.8622,"label":"Mar 14, 18","changeOverTime":-0.10266149404547097},{"date":"2018-03-15","open":19.8825,"high":19.8825,"low":19.3369,"close":19.6,"volume":300162,"unadjustedVolume":300162,"change":-0.292245,"changePercent":-1.469,"vwap":19.5944,"label":"Mar 15, 18","changeOverTime":-0.11584265608083714},{"date":"2018-03-16","open":19.6292,"high":19.9994,"low":19.3223,"close":19.8922,"volume":905389,"unadjustedVolume":905389,"change":0.292245,"changePercent":1.491,"vwap":19.8027,"label":"Mar 16, 18","changeOverTime":-0.10266149404547097},{"date":"2018-03-19","open":19.8143,"high":19.8922,"low":19.4831,"close":19.7558,"volume":285875,"unadjustedVolume":285875,"change":-0.136381,"changePercent":-0.686,"vwap":19.7036,"label":"Mar 19, 18","changeOverTime":-0.10881450739805118},{"date":"2018-03-20","open":19.8143,"high":19.9312,"low":19.6974,"close":19.9117,"volume":545600,"unadjustedVolume":545600,"change":0.155864,"changePercent":0.789,"vwap":19.8463,"label":"Mar 20, 18","changeOverTime":-0.1017818477084085},{"date":"2018-03-21","open":19.9214,"high":20.3306,"low":19.9214,"close":20.1357,"volume":349360,"unadjustedVolume":349360,"change":0.224056,"changePercent":1.125,"vwap":20.1542,"label":"Mar 21, 18","changeOverTime":-0.09167719234933235},{"date":"2018-03-22","open":19.9409,"high":20.165,"low":19.7363,"close":19.7461,"volume":420508,"unadjustedVolume":420508,"change":-0.389662,"changePercent":-1.935,"vwap":19.9366,"label":"Mar 22, 18","changeOverTime":-0.10925207506315414},{"date":"2018-03-23","open":19.8143,"high":19.8922,"low":19.2688,"close":19.2688,"volume":271124,"unadjustedVolume":271124,"change":-0.477335,"changePercent":-2.417,"vwap":19.4947,"label":"Mar 23, 18","changeOverTime":-0.13078311079032842},{"date":"2018-03-26","open":19.6,"high":19.6487,"low":19.2785,"close":19.5318,"volume":516001,"unadjustedVolume":516001,"change":0.263021,"changePercent":1.365,"vwap":19.4775,"label":"Mar 26, 18","changeOverTime":-0.11891916275712734},{"date":"2018-03-27","open":19.6194,"high":19.7169,"low":18.996,"close":19.1713,"volume":777597,"unadjustedVolume":777597,"change":-0.360435,"changePercent":-1.845,"vwap":19.2575,"label":"Mar 27, 18","changeOverTime":-0.1351813424756406},{"date":"2018-03-28","open":19.1713,"high":19.5513,"low":19.0788,"close":19.3272,"volume":387383,"unadjustedVolume":387383,"change":0.155864,"changePercent":0.813,"vwap":19.2997,"label":"Mar 28, 18","changeOverTime":-0.12814868278599775},{"date":"2018-03-29","open":19.4246,"high":19.6292,"low":19.2493,"close":19.3467,"volume":754060,"unadjustedVolume":754060,"change":0.019483,"changePercent":0.101,"vwap":19.3759,"label":"Mar 29, 18","changeOverTime":-0.12726903644893545},{"date":"2018-04-02","open":19.3369,"high":19.3954,"low":18.9814,"close":19.1616,"volume":508093,"unadjustedVolume":508093,"change":-0.185089,"changePercent":-0.957,"vwap":19.144,"label":"Apr 2, 18","changeOverTime":-0.1356189101407434},{"date":"2018-04-03","open":19.2493,"high":19.6682,"low":19.2347,"close":19.6,"volume":551495,"unadjustedVolume":551495,"change":0.438369,"changePercent":2.288,"vwap":19.4774,"label":"Apr 3, 18","changeOverTime":-0.11584265608083714},{"date":"2018-04-04","open":19.3272,"high":19.8435,"low":19.3272,"close":19.7363,"volume":418543,"unadjustedVolume":418543,"change":0.136381,"changePercent":0.696,"vwap":19.7053,"label":"Apr 4, 18","changeOverTime":-0.10969415373511365},{"date":"2018-04-05","open":19.9019,"high":20.2624,"low":19.6974,"close":20.1552,"volume":527887,"unadjustedVolume":527887,"change":0.418885,"changePercent":2.122,"vwap":20.0856,"label":"Apr 5, 18","changeOverTime":-0.09079754601226987},{"date":"2018-04-06","open":20.0286,"high":20.1845,"low":19.1713,"close":19.2785,"volume":319893,"unadjustedVolume":319893,"change":-0.876737,"changePercent":-4.35,"vwap":19.4322,"label":"Apr 6, 18","changeOverTime":-0.13034554312522548},{"date":"2018-04-09","open":19.3759,"high":19.3764,"low":19.0447,"close":19.0544,"volume":397201,"unadjustedVolume":397201,"change":-0.224055,"changePercent":-1.162,"vwap":19.165,"label":"Apr 9, 18","changeOverTime":-0.14045470949115835},{"date":"2018-04-10","open":19.3467,"high":19.6097,"low":19.3175,"close":19.4636,"volume":249113,"unadjustedVolume":249113,"change":0.409144,"changePercent":2.147,"vwap":19.4871,"label":"Apr 10, 18","changeOverTime":-0.12199566943341753},{"date":"2018-04-11","open":19.3175,"high":19.4868,"low":19.2298,"close":19.3856,"volume":144138,"unadjustedVolume":144138,"change":-0.077932,"changePercent":-0.4,"vwap":19.3934,"label":"Apr 11, 18","changeOverTime":-0.12551425478166722},{"date":"2018-04-12","open":19.522,"high":19.6196,"low":19.4051,"close":19.522,"volume":128843,"unadjustedVolume":128843,"change":0.136382,"changePercent":0.704,"vwap":19.516,"label":"Apr 12, 18","changeOverTime":-0.11936124142908701},{"date":"2018-04-13","open":19.6584,"high":19.6682,"low":19.2688,"close":19.3272,"volume":229480,"unadjustedVolume":229480,"change":-0.194831,"changePercent":-0.998,"vwap":19.4046,"label":"Apr 13, 18","changeOverTime":-0.12814868278599775},{"date":"2018-04-16","open":19.4344,"high":19.5513,"low":19.3369,"close":19.4831,"volume":298522,"unadjustedVolume":298522,"change":0.155864,"changePercent":0.806,"vwap":19.4324,"label":"Apr 16, 18","changeOverTime":-0.12111602309635507},{"date":"2018-04-17","open":19.5805,"high":19.5805,"low":19.298,"close":19.3467,"volume":177638,"unadjustedVolume":177638,"change":-0.136381,"changePercent":-0.7,"vwap":19.3766,"label":"Apr 17, 18","changeOverTime":-0.12726903644893545},{"date":"2018-04-18","open":19.3856,"high":19.6,"low":19.3369,"close":19.3662,"volume":303414,"unadjustedVolume":303414,"change":0.019482,"changePercent":0.101,"vwap":19.402,"label":"Apr 18, 18","changeOverTime":-0.12638939011187297},{"date":"2018-04-19","open":19.3954,"high":19.4831,"low":19.1031,"close":19.1324,"volume":225230,"unadjustedVolume":225230,"change":-0.233796,"changePercent":-1.207,"vwap":19.2008,"label":"Apr 19, 18","changeOverTime":-0.13693612414290865},{"date":"2018-04-20","open":19.0934,"high":19.22,"low":19.0155,"close":19.2006,"volume":274641,"unadjustedVolume":274641,"change":0.068191,"changePercent":0.356,"vwap":19.1585,"label":"Apr 20, 18","changeOverTime":-0.13385961746661845},{"date":"2018-04-23","open":19.2688,"high":19.4441,"low":19.1324,"close":19.22,"volume":152305,"unadjustedVolume":152305,"change":0.019483,"changePercent":0.101,"vwap":19.245,"label":"Apr 23, 18","changeOverTime":-0.13298448213641287},{"date":"2018-04-24","open":19.3467,"high":19.6487,"low":19.1324,"close":19.1811,"volume":269376,"unadjustedVolume":269376,"change":-0.038967,"changePercent":-0.203,"vwap":19.3614,"label":"Apr 24, 18","changeOverTime":-0.13473926380368093},{"date":"2018-04-25","open":19.1324,"high":19.3759,"low":19.0544,"close":19.1811,"volume":210390,"unadjustedVolume":210390,"change":0,"changePercent":0,"vwap":19.2067,"label":"Apr 25, 18","changeOverTime":-0.13473926380368093},{"date":"2018-04-26","open":19.2006,"high":19.2103,"low":19.0447,"close":19.1129,"volume":183039,"unadjustedVolume":183039,"change":-0.06819,"changePercent":-0.356,"vwap":19.1219,"label":"Apr 26, 18","changeOverTime":-0.13781577047997112},{"date":"2018-04-27","open":19.0837,"high":19.2785,"low":19.035,"close":19.2688,"volume":161266,"unadjustedVolume":161266,"change":0.155864,"changePercent":0.815,"vwap":19.1929,"label":"Apr 27, 18","changeOverTime":-0.13078311079032842},{"date":"2018-04-30","open":19.2882,"high":19.3564,"low":19.0934,"close":19.0934,"volume":236789,"unadjustedVolume":236789,"change":-0.175348,"changePercent":-0.91,"vwap":19.1533,"label":"Apr 30, 18","changeOverTime":-0.13869541681703357},{"date":"2018-05-01","open":19.0252,"high":19.1908,"low":18.8401,"close":19.0934,"volume":224906,"unadjustedVolume":224906,"change":0,"changePercent":0,"vwap":19.0522,"label":"May 1, 18","changeOverTime":-0.13869541681703357},{"date":"2018-05-02","open":19.0252,"high":19.5415,"low":19.0252,"close":19.4636,"volume":330901,"unadjustedVolume":330901,"change":0.370179,"changePercent":1.939,"vwap":19.4068,"label":"May 2, 18","changeOverTime":-0.12199566943341753},{"date":"2018-05-03","open":19.9701,"high":20.8858,"low":19.561,"close":20.7008,"volume":519462,"unadjustedVolume":519462,"change":1.2372,"changePercent":6.356,"vwap":20.4872,"label":"May 3, 18","changeOverTime":-0.06618549260194868},{"date":"2018-05-04","open":20.7884,"high":21.0027,"low":20.6131,"close":20.8858,"volume":403404,"unadjustedVolume":403404,"change":0.18509,"changePercent":0.894,"vwap":20.7892,"label":"May 4, 18","changeOverTime":-0.057840129916997454},{"date":"2018-05-07","open":21.0027,"high":21.1196,"low":20.5936,"close":20.8469,"volume":445395,"unadjustedVolume":445395,"change":-0.038966,"changePercent":-0.187,"vwap":20.8177,"label":"May 7, 18","changeOverTime":-0.059594911584265504},{"date":"2018-05-08","open":20.8761,"high":21.0222,"low":20.5741,"close":21.0222,"volume":410242,"unadjustedVolume":410242,"change":0.175348,"changePercent":0.841,"vwap":20.8244,"label":"May 8, 18","changeOverTime":-0.051687116564417074},{"date":"2018-05-09","open":21.1391,"high":21.2755,"low":20.9833,"close":21.0807,"volume":338423,"unadjustedVolume":338423,"change":0.058448,"changePercent":0.278,"vwap":21.0992,"label":"May 9, 18","changeOverTime":-0.04904817755322984},{"date":"2018-05-10","open":21.1099,"high":21.7723,"low":21.0563,"close":21.7431,"volume":516854,"unadjustedVolume":516854,"change":0.662424,"changePercent":3.142,"vwap":21.6022,"label":"May 10, 18","changeOverTime":-0.019167268134247607},{"date":"2018-05-11","open":21.7334,"high":21.9477,"low":21.3437,"close":21.8015,"volume":459185,"unadjustedVolume":459185,"change":0.05845,"changePercent":0.269,"vwap":21.7109,"label":"May 11, 18","changeOverTime":-0.01653284012991693},{"date":"2018-05-14","open":21.821,"high":22.1133,"low":21.7041,"close":21.7431,"volume":270384,"unadjustedVolume":270384,"change":-0.05845,"changePercent":-0.268,"vwap":21.9343,"label":"May 14, 18","changeOverTime":-0.019167268134247607},{"date":"2018-05-15","open":21.5872,"high":22.2399,"low":21.5775,"close":22.2107,"volume":472392,"unadjustedVolume":472392,"change":0.467594,"changePercent":2.151,"vwap":22.1142,"label":"May 15, 18","changeOverTime":0.0019261999278238886},{"date":"2018-05-16","open":22.201,"high":22.5419,"low":22.0938,"close":22.3568,"volume":416679,"unadjustedVolume":416679,"change":0.146124,"changePercent":0.658,"vwap":22.3757,"label":"May 16, 18","changeOverTime":0.008516780945507061},{"date":"2018-05-17","open":20.7787,"high":20.8761,"low":20.3598,"close":20.5741,"volume":4339993,"unadjustedVolume":4339993,"change":-1.7827,"changePercent":-7.974,"vwap":20.6676,"label":"May 17, 18","changeOverTime":-0.0719009382894261},{"date":"2018-05-18","open":20.7105,"high":20.7202,"low":20.1747,"close":20.6033,"volume":1703762,"unadjustedVolume":1703762,"change":0.029224,"changePercent":0.142,"vwap":20.4909,"label":"May 18, 18","changeOverTime":-0.07058372428726085},{"date":"2018-05-21","open":20.6618,"high":21.3242,"low":20.6618,"close":21.2268,"volume":1758994,"unadjustedVolume":1758994,"change":0.623458,"changePercent":3.026,"vwap":21.16,"label":"May 21, 18","changeOverTime":-0.04245759653554667},{"date":"2018-05-22","open":21.3145,"high":21.3924,"low":20.8761,"close":20.8956,"volume":842962,"unadjustedVolume":842962,"change":-0.331212,"changePercent":-1.56,"vwap":21.0422,"label":"May 22, 18","changeOverTime":-0.05739805124503778},{"date":"2018-05-23","open":20.8371,"high":20.9248,"low":20.5059,"close":20.7495,"volume":612370,"unadjustedVolume":612370,"change":-0.146122,"changePercent":-0.699,"vwap":20.7287,"label":"May 23, 18","changeOverTime":-0.06398863226272096},{"date":"2018-05-24","open":20.7689,"high":20.9053,"low":20.5839,"close":20.8858,"volume":499757,"unadjustedVolume":499757,"change":0.136381,"changePercent":0.657,"vwap":20.8113,"label":"May 24, 18","changeOverTime":-0.057840129916997454},{"date":"2018-05-25","open":20.8664,"high":21.1781,"low":20.8274,"close":20.9443,"volume":652318,"unadjustedVolume":652318,"change":0.058449,"changePercent":0.28,"vwap":21.0044,"label":"May 25, 18","changeOverTime":-0.05520119090581022},{"date":"2018-05-29","open":20.8469,"high":21.3827,"low":20.8274,"close":20.9638,"volume":1155670,"unadjustedVolume":1155670,"change":0.019483,"changePercent":0.093,"vwap":21.0934,"label":"May 29, 18","changeOverTime":-0.05432154456874776},{"date":"2018-05-30","open":21.1513,"high":21.2796,"low":20.9835,"close":21.1217,"volume":535861,"unadjustedVolume":535861,"change":0.157916,"changePercent":0.753,"vwap":21.1438,"label":"May 30, 18","changeOverTime":-0.04719866474197035},{"date":"2018-05-31","open":21.1217,"high":21.25,"low":20.8651,"close":21.0822,"volume":620848,"unadjustedVolume":620848,"change":-0.03948,"changePercent":-0.187,"vwap":21.0807,"label":"May 31, 18","changeOverTime":-0.048980512450378884},{"date":"2018-06-01","open":21.2401,"high":21.2796,"low":20.8848,"close":20.944,"volume":263726,"unadjustedVolume":263726,"change":-0.138179,"changePercent":-0.655,"vwap":21.0147,"label":"Jun 1, 18","changeOverTime":-0.055214723926380375},{"date":"2018-06-04","open":21.0329,"high":21.1809,"low":20.7861,"close":21.1414,"volume":621488,"unadjustedVolume":621488,"change":0.197399,"changePercent":0.943,"vwap":21.0911,"label":"Jun 4, 18","changeOverTime":-0.046309996391194444},{"date":"2018-06-05","open":21.171,"high":21.2599,"low":20.8947,"close":21.1908,"volume":616465,"unadjustedVolume":616465,"change":0.04935,"changePercent":0.233,"vwap":21.1523,"label":"Jun 5, 18","changeOverTime":-0.04408155900396968},{"date":"2018-06-06","open":21.2401,"high":21.3191,"low":21.1809,"close":21.2401,"volume":286532,"unadjustedVolume":286532,"change":0.049349,"changePercent":0.233,"vwap":21.2469,"label":"Jun 6, 18","changeOverTime":-0.041857632623601475},{"date":"2018-06-07","open":21.2796,"high":21.3783,"low":21.1069,"close":21.1414,"volume":527417,"unadjustedVolume":527417,"change":-0.098699,"changePercent":-0.465,"vwap":21.2555,"label":"Jun 7, 18","changeOverTime":-0.046309996391194444},{"date":"2018-06-08","open":21.0723,"high":21.0723,"low":20.7072,"close":20.8355,"volume":387328,"unadjustedVolume":387328,"change":-0.305969,"changePercent":-1.447,"vwap":20.8221,"label":"Jun 8, 18","changeOverTime":-0.06010916636593286},{"date":"2018-06-11","open":20.8552,"high":21.0577,"low":20.7762,"close":20.8651,"volume":684231,"unadjustedVolume":684231,"change":0.02961,"changePercent":0.142,"vwap":20.8787,"label":"Jun 11, 18","changeOverTime":-0.05877390833634056},{"date":"2018-06-12","open":20.944,"high":20.9736,"low":20.6578,"close":20.8749,"volume":584701,"unadjustedVolume":584701,"change":0.00987,"changePercent":0.047,"vwap":20.8053,"label":"Jun 12, 18","changeOverTime":-0.058331829664381045},{"date":"2018-06-13","open":20.8749,"high":20.8749,"low":20.4999,"close":20.6381,"volume":440872,"unadjustedVolume":440872,"change":-0.236879,"changePercent":-1.135,"vwap":20.6453,"label":"Jun 13, 18","changeOverTime":-0.06901389390111863},{"date":"2018-06-14","open":20.7072,"high":20.7072,"low":20.5098,"close":20.6282,"volume":347906,"unadjustedVolume":347906,"change":-0.009869,"changePercent":-0.048,"vwap":20.6237,"label":"Jun 14, 18","changeOverTime":-0.06946048357993502},{"date":"2018-06-15","open":20.6282,"high":20.6775,"low":20.2334,"close":20.5986,"volume":590111,"unadjustedVolume":590111,"change":-0.02961,"changePercent":-0.144,"vwap":20.545,"label":"Jun 15, 18","changeOverTime":-0.07079574160952716},{"date":"2018-06-18","open":20.5098,"high":20.8256,"low":20.4505,"close":20.8157,"volume":656227,"unadjustedVolume":656227,"change":0.217139,"changePercent":1.054,"vwap":20.6682,"label":"Jun 18, 18","changeOverTime":-0.061002345723565485},{"date":"2018-06-19","open":20.6775,"high":20.944,"low":20.5196,"close":20.8848,"volume":582768,"unadjustedVolume":582768,"change":0.069089,"changePercent":0.332,"vwap":20.8137,"label":"Jun 19, 18","changeOverTime":-0.057885239985564815},{"date":"2018-06-20","open":20.9342,"high":21.3092,"low":20.8453,"close":21.0131,"volume":613403,"unadjustedVolume":613403,"change":0.12831,"changePercent":0.614,"vwap":21.1086,"label":"Jun 20, 18","changeOverTime":-0.052097618188379546},{"date":"2018-06-21","open":21.0131,"high":21.102,"low":20.7762,"close":20.8947,"volume":384301,"unadjustedVolume":384301,"change":-0.11844,"changePercent":-0.564,"vwap":20.9091,"label":"Jun 21, 18","changeOverTime":-0.05743865030674842},{"date":"2018-06-22","open":20.9934,"high":21.3191,"low":20.8651,"close":21.0329,"volume":722901,"unadjustedVolume":722901,"change":0.138179,"changePercent":0.661,"vwap":21.0353,"label":"Jun 22, 18","changeOverTime":-0.05120443883074693},{"date":"2018-06-25","open":20.9243,"high":21.1414,"low":20.569,"close":20.6479,"volume":343943,"unadjustedVolume":343943,"change":-0.384928,"changePercent":-1.83,"vwap":20.6693,"label":"Jun 25, 18","changeOverTime":-0.06857181522915912},{"date":"2018-06-26","open":20.6677,"high":20.7762,"low":20.5305,"close":20.6775,"volume":257995,"unadjustedVolume":257995,"change":0.02961,"changePercent":0.143,"vwap":20.6944,"label":"Jun 26, 18","changeOverTime":-0.06723655719956698},{"date":"2018-06-27","open":20.7269,"high":20.8335,"low":20.4111,"close":20.4308,"volume":332786,"unadjustedVolume":332786,"change":-0.246748,"changePercent":-1.193,"vwap":20.5898,"label":"Jun 27, 18","changeOverTime":-0.0783652111151208},{"date":"2018-06-28","open":20.4407,"high":20.4407,"low":20.0952,"close":20.2729,"volume":264376,"unadjustedVolume":264376,"change":-0.15792,"changePercent":-0.773,"vwap":20.2419,"label":"Jun 28, 18","changeOverTime":-0.0854880909418982},{"date":"2018-06-29","open":20.3518,"high":20.5098,"low":20.2334,"close":20.2334,"volume":368645,"unadjustedVolume":368645,"change":-0.039479,"changePercent":-0.195,"vwap":20.3257,"label":"Jun 29, 18","changeOverTime":-0.08726993865030673},{"date":"2018-07-02","open":20.0952,"high":20.2334,"low":19.9176,"close":20.1544,"volume":336933,"unadjustedVolume":336933,"change":-0.07896,"changePercent":-0.39,"vwap":20.0482,"label":"Jul 2, 18","changeOverTime":-0.0908336340671238},{"date":"2018-07-03","open":20.2137,"high":20.3716,"low":20.1347,"close":20.184,"volume":196081,"unadjustedVolume":196081,"change":0.02961,"changePercent":0.147,"vwap":20.2499,"label":"Jul 3, 18","changeOverTime":-0.0894983760375315},{"date":"2018-07-05","open":20.2531,"high":20.3124,"low":19.957,"close":20.2235,"volume":348210,"unadjustedVolume":348210,"change":0.03948,"changePercent":0.196,"vwap":20.1368,"label":"Jul 5, 18","changeOverTime":-0.08771652832912297},{"date":"2018-07-06","open":20.2235,"high":20.4308,"low":20.0853,"close":20.1939,"volume":293772,"unadjustedVolume":293772,"change":-0.02961,"changePercent":-0.146,"vwap":20.2324,"label":"Jul 6, 18","changeOverTime":-0.08905178635871527},{"date":"2018-07-09","open":20.263,"high":20.5986,"low":20.263,"close":20.5295,"volume":327854,"unadjustedVolume":327854,"change":0.335578,"changePercent":1.662,"vwap":20.5179,"label":"Jul 9, 18","changeOverTime":-0.073912847347528},{"date":"2018-07-10","open":20.5788,"high":20.8256,"low":20.4308,"close":20.4801,"volume":533136,"unadjustedVolume":533136,"change":-0.04935,"changePercent":-0.24,"vwap":20.6179,"label":"Jul 10, 18","changeOverTime":-0.07614128473475276},{"date":"2018-07-11","open":20.3617,"high":20.5295,"low":20.2038,"close":20.2926,"volume":573443,"unadjustedVolume":573443,"change":-0.187529,"changePercent":-0.916,"vwap":20.354,"label":"Jul 11, 18","changeOverTime":-0.0845994225911223},{"date":"2018-07-12","open":20.3913,"high":20.4999,"low":19.9768,"close":20.0064,"volume":315065,"unadjustedVolume":315065,"change":-0.286228,"changePercent":-1.411,"vwap":20.0847,"label":"Jul 12, 18","changeOverTime":-0.09750992421508481},{"date":"2018-07-13","open":20.0261,"high":20.2433,"low":19.9274,"close":19.9965,"volume":292858,"unadjustedVolume":292858,"change":-0.00987,"changePercent":-0.049,"vwap":20.0477,"label":"Jul 13, 18","changeOverTime":-0.09795651389390105},{"date":"2018-07-16","open":19.9866,"high":20.0952,"low":19.9274,"close":19.9965,"volume":160546,"unadjustedVolume":160546,"change":0,"changePercent":0,"vwap":19.9791,"label":"Jul 16, 18","changeOverTime":-0.09795651389390105},{"date":"2018-07-17","open":19.9866,"high":20.2433,"low":19.9866,"close":20.0853,"volume":146304,"unadjustedVolume":146304,"change":0.088829,"changePercent":0.444,"vwap":20.0951,"label":"Jul 17, 18","changeOverTime":-0.09395073980512447},{"date":"2018-07-18","open":20.0952,"high":20.3321,"low":20.0952,"close":20.3025,"volume":181829,"unadjustedVolume":181829,"change":0.217139,"changePercent":1.081,"vwap":20.2557,"label":"Jul 18, 18","changeOverTime":-0.08415283291230606},{"date":"2018-07-19","open":20.3025,"high":20.4703,"low":20.2137,"close":20.3124,"volume":232324,"unadjustedVolume":232324,"change":0.00987,"changePercent":0.049,"vwap":20.3236,"label":"Jul 19, 18","changeOverTime":-0.08370624323348967},{"date":"2018-07-20","open":20.2729,"high":20.2729,"low":19.8731,"close":20.0261,"volume":383371,"unadjustedVolume":383371,"change":-0.286228,"changePercent":-1.409,"vwap":20.012,"label":"Jul 20, 18","changeOverTime":-0.0966212558643089},{"date":"2018-07-23","open":20.036,"high":20.2334,"low":19.9176,"close":19.9274,"volume":191228,"unadjustedVolume":191228,"change":-0.0987,"changePercent":-0.493,"vwap":20.0122,"label":"Jul 23, 18","changeOverTime":-0.10107361963190187},{"date":"2018-07-24","open":20.0459,"high":20.2235,"low":19.9472,"close":19.9965,"volume":296138,"unadjustedVolume":296138,"change":0.06909,"changePercent":0.347,"vwap":20.0803,"label":"Jul 24, 18","changeOverTime":-0.09795651389390105},{"date":"2018-07-25","open":19.9768,"high":20.2137,"low":19.9373,"close":20.1051,"volume":145369,"unadjustedVolume":145369,"change":0.108569,"changePercent":0.543,"vwap":20.0248,"label":"Jul 25, 18","changeOverTime":-0.09305756044749185},{"date":"2018-07-26","open":20.1051,"high":20.3814,"low":20.1051,"close":20.2926,"volume":187281,"unadjustedVolume":187281,"change":0.187529,"changePercent":0.933,"vwap":20.2723,"label":"Jul 26, 18","changeOverTime":-0.0845994225911223},{"date":"2018-07-27","open":20.3124,"high":20.48,"low":20.1742,"close":20.2137,"volume":151353,"unadjustedVolume":151353,"change":-0.078959,"changePercent":-0.389,"vwap":20.2527,"label":"Jul 27, 18","changeOverTime":-0.08815860700108265},{"date":"2018-07-30","open":20.2137,"high":20.4801,"low":20.2137,"close":20.2827,"volume":242701,"unadjustedVolume":242701,"change":0.069089,"changePercent":0.342,"vwap":20.3531,"label":"Jul 30, 18","changeOverTime":-0.08504601226993869},{"date":"2018-07-31","open":20.2827,"high":20.5492,"low":20.263,"close":20.4604,"volume":413702,"unadjustedVolume":413702,"change":0.177659,"changePercent":0.876,"vwap":20.4701,"label":"Jul 31, 18","changeOverTime":-0.07702995308552867},{"date":"2018-08-01","open":20.4604,"high":20.49,"low":20.0952,"close":20.2729,"volume":185168,"unadjustedVolume":185168,"change":-0.187529,"changePercent":-0.917,"vwap":20.2712,"label":"Aug 1, 18","changeOverTime":-0.0854880909418982},{"date":"2018-08-02","open":20.1446,"high":20.2926,"low":20.0261,"close":20.1643,"volume":137674,"unadjustedVolume":137674,"change":-0.108569,"changePercent":-0.536,"vwap":20.1678,"label":"Aug 2, 18","changeOverTime":-0.0903870443883074},{"date":"2018-08-03","open":20.1939,"high":20.3518,"low":20.1248,"close":20.2433,"volume":175435,"unadjustedVolume":175435,"change":0.078959,"changePercent":0.392,"vwap":20.2096,"label":"Aug 3, 18","changeOverTime":-0.08682334897149034},{"date":"2018-08-06","open":20.2334,"high":20.2334,"low":19.9274,"close":19.9965,"volume":441937,"unadjustedVolume":441937,"change":-0.246748,"changePercent":-1.219,"vwap":20.0475,"label":"Aug 6, 18","changeOverTime":-0.09795651389390105},{"date":"2018-08-07","open":20.5986,"high":20.9243,"low":20.0952,"close":20.5394,"volume":657681,"unadjustedVolume":657681,"change":0.542847,"changePercent":2.715,"vwap":20.509,"label":"Aug 7, 18","changeOverTime":-0.07346625766871161},{"date":"2018-08-08","open":20.5492,"high":20.5937,"low":20.1939,"close":20.3716,"volume":409969,"unadjustedVolume":409969,"change":-0.167789,"changePercent":-0.817,"vwap":20.3361,"label":"Aug 8, 18","changeOverTime":-0.08103572717430524},{"date":"2018-08-09","open":20.3716,"high":20.5196,"low":20.2334,"close":20.3321,"volume":199172,"unadjustedVolume":199172,"change":-0.03948,"changePercent":-0.194,"vwap":20.3328,"label":"Aug 9, 18","changeOverTime":-0.08281757488271377},{"date":"2018-08-10","open":20.1742,"high":20.2887,"low":20.0163,"close":20.1544,"volume":271044,"unadjustedVolume":271044,"change":-0.177659,"changePercent":-0.874,"vwap":20.1546,"label":"Aug 10, 18","changeOverTime":-0.0908336340671238},{"date":"2018-08-13","open":20.1939,"high":20.2137,"low":19.9633,"close":20.0952,"volume":335841,"unadjustedVolume":335841,"change":-0.05922,"changePercent":-0.294,"vwap":20.0848,"label":"Aug 13, 18","changeOverTime":-0.09350415012630824},{"date":"2018-08-14","open":20.1544,"high":20.4308,"low":20.1544,"close":20.4111,"volume":316481,"unadjustedVolume":316481,"change":0.315839,"changePercent":1.572,"vwap":20.3762,"label":"Aug 14, 18","changeOverTime":-0.07925387946589671},{"date":"2018-08-15","open":20.2926,"high":20.4505,"low":20.2038,"close":20.2729,"volume":389681,"unadjustedVolume":389681,"change":-0.13818,"changePercent":-0.677,"vwap":20.3292,"label":"Aug 15, 18","changeOverTime":-0.0854880909418982},{"date":"2018-08-16","open":20.4012,"high":20.8355,"low":20.2926,"close":20.717,"volume":487836,"unadjustedVolume":487836,"change":0.444148,"changePercent":2.191,"vwap":20.6959,"label":"Aug 16, 18","changeOverTime":-0.06545470949115845},{"date":"2018-08-17","open":20.6973,"high":20.8256,"low":20.5887,"close":20.6775,"volume":320238,"unadjustedVolume":320238,"change":-0.03948,"changePercent":-0.191,"vwap":20.7154,"label":"Aug 17, 18","changeOverTime":-0.06723655719956698},{"date":"2018-08-20","open":20.7072,"high":20.9144,"low":20.6677,"close":20.8651,"volume":197155,"unadjustedVolume":197155,"change":0.187529,"changePercent":0.907,"vwap":20.817,"label":"Aug 20, 18","changeOverTime":-0.05877390833634056},{"date":"2018-08-21","open":20.9144,"high":21.3981,"low":20.8453,"close":21.3487,"volume":325458,"unadjustedVolume":325458,"change":0.483628,"changePercent":2.318,"vwap":21.2095,"label":"Aug 21, 18","changeOverTime":-0.036958679177192276},{"date":"2018-08-22","open":21.3487,"high":21.4375,"low":21.0033,"close":21.0329,"volume":299118,"unadjustedVolume":299118,"change":-0.315839,"changePercent":-1.479,"vwap":21.0952,"label":"Aug 22, 18","changeOverTime":-0.05120443883074693},{"date":"2018-08-23","open":21.0131,"high":21.0131,"low":20.6874,"close":20.7762,"volume":323165,"unadjustedVolume":323165,"change":-0.256618,"changePercent":-1.22,"vwap":20.7886,"label":"Aug 23, 18","changeOverTime":-0.06278419343197401},{"date":"2018-08-24","open":20.8848,"high":20.8848,"low":20.6973,"close":20.8651,"volume":182821,"unadjustedVolume":182821,"change":0.088829,"changePercent":0.428,"vwap":20.824,"label":"Aug 24, 18","changeOverTime":-0.05877390833634056},{"date":"2018-08-27","open":20.944,"high":21.2895,"low":20.8749,"close":21.102,"volume":358472,"unadjustedVolume":358472,"change":0.236879,"changePercent":1.135,"vwap":21.1329,"label":"Aug 27, 18","changeOverTime":-0.04808733309274626},{"date":"2018-08-28","open":21.1908,"high":21.5757,"low":20.9736,"close":21.4474,"volume":698732,"unadjustedVolume":698732,"change":0.345448,"changePercent":1.637,"vwap":21.3767,"label":"Aug 28, 18","changeOverTime":-0.032506315409599466},{"date":"2018-08-29","open":21.4869,"high":21.4869,"low":21.1908,"close":21.25,"volume":370109,"unadjustedVolume":370109,"change":-0.197399,"changePercent":-0.92,"vwap":21.2635,"label":"Aug 29, 18","changeOverTime":-0.041411042944785245},{"date":"2018-08-30","open":21.28,"high":21.38,"low":21.045,"close":21.22,"volume":248807,"unadjustedVolume":248807,"change":-0.030002,"changePercent":-0.141,"vwap":21.2224,"label":"Aug 30, 18","changeOverTime":-0.04276434500180442},{"date":"2018-08-31","open":21.11,"high":21.16,"low":20.92,"close":20.92,"volume":534760,"unadjustedVolume":534760,"change":-0.3,"changePercent":-1.414,"vwap":20.9852,"label":"Aug 31, 18","changeOverTime":-0.056297365571995564},{"date":"2018-09-04","open":20.86,"high":20.975,"low":20.45,"close":20.5,"volume":561785,"unadjustedVolume":561785,"change":-0.42,"changePercent":-2.008,"vwap":20.6278,"label":"Sep 4, 18","changeOverTime":-0.07524359437026341},{"date":"2018-09-05","open":20.5,"high":20.83,"low":20.451,"close":20.74,"volume":371200,"unadjustedVolume":371200,"change":0.24,"changePercent":1.171,"vwap":20.7184,"label":"Sep 5, 18","changeOverTime":-0.06441717791411047},{"date":"2018-09-06","open":20.77,"high":20.9,"low":20.63,"close":20.65,"volume":355465,"unadjustedVolume":355465,"change":-0.09,"changePercent":-0.434,"vwap":20.7351,"label":"Sep 6, 18","changeOverTime":-0.06847708408516784},{"date":"2018-09-07","open":20.6,"high":20.6,"low":20.1,"close":20.15,"volume":635050,"unadjustedVolume":635050,"change":-0.5,"changePercent":-2.421,"vwap":20.2361,"label":"Sep 7, 18","changeOverTime":-0.09103211836881996},{"date":"2018-09-10","open":20.26,"high":20.48,"low":20.18,"close":20.4,"volume":437989,"unadjustedVolume":437989,"change":0.25,"changePercent":1.241,"vwap":20.3677,"label":"Sep 10, 18","changeOverTime":-0.0797546012269939},{"date":"2018-09-11","open":20.33,"high":20.6058,"low":20.32,"close":20.43,"volume":513337,"unadjustedVolume":513337,"change":0.03,"changePercent":0.147,"vwap":20.4497,"label":"Sep 11, 18","changeOverTime":-0.07840129916997472},{"date":"2018-09-12","open":20.39,"high":20.48,"low":20.13,"close":20.24,"volume":453000,"unadjustedVolume":453000,"change":-0.19,"changePercent":-0.93,"vwap":20.2736,"label":"Sep 12, 18","changeOverTime":-0.08697221219776258},{"date":"2018-09-13","open":20.35,"high":20.58,"low":20.33,"close":20.5,"volume":262103,"unadjustedVolume":262103,"change":0.26,"changePercent":1.285,"vwap":20.4826,"label":"Sep 13, 18","changeOverTime":-0.07524359437026341},{"date":"2018-09-14","open":20.55,"high":20.74,"low":20.5,"close":20.64,"volume":325552,"unadjustedVolume":325552,"change":0.14,"changePercent":0.683,"vwap":20.6387,"label":"Sep 14, 18","changeOverTime":-0.0689281847708408},{"date":"2018-09-17","open":20.72,"high":20.89,"low":20.57,"close":20.71,"volume":371527,"unadjustedVolume":371527,"change":0.07,"changePercent":0.339,"vwap":20.6987,"label":"Sep 17, 18","changeOverTime":-0.06577047997112949},{"date":"2018-09-18","open":20.77,"high":21.115,"low":20.74,"close":20.99,"volume":380771,"unadjustedVolume":380771,"change":0.28,"changePercent":1.352,"vwap":20.9663,"label":"Sep 18, 18","changeOverTime":-0.053139660772284415},{"date":"2018-09-19","open":21.04,"high":21.24,"low":20.99,"close":21.02,"volume":212207,"unadjustedVolume":212207,"change":0.03,"changePercent":0.143,"vwap":21.065,"label":"Sep 19, 18","changeOverTime":-0.051786358715265234},{"date":"2018-09-20","open":21.15,"high":21.23,"low":21.055,"close":21.14,"volume":217201,"unadjustedVolume":217201,"change":0.12,"changePercent":0.571,"vwap":21.1296,"label":"Sep 20, 18","changeOverTime":-0.04637315048718868},{"date":"2018-09-21","open":21.19,"high":21.21,"low":21.06,"close":21.06,"volume":1009057,"unadjustedVolume":1009057,"change":-0.08,"changePercent":-0.378,"vwap":21.0864,"label":"Sep 21, 18","changeOverTime":-0.04998195597257311},{"date":"2018-09-24","open":21.05,"high":21.06,"low":20.76,"close":20.95,"volume":354625,"unadjustedVolume":354625,"change":-0.11,"changePercent":-0.522,"vwap":20.9018,"label":"Sep 24","changeOverTime":-0.05494406351497654},{"date":"2018-09-25","open":20.98,"high":21.09,"low":20.84,"close":21.05,"volume":336764,"unadjustedVolume":336764,"change":0.1,"changePercent":0.477,"vwap":20.9969,"label":"Sep 25","changeOverTime":-0.05043305665824606},{"date":"2018-09-26","open":21.08,"high":21.17,"low":20.87,"close":20.9,"volume":305571,"unadjustedVolume":305571,"change":-0.15,"changePercent":-0.713,"vwap":20.9957,"label":"Sep 26","changeOverTime":-0.05719956694334179},{"date":"2018-09-27","open":21.47,"high":22.26,"low":21.47,"close":22,"volume":868398,"unadjustedVolume":868398,"change":1.1,"changePercent":5.263,"vwap":21.9807,"label":"Sep 27","changeOverTime":-0.007578491519307076},{"date":"2018-09-28","open":21.9,"high":22.14,"low":21.65,"close":21.91,"volume":397037,"unadjustedVolume":397037,"change":-0.09,"changePercent":-0.409,"vwap":21.9427,"label":"Sep 28","changeOverTime":-0.01163839769036445},{"date":"2018-10-01","open":21.97,"high":22.11,"low":21.43,"close":21.52,"volume":214518,"unadjustedVolume":214518,"change":-0.39,"changePercent":-1.78,"vwap":21.7081,"label":"Oct 1","changeOverTime":-0.029231324431613123},{"date":"2018-10-02","open":21.49,"high":21.65,"low":21.39,"close":21.59,"volume":212314,"unadjustedVolume":212314,"change":0.07,"changePercent":0.325,"vwap":21.5651,"label":"Oct 2","changeOverTime":-0.026073619631901815},{"date":"2018-10-03","open":21.7,"high":22.19,"low":21.571,"close":22.08,"volume":331893,"unadjustedVolume":331893,"change":0.49,"changePercent":2.27,"vwap":21.9948,"label":"Oct 3","changeOverTime":-0.003969686033922815},{"date":"2018-10-04","open":22.07,"high":22.27,"low":21.5,"close":21.73,"volume":275746,"unadjustedVolume":275746,"change":-0.35,"changePercent":-1.585,"vwap":21.7224,"label":"Oct 4","changeOverTime":-0.019758210032479198},{"date":"2018-10-05","open":21.72,"high":21.77,"low":21.27,"close":21.38,"volume":225039,"unadjustedVolume":225039,"change":-0.35,"changePercent":-1.611,"vwap":21.4349,"label":"Oct 5","changeOverTime":-0.03554673403103574},{"date":"2018-10-08","open":21.28,"high":21.42,"low":21.175,"close":21.24,"volume":264139,"unadjustedVolume":264139,"change":-0.14,"changePercent":-0.655,"vwap":21.2624,"label":"Oct 8","changeOverTime":-0.04186214363045836},{"date":"2018-10-09","open":21.2,"high":21.22,"low":20.865,"close":20.91,"volume":423286,"unadjustedVolume":423286,"change":-0.33,"changePercent":-1.554,"vwap":20.9986,"label":"Oct 9","changeOverTime":-0.056748466257668675},{"date":"2018-10-10","open":20.91,"high":21.04,"low":20.59,"close":20.62,"volume":488548,"unadjustedVolume":488548,"change":-0.29,"changePercent":-1.387,"vwap":20.8609,"label":"Oct 10","changeOverTime":-0.06983038614218685},{"date":"2018-10-11","open":20.55,"high":20.645,"low":20.03,"close":20.03,"volume":557590,"unadjustedVolume":557590,"change":-0.59,"changePercent":-2.861,"vwap":20.353,"label":"Oct 11","changeOverTime":-0.09644532659689635},{"date":"2018-10-12","open":20.3,"high":20.3,"low":19.66,"close":19.79,"volume":449416,"unadjustedVolume":449416,"change":-0.24,"changePercent":-1.198,"vwap":19.8589,"label":"Oct 12","changeOverTime":-0.10727174305304944},{"date":"2018-10-15","open":19.78,"high":20.33,"low":19.78,"close":20.18,"volume":505608,"unadjustedVolume":505608,"change":0.39,"changePercent":1.971,"vwap":20.1608,"label":"Oct 15","changeOverTime":-0.08967881631180077},{"date":"2018-10-16","open":20.29,"high":20.56,"low":20.07,"close":20.54,"volume":348151,"unadjustedVolume":348151,"change":0.36,"changePercent":1.784,"vwap":20.4303,"label":"Oct 16","changeOverTime":-0.07343919162757129},{"date":"2018-10-17","open":20.5,"high":20.6,"low":20.36,"close":20.46,"volume":274684,"unadjustedVolume":274684,"change":-0.08,"changePercent":-0.389,"vwap":20.5012,"label":"Oct 17","changeOverTime":-0.07704799711295554},{"date":"2018-10-18","open":20.42,"high":20.47,"low":20.12,"close":20.14,"volume":311791,"unadjustedVolume":311791,"change":-0.32,"changePercent":-1.564,"vwap":20.253,"label":"Oct 18","changeOverTime":-0.0914832190544929},{"date":"2018-10-19","open":20.13,"high":20.55,"low":20.13,"close":20.39,"volume":275440,"unadjustedVolume":275440,"change":0.25,"changePercent":1.241,"vwap":20.3956,"label":"Oct 19","changeOverTime":-0.08020570191266685},{"date":"2018-10-22","open":20.48,"high":20.72,"low":19.41,"close":19.42,"volume":781392,"unadjustedVolume":781392,"change":-0.97,"changePercent":-4.757,"vwap":19.7704,"label":"Oct 22","changeOverTime":-0.1239624684229519},{"date":"2018-10-23","open":19.13,"high":19.65,"low":19.04,"close":19.48,"volume":444976,"unadjustedVolume":444976,"change":0.06,"changePercent":0.309,"vwap":19.3551,"label":"Oct 23","changeOverTime":-0.1212558643089137},{"date":"2018-10-24","open":19.48,"high":19.64,"low":18.94,"close":18.96,"volume":466562,"unadjustedVolume":466562,"change":-0.52,"changePercent":-2.669,"vwap":19.2286,"label":"Oct 24","changeOverTime":-0.14471309996391188},{"date":"2018-10-25","open":19.14,"high":19.41,"low":19,"close":19.31,"volume":248442,"unadjustedVolume":248442,"change":0.35,"changePercent":1.846,"vwap":19.2883,"label":"Oct 25","changeOverTime":-0.1289245759653555},{"date":"2018-10-26","open":19.14,"high":19.15,"low":18.66,"close":19.05,"volume":325341,"unadjustedVolume":325341,"change":-0.26,"changePercent":-1.346,"vwap":18.9633,"label":"Oct 26","changeOverTime":-0.14065319379285451},{"date":"2018-10-29","open":19.32,"high":19.44,"low":18.86,"close":19,"volume":496046,"unadjustedVolume":496046,"change":-0.05,"changePercent":-0.262,"vwap":19.1619,"label":"Oct 29","changeOverTime":-0.14290869722121974},{"date":"2018-10-30","open":19.03,"high":19.29,"low":18.88,"close":19.15,"volume":300311,"unadjustedVolume":300311,"change":0.15,"changePercent":0.789,"vwap":19.0793,"label":"Oct 30","changeOverTime":-0.13614218693612418},{"date":"2018-10-31","open":19.39,"high":19.52,"low":19.18,"close":19.43,"volume":352160,"unadjustedVolume":352160,"change":0.28,"changePercent":1.462,"vwap":19.4179,"label":"Oct 31","changeOverTime":-0.12351136773727894},{"date":"2018-11-01","open":19.25,"high":19.79,"low":17.86,"close":19.57,"volume":668608,"unadjustedVolume":668608,"change":0.14,"changePercent":0.721,"vwap":18.96,"label":"Nov 1","changeOverTime":-0.11719595813785633},{"date":"2018-11-02","open":19.88,"high":20.25,"low":19.64,"close":19.87,"volume":304587,"unadjustedVolume":304587,"change":0.3,"changePercent":1.533,"vwap":19.8971,"label":"Nov 2","changeOverTime":-0.10366293756766502}],"14":[{"date":"2017-10-24","open":16.45,"high":16.76,"low":15.38,"close":15.71,"volume":682894,"unadjustedVolume":682894,"change":-0.63,"changePercent":-3.856,"vwap":15.8034,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":15.7,"high":16.13,"low":14.86,"close":15.8,"volume":419370,"unadjustedVolume":419370,"change":0.09,"changePercent":0.573,"vwap":15.5168,"label":"Oct 25, 17","changeOverTime":0.005728835136855496},{"date":"2017-10-26","open":15.76,"high":16.65,"low":15.71,"close":16.6,"volume":416056,"unadjustedVolume":416056,"change":0.8,"changePercent":5.063,"vwap":16.3534,"label":"Oct 26, 17","changeOverTime":0.0566518141311267},{"date":"2017-10-27","open":16.47,"high":17.62,"low":16.47,"close":17.37,"volume":404140,"unadjustedVolume":404140,"change":0.77,"changePercent":4.639,"vwap":17.2721,"label":"Oct 27, 17","changeOverTime":0.10566518141311267},{"date":"2017-10-30","open":17.48,"high":18.13,"low":17.355,"close":17.92,"volume":469260,"unadjustedVolume":469260,"change":0.55,"changePercent":3.166,"vwap":17.7641,"label":"Oct 30, 17","changeOverTime":0.14067472947167414},{"date":"2017-10-31","open":17.91,"high":19.04,"low":17.8101,"close":18.86,"volume":391975,"unadjustedVolume":391975,"change":0.94,"changePercent":5.246,"vwap":18.6492,"label":"Oct 31, 17","changeOverTime":0.20050922978994262},{"date":"2017-11-01","open":19.12,"high":19.64,"low":18.85,"close":19.06,"volume":567811,"unadjustedVolume":567811,"change":0.2,"changePercent":1.06,"vwap":19.0729,"label":"Nov 1, 17","changeOverTime":0.21323997453851035},{"date":"2017-11-02","open":19.22,"high":19.22,"low":18.331,"close":18.52,"volume":529477,"unadjustedVolume":529477,"change":-0.54,"changePercent":-2.833,"vwap":18.7318,"label":"Nov 2, 17","changeOverTime":0.17886696371737737},{"date":"2017-11-03","open":18.85,"high":20.88,"low":18.55,"close":20.11,"volume":920221,"unadjustedVolume":920221,"change":1.59,"changePercent":8.585,"vwap":20.108,"label":"Nov 3, 17","changeOverTime":0.2800763844684913},{"date":"2017-11-06","open":20.05,"high":24.71,"low":20.05,"close":23.75,"volume":1347796,"unadjustedVolume":1347796,"change":3.64,"changePercent":18.1,"vwap":23.3042,"label":"Nov 6, 17","changeOverTime":0.5117759388924251},{"date":"2017-11-07","open":23.99,"high":24.87,"low":23.38,"close":23.51,"volume":1642501,"unadjustedVolume":1642501,"change":-0.24,"changePercent":-1.011,"vwap":24.0254,"label":"Nov 7, 17","changeOverTime":0.4964990451941439},{"date":"2017-11-08","open":22.75,"high":23,"low":21.4901,"close":22.71,"volume":641202,"unadjustedVolume":641202,"change":-0.8,"changePercent":-3.403,"vwap":22.5009,"label":"Nov 8, 17","changeOverTime":0.44557606619987267},{"date":"2017-11-09","open":22.63,"high":23,"low":21.76,"close":22.35,"volume":459744,"unadjustedVolume":459744,"change":-0.36,"changePercent":-1.585,"vwap":22.3664,"label":"Nov 9, 17","changeOverTime":0.42266072565245066},{"date":"2017-11-10","open":22.34,"high":22.75,"low":21.66,"close":21.89,"volume":333022,"unadjustedVolume":333022,"change":-0.46,"changePercent":-2.058,"vwap":22.0299,"label":"Nov 10, 17","changeOverTime":0.3933800127307447},{"date":"2017-11-13","open":21.78,"high":21.96,"low":21.28,"close":21.58,"volume":380836,"unadjustedVolume":380836,"change":-0.31,"changePercent":-1.416,"vwap":21.6007,"label":"Nov 13, 17","changeOverTime":0.3736473583704645},{"date":"2017-11-14","open":21.43,"high":21.71,"low":19.7,"close":19.79,"volume":403506,"unadjustedVolume":403506,"change":-1.79,"changePercent":-8.295,"vwap":20.1061,"label":"Nov 14, 17","changeOverTime":0.2597071928707828},{"date":"2017-11-15","open":19.37,"high":20.28,"low":18.8,"close":19.32,"volume":547821,"unadjustedVolume":547821,"change":-0.47,"changePercent":-2.375,"vwap":19.3086,"label":"Nov 15, 17","changeOverTime":0.22978994271164857},{"date":"2017-11-16","open":19.29,"high":19.48,"low":18.85,"close":19.29,"volume":479540,"unadjustedVolume":479540,"change":-0.03,"changePercent":-0.155,"vwap":19.2598,"label":"Nov 16, 17","changeOverTime":0.22788033099936333},{"date":"2017-11-17","open":19.46,"high":20.96,"low":19.46,"close":20.7,"volume":648025,"unadjustedVolume":648025,"change":1.41,"changePercent":7.309,"vwap":20.3935,"label":"Nov 17, 17","changeOverTime":0.31763208147676625},{"date":"2017-11-20","open":20.5,"high":21.38,"low":20.25,"close":21.13,"volume":306674,"unadjustedVolume":306674,"change":0.43,"changePercent":2.077,"vwap":20.9062,"label":"Nov 20, 17","changeOverTime":0.345003182686187},{"date":"2017-11-21","open":21.25,"high":21.73,"low":20.87,"close":21.1,"volume":277992,"unadjustedVolume":277992,"change":-0.03,"changePercent":-0.142,"vwap":21.1591,"label":"Nov 21, 17","changeOverTime":0.343093570973902},{"date":"2017-11-22","open":21.47,"high":21.92,"low":21.1513,"close":21.67,"volume":277595,"unadjustedVolume":277595,"change":0.57,"changePercent":2.701,"vwap":21.6515,"label":"Nov 22, 17","changeOverTime":0.3793761935073202},{"date":"2017-11-24","open":21.92,"high":21.9792,"low":21.1,"close":21.33,"volume":103798,"unadjustedVolume":103798,"change":-0.34,"changePercent":-1.569,"vwap":21.3707,"label":"Nov 24, 17","changeOverTime":0.35773392743475474},{"date":"2017-11-27","open":21,"high":21.14,"low":20.54,"close":20.83,"volume":328929,"unadjustedVolume":328929,"change":-0.5,"changePercent":-2.344,"vwap":20.8394,"label":"Nov 27, 17","changeOverTime":0.32590706556333526},{"date":"2017-11-28","open":20.72,"high":21.5,"low":20.64,"close":21.36,"volume":224872,"unadjustedVolume":224872,"change":0.53,"changePercent":2.544,"vwap":21.167,"label":"Nov 28, 17","changeOverTime":0.35964353914704},{"date":"2017-11-29","open":21.39,"high":22.09,"low":21.2,"close":21.59,"volume":351360,"unadjustedVolume":351360,"change":0.23,"changePercent":1.077,"vwap":21.6721,"label":"Nov 29, 17","changeOverTime":0.374283895607893},{"date":"2017-11-30","open":21.79,"high":22.95,"low":21.77,"close":22.37,"volume":319066,"unadjustedVolume":319066,"change":0.78,"changePercent":3.613,"vwap":22.3672,"label":"Nov 30, 17","changeOverTime":0.4239338001273074},{"date":"2017-12-01","open":22.69,"high":23.79,"low":22.24,"close":23.61,"volume":308746,"unadjustedVolume":308746,"change":1.24,"changePercent":5.543,"vwap":23.4086,"label":"Dec 1, 17","changeOverTime":0.5028644175684276},{"date":"2017-12-04","open":23.65,"high":24.33,"low":23.525,"close":23.64,"volume":298080,"unadjustedVolume":298080,"change":0.03,"changePercent":0.127,"vwap":23.8134,"label":"Dec 4, 17","changeOverTime":0.5047740292807129},{"date":"2017-12-05","open":23.63,"high":23.84,"low":22.7,"close":22.9,"volume":255521,"unadjustedVolume":255521,"change":-0.74,"changePercent":-3.13,"vwap":23.0827,"label":"Dec 5, 17","changeOverTime":0.45767027371101193},{"date":"2017-12-06","open":22.55,"high":23.07,"low":20.9,"close":21.91,"volume":629571,"unadjustedVolume":629571,"change":-0.99,"changePercent":-4.323,"vwap":21.8242,"label":"Dec 6, 17","changeOverTime":0.39465308720560144},{"date":"2017-12-07","open":22.2,"high":22.88,"low":22.06,"close":22.65,"volume":282677,"unadjustedVolume":282677,"change":0.74,"changePercent":3.377,"vwap":22.6308,"label":"Dec 7, 17","changeOverTime":0.4417568427753022},{"date":"2017-12-08","open":22.99,"high":23.045,"low":21.77,"close":21.94,"volume":312838,"unadjustedVolume":312838,"change":-0.71,"changePercent":-3.135,"vwap":22.2422,"label":"Dec 8, 17","changeOverTime":0.3965626989178867},{"date":"2017-12-11","open":22.04,"high":22.84,"low":21.95,"close":22.78,"volume":227364,"unadjustedVolume":227364,"change":0.84,"changePercent":3.829,"vwap":22.6419,"label":"Dec 11, 17","changeOverTime":0.45003182686187143},{"date":"2017-12-12","open":22.97,"high":23.89,"low":22.97,"close":23.26,"volume":207013,"unadjustedVolume":207013,"change":0.48,"changePercent":2.107,"vwap":23.42,"label":"Dec 12, 17","changeOverTime":0.48058561425843416},{"date":"2017-12-13","open":23.41,"high":23.92,"low":23.14,"close":23.76,"volume":399681,"unadjustedVolume":399681,"change":0.5,"changePercent":2.15,"vwap":23.6887,"label":"Dec 13, 17","changeOverTime":0.5124124761298536},{"date":"2017-12-14","open":23.62,"high":23.89,"low":23.01,"close":23.09,"volume":451993,"unadjustedVolume":451993,"change":-0.67,"changePercent":-2.82,"vwap":23.3873,"label":"Dec 14, 17","changeOverTime":0.4697644812221514},{"date":"2017-12-15","open":23.21,"high":23.4,"low":22.59,"close":22.7,"volume":573772,"unadjustedVolume":573772,"change":-0.39,"changePercent":-1.689,"vwap":22.945,"label":"Dec 15, 17","changeOverTime":0.44493952896244415},{"date":"2017-12-18","open":23.04,"high":23.29,"low":22.6879,"close":22.9,"volume":393101,"unadjustedVolume":393101,"change":0.2,"changePercent":0.881,"vwap":22.991,"label":"Dec 18, 17","changeOverTime":0.45767027371101193},{"date":"2017-12-19","open":22.99,"high":23.258,"low":22.64,"close":22.89,"volume":287342,"unadjustedVolume":287342,"change":-0.01,"changePercent":-0.044,"vwap":22.9387,"label":"Dec 19, 17","changeOverTime":0.45703373647358364},{"date":"2017-12-20","open":24.04,"high":24.82,"low":23.59,"close":23.97,"volume":762233,"unadjustedVolume":762233,"change":1.08,"changePercent":4.718,"vwap":24.1754,"label":"Dec 20, 17","changeOverTime":0.5257797581158496},{"date":"2017-12-21","open":23.96,"high":24.68,"low":23.82,"close":24.46,"volume":518376,"unadjustedVolume":518376,"change":0.49,"changePercent":2.044,"vwap":24.2656,"label":"Dec 21, 17","changeOverTime":0.5569700827498408},{"date":"2017-12-22","open":24.44,"high":24.515,"low":23.57,"close":23.71,"volume":359530,"unadjustedVolume":359530,"change":-0.75,"changePercent":-3.066,"vwap":24.0531,"label":"Dec 22, 17","changeOverTime":0.5092297899427116},{"date":"2017-12-26","open":23.92,"high":25.45,"low":23.67,"close":25.22,"volume":303454,"unadjustedVolume":303454,"change":1.51,"changePercent":6.369,"vwap":24.9697,"label":"Dec 26, 17","changeOverTime":0.6053469127943983},{"date":"2017-12-27","open":25,"high":25.23,"low":23.73,"close":23.82,"volume":449276,"unadjustedVolume":449276,"change":-1.4,"changePercent":-5.551,"vwap":24.1962,"label":"Dec 27, 17","changeOverTime":0.5162316995544238},{"date":"2017-12-28","open":23.93,"high":24.09,"low":23.09,"close":23.19,"volume":340720,"unadjustedVolume":340720,"change":-0.63,"changePercent":-2.645,"vwap":23.3969,"label":"Dec 28, 17","changeOverTime":0.4761298535964354},{"date":"2017-12-29","open":23.15,"high":23.755,"low":23.07,"close":23.47,"volume":293578,"unadjustedVolume":293578,"change":0.28,"changePercent":1.207,"vwap":23.4132,"label":"Dec 29, 17","changeOverTime":0.4939528962444302},{"date":"2018-01-02","open":23.67,"high":24.7,"low":23.32,"close":24.55,"volume":351564,"unadjustedVolume":351564,"change":1.08,"changePercent":4.602,"vwap":24.152,"label":"Jan 2, 18","changeOverTime":0.5626989178866963},{"date":"2018-01-03","open":24.86,"high":25.26,"low":24.151,"close":24.93,"volume":269518,"unadjustedVolume":269518,"change":0.38,"changePercent":1.548,"vwap":24.9518,"label":"Jan 3, 18","changeOverTime":0.5868873329089751},{"date":"2018-01-04","open":25.03,"high":25.55,"low":24.08,"close":25.53,"volume":401327,"unadjustedVolume":401327,"change":0.6,"changePercent":2.407,"vwap":25.0711,"label":"Jan 4, 18","changeOverTime":0.6250795671546785},{"date":"2018-01-05","open":25.5,"high":25.77,"low":25.05,"close":25.6,"volume":164108,"unadjustedVolume":164108,"change":0.07,"changePercent":0.274,"vwap":25.5233,"label":"Jan 5, 18","changeOverTime":0.6295353278166773},{"date":"2018-01-08","open":25.79,"high":26.52,"low":25.27,"close":26.28,"volume":337103,"unadjustedVolume":337103,"change":0.68,"changePercent":2.656,"vwap":26.0814,"label":"Jan 8, 18","changeOverTime":0.6728198599618077},{"date":"2018-01-09","open":26.57,"high":26.7472,"low":25.82,"close":26.2,"volume":314069,"unadjustedVolume":314069,"change":-0.08,"changePercent":-0.304,"vwap":26.2184,"label":"Jan 9, 18","changeOverTime":0.6677275620623805},{"date":"2018-01-10","open":26.12,"high":26.7,"low":25.29,"close":25.42,"volume":266938,"unadjustedVolume":266938,"change":-0.78,"changePercent":-2.977,"vwap":25.6381,"label":"Jan 10, 18","changeOverTime":0.6180776575429663},{"date":"2018-01-11","open":25.6,"high":26.2,"low":25.15,"close":25.72,"volume":366841,"unadjustedVolume":366841,"change":0.3,"changePercent":1.18,"vwap":25.9431,"label":"Jan 11, 18","changeOverTime":0.6371737746658178},{"date":"2018-01-12","open":25.82,"high":26.04,"low":24.78,"close":24.91,"volume":378449,"unadjustedVolume":378449,"change":-0.81,"changePercent":-3.149,"vwap":25.1615,"label":"Jan 12, 18","changeOverTime":0.5856142584341183},{"date":"2018-01-16","open":25,"high":25.52,"low":23.73,"close":23.85,"volume":285898,"unadjustedVolume":285898,"change":-1.06,"changePercent":-4.255,"vwap":24.4275,"label":"Jan 16, 18","changeOverTime":0.5181413112667091},{"date":"2018-01-17","open":24.18,"high":24.47,"low":23.74,"close":23.95,"volume":514042,"unadjustedVolume":514042,"change":0.1,"changePercent":0.419,"vwap":24.0651,"label":"Jan 17, 18","changeOverTime":0.5245066836409928},{"date":"2018-01-18","open":23.89,"high":23.89,"low":22.83,"close":23.41,"volume":643320,"unadjustedVolume":643320,"change":-0.54,"changePercent":-2.255,"vwap":23.3958,"label":"Jan 18, 18","changeOverTime":0.49013367281985987},{"date":"2018-01-19","open":23.12,"high":23.52,"low":22.54,"close":23.39,"volume":668469,"unadjustedVolume":668469,"change":-0.02,"changePercent":-0.085,"vwap":22.9781,"label":"Jan 19, 18","changeOverTime":0.4888605983450031},{"date":"2018-01-22","open":23.36,"high":24.21,"low":23.2,"close":23.73,"volume":677769,"unadjustedVolume":677769,"change":0.34,"changePercent":1.454,"vwap":23.6948,"label":"Jan 22, 18","changeOverTime":0.5105028644175684},{"date":"2018-01-23","open":23.92,"high":24.7,"low":23.45,"close":23.96,"volume":431336,"unadjustedVolume":431336,"change":0.23,"changePercent":0.969,"vwap":24.0685,"label":"Jan 23, 18","changeOverTime":0.5251432208784214},{"date":"2018-01-24","open":24.06,"high":24.13,"low":22.29,"close":22.33,"volume":346027,"unadjustedVolume":346027,"change":-1.63,"changePercent":-6.803,"vwap":22.8428,"label":"Jan 24, 18","changeOverTime":0.4213876511775937},{"date":"2018-01-25","open":22.54,"high":22.93,"low":20.9,"close":21.49,"volume":752872,"unadjustedVolume":752872,"change":-0.84,"changePercent":-3.762,"vwap":21.4739,"label":"Jan 25, 18","changeOverTime":0.367918523233609},{"date":"2018-01-26","open":21.63,"high":21.6999,"low":20.12,"close":20.23,"volume":447061,"unadjustedVolume":447061,"change":-1.26,"changePercent":-5.863,"vwap":20.9899,"label":"Jan 26, 18","changeOverTime":0.28771483131763204},{"date":"2018-01-29","open":20.08,"high":20.41,"low":19.63,"close":19.78,"volume":349295,"unadjustedVolume":349295,"change":-0.45,"changePercent":-2.224,"vwap":19.8345,"label":"Jan 29, 18","changeOverTime":0.2590706556333546},{"date":"2018-01-30","open":19.43,"high":19.67,"low":19.17,"close":19.43,"volume":319205,"unadjustedVolume":319205,"change":-0.35,"changePercent":-1.769,"vwap":19.4286,"label":"Jan 30, 18","changeOverTime":0.23679185232336084},{"date":"2018-01-31","open":19.37,"high":20.06,"low":19.172,"close":19.49,"volume":369411,"unadjustedVolume":369411,"change":0.06,"changePercent":0.309,"vwap":19.4585,"label":"Jan 31, 18","changeOverTime":0.24061107574793109},{"date":"2018-02-01","open":19.49,"high":20.2,"low":19.2,"close":20.07,"volume":401687,"unadjustedVolume":401687,"change":0.58,"changePercent":2.976,"vwap":19.8604,"label":"Feb 1, 18","changeOverTime":0.2775302355187778},{"date":"2018-02-02","open":19.67,"high":19.91,"low":18.9,"close":18.93,"volume":442725,"unadjustedVolume":442725,"change":-1.14,"changePercent":-5.68,"vwap":19.1727,"label":"Feb 2, 18","changeOverTime":0.20496499045194136},{"date":"2018-02-05","open":18.56,"high":18.98,"low":17.82,"close":17.9,"volume":632938,"unadjustedVolume":632938,"change":-1.03,"changePercent":-5.441,"vwap":18.4459,"label":"Feb 5, 18","changeOverTime":0.13940165499681717},{"date":"2018-02-06","open":17.35,"high":18.36,"low":17.35,"close":18.27,"volume":459445,"unadjustedVolume":459445,"change":0.37,"changePercent":2.067,"vwap":17.9829,"label":"Feb 6, 18","changeOverTime":0.16295353278166763},{"date":"2018-02-07","open":18.23,"high":18.56,"low":17.36,"close":17.36,"volume":359899,"unadjustedVolume":359899,"change":-0.91,"changePercent":-4.981,"vwap":17.7425,"label":"Feb 7, 18","changeOverTime":0.10502864417568418},{"date":"2018-02-08","open":17.42,"high":17.59,"low":16.59,"close":17.31,"volume":980044,"unadjustedVolume":980044,"change":-0.05,"changePercent":-0.288,"vwap":17.211,"label":"Feb 8, 18","changeOverTime":0.1018459579885422},{"date":"2018-02-09","open":17.65,"high":17.67,"low":16.31,"close":17.44,"volume":701847,"unadjustedVolume":701847,"change":0.13,"changePercent":0.751,"vwap":17.192,"label":"Feb 9, 18","changeOverTime":0.11012094207511142},{"date":"2018-02-12","open":17.69,"high":17.8485,"low":17.04,"close":17.48,"volume":383448,"unadjustedVolume":383448,"change":0.04,"changePercent":0.229,"vwap":17.463,"label":"Feb 12, 18","changeOverTime":0.11266709102482492},{"date":"2018-02-13","open":17.25,"high":17.81,"low":17.02,"close":17.35,"volume":259596,"unadjustedVolume":259596,"change":-0.13,"changePercent":-0.744,"vwap":17.3131,"label":"Feb 13, 18","changeOverTime":0.10439210693825592},{"date":"2018-02-14","open":17.01,"high":18.43,"low":17.01,"close":18.17,"volume":412447,"unadjustedVolume":412447,"change":0.82,"changePercent":4.726,"vwap":17.8395,"label":"Feb 14, 18","changeOverTime":0.15658816040738388},{"date":"2018-02-15","open":18.32,"high":18.75,"low":17.82,"close":18.43,"volume":384500,"unadjustedVolume":384500,"change":0.26,"changePercent":1.431,"vwap":18.27,"label":"Feb 15, 18","changeOverTime":0.17313812858052188},{"date":"2018-02-16","open":18.3,"high":18.9597,"low":18.3,"close":18.73,"volume":276946,"unadjustedVolume":276946,"change":0.3,"changePercent":1.628,"vwap":18.7108,"label":"Feb 16, 18","changeOverTime":0.1922342457033736},{"date":"2018-02-20","open":18.85,"high":19.36,"low":18.8,"close":19.25,"volume":481600,"unadjustedVolume":481600,"change":0.52,"changePercent":2.776,"vwap":19.1321,"label":"Feb 20, 18","changeOverTime":0.22533418204964983},{"date":"2018-02-21","open":19.1,"high":20.42,"low":19.02,"close":19.1,"volume":412987,"unadjustedVolume":412987,"change":-0.15,"changePercent":-0.779,"vwap":19.5839,"label":"Feb 21, 18","changeOverTime":0.2157861234882241},{"date":"2018-02-22","open":19.38,"high":19.85,"low":18.87,"close":19.2,"volume":819459,"unadjustedVolume":819459,"change":0.1,"changePercent":0.524,"vwap":19.3232,"label":"Feb 22, 18","changeOverTime":0.22215149586250785},{"date":"2018-02-23","open":19.44,"high":20.4,"low":19.1,"close":20.34,"volume":412158,"unadjustedVolume":412158,"change":1.14,"changePercent":5.938,"vwap":19.9658,"label":"Feb 23, 18","changeOverTime":0.2947167409293443},{"date":"2018-02-26","open":20.38,"high":20.42,"low":19.46,"close":19.99,"volume":350229,"unadjustedVolume":350229,"change":-0.35,"changePercent":-1.721,"vwap":19.9306,"label":"Feb 26, 18","changeOverTime":0.2724379376193506},{"date":"2018-02-27","open":19.11,"high":19.76,"low":16.88,"close":17.13,"volume":1038653,"unadjustedVolume":1038653,"change":-2.86,"changePercent":-14.307,"vwap":17.7013,"label":"Feb 27, 18","changeOverTime":0.09038828771483119},{"date":"2018-02-28","open":17.11,"high":17.46,"low":16.155,"close":16.18,"volume":530815,"unadjustedVolume":530815,"change":-0.95,"changePercent":-5.546,"vwap":16.5451,"label":"Feb 28, 18","changeOverTime":0.029917250159134236},{"date":"2018-03-01","open":16.15,"high":17.3299,"low":16.15,"close":16.71,"volume":633692,"unadjustedVolume":633692,"change":0.53,"changePercent":3.276,"vwap":16.8455,"label":"Mar 1, 18","changeOverTime":0.06365372374283895},{"date":"2018-03-02","open":16.5,"high":17.11,"low":16.3,"close":16.96,"volume":560745,"unadjustedVolume":560745,"change":0.25,"changePercent":1.496,"vwap":16.8005,"label":"Mar 2, 18","changeOverTime":0.07956715467854869},{"date":"2018-03-05","open":16.91,"high":17.8,"low":16.84,"close":17.39,"volume":398086,"unadjustedVolume":398086,"change":0.43,"changePercent":2.535,"vwap":17.4518,"label":"Mar 5, 18","changeOverTime":0.10693825588796942},{"date":"2018-03-06","open":17.49,"high":17.92,"low":16.86,"close":17.49,"volume":555663,"unadjustedVolume":555663,"change":0.1,"changePercent":0.575,"vwap":17.4161,"label":"Mar 6, 18","changeOverTime":0.11330362826225318},{"date":"2018-03-07","open":17.17,"high":17.715,"low":15.89,"close":16.35,"volume":745521,"unadjustedVolume":745521,"change":-1.14,"changePercent":-6.518,"vwap":16.5982,"label":"Mar 7, 18","changeOverTime":0.04073838319541696},{"date":"2018-03-08","open":16.35,"high":17.065,"low":16.28,"close":17.01,"volume":573549,"unadjustedVolume":573549,"change":0.66,"changePercent":4.037,"vwap":16.7901,"label":"Mar 8, 18","changeOverTime":0.08274984086569068},{"date":"2018-03-09","open":17.2,"high":17.93,"low":17.2,"close":17.66,"volume":494058,"unadjustedVolume":494058,"change":0.65,"changePercent":3.821,"vwap":17.6031,"label":"Mar 9, 18","changeOverTime":0.12412476129853592},{"date":"2018-03-12","open":17.58,"high":18.29,"low":17.52,"close":18.02,"volume":325292,"unadjustedVolume":325292,"change":0.36,"changePercent":2.039,"vwap":17.961,"label":"Mar 12, 18","changeOverTime":0.1470401018459579},{"date":"2018-03-13","open":18.05,"high":18.21,"low":17.44,"close":17.53,"volume":327278,"unadjustedVolume":327278,"change":-0.49,"changePercent":-2.719,"vwap":17.7048,"label":"Mar 13, 18","changeOverTime":0.11584977721196692},{"date":"2018-03-14","open":17.7,"high":17.7,"low":17.09,"close":17.38,"volume":280903,"unadjustedVolume":280903,"change":-0.15,"changePercent":-0.856,"vwap":17.4437,"label":"Mar 14, 18","changeOverTime":0.10630171865054093},{"date":"2018-03-15","open":17.42,"high":17.5,"low":16.03,"close":16.44,"volume":631880,"unadjustedVolume":631880,"change":-0.94,"changePercent":-5.409,"vwap":16.5083,"label":"Mar 15, 18","changeOverTime":0.046467218332272464},{"date":"2018-03-16","open":16.45,"high":16.545,"low":15.87,"close":16.29,"volume":872419,"unadjustedVolume":872419,"change":-0.15,"changePercent":-0.912,"vwap":16.2426,"label":"Mar 16, 18","changeOverTime":0.036919159770846484},{"date":"2018-03-19","open":16.15,"high":16.15,"low":15.39,"close":15.45,"volume":453002,"unadjustedVolume":453002,"change":-0.84,"changePercent":-5.157,"vwap":15.5421,"label":"Mar 19, 18","changeOverTime":-0.016549968173138228},{"date":"2018-03-20","open":15.53,"high":15.56,"low":14.83,"close":14.91,"volume":659879,"unadjustedVolume":659879,"change":-0.54,"changePercent":-3.495,"vwap":15.0269,"label":"Mar 20, 18","changeOverTime":-0.05092297899427121},{"date":"2018-03-21","open":15,"high":15.58,"low":14.71,"close":15.53,"volume":1536264,"unadjustedVolume":1536264,"change":0.62,"changePercent":4.158,"vwap":15.2991,"label":"Mar 21, 18","changeOverTime":-0.011457670273711107},{"date":"2018-03-22","open":15.4,"high":15.72,"low":14.78,"close":14.83,"volume":438006,"unadjustedVolume":438006,"change":-0.7,"changePercent":-4.507,"vwap":15.1133,"label":"Mar 22, 18","changeOverTime":-0.056015276893698326},{"date":"2018-03-23","open":14.98,"high":15.42,"low":14.68,"close":14.84,"volume":473733,"unadjustedVolume":473733,"change":0.01,"changePercent":0.067,"vwap":15.0603,"label":"Mar 23, 18","changeOverTime":-0.05537873965626995},{"date":"2018-03-26","open":15.07,"high":15.099,"low":14.08,"close":14.51,"volume":344103,"unadjustedVolume":344103,"change":-0.33,"changePercent":-2.224,"vwap":14.4455,"label":"Mar 26, 18","changeOverTime":-0.07638446849140682},{"date":"2018-03-27","open":14.6,"high":14.84,"low":14.02,"close":14.18,"volume":344807,"unadjustedVolume":344807,"change":-0.33,"changePercent":-2.274,"vwap":14.3311,"label":"Mar 27, 18","changeOverTime":-0.09739019732654366},{"date":"2018-03-28","open":14.22,"high":14.59,"low":14.11,"close":14.11,"volume":388854,"unadjustedVolume":388854,"change":-0.07,"changePercent":-0.494,"vwap":14.2568,"label":"Mar 28, 18","changeOverTime":-0.10184595798854242},{"date":"2018-03-29","open":14.19,"high":14.69,"low":14.19,"close":14.44,"volume":332402,"unadjustedVolume":332402,"change":0.33,"changePercent":2.339,"vwap":14.4429,"label":"Mar 29, 18","changeOverTime":-0.08084022915340555},{"date":"2018-04-02","open":14.23,"high":14.27,"low":13.05,"close":13.28,"volume":510584,"unadjustedVolume":510584,"change":-1.16,"changePercent":-8.033,"vwap":13.3698,"label":"Apr 2, 18","changeOverTime":-0.15467854869509876},{"date":"2018-04-03","open":13.32,"high":13.52,"low":12.72,"close":13.35,"volume":715742,"unadjustedVolume":715742,"change":0.07,"changePercent":0.527,"vwap":13.1444,"label":"Apr 3, 18","changeOverTime":-0.15022278803310002},{"date":"2018-04-04","open":13.08,"high":13.41,"low":12.88,"close":13.32,"volume":680053,"unadjustedVolume":680053,"change":-0.03,"changePercent":-0.225,"vwap":13.1677,"label":"Apr 4, 18","changeOverTime":-0.15213239974538514},{"date":"2018-04-05","open":13.39,"high":14.9,"low":13.375,"close":14.77,"volume":932978,"unadjustedVolume":932978,"change":1.45,"changePercent":10.886,"vwap":14.4622,"label":"Apr 5, 18","changeOverTime":-0.059834500318268695},{"date":"2018-04-06","open":14.57,"high":14.85,"low":13.43,"close":13.68,"volume":629866,"unadjustedVolume":629866,"change":-1.09,"changePercent":-7.38,"vwap":13.8977,"label":"Apr 6, 18","changeOverTime":-0.12921705919796314},{"date":"2018-04-09","open":13.94,"high":14.14,"low":13.401,"close":13.46,"volume":357940,"unadjustedVolume":357940,"change":-0.22,"changePercent":-1.608,"vwap":13.6744,"label":"Apr 9, 18","changeOverTime":-0.14322087842138764},{"date":"2018-04-10","open":13.72,"high":15,"low":13.57,"close":14.61,"volume":567540,"unadjustedVolume":567540,"change":1.15,"changePercent":8.544,"vwap":14.5471,"label":"Apr 10, 18","changeOverTime":-0.07001909611712294},{"date":"2018-04-11","open":14.59,"high":15.25,"low":14.42,"close":14.92,"volume":579489,"unadjustedVolume":579489,"change":0.31,"changePercent":2.122,"vwap":14.8768,"label":"Apr 11, 18","changeOverTime":-0.05028644175684283},{"date":"2018-04-12","open":14.93,"high":15.19,"low":14.41,"close":15.1,"volume":544505,"unadjustedVolume":544505,"change":0.18,"changePercent":1.206,"vwap":14.9816,"label":"Apr 12, 18","changeOverTime":-0.03882877148313184},{"date":"2018-04-13","open":15.14,"high":15.68,"low":15.085,"close":15.21,"volume":385506,"unadjustedVolume":385506,"change":0.11,"changePercent":0.728,"vwap":15.3524,"label":"Apr 13, 18","changeOverTime":-0.031826861871419476},{"date":"2018-04-16","open":15.16,"high":15.815,"low":14.81,"close":15.56,"volume":537746,"unadjustedVolume":537746,"change":0.35,"changePercent":2.301,"vwap":15.4287,"label":"Apr 16, 18","changeOverTime":-0.009548058561425866},{"date":"2018-04-17","open":15.64,"high":15.64,"low":15.14,"close":15.31,"volume":308703,"unadjustedVolume":308703,"change":-0.25,"changePercent":-1.607,"vwap":15.3944,"label":"Apr 17, 18","changeOverTime":-0.025461489497135604},{"date":"2018-04-18","open":15.54,"high":16.11,"low":15.4573,"close":15.48,"volume":464085,"unadjustedVolume":464085,"change":0.17,"changePercent":1.11,"vwap":15.8381,"label":"Apr 18, 18","changeOverTime":-0.014640356460852986},{"date":"2018-04-19","open":15.55,"high":15.77,"low":15.1,"close":15.67,"volume":452410,"unadjustedVolume":452410,"change":0.19,"changePercent":1.227,"vwap":15.5348,"label":"Apr 19, 18","changeOverTime":-0.002546148949713617},{"date":"2018-04-20","open":15.61,"high":15.61,"low":15.061,"close":15.51,"volume":391344,"unadjustedVolume":391344,"change":-0.16,"changePercent":-1.021,"vwap":15.365,"label":"Apr 20, 18","changeOverTime":-0.01273074474856786},{"date":"2018-04-23","open":15.58,"high":15.95,"low":15.3183,"close":15.92,"volume":266289,"unadjustedVolume":266289,"change":0.41,"changePercent":2.643,"vwap":15.7342,"label":"Apr 23, 18","changeOverTime":0.013367281985996122},{"date":"2018-04-24","open":16.02,"high":16.42,"low":15.8,"close":16.07,"volume":254190,"unadjustedVolume":254190,"change":0.15,"changePercent":0.942,"vwap":16.1127,"label":"Apr 24, 18","changeOverTime":0.022915340547421986},{"date":"2018-04-25","open":15.98,"high":16.29,"low":15.72,"close":16.17,"volume":611353,"unadjustedVolume":611353,"change":0.1,"changePercent":0.622,"vwap":16.1201,"label":"Apr 25, 18","changeOverTime":0.029280712921705972},{"date":"2018-04-26","open":16.31,"high":16.64,"low":16.1933,"close":16.4,"volume":321955,"unadjustedVolume":321955,"change":0.23,"changePercent":1.422,"vwap":16.4109,"label":"Apr 26, 18","changeOverTime":0.043921069382558735},{"date":"2018-04-27","open":16.2,"high":16.52,"low":15.871,"close":16.05,"volume":190741,"unadjustedVolume":190741,"change":-0.35,"changePercent":-2.134,"vwap":16.0983,"label":"Apr 27, 18","changeOverTime":0.021642266072565235},{"date":"2018-04-30","open":16.01,"high":16.43,"low":15.98,"close":16.18,"volume":375811,"unadjustedVolume":375811,"change":0.13,"changePercent":0.81,"vwap":16.195,"label":"Apr 30, 18","changeOverTime":0.029917250159134236},{"date":"2018-05-01","open":16.07,"high":16.08,"low":15.24,"close":15.94,"volume":298435,"unadjustedVolume":298435,"change":-0.24,"changePercent":-1.483,"vwap":15.7146,"label":"May 1, 18","changeOverTime":0.014640356460852873},{"date":"2018-05-02","open":15.93,"high":17.43,"low":15.74,"close":17.15,"volume":590978,"unadjustedVolume":590978,"change":1.21,"changePercent":7.591,"vwap":16.9869,"label":"May 2, 18","changeOverTime":0.09166136218968794},{"date":"2018-05-03","open":17.03,"high":17.27,"low":16.18,"close":16.48,"volume":383957,"unadjustedVolume":383957,"change":-0.67,"changePercent":-3.907,"vwap":16.4869,"label":"May 3, 18","changeOverTime":0.049013367281985964},{"date":"2018-05-04","open":15.33,"high":15.4926,"low":12.85,"close":13.02,"volume":1997149,"unadjustedVolume":1997149,"change":-3.46,"changePercent":-20.995,"vwap":13.7804,"label":"May 4, 18","changeOverTime":-0.17122851686823687},{"date":"2018-05-07","open":13.31,"high":14.67,"low":13.3,"close":14.06,"volume":1259088,"unadjustedVolume":1259088,"change":1.04,"changePercent":7.988,"vwap":14.1102,"label":"May 7, 18","changeOverTime":-0.10502864417568429},{"date":"2018-05-08","open":14.1,"high":14.34,"low":13.64,"close":14.2,"volume":679775,"unadjustedVolume":679775,"change":0.14,"changePercent":0.996,"vwap":14.0265,"label":"May 8, 18","changeOverTime":-0.09611712285168691},{"date":"2018-05-09","open":14.37,"high":15.15,"low":14.37,"close":14.93,"volume":509657,"unadjustedVolume":509657,"change":0.73,"changePercent":5.141,"vwap":14.9602,"label":"May 9, 18","changeOverTime":-0.04964990451941446},{"date":"2018-05-10","open":15,"high":15.38,"low":14.8047,"close":14.92,"volume":471428,"unadjustedVolume":471428,"change":-0.01,"changePercent":-0.067,"vwap":15.0106,"label":"May 10, 18","changeOverTime":-0.05028644175684283},{"date":"2018-05-11","open":14.97,"high":15.02,"low":14.515,"close":14.92,"volume":379781,"unadjustedVolume":379781,"change":0,"changePercent":0,"vwap":14.8293,"label":"May 11, 18","changeOverTime":-0.05028644175684283},{"date":"2018-05-14","open":14.99,"high":15.5039,"low":14.44,"close":14.52,"volume":636953,"unadjustedVolume":636953,"change":-0.4,"changePercent":-2.681,"vwap":14.6721,"label":"May 14, 18","changeOverTime":-0.07574793125397844},{"date":"2018-05-15","open":14.53,"high":14.76,"low":14.32,"close":14.74,"volume":333538,"unadjustedVolume":333538,"change":0.22,"changePercent":1.515,"vwap":14.5967,"label":"May 15, 18","changeOverTime":-0.06174411203055383},{"date":"2018-05-16","open":14.68,"high":15.12,"low":14.68,"close":15,"volume":252756,"unadjustedVolume":252756,"change":0.26,"changePercent":1.764,"vwap":14.9381,"label":"May 16, 18","changeOverTime":-0.045194143857415714},{"date":"2018-05-17","open":15.13,"high":16.15,"low":15.0169,"close":16.02,"volume":464652,"unadjustedVolume":464652,"change":1.02,"changePercent":6.8,"vwap":15.9486,"label":"May 17, 18","changeOverTime":0.019732654360279996},{"date":"2018-05-18","open":16.02,"high":16.393,"low":15.63,"close":15.71,"volume":502916,"unadjustedVolume":502916,"change":-0.31,"changePercent":-1.935,"vwap":15.9576,"label":"May 18, 18","changeOverTime":0},{"date":"2018-05-21","open":15.75,"high":16.05,"low":15.16,"close":15.56,"volume":467893,"unadjustedVolume":467893,"change":-0.15,"changePercent":-0.955,"vwap":15.527,"label":"May 21, 18","changeOverTime":-0.009548058561425866},{"date":"2018-05-22","open":15.63,"high":15.97,"low":15.23,"close":15.36,"volume":404409,"unadjustedVolume":404409,"change":-0.2,"changePercent":-1.285,"vwap":15.5165,"label":"May 22, 18","changeOverTime":-0.022278803309993725},{"date":"2018-05-23","open":15.27,"high":15.49,"low":14.86,"close":14.99,"volume":378022,"unadjustedVolume":378022,"change":-0.37,"changePercent":-2.409,"vwap":15.0832,"label":"May 23, 18","changeOverTime":-0.04583068109484409},{"date":"2018-05-24","open":14.68,"high":15.35,"low":14.59,"close":15.1,"volume":447802,"unadjustedVolume":447802,"change":0.11,"changePercent":0.734,"vwap":15.1093,"label":"May 24, 18","changeOverTime":-0.03882877148313184},{"date":"2018-05-25","open":14.7,"high":14.74,"low":13.26,"close":13.4,"volume":850936,"unadjustedVolume":850936,"change":-1.7,"changePercent":-11.258,"vwap":13.5045,"label":"May 25, 18","changeOverTime":-0.147040101845958},{"date":"2018-05-29","open":13.18,"high":13.57,"low":12.91,"close":13.14,"volume":642820,"unadjustedVolume":642820,"change":-0.26,"changePercent":-1.94,"vwap":13.1538,"label":"May 29, 18","changeOverTime":-0.16359007001909612},{"date":"2018-05-30","open":13.34,"high":14.17,"low":13.31,"close":13.73,"volume":523816,"unadjustedVolume":523816,"change":0.59,"changePercent":4.49,"vwap":13.8456,"label":"May 30, 18","changeOverTime":-0.12603437301082115},{"date":"2018-05-31","open":13.53,"high":13.735,"low":13.17,"close":13.21,"volume":497656,"unadjustedVolume":497656,"change":-0.52,"changePercent":-3.787,"vwap":13.2937,"label":"May 31, 18","changeOverTime":-0.15913430935709738},{"date":"2018-06-01","open":13.28,"high":13.45,"low":12.19,"close":12.52,"volume":1031369,"unadjustedVolume":1031369,"change":-0.69,"changePercent":-5.223,"vwap":12.6637,"label":"Jun 1, 18","changeOverTime":-0.20305537873965634},{"date":"2018-06-04","open":12.56,"high":12.71,"low":11.9427,"close":12.32,"volume":644758,"unadjustedVolume":644758,"change":-0.2,"changePercent":-1.597,"vwap":12.2636,"label":"Jun 4, 18","changeOverTime":-0.2157861234882241},{"date":"2018-06-05","open":12.32,"high":13.06,"low":12.28,"close":13.01,"volume":521931,"unadjustedVolume":521931,"change":0.69,"changePercent":5.601,"vwap":12.824,"label":"Jun 5, 18","changeOverTime":-0.17186505410566524},{"date":"2018-06-06","open":13.01,"high":13.27,"low":12.55,"close":12.98,"volume":312421,"unadjustedVolume":312421,"change":-0.03,"changePercent":-0.231,"vwap":12.8892,"label":"Jun 6, 18","changeOverTime":-0.17377466581795037},{"date":"2018-06-07","open":13.03,"high":13.58,"low":12.92,"close":13.3,"volume":412365,"unadjustedVolume":412365,"change":0.32,"changePercent":2.465,"vwap":13.2546,"label":"Jun 7, 18","changeOverTime":-0.1534054742202419},{"date":"2018-06-08","open":13.3,"high":13.66,"low":12.4807,"close":12.74,"volume":535548,"unadjustedVolume":535548,"change":-0.56,"changePercent":-4.211,"vwap":12.7932,"label":"Jun 8, 18","changeOverTime":-0.18905155951623173},{"date":"2018-06-11","open":12.61,"high":13.01,"low":12.29,"close":12.88,"volume":413476,"unadjustedVolume":413476,"change":0.14,"changePercent":1.099,"vwap":12.7353,"label":"Jun 11, 18","changeOverTime":-0.18014003819223423},{"date":"2018-06-12","open":12.92,"high":12.97,"low":12.65,"close":12.77,"volume":341202,"unadjustedVolume":341202,"change":-0.11,"changePercent":-0.854,"vwap":12.7713,"label":"Jun 12, 18","changeOverTime":-0.1871419478039466},{"date":"2018-06-13","open":12.64,"high":13.11,"low":12.46,"close":13.01,"volume":412843,"unadjustedVolume":412843,"change":0.24,"changePercent":1.879,"vwap":12.8915,"label":"Jun 13, 18","changeOverTime":-0.17186505410566524},{"date":"2018-06-14","open":13.08,"high":13.25,"low":12.53,"close":12.78,"volume":441093,"unadjustedVolume":441093,"change":-0.23,"changePercent":-1.768,"vwap":12.7853,"label":"Jun 14, 18","changeOverTime":-0.18650541056651823},{"date":"2018-06-15","open":12.64,"high":12.89,"low":12.32,"close":12.62,"volume":1329660,"unadjustedVolume":1329660,"change":-0.16,"changePercent":-1.252,"vwap":12.6276,"label":"Jun 15, 18","changeOverTime":-0.19669000636537246},{"date":"2018-06-18","open":12.55,"high":12.81,"low":12.435,"close":12.48,"volume":506765,"unadjustedVolume":506765,"change":-0.14,"changePercent":-1.109,"vwap":12.582,"label":"Jun 18, 18","changeOverTime":-0.20560152768936985},{"date":"2018-06-19","open":12.31,"high":12.419,"low":11.91,"close":12.31,"volume":518042,"unadjustedVolume":518042,"change":-0.17,"changePercent":-1.362,"vwap":12.164,"label":"Jun 19, 18","changeOverTime":-0.21642266072565247},{"date":"2018-06-20","open":12.43,"high":12.49,"low":11.98,"close":12.09,"volume":684919,"unadjustedVolume":684919,"change":-0.22,"changePercent":-1.787,"vwap":12.1531,"label":"Jun 20, 18","changeOverTime":-0.23042647994907708},{"date":"2018-06-21","open":12.01,"high":12.4,"low":11.5399,"close":11.87,"volume":846447,"unadjustedVolume":846447,"change":-0.22,"changePercent":-1.82,"vwap":11.9568,"label":"Jun 21, 18","changeOverTime":-0.24443029917250167},{"date":"2018-06-22","open":12,"high":12.7,"low":12,"close":12.21,"volume":1127265,"unadjustedVolume":1127265,"change":0.34,"changePercent":2.864,"vwap":12.3203,"label":"Jun 22, 18","changeOverTime":-0.22278803309993633},{"date":"2018-06-25","open":12.15,"high":12.26,"low":11.365,"close":11.57,"volume":542167,"unadjustedVolume":542167,"change":-0.64,"changePercent":-5.242,"vwap":11.6449,"label":"Jun 25, 18","changeOverTime":-0.2635264162953533},{"date":"2018-06-26","open":11.57,"high":11.8,"low":11.39,"close":11.69,"volume":924022,"unadjustedVolume":924022,"change":0.12,"changePercent":1.037,"vwap":11.6375,"label":"Jun 26, 18","changeOverTime":-0.25588796944621267},{"date":"2018-06-27","open":11.84,"high":12.41,"low":11.47,"close":11.63,"volume":801809,"unadjustedVolume":801809,"change":-0.06,"changePercent":-0.513,"vwap":11.896,"label":"Jun 27, 18","changeOverTime":-0.2597071928707829},{"date":"2018-06-28","open":11.65,"high":11.81,"low":11.25,"close":11.31,"volume":671179,"unadjustedVolume":671179,"change":-0.32,"changePercent":-2.752,"vwap":11.4082,"label":"Jun 28, 18","changeOverTime":-0.2800763844684914},{"date":"2018-06-29","open":11.33,"high":11.96,"low":10.965,"close":11.11,"volume":875653,"unadjustedVolume":875653,"change":-0.2,"changePercent":-1.768,"vwap":11.2376,"label":"Jun 29, 18","changeOverTime":-0.29280712921705926},{"date":"2018-07-02","open":10.98,"high":11.13,"low":10.29,"close":10.61,"volume":799334,"unadjustedVolume":799334,"change":-0.5,"changePercent":-4.5,"vwap":10.5412,"label":"Jul 2, 18","changeOverTime":-0.32463399108847873},{"date":"2018-07-03","open":10.78,"high":11.3895,"low":10.78,"close":11.09,"volume":409237,"unadjustedVolume":409237,"change":0.48,"changePercent":4.524,"vwap":11.1138,"label":"Jul 3, 18","changeOverTime":-0.294080203691916},{"date":"2018-07-05","open":11.11,"high":11.58,"low":11.013,"close":11.44,"volume":483919,"unadjustedVolume":483919,"change":0.35,"changePercent":3.156,"vwap":11.3877,"label":"Jul 5, 18","changeOverTime":-0.2718014003819224},{"date":"2018-07-06","open":11.33,"high":11.85,"low":11.285,"close":11.81,"volume":367660,"unadjustedVolume":367660,"change":0.37,"changePercent":3.234,"vwap":11.7051,"label":"Jul 6, 18","changeOverTime":-0.24824952259707195},{"date":"2018-07-09","open":11.85,"high":12.27,"low":11.7661,"close":12.02,"volume":417532,"unadjustedVolume":417532,"change":0.21,"changePercent":1.778,"vwap":12.0202,"label":"Jul 9, 18","changeOverTime":-0.23488224061107582},{"date":"2018-07-10","open":12.12,"high":12.3975,"low":11.74,"close":11.83,"volume":266091,"unadjustedVolume":266091,"change":-0.19,"changePercent":-1.581,"vwap":11.9507,"label":"Jul 10, 18","changeOverTime":-0.2469764481222152},{"date":"2018-07-11","open":11.63,"high":12.07,"low":11.52,"close":11.88,"volume":533823,"unadjustedVolume":533823,"change":0.05,"changePercent":0.423,"vwap":11.8217,"label":"Jul 11, 18","changeOverTime":-0.24379376193507318},{"date":"2018-07-12","open":11.88,"high":11.92,"low":11.16,"close":11.8,"volume":366551,"unadjustedVolume":366551,"change":-0.08,"changePercent":-0.673,"vwap":11.6774,"label":"Jul 12, 18","changeOverTime":-0.24888605983450032},{"date":"2018-07-13","open":11.77,"high":12.055,"low":11.6,"close":11.65,"volume":232605,"unadjustedVolume":232605,"change":-0.15,"changePercent":-1.271,"vwap":11.788,"label":"Jul 13, 18","changeOverTime":-0.25843411839592617},{"date":"2018-07-16","open":11.4,"high":11.6161,"low":11.1,"close":11.3,"volume":324574,"unadjustedVolume":324574,"change":-0.35,"changePercent":-3.004,"vwap":11.2336,"label":"Jul 16, 18","changeOverTime":-0.28071292170591977},{"date":"2018-07-17","open":11.26,"high":11.49,"low":11.14,"close":11.31,"volume":282412,"unadjustedVolume":282412,"change":0.01,"changePercent":0.088,"vwap":11.3337,"label":"Jul 17, 18","changeOverTime":-0.2800763844684914},{"date":"2018-07-18","open":11.24,"high":11.5,"low":10.92,"close":11.35,"volume":323577,"unadjustedVolume":323577,"change":0.04,"changePercent":0.354,"vwap":11.2617,"label":"Jul 18, 18","changeOverTime":-0.2775302355187779},{"date":"2018-07-19","open":11.31,"high":11.53,"low":11.03,"close":11.1,"volume":642736,"unadjustedVolume":642736,"change":-0.25,"changePercent":-2.203,"vwap":11.1963,"label":"Jul 19, 18","changeOverTime":-0.29344366645448766},{"date":"2018-07-20","open":11.14,"high":11.28,"low":10.42,"close":10.82,"volume":485762,"unadjustedVolume":485762,"change":-0.28,"changePercent":-2.523,"vwap":10.7403,"label":"Jul 20, 18","changeOverTime":-0.3112667091024825},{"date":"2018-07-23","open":10.76,"high":10.8476,"low":10.46,"close":10.48,"volume":456397,"unadjustedVolume":456397,"change":-0.34,"changePercent":-3.142,"vwap":10.6078,"label":"Jul 23, 18","changeOverTime":-0.33290897517504775},{"date":"2018-07-24","open":10.58,"high":10.7,"low":10.19,"close":10.22,"volume":510781,"unadjustedVolume":510781,"change":-0.26,"changePercent":-2.481,"vwap":10.3551,"label":"Jul 24, 18","changeOverTime":-0.3494589433481859},{"date":"2018-07-25","open":10.23,"high":10.29,"low":9.93,"close":10.23,"volume":410817,"unadjustedVolume":410817,"change":0.01,"changePercent":0.098,"vwap":10.1343,"label":"Jul 25, 18","changeOverTime":-0.3488224061107575},{"date":"2018-07-26","open":10.23,"high":10.71,"low":10.11,"close":10.53,"volume":245398,"unadjustedVolume":245398,"change":0.3,"changePercent":2.933,"vwap":10.5495,"label":"Jul 26, 18","changeOverTime":-0.32972628898790585},{"date":"2018-07-27","open":10.58,"high":11.09,"low":10.58,"close":10.89,"volume":388422,"unadjustedVolume":388422,"change":0.36,"changePercent":3.419,"vwap":10.889,"label":"Jul 27, 18","changeOverTime":-0.3068109484404838},{"date":"2018-07-30","open":11,"high":11.48,"low":11,"close":11.33,"volume":334039,"unadjustedVolume":334039,"change":0.44,"changePercent":4.04,"vwap":11.342,"label":"Jul 30, 18","changeOverTime":-0.2788033099936347},{"date":"2018-07-31","open":11.2,"high":11.375,"low":10.73,"close":11.28,"volume":385559,"unadjustedVolume":385559,"change":-0.05,"changePercent":-0.441,"vwap":11.0931,"label":"Jul 31, 18","changeOverTime":-0.28198599618077663},{"date":"2018-08-01","open":11.22,"high":11.22,"low":8.2525,"close":8.27,"volume":2291754,"unadjustedVolume":2291754,"change":-3.01,"changePercent":-26.684,"vwap":8.7102,"label":"Aug 1, 18","changeOverTime":-0.4735837046467219},{"date":"2018-08-02","open":8.05,"high":8.1799,"low":7.43,"close":7.56,"volume":1933849,"unadjustedVolume":1933849,"change":-0.71,"changePercent":-8.585,"vwap":7.5999,"label":"Aug 2, 18","changeOverTime":-0.5187778485041376},{"date":"2018-08-03","open":7.57,"high":8.11,"low":7.47,"close":7.75,"volume":822240,"unadjustedVolume":822240,"change":0.19,"changePercent":2.513,"vwap":7.6878,"label":"Aug 3, 18","changeOverTime":-0.5066836409929981},{"date":"2018-08-06","open":8.0435,"high":8.41,"low":7.82,"close":8.29,"volume":909407,"unadjustedVolume":909407,"change":0.54,"changePercent":6.968,"vwap":8.2323,"label":"Aug 6, 18","changeOverTime":-0.47231063017186514},{"date":"2018-08-07","open":8.62,"high":9.14,"low":8.47,"close":8.84,"volume":859311,"unadjustedVolume":859311,"change":0.55,"changePercent":6.634,"vwap":8.8493,"label":"Aug 7, 18","changeOverTime":-0.43730108211330365},{"date":"2018-08-08","open":8.82,"high":9.15,"low":8.64,"close":9.05,"volume":554759,"unadjustedVolume":554759,"change":0.21,"changePercent":2.376,"vwap":8.9191,"label":"Aug 8, 18","changeOverTime":-0.4239338001273074},{"date":"2018-08-09","open":8.94,"high":9.13,"low":8.8101,"close":8.9,"volume":363735,"unadjustedVolume":363735,"change":-0.15,"changePercent":-1.657,"vwap":8.9317,"label":"Aug 9, 18","changeOverTime":-0.4334818586887333},{"date":"2018-08-10","open":8.88,"high":9.51,"low":8.63,"close":9.43,"volume":517768,"unadjustedVolume":517768,"change":0.53,"changePercent":5.955,"vwap":9.1885,"label":"Aug 10, 18","changeOverTime":-0.3997453851050287},{"date":"2018-08-13","open":9.33,"high":9.4,"low":8.715,"close":8.73,"volume":380001,"unadjustedVolume":380001,"change":-0.7,"changePercent":-7.423,"vwap":8.9016,"label":"Aug 13, 18","changeOverTime":-0.4443029917250159},{"date":"2018-08-14","open":8.87,"high":9.18,"low":8.555,"close":8.62,"volume":462007,"unadjustedVolume":462007,"change":-0.11,"changePercent":-1.26,"vwap":8.8186,"label":"Aug 14, 18","changeOverTime":-0.4513049013367283},{"date":"2018-08-15","open":8.58,"high":8.85,"low":8.15,"close":8.53,"volume":341929,"unadjustedVolume":341929,"change":-0.09,"changePercent":-1.044,"vwap":8.4642,"label":"Aug 15, 18","changeOverTime":-0.45703373647358375},{"date":"2018-08-16","open":8.6,"high":8.9,"low":8.46,"close":8.67,"volume":286492,"unadjustedVolume":286492,"change":0.14,"changePercent":1.641,"vwap":8.6951,"label":"Aug 16, 18","changeOverTime":-0.4481222151495863},{"date":"2018-08-17","open":8.68,"high":8.92,"low":8.4,"close":8.83,"volume":292453,"unadjustedVolume":292453,"change":0.16,"changePercent":1.845,"vwap":8.7249,"label":"Aug 17, 18","changeOverTime":-0.43793761935073205},{"date":"2018-08-20","open":8.85,"high":9.24,"low":8.82,"close":9.11,"volume":172863,"unadjustedVolume":172863,"change":0.28,"changePercent":3.171,"vwap":9.0371,"label":"Aug 20, 18","changeOverTime":-0.42011457670273716},{"date":"2018-08-21","open":9.23,"high":9.55,"low":9.16,"close":9.26,"volume":251821,"unadjustedVolume":251821,"change":0.15,"changePercent":1.647,"vwap":9.3474,"label":"Aug 21, 18","changeOverTime":-0.4105665181413113},{"date":"2018-08-22","open":9.39,"high":9.51,"low":9.22,"close":9.28,"volume":232741,"unadjustedVolume":232741,"change":0.02,"changePercent":0.216,"vwap":9.3178,"label":"Aug 22, 18","changeOverTime":-0.40929344366645454},{"date":"2018-08-23","open":9.23,"high":9.27,"low":9.02,"close":9.05,"volume":157597,"unadjustedVolume":157597,"change":-0.23,"changePercent":-2.478,"vwap":9.1162,"label":"Aug 23, 18","changeOverTime":-0.4239338001273074},{"date":"2018-08-24","open":9.12,"high":9.36,"low":9.09,"close":9.11,"volume":188687,"unadjustedVolume":188687,"change":0.06,"changePercent":0.663,"vwap":9.1894,"label":"Aug 24, 18","changeOverTime":-0.42011457670273716},{"date":"2018-08-27","open":9.12,"high":9.39,"low":9.12,"close":9.19,"volume":364545,"unadjustedVolume":364545,"change":0.08,"changePercent":0.878,"vwap":9.1985,"label":"Aug 27, 18","changeOverTime":-0.41502227880331005},{"date":"2018-08-28","open":9.19,"high":9.45,"low":9.19,"close":9.3,"volume":170309,"unadjustedVolume":170309,"change":0.11,"changePercent":1.197,"vwap":9.3368,"label":"Aug 28, 18","changeOverTime":-0.4080203691915977},{"date":"2018-08-29","open":9.32,"high":9.7299,"low":9.16,"close":9.55,"volume":209414,"unadjustedVolume":209414,"change":0.25,"changePercent":2.688,"vwap":9.5175,"label":"Aug 29, 18","changeOverTime":-0.39210693825588794},{"date":"2018-08-30","open":9.52,"high":9.52,"low":9.13,"close":9.15,"volume":283279,"unadjustedVolume":283279,"change":-0.4,"changePercent":-4.188,"vwap":9.2384,"label":"Aug 30, 18","changeOverTime":-0.41756842775302355},{"date":"2018-08-31","open":9.13,"high":9.15,"low":8.59,"close":8.86,"volume":362418,"unadjustedVolume":362418,"change":-0.29,"changePercent":-3.169,"vwap":8.7609,"label":"Aug 31, 18","changeOverTime":-0.4360280076384469},{"date":"2018-09-04","open":8.91,"high":8.962,"low":8.62,"close":8.8,"volume":228416,"unadjustedVolume":228416,"change":-0.06,"changePercent":-0.677,"vwap":8.7779,"label":"Sep 4, 18","changeOverTime":-0.43984723106301715},{"date":"2018-09-05","open":8.75,"high":8.97,"low":8.59,"close":8.75,"volume":169006,"unadjustedVolume":169006,"change":-0.05,"changePercent":-0.568,"vwap":8.7717,"label":"Sep 5, 18","changeOverTime":-0.44302991725015917},{"date":"2018-09-06","open":8.74,"high":8.74,"low":7.87,"close":8.04,"volume":626283,"unadjustedVolume":626283,"change":-0.71,"changePercent":-8.114,"vwap":8.154,"label":"Sep 6, 18","changeOverTime":-0.4882240611075749},{"date":"2018-09-07","open":8.04,"high":8.04,"low":7.75,"close":7.85,"volume":303764,"unadjustedVolume":303764,"change":-0.19,"changePercent":-2.363,"vwap":7.8333,"label":"Sep 7, 18","changeOverTime":-0.5003182686187142},{"date":"2018-09-10","open":7.9,"high":8.14,"low":7.785,"close":7.89,"volume":262842,"unadjustedVolume":262842,"change":0.04,"changePercent":0.51,"vwap":7.9432,"label":"Sep 10, 18","changeOverTime":-0.4977721196690007},{"date":"2018-09-11","open":7.9,"high":8.32,"low":7.8,"close":8.3,"volume":188691,"unadjustedVolume":188691,"change":0.41,"changePercent":5.196,"vwap":8.1453,"label":"Sep 11, 18","changeOverTime":-0.47167409293443663},{"date":"2018-09-12","open":8.4,"high":8.96,"low":8.4,"close":8.8,"volume":317873,"unadjustedVolume":317873,"change":0.5,"changePercent":6.024,"vwap":8.7481,"label":"Sep 12, 18","changeOverTime":-0.43984723106301715},{"date":"2018-09-13","open":8.81,"high":8.985,"low":8.55,"close":8.77,"volume":283117,"unadjustedVolume":283117,"change":-0.03,"changePercent":-0.341,"vwap":8.782,"label":"Sep 13, 18","changeOverTime":-0.4417568427753024},{"date":"2018-09-14","open":8.77,"high":9.08,"low":8.67,"close":9.04,"volume":254670,"unadjustedVolume":254670,"change":0.27,"changePercent":3.079,"vwap":8.9565,"label":"Sep 14, 18","changeOverTime":-0.42457033736473593},{"date":"2018-09-17","open":9.04,"high":9.1,"low":8.73,"close":8.82,"volume":227095,"unadjustedVolume":227095,"change":-0.22,"changePercent":-2.434,"vwap":8.8443,"label":"Sep 17, 18","changeOverTime":-0.4385741565881604},{"date":"2018-09-18","open":8.94,"high":9.16,"low":8.84,"close":9.13,"volume":190358,"unadjustedVolume":190358,"change":0.31,"changePercent":3.515,"vwap":9.0442,"label":"Sep 18, 18","changeOverTime":-0.4188415022278803},{"date":"2018-09-19","open":9.11,"high":9.72,"low":9.11,"close":9.24,"volume":331360,"unadjustedVolume":331360,"change":0.11,"changePercent":1.205,"vwap":9.3356,"label":"Sep 19, 18","changeOverTime":-0.41183959261616804},{"date":"2018-09-20","open":9.35,"high":9.35,"low":9.08,"close":9.15,"volume":169370,"unadjustedVolume":169370,"change":-0.09,"changePercent":-0.974,"vwap":9.1895,"label":"Sep 20, 18","changeOverTime":-0.41756842775302355},{"date":"2018-09-21","open":9.23,"high":9.3597,"low":9.1,"close":9.25,"volume":413046,"unadjustedVolume":413046,"change":0.1,"changePercent":1.093,"vwap":9.2315,"label":"Sep 21, 18","changeOverTime":-0.4112030553787397},{"date":"2018-09-24","open":9.45,"high":9.8,"low":9.31,"close":9.43,"volume":458510,"unadjustedVolume":458510,"change":0.18,"changePercent":1.946,"vwap":9.4315,"label":"Sep 24","changeOverTime":-0.3997453851050287},{"date":"2018-09-25","open":9.8,"high":10.86,"low":9.715,"close":10.45,"volume":830181,"unadjustedVolume":830181,"change":1.02,"changePercent":10.817,"vwap":10.4911,"label":"Sep 25","changeOverTime":-0.334818586887333},{"date":"2018-09-26","open":10.34,"high":10.46,"low":10.07,"close":10.09,"volume":369107,"unadjustedVolume":369107,"change":-0.36,"changePercent":-3.445,"vwap":10.2005,"label":"Sep 26","changeOverTime":-0.35773392743475496},{"date":"2018-09-27","open":10.1,"high":10.1,"low":9.82,"close":9.97,"volume":306935,"unadjustedVolume":306935,"change":-0.12,"changePercent":-1.189,"vwap":9.9638,"label":"Sep 27","changeOverTime":-0.36537237428389563},{"date":"2018-09-28","open":9.92,"high":10.1549,"low":9.89,"close":9.99,"volume":388731,"unadjustedVolume":388731,"change":0.02,"changePercent":0.201,"vwap":9.9994,"label":"Sep 28","changeOverTime":-0.3640992998090388},{"date":"2018-10-01","open":10.08,"high":10.245,"low":9.8297,"close":10.06,"volume":446627,"unadjustedVolume":446627,"change":0.07,"changePercent":0.701,"vwap":10.0798,"label":"Oct 1","changeOverTime":-0.3596435391470401},{"date":"2018-10-02","open":10.08,"high":10.27,"low":9.92,"close":10.12,"volume":565255,"unadjustedVolume":565255,"change":0.06,"changePercent":0.596,"vwap":10.1197,"label":"Oct 2","changeOverTime":-0.35582431572246986},{"date":"2018-10-03","open":10.16,"high":10.82,"low":10.02,"close":10.74,"volume":536677,"unadjustedVolume":536677,"change":0.62,"changePercent":6.126,"vwap":10.5315,"label":"Oct 3","changeOverTime":-0.3163590070019096},{"date":"2018-10-04","open":10.65,"high":10.9,"low":10.5192,"close":10.67,"volume":289765,"unadjustedVolume":289765,"change":-0.07,"changePercent":-0.652,"vwap":10.6786,"label":"Oct 4","changeOverTime":-0.3208147676639084},{"date":"2018-10-05","open":10.67,"high":10.86,"low":10.5,"close":10.82,"volume":229583,"unadjustedVolume":229583,"change":0.15,"changePercent":1.406,"vwap":10.7256,"label":"Oct 5","changeOverTime":-0.3112667091024825},{"date":"2018-10-08","open":10.74,"high":11.995,"low":10.7,"close":11.96,"volume":616815,"unadjustedVolume":616815,"change":1.14,"changePercent":10.536,"vwap":11.7004,"label":"Oct 8","changeOverTime":-0.23870146403564607},{"date":"2018-10-09","open":11.95,"high":12.12,"low":11.67,"close":11.91,"volume":440516,"unadjustedVolume":440516,"change":-0.05,"changePercent":-0.418,"vwap":11.9176,"label":"Oct 9","changeOverTime":-0.24188415022278806},{"date":"2018-10-10","open":11.82,"high":11.89,"low":10.67,"close":10.72,"volume":302464,"unadjustedVolume":302464,"change":-1.19,"changePercent":-9.992,"vwap":11.1341,"label":"Oct 10","changeOverTime":-0.3176320814767664},{"date":"2018-10-11","open":10.62,"high":10.86,"low":10.0728,"close":10.67,"volume":268115,"unadjustedVolume":268115,"change":-0.05,"changePercent":-0.466,"vwap":10.6624,"label":"Oct 11","changeOverTime":-0.3208147676639084},{"date":"2018-10-12","open":10.94,"high":10.94,"low":10.1,"close":10.18,"volume":367788,"unadjustedVolume":367788,"change":-0.49,"changePercent":-4.592,"vwap":10.339,"label":"Oct 12","changeOverTime":-0.3520050922978995},{"date":"2018-10-15","open":10.2,"high":10.54,"low":9.89,"close":10.16,"volume":429594,"unadjustedVolume":429594,"change":-0.02,"changePercent":-0.196,"vwap":10.1467,"label":"Oct 15","changeOverTime":-0.35327816677275625},{"date":"2018-10-16","open":10.32,"high":10.425,"low":9.88,"close":10.32,"volume":399114,"unadjustedVolume":399114,"change":0.16,"changePercent":1.575,"vwap":10.2168,"label":"Oct 16","changeOverTime":-0.343093570973902},{"date":"2018-10-17","open":10.2,"high":10.3609,"low":9.78,"close":9.85,"volume":252314,"unadjustedVolume":252314,"change":-0.47,"changePercent":-4.554,"vwap":9.8873,"label":"Oct 17","changeOverTime":-0.37301082113303635},{"date":"2018-10-18","open":9.66,"high":9.7602,"low":9,"close":9.02,"volume":301093,"unadjustedVolume":301093,"change":-0.83,"changePercent":-8.426,"vwap":9.2082,"label":"Oct 18","changeOverTime":-0.4258434118395927},{"date":"2018-10-19","open":9.1,"high":9.43,"low":8.84,"close":9,"volume":307320,"unadjustedVolume":307320,"change":-0.02,"changePercent":-0.222,"vwap":8.973,"label":"Oct 19","changeOverTime":-0.42711648631444943},{"date":"2018-10-22","open":8.96,"high":9.11,"low":8.61,"close":8.68,"volume":294501,"unadjustedVolume":294501,"change":-0.32,"changePercent":-3.556,"vwap":8.7546,"label":"Oct 22","changeOverTime":-0.44748567791215793},{"date":"2018-10-23","open":8.36,"high":8.53,"low":8.18,"close":8.37,"volume":264807,"unadjustedVolume":264807,"change":-0.31,"changePercent":-3.571,"vwap":8.3525,"label":"Oct 23","changeOverTime":-0.46721833227243803},{"date":"2018-10-24","open":8.5,"high":8.5,"low":7.891,"close":7.93,"volume":264576,"unadjustedVolume":264576,"change":-0.44,"changePercent":-5.257,"vwap":8.0411,"label":"Oct 24","changeOverTime":-0.49522597071928715},{"date":"2018-10-25","open":8.04,"high":8.37,"low":7.73,"close":8.19,"volume":391017,"unadjustedVolume":391017,"change":0.26,"changePercent":3.279,"vwap":8.1819,"label":"Oct 25","changeOverTime":-0.478676002546149},{"date":"2018-10-26","open":7.96,"high":8.32,"low":7.84,"close":8.03,"volume":236355,"unadjustedVolume":236355,"change":-0.16,"changePercent":-1.954,"vwap":8.0819,"label":"Oct 26","changeOverTime":-0.4888605983450032},{"date":"2018-10-29","open":8.08,"high":8.17,"low":7.34,"close":7.42,"volume":503900,"unadjustedVolume":503900,"change":-0.61,"changePercent":-7.597,"vwap":7.5374,"label":"Oct 29","changeOverTime":-0.527689369828135},{"date":"2018-10-30","open":7.32,"high":7.87,"low":7.21,"close":7.73,"volume":355900,"unadjustedVolume":355900,"change":0.31,"changePercent":4.178,"vwap":7.6672,"label":"Oct 30","changeOverTime":-0.5079567154678549},{"date":"2018-10-31","open":7.86,"high":8.24,"low":7.68,"close":7.77,"volume":352137,"unadjustedVolume":352137,"change":0.04,"changePercent":0.517,"vwap":7.8843,"label":"Oct 31","changeOverTime":-0.5054105665181413},{"date":"2018-11-01","open":8.02,"high":8.33,"low":7.69,"close":7.81,"volume":474111,"unadjustedVolume":474111,"change":0.04,"changePercent":0.515,"vwap":7.9068,"label":"Nov 1","changeOverTime":-0.5028644175684278},{"date":"2018-11-02","open":7.49,"high":8.52,"low":7.2,"close":8.45,"volume":623332,"unadjustedVolume":623332,"change":0.64,"changePercent":8.195,"vwap":8.1529,"label":"Nov 2","changeOverTime":-0.4621260343730109}],"15":Unknown symbol,"16":[{"date":"2017-10-24","open":51.47,"high":51.85,"low":50.51,"close":50.6,"volume":296973,"unadjustedVolume":296973,"change":-0.84,"changePercent":-1.633,"vwap":50.8341,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":50.55,"high":50.87,"low":49.76,"close":50.26,"volume":206138,"unadjustedVolume":206138,"change":-0.34,"changePercent":-0.672,"vwap":50.1524,"label":"Oct 25, 17","changeOverTime":-0.006719367588932873},{"date":"2017-10-26","open":50.43,"high":51.25,"low":50.41,"close":50.92,"volume":364529,"unadjustedVolume":364529,"change":0.66,"changePercent":1.313,"vwap":50.9181,"label":"Oct 26, 17","changeOverTime":0.006324110671936764},{"date":"2017-10-27","open":50.97,"high":51.42,"low":50.53,"close":51.24,"volume":280389,"unadjustedVolume":280389,"change":0.32,"changePercent":0.628,"vwap":51.1176,"label":"Oct 27, 17","changeOverTime":0.012648221343873528},{"date":"2017-10-30","open":51.37,"high":52.12,"low":50.79,"close":51.01,"volume":218371,"unadjustedVolume":218371,"change":-0.23,"changePercent":-0.449,"vwap":51.1457,"label":"Oct 30, 17","changeOverTime":0.008102766798418905},{"date":"2017-10-31","open":51.12,"high":51.91,"low":51.12,"close":51.82,"volume":234982,"unadjustedVolume":234982,"change":0.81,"changePercent":1.588,"vwap":51.6877,"label":"Oct 31, 17","changeOverTime":0.02411067193675887},{"date":"2017-11-01","open":52.08,"high":52.18,"low":51.04,"close":51.42,"volume":213775,"unadjustedVolume":213775,"change":-0.4,"changePercent":-0.772,"vwap":51.4945,"label":"Nov 1, 17","changeOverTime":0.016205533596837948},{"date":"2017-11-02","open":51.5,"high":51.67,"low":50.535,"close":51.12,"volume":448274,"unadjustedVolume":448274,"change":-0.3,"changePercent":-0.583,"vwap":51.0368,"label":"Nov 2, 17","changeOverTime":0.010276679841897155},{"date":"2017-11-03","open":52.47,"high":53.5,"low":48.91,"close":49.42,"volume":827632,"unadjustedVolume":827632,"change":-1.7,"changePercent":-3.326,"vwap":50.0818,"label":"Nov 3, 17","changeOverTime":-0.023320158102766792},{"date":"2017-11-06","open":49.3,"high":49.3,"low":45.46,"close":45.5,"volume":986562,"unadjustedVolume":986562,"change":-3.92,"changePercent":-7.932,"vwap":46.6187,"label":"Nov 6, 17","changeOverTime":-0.10079051383399212},{"date":"2017-11-07","open":45.57,"high":46.03,"low":44.08,"close":44.64,"volume":884257,"unadjustedVolume":884257,"change":-0.86,"changePercent":-1.89,"vwap":44.9314,"label":"Nov 7, 17","changeOverTime":-0.11778656126482215},{"date":"2017-11-08","open":44.78,"high":47.33,"low":44.78,"close":46.76,"volume":1013435,"unadjustedVolume":1013435,"change":2.12,"changePercent":4.749,"vwap":46.215,"label":"Nov 8, 17","changeOverTime":-0.07588932806324117},{"date":"2017-11-09","open":46.27,"high":47.06,"low":45.65,"close":47.05,"volume":569262,"unadjustedVolume":569262,"change":0.29,"changePercent":0.62,"vwap":46.5949,"label":"Nov 9, 17","changeOverTime":-0.0701581027667985},{"date":"2017-11-10","open":46.69,"high":46.94,"low":46.25,"close":46.31,"volume":581617,"unadjustedVolume":581617,"change":-0.74,"changePercent":-1.573,"vwap":46.5805,"label":"Nov 10, 17","changeOverTime":-0.08478260869565216},{"date":"2017-11-13","open":46.05,"high":46.43,"low":45.84,"close":46.15,"volume":568241,"unadjustedVolume":568241,"change":-0.16,"changePercent":-0.345,"vwap":46.112,"label":"Nov 13, 17","changeOverTime":-0.0879446640316206},{"date":"2017-11-14","open":46.12,"high":46.66,"low":45.44,"close":45.66,"volume":445368,"unadjustedVolume":445368,"change":-0.49,"changePercent":-1.062,"vwap":45.8625,"label":"Nov 14, 17","changeOverTime":-0.0976284584980238},{"date":"2017-11-15","open":45.44,"high":46.05,"low":44.4,"close":45.72,"volume":602725,"unadjustedVolume":602725,"change":0.06,"changePercent":0.131,"vwap":45.4624,"label":"Nov 15, 17","changeOverTime":-0.09644268774703563},{"date":"2017-11-16","open":47.16,"high":47.17,"low":46.2,"close":46.82,"volume":490678,"unadjustedVolume":490678,"change":1.1,"changePercent":2.406,"vwap":46.8324,"label":"Nov 16, 17","changeOverTime":-0.07470355731225299},{"date":"2017-11-17","open":46.48,"high":47.48,"low":46.29,"close":47.07,"volume":388191,"unadjustedVolume":388191,"change":0.25,"changePercent":0.534,"vwap":46.9768,"label":"Nov 17, 17","changeOverTime":-0.06976284584980239},{"date":"2017-11-20","open":47.24,"high":48.11,"low":47.145,"close":48.08,"volume":276373,"unadjustedVolume":276373,"change":1.01,"changePercent":2.146,"vwap":47.8001,"label":"Nov 20, 17","changeOverTime":-0.049802371541502036},{"date":"2017-11-21","open":48.21,"high":49.15,"low":48.09,"close":49.13,"volume":287115,"unadjustedVolume":287115,"change":1.05,"changePercent":2.184,"vwap":48.8778,"label":"Nov 21, 17","changeOverTime":-0.029051383399209464},{"date":"2017-11-22","open":49.13,"high":49.35,"low":48.71,"close":49.11,"volume":215412,"unadjustedVolume":215412,"change":-0.02,"changePercent":-0.041,"vwap":49.0967,"label":"Nov 22, 17","changeOverTime":-0.029446640316205572},{"date":"2017-11-24","open":49.28,"high":49.28,"low":48.44,"close":48.73,"volume":147489,"unadjustedVolume":147489,"change":-0.38,"changePercent":-0.774,"vwap":48.7242,"label":"Nov 24, 17","changeOverTime":-0.03695652173913053},{"date":"2017-11-27","open":48.61,"high":48.99,"low":48.33,"close":48.61,"volume":217527,"unadjustedVolume":217527,"change":-0.12,"changePercent":-0.246,"vwap":48.6148,"label":"Nov 27, 17","changeOverTime":-0.039328063241106756},{"date":"2017-11-28","open":48.71,"high":49.98,"low":48.64,"close":49.75,"volume":271423,"unadjustedVolume":271423,"change":1.14,"changePercent":2.345,"vwap":49.6675,"label":"Nov 28, 17","changeOverTime":-0.016798418972332044},{"date":"2017-11-29","open":49.69,"high":50.9,"low":49.51,"close":50.84,"volume":641481,"unadjustedVolume":641481,"change":1.09,"changePercent":2.191,"vwap":50.7247,"label":"Nov 29, 17","changeOverTime":0.004743083003952609},{"date":"2017-11-30","open":51,"high":51.7,"low":50.35,"close":51.53,"volume":626181,"unadjustedVolume":626181,"change":0.69,"changePercent":1.357,"vwap":51.2659,"label":"Nov 30, 17","changeOverTime":0.0183794466403162},{"date":"2017-12-01","open":51.39,"high":51.39,"low":49.18,"close":50.91,"volume":296936,"unadjustedVolume":296936,"change":-0.62,"changePercent":-1.203,"vwap":50.6818,"label":"Dec 1, 17","changeOverTime":0.006126482213438639},{"date":"2017-12-04","open":51.63,"high":51.87,"low":50.34,"close":50.46,"volume":253413,"unadjustedVolume":253413,"change":-0.45,"changePercent":-0.884,"vwap":50.8408,"label":"Dec 4, 17","changeOverTime":-0.0027667984189723434},{"date":"2017-12-05","open":50.5,"high":50.79,"low":49.91,"close":50.15,"volume":255719,"unadjustedVolume":255719,"change":-0.31,"changePercent":-0.614,"vwap":50.1831,"label":"Dec 5, 17","changeOverTime":-0.008893280632411123},{"date":"2017-12-06","open":50.05,"high":50.55,"low":49.72,"close":50.4,"volume":149378,"unadjustedVolume":149378,"change":0.25,"changePercent":0.499,"vwap":50.3572,"label":"Dec 6, 17","changeOverTime":-0.00395256916996053},{"date":"2017-12-07","open":50.28,"high":51.08,"low":49.94,"close":50.49,"volume":249066,"unadjustedVolume":249066,"change":0.09,"changePercent":0.179,"vwap":50.6031,"label":"Dec 7, 17","changeOverTime":-0.0021739130434782496},{"date":"2017-12-08","open":50.8,"high":51.36,"low":50.52,"close":50.86,"volume":243021,"unadjustedVolume":243021,"change":0.37,"changePercent":0.733,"vwap":50.9328,"label":"Dec 8, 17","changeOverTime":0.005138339920948577},{"date":"2017-12-11","open":51.01,"high":51.73,"low":50.67,"close":51.68,"volume":301580,"unadjustedVolume":301580,"change":0.82,"changePercent":1.612,"vwap":51.3053,"label":"Dec 11, 17","changeOverTime":0.021343873517786528},{"date":"2017-12-12","open":51.53,"high":51.84,"low":51.14,"close":51.74,"volume":298756,"unadjustedVolume":298756,"change":0.06,"changePercent":0.116,"vwap":51.6187,"label":"Dec 12, 17","changeOverTime":0.022529644268774716},{"date":"2017-12-13","open":51.75,"high":52.34,"low":51.14,"close":51.17,"volume":246378,"unadjustedVolume":246378,"change":-0.57,"changePercent":-1.102,"vwap":51.6262,"label":"Dec 13, 17","changeOverTime":0.011264822134387358},{"date":"2017-12-14","open":51.34,"high":51.43,"low":50.3,"close":50.37,"volume":214242,"unadjustedVolume":214242,"change":-0.8,"changePercent":-1.563,"vwap":50.6726,"label":"Dec 14, 17","changeOverTime":-0.004545454545454624},{"date":"2017-12-15","open":50.89,"high":51.97,"low":50.6,"close":51.11,"volume":528067,"unadjustedVolume":528067,"change":0.74,"changePercent":1.469,"vwap":51.1353,"label":"Dec 15, 17","changeOverTime":0.01007905138339917},{"date":"2017-12-18","open":52.45,"high":53.62,"low":51.91,"close":53.46,"volume":419499,"unadjustedVolume":419499,"change":2.35,"changePercent":4.598,"vwap":53.2807,"label":"Dec 18, 17","changeOverTime":0.05652173913043477},{"date":"2017-12-19","open":53.01,"high":54.44,"low":52.45,"close":52.9,"volume":590475,"unadjustedVolume":590475,"change":-0.56,"changePercent":-1.048,"vwap":53.3868,"label":"Dec 19, 17","changeOverTime":0.0454545454545454},{"date":"2017-12-20","open":53.2,"high":53.29,"low":52.72,"close":52.8,"volume":172980,"unadjustedVolume":172980,"change":-0.1,"changePercent":-0.189,"vwap":52.9348,"label":"Dec 20, 17","changeOverTime":0.04347826086956513},{"date":"2017-12-21","open":52.68,"high":53.24,"low":52.49,"close":52.98,"volume":190702,"unadjustedVolume":190702,"change":0.18,"changePercent":0.341,"vwap":52.9957,"label":"Dec 21, 17","changeOverTime":0.04703557312252955},{"date":"2017-12-22","open":52.455,"high":52.99,"low":51.98,"close":52.03,"volume":198061,"unadjustedVolume":198061,"change":-0.95,"changePercent":-1.793,"vwap":52.1857,"label":"Dec 22, 17","changeOverTime":0.028260869565217384},{"date":"2017-12-26","open":51.96,"high":52.91,"low":51.8,"close":52.51,"volume":138562,"unadjustedVolume":138562,"change":0.48,"changePercent":0.923,"vwap":52.5954,"label":"Dec 26, 17","changeOverTime":0.037747035573122464},{"date":"2017-12-27","open":52.6,"high":53.15,"low":52.21,"close":52.82,"volume":333761,"unadjustedVolume":333761,"change":0.31,"changePercent":0.59,"vwap":52.7906,"label":"Dec 27, 17","changeOverTime":0.04387351778656124},{"date":"2017-12-28","open":52.79,"high":52.79,"low":52.1,"close":52.58,"volume":208973,"unadjustedVolume":208973,"change":-0.24,"changePercent":-0.454,"vwap":52.4974,"label":"Dec 28, 17","changeOverTime":0.03913043478260863},{"date":"2017-12-29","open":52.63,"high":52.66,"low":51.58,"close":51.6,"volume":257662,"unadjustedVolume":257662,"change":-0.98,"changePercent":-1.864,"vwap":51.9942,"label":"Dec 29, 17","changeOverTime":0.019762845849802372},{"date":"2018-01-02","open":52.01,"high":53.2,"low":52.01,"close":52.56,"volume":269124,"unadjustedVolume":269124,"change":0.96,"changePercent":1.86,"vwap":52.5714,"label":"Jan 2, 18","changeOverTime":0.03873517786561266},{"date":"2018-01-03","open":52.66,"high":52.86,"low":51.77,"close":51.99,"volume":243134,"unadjustedVolume":243134,"change":-0.57,"changePercent":-1.084,"vwap":52.2128,"label":"Jan 3, 18","changeOverTime":0.027470355731225308},{"date":"2018-01-04","open":52.37,"high":52.55,"low":51.39,"close":51.41,"volume":208613,"unadjustedVolume":208613,"change":-0.58,"changePercent":-1.116,"vwap":51.7187,"label":"Jan 4, 18","changeOverTime":0.016007905138339825},{"date":"2018-01-05","open":51.58,"high":51.58,"low":50.54,"close":51.34,"volume":441026,"unadjustedVolume":441026,"change":-0.07,"changePercent":-0.136,"vwap":51.1339,"label":"Jan 5, 18","changeOverTime":0.014624505928853794},{"date":"2018-01-08","open":51.27,"high":51.68,"low":50.76,"close":51.08,"volume":295485,"unadjustedVolume":295485,"change":-0.26,"changePercent":-0.506,"vwap":51.063,"label":"Jan 8, 18","changeOverTime":0.009486166007905077},{"date":"2018-01-09","open":51.08,"high":51.76,"low":50.81,"close":51.48,"volume":274241,"unadjustedVolume":274241,"change":0.4,"changePercent":0.783,"vwap":51.4816,"label":"Jan 9, 18","changeOverTime":0.017391304347825997},{"date":"2018-01-10","open":51.21,"high":51.87,"low":50.94,"close":51.25,"volume":156105,"unadjustedVolume":156105,"change":-0.23,"changePercent":-0.447,"vwap":51.3659,"label":"Jan 10, 18","changeOverTime":0.012845849802371512},{"date":"2018-01-11","open":51.31,"high":52.21,"low":51.14,"close":52.01,"volume":419894,"unadjustedVolume":419894,"change":0.76,"changePercent":1.483,"vwap":51.8284,"label":"Jan 11, 18","changeOverTime":0.027865612648221277},{"date":"2018-01-12","open":52.08,"high":52.88,"low":51.6301,"close":52.71,"volume":516421,"unadjustedVolume":516421,"change":0.7,"changePercent":1.346,"vwap":52.5671,"label":"Jan 12, 18","changeOverTime":0.04169960474308299},{"date":"2018-01-16","open":53.17,"high":53.33,"low":52.63,"close":52.74,"volume":356145,"unadjustedVolume":356145,"change":0.03,"changePercent":0.057,"vwap":52.9399,"label":"Jan 16, 18","changeOverTime":0.04229249011857709},{"date":"2018-01-17","open":53,"high":53.135,"low":51.99,"close":52.37,"volume":170664,"unadjustedVolume":170664,"change":-0.37,"changePercent":-0.702,"vwap":52.4142,"label":"Jan 17, 18","changeOverTime":0.03498023715415012},{"date":"2018-01-18","open":52.37,"high":52.37,"low":51.3,"close":51.43,"volume":310036,"unadjustedVolume":310036,"change":-0.94,"changePercent":-1.795,"vwap":51.5462,"label":"Jan 18, 18","changeOverTime":0.016403162055335933},{"date":"2018-01-19","open":51.53,"high":53.9,"low":51.53,"close":53.42,"volume":528670,"unadjustedVolume":528670,"change":1.99,"changePercent":3.869,"vwap":52.8948,"label":"Jan 19, 18","changeOverTime":0.05573122529644269},{"date":"2018-01-22","open":53.37,"high":53.42,"low":52.585,"close":52.89,"volume":213996,"unadjustedVolume":213996,"change":-0.53,"changePercent":-0.992,"vwap":52.9194,"label":"Jan 22, 18","changeOverTime":0.04525691699604741},{"date":"2018-01-23","open":52.92,"high":52.99,"low":52.08,"close":52.08,"volume":227318,"unadjustedVolume":227318,"change":-0.81,"changePercent":-1.531,"vwap":52.3754,"label":"Jan 23, 18","changeOverTime":0.02924901185770745},{"date":"2018-01-24","open":52.4,"high":53.88,"low":52.3501,"close":53.84,"volume":399154,"unadjustedVolume":399154,"change":1.76,"changePercent":3.379,"vwap":53.4348,"label":"Jan 24, 18","changeOverTime":0.06403162055335972},{"date":"2018-01-25","open":54,"high":55.15,"low":52.9527,"close":55.13,"volume":505030,"unadjustedVolume":505030,"change":1.29,"changePercent":2.396,"vwap":54.674,"label":"Jan 25, 18","changeOverTime":0.08952569169960477},{"date":"2018-01-26","open":55.25,"high":55.35,"low":53.93,"close":54.75,"volume":249034,"unadjustedVolume":249034,"change":-0.38,"changePercent":-0.689,"vwap":54.4804,"label":"Jan 26, 18","changeOverTime":0.08201581027667981},{"date":"2018-01-29","open":54.53,"high":54.61,"low":53.23,"close":53.39,"volume":432926,"unadjustedVolume":432926,"change":-1.36,"changePercent":-2.484,"vwap":53.5631,"label":"Jan 29, 18","changeOverTime":0.0551383399209486},{"date":"2018-01-30","open":52.75,"high":53.65,"low":52.42,"close":53.39,"volume":265011,"unadjustedVolume":265011,"change":0,"changePercent":0,"vwap":53.2916,"label":"Jan 30, 18","changeOverTime":0.0551383399209486},{"date":"2018-01-31","open":53.74,"high":54.08,"low":52.44,"close":52.76,"volume":292242,"unadjustedVolume":292242,"change":-0.63,"changePercent":-1.18,"vwap":52.8204,"label":"Jan 31, 18","changeOverTime":0.042687747035573056},{"date":"2018-02-01","open":52.51,"high":53.74,"low":52.16,"close":53.55,"volume":200488,"unadjustedVolume":200488,"change":0.79,"changePercent":1.497,"vwap":53.2336,"label":"Feb 1, 18","changeOverTime":0.05830039525691691},{"date":"2018-02-02","open":53.2,"high":53.48,"low":51.97,"close":52.35,"volume":300298,"unadjustedVolume":300298,"change":-1.2,"changePercent":-2.241,"vwap":52.4827,"label":"Feb 2, 18","changeOverTime":0.03458498023715415},{"date":"2018-02-05","open":51.55,"high":51.73,"low":47.44,"close":48.24,"volume":681111,"unadjustedVolume":681111,"change":-4.11,"changePercent":-7.851,"vwap":49.2183,"label":"Feb 5, 18","changeOverTime":-0.046640316205533584},{"date":"2018-02-06","open":47.09,"high":49.7,"low":46.65,"close":48.63,"volume":673348,"unadjustedVolume":673348,"change":0.39,"changePercent":0.808,"vwap":48.1737,"label":"Feb 6, 18","changeOverTime":-0.03893280632411065},{"date":"2018-02-07","open":48.38,"high":48.9,"low":48,"close":48.05,"volume":184450,"unadjustedVolume":184450,"change":-0.58,"changePercent":-1.193,"vwap":48.3503,"label":"Feb 7, 18","changeOverTime":-0.05039525691699613},{"date":"2018-02-08","open":48.23,"high":48.23,"low":46.49,"close":46.49,"volume":620217,"unadjustedVolume":620217,"change":-1.56,"changePercent":-3.247,"vwap":46.9983,"label":"Feb 8, 18","changeOverTime":-0.08122529644268774},{"date":"2018-02-09","open":47.25,"high":47.41,"low":44.89,"close":46.47,"volume":426437,"unadjustedVolume":426437,"change":-0.02,"changePercent":-0.043,"vwap":46.0598,"label":"Feb 9, 18","changeOverTime":-0.08162055335968384},{"date":"2018-02-12","open":46.76,"high":47.63,"low":46.21,"close":46.43,"volume":290776,"unadjustedVolume":290776,"change":-0.04,"changePercent":-0.086,"vwap":46.6453,"label":"Feb 12, 18","changeOverTime":-0.08241106719367593},{"date":"2018-02-13","open":46.18,"high":46.54,"low":45.76,"close":46.26,"volume":351986,"unadjustedVolume":351986,"change":-0.17,"changePercent":-0.366,"vwap":46.2056,"label":"Feb 13, 18","changeOverTime":-0.08577075098814235},{"date":"2018-02-14","open":46.01,"high":47.73,"low":46.01,"close":47.44,"volume":380827,"unadjustedVolume":380827,"change":1.18,"changePercent":2.551,"vwap":47.128,"label":"Feb 14, 18","changeOverTime":-0.062450592885375564},{"date":"2018-02-15","open":47.83,"high":47.83,"low":46.72,"close":47.56,"volume":314968,"unadjustedVolume":314968,"change":0.12,"changePercent":0.253,"vwap":47.3105,"label":"Feb 15, 18","changeOverTime":-0.06007905138339919},{"date":"2018-02-16","open":47.39,"high":48.9,"low":47.39,"close":48.36,"volume":273122,"unadjustedVolume":273122,"change":0.8,"changePercent":1.682,"vwap":48.3951,"label":"Feb 16, 18","changeOverTime":-0.04426877470355735},{"date":"2018-02-20","open":48.11,"high":48.48,"low":46.82,"close":46.88,"volume":223990,"unadjustedVolume":223990,"change":-1.48,"changePercent":-3.06,"vwap":47.3787,"label":"Feb 20, 18","changeOverTime":-0.0735177865612648},{"date":"2018-02-21","open":47.04,"high":48.53,"low":46.88,"close":47.89,"volume":384582,"unadjustedVolume":384582,"change":1.01,"changePercent":2.154,"vwap":48.0292,"label":"Feb 21, 18","changeOverTime":-0.053557312252964444},{"date":"2018-02-22","open":48.01,"high":48.51,"low":47.31,"close":47.46,"volume":518307,"unadjustedVolume":518307,"change":-0.43,"changePercent":-0.898,"vwap":47.7656,"label":"Feb 22, 18","changeOverTime":-0.062055335968379456},{"date":"2018-02-23","open":47.85,"high":48.22,"low":47.19,"close":48.19,"volume":199334,"unadjustedVolume":199334,"change":0.73,"changePercent":1.538,"vwap":47.8344,"label":"Feb 23, 18","changeOverTime":-0.04762845849802379},{"date":"2018-02-26","open":48.42,"high":48.42,"low":46.97,"close":47.63,"volume":311261,"unadjustedVolume":311261,"change":-0.56,"changePercent":-1.162,"vwap":47.494,"label":"Feb 26, 18","changeOverTime":-0.05869565217391302},{"date":"2018-02-27","open":47.72,"high":47.82,"low":46.77,"close":47.04,"volume":281492,"unadjustedVolume":281492,"change":-0.59,"changePercent":-1.239,"vwap":47.1221,"label":"Feb 27, 18","changeOverTime":-0.07035573122529648},{"date":"2018-02-28","open":47.32,"high":47.63,"low":46.04,"close":46.18,"volume":748383,"unadjustedVolume":748383,"change":-0.86,"changePercent":-1.828,"vwap":46.4258,"label":"Feb 28, 18","changeOverTime":-0.08735177865612652},{"date":"2018-03-01","open":48.02,"high":53.01,"low":47.76,"close":50.78,"volume":1451559,"unadjustedVolume":1451559,"change":4.6,"changePercent":9.961,"vwap":50.5517,"label":"Mar 1, 18","changeOverTime":0.003557312252964421},{"date":"2018-03-02","open":50.23,"high":51.14,"low":49.53,"close":51,"volume":635374,"unadjustedVolume":635374,"change":0.22,"changePercent":0.433,"vwap":50.6029,"label":"Mar 2, 18","changeOverTime":0.00790513833992092},{"date":"2018-03-05","open":50.55,"high":51.77,"low":50.45,"close":51.05,"volume":747815,"unadjustedVolume":747815,"change":0.05,"changePercent":0.098,"vwap":51.1195,"label":"Mar 5, 18","changeOverTime":0.008893280632410983},{"date":"2018-03-06","open":51.37,"high":51.67,"low":50.53,"close":51.57,"volume":730704,"unadjustedVolume":730704,"change":0.52,"changePercent":1.019,"vwap":51.3486,"label":"Mar 6, 18","changeOverTime":0.019169960474308276},{"date":"2018-03-07","open":51.17,"high":52.77,"low":50.92,"close":52.68,"volume":632126,"unadjustedVolume":632126,"change":1.11,"changePercent":2.152,"vwap":52.1393,"label":"Mar 7, 18","changeOverTime":0.0411067193675889},{"date":"2018-03-08","open":52.6,"high":52.78,"low":51.48,"close":52.54,"volume":379271,"unadjustedVolume":379271,"change":-0.14,"changePercent":-0.266,"vwap":52.2657,"label":"Mar 8, 18","changeOverTime":0.03833992094861655},{"date":"2018-03-09","open":52.8,"high":53.1,"low":51.94,"close":53,"volume":459449,"unadjustedVolume":459449,"change":0.46,"changePercent":0.876,"vwap":52.5676,"label":"Mar 9, 18","changeOverTime":0.04743083003952566},{"date":"2018-03-12","open":53.1,"high":54.74,"low":53.1,"close":54.5,"volume":525621,"unadjustedVolume":525621,"change":1.5,"changePercent":2.83,"vwap":54.2119,"label":"Mar 12, 18","changeOverTime":0.07707509881422922},{"date":"2018-03-13","open":54.5,"high":54.59,"low":53.21,"close":53.36,"volume":400365,"unadjustedVolume":400365,"change":-1.14,"changePercent":-2.092,"vwap":53.8328,"label":"Mar 13, 18","changeOverTime":0.0545454545454545},{"date":"2018-03-14","open":53.69,"high":53.81,"low":52.91,"close":53.08,"volume":248487,"unadjustedVolume":248487,"change":-0.28,"changePercent":-0.525,"vwap":53.2165,"label":"Mar 14, 18","changeOverTime":0.04901185770750982},{"date":"2018-03-15","open":53.22,"high":53.6,"low":52.35,"close":52.8,"volume":336717,"unadjustedVolume":336717,"change":-0.28,"changePercent":-0.528,"vwap":52.9753,"label":"Mar 15, 18","changeOverTime":0.04347826086956513},{"date":"2018-03-16","open":52.83,"high":53.78,"low":52.83,"close":53.31,"volume":425407,"unadjustedVolume":425407,"change":0.51,"changePercent":0.966,"vwap":53.2269,"label":"Mar 16, 18","changeOverTime":0.053557312252964444},{"date":"2018-03-19","open":52.99,"high":54.18,"low":52.63,"close":53.21,"volume":361603,"unadjustedVolume":361603,"change":-0.1,"changePercent":-0.188,"vwap":53.2737,"label":"Mar 19, 18","changeOverTime":0.051581027667984176},{"date":"2018-03-20","open":53.39,"high":53.7,"low":52.47,"close":52.6,"volume":169880,"unadjustedVolume":169880,"change":-0.61,"changePercent":-1.146,"vwap":52.7964,"label":"Mar 20, 18","changeOverTime":0.039525691699604744},{"date":"2018-03-21","open":52.62,"high":53.59,"low":52.05,"close":52.39,"volume":270107,"unadjustedVolume":270107,"change":-0.21,"changePercent":-0.399,"vwap":52.5502,"label":"Mar 21, 18","changeOverTime":0.03537549407114623},{"date":"2018-03-22","open":51.83,"high":52.06,"low":50.69,"close":50.73,"volume":347504,"unadjustedVolume":347504,"change":-1.66,"changePercent":-3.169,"vwap":51.2107,"label":"Mar 22, 18","changeOverTime":0.0025691699604742184},{"date":"2018-03-23","open":50.79,"high":51.05,"low":49.49,"close":49.5,"volume":365496,"unadjustedVolume":365496,"change":-1.23,"changePercent":-2.425,"vwap":50.1014,"label":"Mar 23, 18","changeOverTime":-0.021739130434782636},{"date":"2018-03-26","open":50.47,"high":51.32,"low":49.98,"close":51.25,"volume":426792,"unadjustedVolume":426792,"change":1.75,"changePercent":3.535,"vwap":50.948,"label":"Mar 26, 18","changeOverTime":0.012845849802371512},{"date":"2018-03-27","open":51.49,"high":51.92,"low":50.77,"close":51,"volume":294817,"unadjustedVolume":294817,"change":-0.25,"changePercent":-0.488,"vwap":51.2953,"label":"Mar 27, 18","changeOverTime":0.00790513833992092},{"date":"2018-03-28","open":51.22,"high":52.02,"low":50.6,"close":50.66,"volume":561256,"unadjustedVolume":561256,"change":-0.34,"changePercent":-0.667,"vwap":51.0444,"label":"Mar 28, 18","changeOverTime":0.0011857707509880468},{"date":"2018-03-29","open":51.03,"high":51.87,"low":50.33,"close":51.31,"volume":486325,"unadjustedVolume":486325,"change":0.65,"changePercent":1.283,"vwap":51.2391,"label":"Mar 29, 18","changeOverTime":0.0140316205533597},{"date":"2018-04-02","open":51.11,"high":51.24,"low":49.37,"close":49.58,"volume":401426,"unadjustedVolume":401426,"change":-1.73,"changePercent":-3.372,"vwap":49.9679,"label":"Apr 2, 18","changeOverTime":-0.02015810276679848},{"date":"2018-04-03","open":49.98,"high":51.02,"low":49.72,"close":50.8,"volume":829382,"unadjustedVolume":829382,"change":1.22,"changePercent":2.461,"vwap":50.4885,"label":"Apr 3, 18","changeOverTime":0.00395256916996039},{"date":"2018-04-04","open":50.01,"high":52.11,"low":49.87,"close":52.02,"volume":694650,"unadjustedVolume":694650,"change":1.22,"changePercent":2.402,"vwap":51.3675,"label":"Apr 4, 18","changeOverTime":0.0280632411067194},{"date":"2018-04-05","open":52.47,"high":53.45,"low":52.17,"close":53.02,"volume":341075,"unadjustedVolume":341075,"change":1,"changePercent":1.922,"vwap":53.0211,"label":"Apr 5, 18","changeOverTime":0.04782608695652177},{"date":"2018-04-06","open":52.51,"high":53.35,"low":51.94,"close":52.13,"volume":418443,"unadjustedVolume":418443,"change":-0.89,"changePercent":-1.679,"vwap":52.3929,"label":"Apr 6, 18","changeOverTime":0.03023715415019765},{"date":"2018-04-09","open":52.52,"high":52.82,"low":52.05,"close":52.09,"volume":202067,"unadjustedVolume":202067,"change":-0.04,"changePercent":-0.077,"vwap":52.3385,"label":"Apr 9, 18","changeOverTime":0.029446640316205572},{"date":"2018-04-10","open":52.85,"high":53.47,"low":52.2,"close":53.11,"volume":206561,"unadjustedVolume":206561,"change":1.02,"changePercent":1.958,"vwap":53.0645,"label":"Apr 10, 18","changeOverTime":0.04960474308300391},{"date":"2018-04-11","open":52.72,"high":53.52,"low":52.52,"close":53.07,"volume":159706,"unadjustedVolume":159706,"change":-0.04,"changePercent":-0.075,"vwap":53.1305,"label":"Apr 11, 18","changeOverTime":0.04881422924901183},{"date":"2018-04-12","open":53.33,"high":54.29,"low":53.13,"close":54.05,"volume":256654,"unadjustedVolume":256654,"change":0.98,"changePercent":1.847,"vwap":54.0069,"label":"Apr 12, 18","changeOverTime":0.0681818181818181},{"date":"2018-04-13","open":54.32,"high":54.43,"low":53.7,"close":53.98,"volume":227324,"unadjustedVolume":227324,"change":-0.07,"changePercent":-0.13,"vwap":54.0427,"label":"Apr 13, 18","changeOverTime":0.06679841897233192},{"date":"2018-04-16","open":54.14,"high":54.5,"low":53.915,"close":54.33,"volume":213613,"unadjustedVolume":213613,"change":0.35,"changePercent":0.648,"vwap":54.3479,"label":"Apr 16, 18","changeOverTime":0.07371541501976278},{"date":"2018-04-17","open":54.5,"high":54.59,"low":54.22,"close":54.26,"volume":310508,"unadjustedVolume":310508,"change":-0.07,"changePercent":-0.129,"vwap":54.4329,"label":"Apr 17, 18","changeOverTime":0.07233201581027661},{"date":"2018-04-18","open":54.5,"high":54.71,"low":54.28,"close":54.36,"volume":259540,"unadjustedVolume":259540,"change":0.1,"changePercent":0.184,"vwap":54.4923,"label":"Apr 18, 18","changeOverTime":0.07430830039525688},{"date":"2018-04-19","open":54.43,"high":54.51,"low":53.705,"close":54.03,"volume":255220,"unadjustedVolume":255220,"change":-0.33,"changePercent":-0.607,"vwap":54.0455,"label":"Apr 19, 18","changeOverTime":0.06778656126482213},{"date":"2018-04-20","open":53.82,"high":54.24,"low":53.66,"close":53.81,"volume":183323,"unadjustedVolume":183323,"change":-0.22,"changePercent":-0.407,"vwap":53.8707,"label":"Apr 20, 18","changeOverTime":0.06343873517786562},{"date":"2018-04-23","open":53.86,"high":54.545,"low":53.8,"close":54.12,"volume":255842,"unadjustedVolume":255842,"change":0.31,"changePercent":0.576,"vwap":54.219,"label":"Apr 23, 18","changeOverTime":0.06956521739130427},{"date":"2018-04-24","open":54.44,"high":54.58,"low":53.36,"close":53.91,"volume":136975,"unadjustedVolume":136975,"change":-0.21,"changePercent":-0.388,"vwap":53.9313,"label":"Apr 24, 18","changeOverTime":0.06541501976284575},{"date":"2018-04-25","open":53.81,"high":54.23,"low":53.68,"close":54.01,"volume":166360,"unadjustedVolume":166360,"change":0.1,"changePercent":0.185,"vwap":53.985,"label":"Apr 25, 18","changeOverTime":0.06739130434782602},{"date":"2018-04-26","open":54.26,"high":54.26,"low":53.35,"close":53.53,"volume":176060,"unadjustedVolume":176060,"change":-0.48,"changePercent":-0.889,"vwap":53.6595,"label":"Apr 26, 18","changeOverTime":0.05790513833992094},{"date":"2018-04-27","open":53.6,"high":54.1,"low":53.18,"close":53.53,"volume":168829,"unadjustedVolume":168829,"change":0,"changePercent":0,"vwap":53.5136,"label":"Apr 27, 18","changeOverTime":0.05790513833992094},{"date":"2018-04-30","open":53.83,"high":54,"low":52.8,"close":52.8,"volume":325910,"unadjustedVolume":325910,"change":-0.73,"changePercent":-1.364,"vwap":53.0417,"label":"Apr 30, 18","changeOverTime":0.04347826086956513},{"date":"2018-05-01","open":52.5,"high":52.8701,"low":51.92,"close":52.55,"volume":326120,"unadjustedVolume":326120,"change":-0.25,"changePercent":-0.473,"vwap":52.5397,"label":"May 1, 18","changeOverTime":0.03853754940711454},{"date":"2018-05-02","open":52.56,"high":52.83,"low":52.2,"close":52.32,"volume":441205,"unadjustedVolume":441205,"change":-0.23,"changePercent":-0.438,"vwap":52.5004,"label":"May 2, 18","changeOverTime":0.033992094861660056},{"date":"2018-05-03","open":52.18,"high":52.54,"low":51.4,"close":52.47,"volume":391921,"unadjustedVolume":391921,"change":0.15,"changePercent":0.287,"vwap":52.1784,"label":"May 3, 18","changeOverTime":0.03695652173913038},{"date":"2018-05-04","open":53,"high":54.75,"low":51.57,"close":54.48,"volume":1202448,"unadjustedVolume":1202448,"change":2.01,"changePercent":3.831,"vwap":53.6793,"label":"May 4, 18","changeOverTime":0.0766798418972331},{"date":"2018-05-07","open":54.93,"high":57.21,"low":54.93,"close":56.77,"volume":686835,"unadjustedVolume":686835,"change":2.29,"changePercent":4.203,"vwap":56.4834,"label":"May 7, 18","changeOverTime":0.12193675889328066},{"date":"2018-05-08","open":56.77,"high":56.8,"low":55.06,"close":55.42,"volume":522541,"unadjustedVolume":522541,"change":-1.35,"changePercent":-2.378,"vwap":55.6459,"label":"May 8, 18","changeOverTime":0.09525691699604744},{"date":"2018-05-09","open":55.67,"high":56.15,"low":54.56,"close":55.9,"volume":318391,"unadjustedVolume":318391,"change":0.48,"changePercent":0.866,"vwap":55.5739,"label":"May 9, 18","changeOverTime":0.1047430830039525},{"date":"2018-05-10","open":56.14,"high":56.919,"low":55.84,"close":56.63,"volume":235365,"unadjustedVolume":235365,"change":0.73,"changePercent":1.306,"vwap":56.5246,"label":"May 10, 18","changeOverTime":0.11916996047430832},{"date":"2018-05-11","open":56.69,"high":57.14,"low":56.47,"close":56.93,"volume":218925,"unadjustedVolume":218925,"change":0.3,"changePercent":0.53,"vwap":56.9504,"label":"May 11, 18","changeOverTime":0.12509881422924898},{"date":"2018-05-14","open":57.21,"high":57.86,"low":56.45,"close":56.49,"volume":307071,"unadjustedVolume":307071,"change":-0.44,"changePercent":-0.773,"vwap":57.1101,"label":"May 14, 18","changeOverTime":0.11640316205533598},{"date":"2018-05-15","open":56.34,"high":56.925,"low":56.1214,"close":56.53,"volume":234037,"unadjustedVolume":234037,"change":0.04,"changePercent":0.071,"vwap":56.5432,"label":"May 15, 18","changeOverTime":0.11719367588932805},{"date":"2018-05-16","open":56.58,"high":56.92,"low":56.35,"close":56.75,"volume":381971,"unadjustedVolume":381971,"change":0.22,"changePercent":0.389,"vwap":56.6839,"label":"May 16, 18","changeOverTime":0.12154150197628455},{"date":"2018-05-17","open":56.65,"high":57.9,"low":56.65,"close":57.62,"volume":344481,"unadjustedVolume":344481,"change":0.87,"changePercent":1.533,"vwap":57.45,"label":"May 17, 18","changeOverTime":0.13873517786561257},{"date":"2018-05-18","open":57.81,"high":57.88,"low":57.03,"close":57.05,"volume":537120,"unadjustedVolume":537120,"change":-0.57,"changePercent":-0.989,"vwap":57.4083,"label":"May 18, 18","changeOverTime":0.1274703557312252},{"date":"2018-05-21","open":57.06,"high":57.35,"low":55.38,"close":55.5,"volume":595094,"unadjustedVolume":595094,"change":-1.55,"changePercent":-2.717,"vwap":55.8769,"label":"May 21, 18","changeOverTime":0.09683794466403159},{"date":"2018-05-22","open":55.66,"high":56.15,"low":55.39,"close":55.4,"volume":335056,"unadjustedVolume":335056,"change":-0.1,"changePercent":-0.18,"vwap":55.6878,"label":"May 22, 18","changeOverTime":0.09486166007905132},{"date":"2018-05-23","open":55.22,"high":55.61,"low":54.82,"close":54.96,"volume":297915,"unadjustedVolume":297915,"change":-0.44,"changePercent":-0.794,"vwap":54.9946,"label":"May 23, 18","changeOverTime":0.08616600790513833},{"date":"2018-05-24","open":54.76,"high":55.4,"low":54.48,"close":55.4,"volume":454660,"unadjustedVolume":454660,"change":0.44,"changePercent":0.801,"vwap":55.1356,"label":"May 24, 18","changeOverTime":0.09486166007905132},{"date":"2018-05-25","open":55.19,"high":56.2,"low":55.19,"close":55.84,"volume":202771,"unadjustedVolume":202771,"change":0.44,"changePercent":0.794,"vwap":55.8782,"label":"May 25, 18","changeOverTime":0.10355731225296447},{"date":"2018-05-29","open":55.37,"high":55.78,"low":54.74,"close":54.99,"volume":237100,"unadjustedVolume":237100,"change":-0.85,"changePercent":-1.522,"vwap":55.1537,"label":"May 29, 18","changeOverTime":0.08675889328063242},{"date":"2018-05-30","open":55.34,"high":56.1,"low":55.34,"close":55.94,"volume":325311,"unadjustedVolume":325311,"change":0.95,"changePercent":1.728,"vwap":55.9014,"label":"May 30, 18","changeOverTime":0.10553359683794458},{"date":"2018-05-31","open":55.68,"high":55.87,"low":54.63,"close":54.82,"volume":251211,"unadjustedVolume":251211,"change":-1.12,"changePercent":-2.002,"vwap":54.9984,"label":"May 31, 18","changeOverTime":0.08339920948616598},{"date":"2018-06-01","open":55.24,"high":56.3,"low":55.02,"close":55.89,"volume":281311,"unadjustedVolume":281311,"change":1.07,"changePercent":1.952,"vwap":55.9188,"label":"Jun 1, 18","changeOverTime":0.10454545454545452},{"date":"2018-06-04","open":56.39,"high":56.39,"low":55.82,"close":56.28,"volume":233673,"unadjustedVolume":233673,"change":0.39,"changePercent":0.698,"vwap":56.1938,"label":"Jun 4, 18","changeOverTime":0.11225296442687746},{"date":"2018-06-05","open":56.14,"high":56.37,"low":55.97,"close":56.25,"volume":191954,"unadjustedVolume":191954,"change":-0.03,"changePercent":-0.053,"vwap":56.2153,"label":"Jun 5, 18","changeOverTime":0.11166007905138337},{"date":"2018-06-06","open":56.3,"high":57.29,"low":56.07,"close":57.29,"volume":342589,"unadjustedVolume":342589,"change":1.04,"changePercent":1.849,"vwap":56.6911,"label":"Jun 6, 18","changeOverTime":0.13221343873517782},{"date":"2018-06-07","open":57.38,"high":58.009,"low":56.93,"close":57.89,"volume":324797,"unadjustedVolume":324797,"change":0.6,"changePercent":1.047,"vwap":57.6974,"label":"Jun 7, 18","changeOverTime":0.14407114624505926},{"date":"2018-06-08","open":57.73,"high":59.91,"low":57.73,"close":59.67,"volume":597691,"unadjustedVolume":597691,"change":1.78,"changePercent":3.075,"vwap":59.3305,"label":"Jun 8, 18","changeOverTime":0.1792490118577075},{"date":"2018-06-11","open":59.75,"high":60.16,"low":59.43,"close":59.65,"volume":371591,"unadjustedVolume":371591,"change":-0.02,"changePercent":-0.034,"vwap":59.704,"label":"Jun 11, 18","changeOverTime":0.1788537549407114},{"date":"2018-06-12","open":59.05,"high":59.73,"low":58.5,"close":59.06,"volume":510003,"unadjustedVolume":510003,"change":-0.59,"changePercent":-0.989,"vwap":59.2605,"label":"Jun 12, 18","changeOverTime":0.16719367588932807},{"date":"2018-06-13","open":59.2,"high":59.2,"low":58.06,"close":58.06,"volume":323348,"unadjustedVolume":323348,"change":-1,"changePercent":-1.693,"vwap":58.4255,"label":"Jun 13, 18","changeOverTime":0.1474308300395257},{"date":"2018-06-14","open":58.22,"high":58.65,"low":57.9451,"close":58.23,"volume":233156,"unadjustedVolume":233156,"change":0.17,"changePercent":0.293,"vwap":58.2424,"label":"Jun 14, 18","changeOverTime":0.150790513833992},{"date":"2018-06-15","open":58.12,"high":58.82,"low":58.09,"close":58.8,"volume":364070,"unadjustedVolume":364070,"change":0.57,"changePercent":0.979,"vwap":58.5446,"label":"Jun 15, 18","changeOverTime":0.16205533596837937},{"date":"2018-06-18","open":58.36,"high":59.2,"low":58.36,"close":59.07,"volume":224509,"unadjustedVolume":224509,"change":0.27,"changePercent":0.459,"vwap":58.9799,"label":"Jun 18, 18","changeOverTime":0.16739130434782606},{"date":"2018-06-19","open":58.5,"high":59.28,"low":58.21,"close":59.07,"volume":325619,"unadjustedVolume":325619,"change":0,"changePercent":0,"vwap":58.887,"label":"Jun 19, 18","changeOverTime":0.16739130434782606},{"date":"2018-06-20","open":59.64,"high":59.879,"low":58.68,"close":58.69,"volume":374845,"unadjustedVolume":374845,"change":-0.38,"changePercent":-0.643,"vwap":59.0305,"label":"Jun 20, 18","changeOverTime":0.1598814229249011},{"date":"2018-06-21","open":58.58,"high":58.73,"low":56.75,"close":57.02,"volume":419928,"unadjustedVolume":419928,"change":-1.67,"changePercent":-2.845,"vwap":57.3307,"label":"Jun 21, 18","changeOverTime":0.12687747035573124},{"date":"2018-06-22","open":57.5,"high":57.84,"low":57.05,"close":57.07,"volume":295112,"unadjustedVolume":295112,"change":0.05,"changePercent":0.088,"vwap":57.2578,"label":"Jun 22, 18","changeOverTime":0.12786561264822133},{"date":"2018-06-25","open":56.77,"high":56.77,"low":55.02,"close":56,"volume":245402,"unadjustedVolume":245402,"change":-1.07,"changePercent":-1.875,"vwap":55.7614,"label":"Jun 25, 18","changeOverTime":0.10671936758893277},{"date":"2018-06-26","open":56.23,"high":56.46,"low":55.77,"close":55.84,"volume":258378,"unadjustedVolume":258378,"change":-0.16,"changePercent":-0.286,"vwap":56.1019,"label":"Jun 26, 18","changeOverTime":0.10355731225296447},{"date":"2018-06-27","open":55.64,"high":55.73,"low":54.3,"close":54.4,"volume":332452,"unadjustedVolume":332452,"change":-1.44,"changePercent":-2.579,"vwap":54.6849,"label":"Jun 27, 18","changeOverTime":0.07509881422924895},{"date":"2018-06-28","open":54.29,"high":54.5967,"low":53.45,"close":53.95,"volume":291048,"unadjustedVolume":291048,"change":-0.45,"changePercent":-0.827,"vwap":53.9363,"label":"Jun 28, 18","changeOverTime":0.06620553359683796},{"date":"2018-06-29","open":54.15,"high":54.7,"low":54.05,"close":54.34,"volume":369630,"unadjustedVolume":369630,"change":0.39,"changePercent":0.723,"vwap":54.4015,"label":"Jun 29, 18","changeOverTime":0.0739130434782609},{"date":"2018-07-02","open":54.1,"high":54.87,"low":53.19,"close":54.82,"volume":306727,"unadjustedVolume":306727,"change":0.48,"changePercent":0.883,"vwap":54.1332,"label":"Jul 2, 18","changeOverTime":0.08339920948616598},{"date":"2018-07-03","open":55.17,"high":55.61,"low":54.7,"close":55.34,"volume":128801,"unadjustedVolume":128801,"change":0.52,"changePercent":0.949,"vwap":55.3372,"label":"Jul 3, 18","changeOverTime":0.09367588932806328},{"date":"2018-07-05","open":55.88,"high":55.9,"low":54.84,"close":55.84,"volume":317013,"unadjustedVolume":317013,"change":0.5,"changePercent":0.904,"vwap":55.5734,"label":"Jul 5, 18","changeOverTime":0.10355731225296447},{"date":"2018-07-06","open":55.74,"high":56.72,"low":55.73,"close":56.22,"volume":206883,"unadjustedVolume":206883,"change":0.38,"changePercent":0.681,"vwap":56.3481,"label":"Jul 6, 18","changeOverTime":0.11106719367588927},{"date":"2018-07-09","open":56.69,"high":57.255,"low":56.49,"close":57.05,"volume":176019,"unadjustedVolume":176019,"change":0.83,"changePercent":1.476,"vwap":57.0556,"label":"Jul 9, 18","changeOverTime":0.1274703557312252},{"date":"2018-07-10","open":57.3,"high":57.3,"low":56.07,"close":56.49,"volume":206710,"unadjustedVolume":206710,"change":-0.56,"changePercent":-0.982,"vwap":56.5557,"label":"Jul 10, 18","changeOverTime":0.11640316205533598},{"date":"2018-07-11","open":56.22,"high":56.22,"low":55.58,"close":55.66,"volume":144619,"unadjustedVolume":144619,"change":-0.83,"changePercent":-1.469,"vwap":55.7772,"label":"Jul 11, 18","changeOverTime":0.09999999999999991},{"date":"2018-07-12","open":56,"high":56.28,"low":55.27,"close":56.21,"volume":118525,"unadjustedVolume":118525,"change":0.55,"changePercent":0.988,"vwap":56.0485,"label":"Jul 12, 18","changeOverTime":0.11086956521739129},{"date":"2018-07-13","open":56.38,"high":56.85,"low":56.27,"close":56.35,"volume":127991,"unadjustedVolume":127991,"change":0.14,"changePercent":0.249,"vwap":56.477,"label":"Jul 13, 18","changeOverTime":0.11363636363636363},{"date":"2018-07-16","open":56.41,"high":56.63,"low":55.15,"close":55.5,"volume":149866,"unadjustedVolume":149866,"change":-0.85,"changePercent":-1.508,"vwap":55.6095,"label":"Jul 16, 18","changeOverTime":0.09683794466403159},{"date":"2018-07-17","open":55.35,"high":55.92,"low":55.34,"close":55.59,"volume":110662,"unadjustedVolume":110662,"change":0.09,"changePercent":0.162,"vwap":55.6344,"label":"Jul 17, 18","changeOverTime":0.09861660079051388},{"date":"2018-07-18","open":55.47,"high":55.73,"low":55.05,"close":55.25,"volume":152049,"unadjustedVolume":152049,"change":-0.34,"changePercent":-0.612,"vwap":55.2346,"label":"Jul 18, 18","changeOverTime":0.091897233201581},{"date":"2018-07-19","open":54.98,"high":55.26,"low":54.63,"close":55.09,"volume":222856,"unadjustedVolume":222856,"change":-0.16,"changePercent":-0.29,"vwap":55.0367,"label":"Jul 19, 18","changeOverTime":0.08873517786561269},{"date":"2018-07-20","open":55.21,"high":56.085,"low":54.845,"close":54.96,"volume":344497,"unadjustedVolume":344497,"change":-0.13,"changePercent":-0.236,"vwap":55.1745,"label":"Jul 20, 18","changeOverTime":0.08616600790513833},{"date":"2018-07-23","open":54.86,"high":55.26,"low":54.101,"close":55.22,"volume":160540,"unadjustedVolume":160540,"change":0.26,"changePercent":0.473,"vwap":54.9651,"label":"Jul 23, 18","changeOverTime":0.0913043478260869},{"date":"2018-07-24","open":55.62,"high":55.74,"low":53.42,"close":53.79,"volume":257890,"unadjustedVolume":257890,"change":-1.43,"changePercent":-2.59,"vwap":54.0598,"label":"Jul 24, 18","changeOverTime":0.06304347826086952},{"date":"2018-07-25","open":53.72,"high":54.15,"low":52.8,"close":54.13,"volume":150864,"unadjustedVolume":150864,"change":0.34,"changePercent":0.632,"vwap":53.7124,"label":"Jul 25, 18","changeOverTime":0.06976284584980239},{"date":"2018-07-26","open":54.14,"high":54.94,"low":53.49,"close":54.09,"volume":209553,"unadjustedVolume":209553,"change":-0.04,"changePercent":-0.074,"vwap":54.111,"label":"Jul 26, 18","changeOverTime":0.06897233201581031},{"date":"2018-07-27","open":54.33,"high":54.33,"low":52.56,"close":52.87,"volume":207957,"unadjustedVolume":207957,"change":-1.22,"changePercent":-2.256,"vwap":53.2135,"label":"Jul 27, 18","changeOverTime":0.044861660079051305},{"date":"2018-07-30","open":52.82,"high":53.03,"low":51.97,"close":52.24,"volume":222471,"unadjustedVolume":222471,"change":-0.63,"changePercent":-1.192,"vwap":52.4153,"label":"Jul 30, 18","changeOverTime":0.032411067193675897},{"date":"2018-07-31","open":52.08,"high":53.68,"low":51.95,"close":53.11,"volume":254303,"unadjustedVolume":254303,"change":0.87,"changePercent":1.665,"vwap":52.9541,"label":"Jul 31, 18","changeOverTime":0.04960474308300391},{"date":"2018-08-01","open":53.32,"high":53.78,"low":52.72,"close":52.83,"volume":251357,"unadjustedVolume":251357,"change":-0.28,"changePercent":-0.527,"vwap":53.1255,"label":"Aug 1, 18","changeOverTime":0.04407114624505923},{"date":"2018-08-02","open":52.37,"high":52.97,"low":52.05,"close":52.94,"volume":183352,"unadjustedVolume":183352,"change":0.11,"changePercent":0.208,"vwap":52.6571,"label":"Aug 2, 18","changeOverTime":0.04624505928853748},{"date":"2018-08-03","open":53.02,"high":53.51,"low":52.6601,"close":52.91,"volume":387549,"unadjustedVolume":387549,"change":-0.03,"changePercent":-0.057,"vwap":53.0877,"label":"Aug 3, 18","changeOverTime":0.04565217391304338},{"date":"2018-08-06","open":48.55,"high":50.78,"low":47.38,"close":49.93,"volume":1703598,"unadjustedVolume":1703598,"change":-2.98,"changePercent":-5.632,"vwap":49.714,"label":"Aug 6, 18","changeOverTime":-0.013241106719367622},{"date":"2018-08-07","open":49.97,"high":50.21,"low":48.98,"close":49.01,"volume":756039,"unadjustedVolume":756039,"change":-0.92,"changePercent":-1.843,"vwap":49.664,"label":"Aug 7, 18","changeOverTime":-0.03142292490118584},{"date":"2018-08-08","open":48.99,"high":49.48,"low":48.3975,"close":48.49,"volume":560293,"unadjustedVolume":560293,"change":-0.52,"changePercent":-1.061,"vwap":48.6799,"label":"Aug 8, 18","changeOverTime":-0.04169960474308299},{"date":"2018-08-09","open":48.32,"high":48.61,"low":47.54,"close":47.61,"volume":341109,"unadjustedVolume":341109,"change":-0.88,"changePercent":-1.815,"vwap":47.894,"label":"Aug 9, 18","changeOverTime":-0.05909090909090913},{"date":"2018-08-10","open":47.27,"high":47.85,"low":46.67,"close":46.99,"volume":384250,"unadjustedVolume":384250,"change":-0.62,"changePercent":-1.302,"vwap":47.1608,"label":"Aug 10, 18","changeOverTime":-0.07134387351778655},{"date":"2018-08-13","open":46.94,"high":47.42,"low":46.19,"close":46.34,"volume":391517,"unadjustedVolume":391517,"change":-0.65,"changePercent":-1.383,"vwap":46.522,"label":"Aug 13, 18","changeOverTime":-0.08418972332015806},{"date":"2018-08-14","open":46.54,"high":48.5,"low":46.42,"close":46.9,"volume":365407,"unadjustedVolume":365407,"change":0.56,"changePercent":1.208,"vwap":47.11,"label":"Aug 14, 18","changeOverTime":-0.07312252964426882},{"date":"2018-08-15","open":46.45,"high":47.22,"low":45.55,"close":45.92,"volume":469852,"unadjustedVolume":469852,"change":-0.98,"changePercent":-2.09,"vwap":46.0696,"label":"Aug 15, 18","changeOverTime":-0.09249011857707509},{"date":"2018-08-16","open":46.23,"high":47.44,"low":46.23,"close":46.99,"volume":460305,"unadjustedVolume":460305,"change":1.07,"changePercent":2.33,"vwap":46.9943,"label":"Aug 16, 18","changeOverTime":-0.07134387351778655},{"date":"2018-08-17","open":46.8,"high":47.57,"low":46.34,"close":47.4,"volume":266997,"unadjustedVolume":266997,"change":0.41,"changePercent":0.873,"vwap":47.0739,"label":"Aug 17, 18","changeOverTime":-0.06324110671936764},{"date":"2018-08-20","open":47.47,"high":47.6,"low":46.56,"close":46.99,"volume":171729,"unadjustedVolume":171729,"change":-0.41,"changePercent":-0.865,"vwap":47.0358,"label":"Aug 20, 18","changeOverTime":-0.07134387351778655},{"date":"2018-08-21","open":47.15,"high":47.65,"low":47.02,"close":47.43,"volume":176264,"unadjustedVolume":176264,"change":0.44,"changePercent":0.936,"vwap":47.4036,"label":"Aug 21, 18","changeOverTime":-0.06264822134387354},{"date":"2018-08-22","open":47.31,"high":47.61,"low":46.7,"close":47.08,"volume":183807,"unadjustedVolume":183807,"change":-0.35,"changePercent":-0.738,"vwap":47.0642,"label":"Aug 22, 18","changeOverTime":-0.0695652173913044},{"date":"2018-08-23","open":47.1,"high":47.1,"low":46.37,"close":46.6,"volume":139413,"unadjustedVolume":139413,"change":-0.48,"changePercent":-1.02,"vwap":46.6313,"label":"Aug 23, 18","changeOverTime":-0.07905138339920949},{"date":"2018-08-24","open":46.76,"high":47.1799,"low":46.33,"close":46.5,"volume":218830,"unadjustedVolume":218830,"change":-0.1,"changePercent":-0.215,"vwap":46.6417,"label":"Aug 24, 18","changeOverTime":-0.08102766798418976},{"date":"2018-08-27","open":46.72,"high":47.94,"low":46.4,"close":47.74,"volume":399621,"unadjustedVolume":399621,"change":1.24,"changePercent":2.667,"vwap":47.6145,"label":"Aug 27, 18","changeOverTime":-0.05652173913043477},{"date":"2018-08-28","open":47.8,"high":48.15,"low":47.61,"close":47.83,"volume":163905,"unadjustedVolume":163905,"change":0.09,"changePercent":0.189,"vwap":47.7904,"label":"Aug 28, 18","changeOverTime":-0.05474308300395263},{"date":"2018-08-29","open":47.94,"high":48.57,"low":47.39,"close":48.5,"volume":287444,"unadjustedVolume":287444,"change":0.67,"changePercent":1.401,"vwap":48.3312,"label":"Aug 29, 18","changeOverTime":-0.041501976284585004},{"date":"2018-08-30","open":48.13,"high":49.15,"low":47.87,"close":48.09,"volume":454665,"unadjustedVolume":454665,"change":-0.41,"changePercent":-0.845,"vwap":48.5145,"label":"Aug 30, 18","changeOverTime":-0.04960474308300391},{"date":"2018-08-31","open":47.91,"high":48.16,"low":47.4,"close":48.02,"volume":595672,"unadjustedVolume":595672,"change":-0.07,"changePercent":-0.146,"vwap":47.8886,"label":"Aug 31, 18","changeOverTime":-0.05098814229249008},{"date":"2018-09-04","open":48.03,"high":48.03,"low":46.45,"close":46.72,"volume":274184,"unadjustedVolume":274184,"change":-1.3,"changePercent":-2.707,"vwap":46.8941,"label":"Sep 4, 18","changeOverTime":-0.07667984189723324},{"date":"2018-09-05","open":46.5,"high":47.72,"low":46.35,"close":47.51,"volume":229153,"unadjustedVolume":229153,"change":0.79,"changePercent":1.691,"vwap":47.3747,"label":"Sep 5, 18","changeOverTime":-0.06106719367588939},{"date":"2018-09-06","open":47.57,"high":47.74,"low":47.015,"close":47.17,"volume":311908,"unadjustedVolume":311908,"change":-0.34,"changePercent":-0.716,"vwap":47.3258,"label":"Sep 6, 18","changeOverTime":-0.06778656126482213},{"date":"2018-09-07","open":47.01,"high":48.125,"low":46.77,"close":47.83,"volume":237659,"unadjustedVolume":237659,"change":0.66,"changePercent":1.399,"vwap":47.7683,"label":"Sep 7, 18","changeOverTime":-0.05474308300395263},{"date":"2018-09-10","open":48.25,"high":48.25,"low":47.54,"close":47.99,"volume":325958,"unadjustedVolume":325958,"change":0.16,"changePercent":0.335,"vwap":47.952,"label":"Sep 10, 18","changeOverTime":-0.051581027667984176},{"date":"2018-09-11","open":47.85,"high":47.96,"low":47.27,"close":47.7,"volume":313557,"unadjustedVolume":313557,"change":-0.29,"changePercent":-0.604,"vwap":47.703,"label":"Sep 11, 18","changeOverTime":-0.057312252964426845},{"date":"2018-09-12","open":47.74,"high":48.59,"low":47.33,"close":48.43,"volume":2167057,"unadjustedVolume":2167057,"change":0.73,"changePercent":1.53,"vwap":48.1822,"label":"Sep 12, 18","changeOverTime":-0.042885375494071176},{"date":"2018-09-13","open":48.75,"high":49.6,"low":48.55,"close":48.98,"volume":383159,"unadjustedVolume":383159,"change":0.55,"changePercent":1.136,"vwap":49.0471,"label":"Sep 13, 18","changeOverTime":-0.03201581027667993},{"date":"2018-09-14","open":49.12,"high":49.325,"low":48.59,"close":48.64,"volume":355487,"unadjustedVolume":355487,"change":-0.34,"changePercent":-0.694,"vwap":48.8188,"label":"Sep 14, 18","changeOverTime":-0.03873517786561266},{"date":"2018-09-17","open":48.72,"high":49.12,"low":48.57,"close":48.64,"volume":303636,"unadjustedVolume":303636,"change":0,"changePercent":0,"vwap":48.765,"label":"Sep 17, 18","changeOverTime":-0.03873517786561266},{"date":"2018-09-18","open":48.9,"high":49.25,"low":48.38,"close":48.93,"volume":227795,"unadjustedVolume":227795,"change":0.29,"changePercent":0.596,"vwap":48.9372,"label":"Sep 18, 18","changeOverTime":-0.03300395256916999},{"date":"2018-09-19","open":49.1,"high":49.55,"low":48.57,"close":48.97,"volume":294960,"unadjustedVolume":294960,"change":0.04,"changePercent":0.082,"vwap":49.0344,"label":"Sep 19, 18","changeOverTime":-0.032213438735177916},{"date":"2018-09-20","open":49.28,"high":49.9,"low":48.82,"close":49.84,"volume":379593,"unadjustedVolume":379593,"change":0.87,"changePercent":1.777,"vwap":49.5766,"label":"Sep 20, 18","changeOverTime":-0.015019762845849762},{"date":"2018-09-21","open":50,"high":50.31,"low":48.83,"close":48.99,"volume":594739,"unadjustedVolume":594739,"change":-0.85,"changePercent":-1.705,"vwap":49.3694,"label":"Sep 21, 18","changeOverTime":-0.03181818181818181},{"date":"2018-09-24","open":48.81,"high":48.99,"low":47.86,"close":48.11,"volume":345965,"unadjustedVolume":345965,"change":-0.88,"changePercent":-1.796,"vwap":48.0917,"label":"Sep 24","changeOverTime":-0.04920948616600794},{"date":"2018-09-25","open":48.39,"high":48.71,"low":47.86,"close":48.48,"volume":252713,"unadjustedVolume":252713,"change":0.37,"changePercent":0.769,"vwap":48.4703,"label":"Sep 25","changeOverTime":-0.04189723320158112},{"date":"2018-09-26","open":48.61,"high":49.53,"low":48.46,"close":48.96,"volume":291959,"unadjustedVolume":291959,"change":0.48,"changePercent":0.99,"vwap":49.0736,"label":"Sep 26","changeOverTime":-0.032411067193675897},{"date":"2018-09-27","open":49.09,"high":49.36,"low":48.42,"close":48.6,"volume":274611,"unadjustedVolume":274611,"change":-0.36,"changePercent":-0.735,"vwap":48.6852,"label":"Sep 27","changeOverTime":-0.039525691699604744},{"date":"2018-09-28","open":48.46,"high":49.46,"low":48.46,"close":49.19,"volume":505402,"unadjustedVolume":505402,"change":0.59,"changePercent":1.214,"vwap":49.2193,"label":"Sep 28","changeOverTime":-0.027865612648221415},{"date":"2018-10-01","open":49.49,"high":50.1739,"low":48.98,"close":49.25,"volume":377138,"unadjustedVolume":377138,"change":0.06,"changePercent":0.122,"vwap":49.4628,"label":"Oct 1","changeOverTime":-0.026679841897233228},{"date":"2018-10-02","open":49.21,"high":49.87,"low":48.32,"close":48.37,"volume":281202,"unadjustedVolume":281202,"change":-0.88,"changePercent":-1.787,"vwap":48.7064,"label":"Oct 2","changeOverTime":-0.04407114624505937},{"date":"2018-10-03","open":48.9,"high":48.94,"low":47.22,"close":47.38,"volume":551501,"unadjustedVolume":551501,"change":-0.99,"changePercent":-2.047,"vwap":47.7372,"label":"Oct 3","changeOverTime":-0.06363636363636362},{"date":"2018-10-04","open":47.11,"high":47.11,"low":45.27,"close":45.55,"volume":719287,"unadjustedVolume":719287,"change":-1.83,"changePercent":-3.862,"vwap":45.6934,"label":"Oct 4","changeOverTime":-0.09980237154150205},{"date":"2018-10-05","open":45.63,"high":45.65,"low":43.89,"close":44.88,"volume":694449,"unadjustedVolume":694449,"change":-0.67,"changePercent":-1.471,"vwap":44.7422,"label":"Oct 5","changeOverTime":-0.11304347826086954},{"date":"2018-10-08","open":44.6,"high":44.95,"low":43.58,"close":44.07,"volume":455897,"unadjustedVolume":455897,"change":-0.81,"changePercent":-1.805,"vwap":44.0957,"label":"Oct 8","changeOverTime":-0.12905138339920952},{"date":"2018-10-09","open":43.92,"high":44.04,"low":43.38,"close":43.56,"volume":398533,"unadjustedVolume":398533,"change":-0.51,"changePercent":-1.157,"vwap":43.5673,"label":"Oct 9","changeOverTime":-0.13913043478260867},{"date":"2018-10-10","open":43.3,"high":43.4499,"low":41.79,"close":41.86,"volume":763964,"unadjustedVolume":763964,"change":-1.7,"changePercent":-3.903,"vwap":42.2883,"label":"Oct 10","changeOverTime":-0.17272727272727276},{"date":"2018-10-11","open":41.67,"high":42.91,"low":41.51,"close":42.29,"volume":813935,"unadjustedVolume":813935,"change":0.43,"changePercent":1.027,"vwap":42.3745,"label":"Oct 11","changeOverTime":-0.16422924901185776},{"date":"2018-10-12","open":43.14,"high":43.33,"low":42.47,"close":43.04,"volume":596760,"unadjustedVolume":596760,"change":0.75,"changePercent":1.773,"vwap":42.9386,"label":"Oct 12","changeOverTime":-0.14940711462450598},{"date":"2018-10-15","open":42.96,"high":43.64,"low":42.84,"close":43.26,"volume":405414,"unadjustedVolume":405414,"change":0.22,"changePercent":0.511,"vwap":43.2365,"label":"Oct 15","changeOverTime":-0.14505928853754946},{"date":"2018-10-16","open":43.81,"high":44.73,"low":43.27,"close":44.51,"volume":456556,"unadjustedVolume":456556,"change":1.25,"changePercent":2.89,"vwap":44.3414,"label":"Oct 16","changeOverTime":-0.12035573122529651},{"date":"2018-10-17","open":44.38,"high":45.1,"low":44.24,"close":44.6,"volume":422829,"unadjustedVolume":422829,"change":0.09,"changePercent":0.202,"vwap":44.6513,"label":"Oct 17","changeOverTime":-0.11857707509881422},{"date":"2018-10-18","open":44.35,"high":44.78,"low":43.83,"close":44.2,"volume":451641,"unadjustedVolume":451641,"change":-0.4,"changePercent":-0.897,"vwap":44.2011,"label":"Oct 18","changeOverTime":-0.12648221343873514},{"date":"2018-10-19","open":44.27,"high":45.09,"low":43.69,"close":43.8,"volume":468095,"unadjustedVolume":468095,"change":-0.4,"changePercent":-0.905,"vwap":44.0514,"label":"Oct 19","changeOverTime":-0.1343873517786562},{"date":"2018-10-22","open":44.08,"high":44.49,"low":42.99,"close":43.54,"volume":484920,"unadjustedVolume":484920,"change":-0.26,"changePercent":-0.594,"vwap":43.4357,"label":"Oct 22","changeOverTime":-0.13952569169960477},{"date":"2018-10-23","open":42.82,"high":43.63,"low":42.44,"close":43.09,"volume":505287,"unadjustedVolume":505287,"change":-0.45,"changePercent":-1.034,"vwap":43.0644,"label":"Oct 23","changeOverTime":-0.14841897233201576},{"date":"2018-10-24","open":42.95,"high":43.42,"low":41.09,"close":41.2,"volume":674750,"unadjustedVolume":674750,"change":-1.89,"changePercent":-4.386,"vwap":41.8475,"label":"Oct 24","changeOverTime":-0.18577075098814225},{"date":"2018-10-25","open":41.1,"high":42.2,"low":41.01,"close":41.91,"volume":457078,"unadjustedVolume":457078,"change":0.71,"changePercent":1.723,"vwap":41.8855,"label":"Oct 25","changeOverTime":-0.1717391304347827},{"date":"2018-10-26","open":41.32,"high":41.85,"low":40.68,"close":40.89,"volume":720125,"unadjustedVolume":720125,"change":-1.02,"changePercent":-2.434,"vwap":41.089,"label":"Oct 26","changeOverTime":-0.19189723320158103},{"date":"2018-10-29","open":41.42,"high":42.06,"low":40.07,"close":40.69,"volume":524544,"unadjustedVolume":524544,"change":-0.2,"changePercent":-0.489,"vwap":41.1473,"label":"Oct 29","changeOverTime":-0.19584980237154156},{"date":"2018-10-30","open":40.77,"high":41.94,"low":40.28,"close":41.88,"volume":465044,"unadjustedVolume":465044,"change":1.19,"changePercent":2.925,"vwap":41.5432,"label":"Oct 30","changeOverTime":-0.17233201581027666},{"date":"2018-10-31","open":42.6,"high":43,"low":41.95,"close":42,"volume":564364,"unadjustedVolume":564364,"change":0.12,"changePercent":0.287,"vwap":42.3361,"label":"Oct 31","changeOverTime":-0.1699604743083004},{"date":"2018-11-01","open":42.97,"high":44.61,"low":41.455,"close":43.46,"volume":741237,"unadjustedVolume":741237,"change":1.46,"changePercent":3.476,"vwap":43.2508,"label":"Nov 1","changeOverTime":-0.14110671936758895},{"date":"2018-11-02","open":43.41,"high":43.41,"low":40.82,"close":40.94,"volume":1162743,"unadjustedVolume":1162743,"change":-2.52,"changePercent":-5.798,"vwap":41.5059,"label":"Nov 2","changeOverTime":-0.19090909090909097}],"17":Unknown symbol,"18":Unknown symbol,"19":Unknown symbol,"20":[{"date":"2017-10-24","open":46.9522,"high":47.3007,"low":46.3355,"close":46.5411,"volume":683800,"unadjustedVolume":683800,"change":-0.402141,"changePercent":-0.857,"vwap":46.586,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":46.2015,"high":46.6036,"low":44.8053,"close":45.433,"volume":854028,"unadjustedVolume":854028,"change":-1.1081,"changePercent":-2.381,"vwap":45.4209,"label":"Oct 25, 17","changeOverTime":-0.023809063386984845},{"date":"2017-10-26","open":45.5759,"high":46.9879,"low":45.2721,"close":46.5053,"volume":730010,"unadjustedVolume":730010,"change":1.0724,"changePercent":2.36,"vwap":46.2559,"label":"Oct 26, 17","changeOverTime":-0.0007692125884433722},{"date":"2017-10-27","open":46.6036,"high":47.7296,"low":46.5232,"close":46.9611,"volume":671062,"unadjustedVolume":671062,"change":0.455759,"changePercent":0.98,"vwap":46.9924,"label":"Oct 27, 17","changeOverTime":0.009024281763860366},{"date":"2017-10-30","open":47.0326,"high":47.4973,"low":46.4696,"close":46.6573,"volume":572456,"unadjustedVolume":572456,"change":-0.303839,"changePercent":-0.647,"vwap":46.8896,"label":"Oct 30, 17","changeOverTime":0.0024967179546680073},{"date":"2017-10-31","open":46.827,"high":47.5062,"low":46.2194,"close":47.4615,"volume":705413,"unadjustedVolume":705413,"change":0.804281,"changePercent":1.724,"vwap":46.9718,"label":"Oct 31, 17","changeOverTime":0.019776068893945366},{"date":"2017-11-01","open":48.0603,"high":48.2211,"low":47.4258,"close":47.953,"volume":478462,"unadjustedVolume":478462,"change":0.491506,"changePercent":1.036,"vwap":47.8023,"label":"Nov 1, 17","changeOverTime":0.030336627196177204},{"date":"2017-11-02","open":47.9441,"high":48.2479,"low":46.2462,"close":47.0951,"volume":406781,"unadjustedVolume":406781,"change":-0.8579,"changePercent":-1.789,"vwap":47.0323,"label":"Nov 2, 17","changeOverTime":0.01190345737423486},{"date":"2017-11-03","open":48.1496,"high":48.2569,"low":46.3087,"close":46.4964,"volume":1156273,"unadjustedVolume":1156273,"change":-0.598743,"changePercent":-1.271,"vwap":47.2774,"label":"Nov 3, 17","changeOverTime":-0.000960441416296539},{"date":"2017-11-06","open":46.4785,"high":47.2917,"low":45.424,"close":47.2739,"volume":866349,"unadjustedVolume":866349,"change":0.777471,"changePercent":1.672,"vwap":46.3313,"label":"Nov 6, 17","changeOverTime":0.015745223039421018},{"date":"2017-11-07","open":47.1398,"high":47.8101,"low":47.1309,"close":47.4705,"volume":644700,"unadjustedVolume":644700,"change":0.196602,"changePercent":0.416,"vwap":47.4618,"label":"Nov 7, 17","changeOverTime":0.019969446360313812},{"date":"2017-11-08","open":47.3811,"high":47.5062,"low":46.7019,"close":46.827,"volume":522985,"unadjustedVolume":522985,"change":-0.643424,"changePercent":-1.355,"vwap":47.0643,"label":"Nov 8, 17","changeOverTime":0.006142957514970597},{"date":"2017-11-09","open":46.6215,"high":47.2917,"low":46.0853,"close":46.1568,"volume":575055,"unadjustedVolume":575055,"change":-0.670236,"changePercent":-1.431,"vwap":46.5149,"label":"Nov 9, 17","changeOverTime":-0.008257217813932271},{"date":"2017-11-10","open":46.3515,"high":46.6171,"low":45.8935,"close":46.269,"volume":534960,"unadjustedVolume":534960,"change":0.112198,"changePercent":0.243,"vwap":46.3051,"label":"Nov 10, 17","changeOverTime":-0.005846445399872409},{"date":"2017-11-13","open":45.9759,"high":46.2232,"low":45.243,"close":45.5637,"volume":860047,"unadjustedVolume":860047,"change":-0.705348,"changePercent":-1.524,"vwap":45.7063,"label":"Nov 13, 17","changeOverTime":-0.021000792847612172},{"date":"2017-11-14","open":45.298,"high":45.3118,"low":43.5392,"close":44.4095,"volume":1443181,"unadjustedVolume":1443181,"change":-1.1542,"changePercent":-2.533,"vwap":44.1333,"label":"Nov 14, 17","changeOverTime":-0.045800378590106355},{"date":"2017-11-15","open":44.2446,"high":44.2995,"low":43.2736,"close":43.585,"volume":1010279,"unadjustedVolume":1010279,"change":-0.824432,"changePercent":-1.856,"vwap":43.7119,"label":"Nov 15, 17","changeOverTime":-0.06351590314797027},{"date":"2017-11-16","open":43.5667,"high":43.7472,"low":42.9988,"close":43.3285,"volume":1130442,"unadjustedVolume":1130442,"change":-0.256491,"changePercent":-0.588,"vwap":43.2293,"label":"Nov 16, 17","changeOverTime":-0.06902716093947074},{"date":"2017-11-17","open":43.5117,"high":43.6675,"low":43.008,"close":43.5667,"volume":1029009,"unadjustedVolume":1029009,"change":0.238169,"changePercent":0.55,"vwap":43.4277,"label":"Nov 17, 17","changeOverTime":-0.06390910399625284},{"date":"2017-11-20","open":43.6949,"high":43.7407,"low":42.6516,"close":43.4293,"volume":797821,"unadjustedVolume":797821,"change":-0.137405,"changePercent":-0.315,"vwap":43.2842,"label":"Nov 20, 17","changeOverTime":-0.06686133331614427},{"date":"2017-11-21","open":43.7041,"high":43.7385,"low":42.0919,"close":42.156,"volume":897688,"unadjustedVolume":897688,"change":-1.2733,"changePercent":-2.932,"vwap":42.7468,"label":"Nov 21, 17","changeOverTime":-0.09421994753024748},{"date":"2017-11-22","open":42.156,"high":43.0079,"low":42.1194,"close":42.7881,"volume":596417,"unadjustedVolume":596417,"change":0.632065,"changePercent":1.499,"vwap":42.7245,"label":"Nov 22, 17","changeOverTime":-0.08063840347563767},{"date":"2017-11-24","open":42.7881,"high":43.3102,"low":42.6781,"close":42.9163,"volume":243228,"unadjustedVolume":243228,"change":0.128245,"changePercent":0.3,"vwap":43.0107,"label":"Nov 24, 17","changeOverTime":-0.07788384889914507},{"date":"2017-11-27","open":42.7056,"high":42.9255,"low":41.9728,"close":42.0003,"volume":696822,"unadjustedVolume":696822,"change":-0.916037,"changePercent":-2.134,"vwap":42.2851,"label":"Nov 27, 17","changeOverTime":-0.09756537769842134},{"date":"2017-11-28","open":41.9362,"high":42.1285,"low":41.0476,"close":41.24,"volume":1056710,"unadjustedVolume":1056710,"change":-0.760311,"changePercent":-1.81,"vwap":41.4022,"label":"Nov 28, 17","changeOverTime":-0.11390147632952376},{"date":"2017-11-29","open":41.0201,"high":41.4415,"low":40.2131,"close":40.8461,"volume":1181486,"unadjustedVolume":1181486,"change":-0.393895,"changePercent":-0.955,"vwap":40.8279,"label":"Nov 29, 17","changeOverTime":-0.12236496344091567},{"date":"2017-11-30","open":40.8369,"high":42.3117,"low":40.6674,"close":42.0736,"volume":1308923,"unadjustedVolume":1308923,"change":1.2275,"changePercent":3.005,"vwap":41.831,"label":"Nov 30, 17","changeOverTime":-0.09599042566677628},{"date":"2017-12-01","open":42.2293,"high":43.0995,"low":42.1294,"close":42.7514,"volume":803194,"unadjustedVolume":803194,"change":0.677868,"changePercent":1.611,"vwap":42.7617,"label":"Dec 1, 17","changeOverTime":-0.0814269538107179},{"date":"2017-12-04","open":42.7789,"high":43.9423,"low":42.6415,"close":43.4201,"volume":1013023,"unadjustedVolume":1013023,"change":0.668707,"changePercent":1.564,"vwap":43.4162,"label":"Dec 4, 17","changeOverTime":-0.06705900805954312},{"date":"2017-12-05","open":43.3469,"high":44.0338,"low":43.127,"close":43.2278,"volume":611512,"unadjustedVolume":611512,"change":-0.192367,"changePercent":-0.443,"vwap":43.5364,"label":"Dec 5, 17","changeOverTime":-0.07119083992428193},{"date":"2017-12-06","open":43.0171,"high":43.1204,"low":41.5606,"close":41.8629,"volume":974146,"unadjustedVolume":974146,"change":-1.3649,"changePercent":-3.157,"vwap":41.9541,"label":"Dec 6, 17","changeOverTime":-0.10051760701831278},{"date":"2017-12-07","open":41.7071,"high":42.8156,"low":41.5972,"close":42.5865,"volume":793356,"unadjustedVolume":793356,"change":0.723669,"changePercent":1.729,"vwap":42.3215,"label":"Dec 7, 17","changeOverTime":-0.0849700587222906},{"date":"2017-12-08","open":42.5682,"high":43.2553,"low":42.4675,"close":42.6507,"volume":545379,"unadjustedVolume":545379,"change":0.064122,"changePercent":0.151,"vwap":42.8334,"label":"Dec 8, 17","changeOverTime":-0.0835906327955291},{"date":"2017-12-11","open":42.7698,"high":43.7133,"low":42.5957,"close":43.5484,"volume":662335,"unadjustedVolume":662335,"change":0.897716,"changePercent":2.105,"vwap":43.2782,"label":"Dec 11, 17","changeOverTime":-0.06430230484453524},{"date":"2017-12-12","open":43.4201,"high":44.6568,"low":43.3377,"close":44.4003,"volume":814512,"unadjustedVolume":814512,"change":0.851914,"changePercent":1.956,"vwap":44.1409,"label":"Dec 12, 17","changeOverTime":-0.0459980533335052},{"date":"2017-12-13","open":44.382,"high":44.9591,"low":44.2812,"close":44.7576,"volume":689589,"unadjustedVolume":689589,"change":0.357255,"changePercent":0.805,"vwap":44.6482,"label":"Dec 13, 17","changeOverTime":-0.03832096791867841},{"date":"2017-12-14","open":44.84,"high":45.1148,"low":44.4827,"close":44.8125,"volume":871994,"unadjustedVolume":871994,"change":0.054962,"changePercent":0.123,"vwap":44.8062,"label":"Dec 14, 17","changeOverTime":-0.03714136537383087},{"date":"2017-12-15","open":44.8583,"high":45.0965,"low":44.5011,"close":44.8492,"volume":1307914,"unadjustedVolume":1307914,"change":0.036641,"changePercent":0.082,"vwap":44.8275,"label":"Dec 15, 17","changeOverTime":-0.03635281503875063},{"date":"2017-12-18","open":45.582,"high":45.7835,"low":44.3453,"close":44.8492,"volume":888975,"unadjustedVolume":888975,"change":0,"changePercent":0,"vwap":44.9291,"label":"Dec 18, 17","changeOverTime":-0.03635281503875063},{"date":"2017-12-19","open":44.7484,"high":45.1789,"low":44.0247,"close":44.043,"volume":558342,"unadjustedVolume":558342,"change":-0.806111,"changePercent":-1.797,"vwap":44.5094,"label":"Dec 19, 17","changeOverTime":-0.05367513874833214},{"date":"2017-12-20","open":44.0797,"high":44.2904,"low":42.8614,"close":43.6858,"volume":940227,"unadjustedVolume":940227,"change":-0.357255,"changePercent":-0.811,"vwap":43.5286,"label":"Dec 20, 17","changeOverTime":-0.061350075524643805},{"date":"2017-12-21","open":43.6491,"high":44.8308,"low":43.356,"close":43.7682,"volume":878532,"unadjustedVolume":878532,"change":0.082442,"changePercent":0.189,"vwap":44.0334,"label":"Dec 21, 17","changeOverTime":-0.05957959738811502},{"date":"2017-12-22","open":43.7682,"high":44.2812,"low":43.3771,"close":44.1896,"volume":573943,"unadjustedVolume":573943,"change":0.421378,"changePercent":0.963,"vwap":43.9981,"label":"Dec 22, 17","changeOverTime":-0.05052523468504185},{"date":"2017-12-26","open":44.0339,"high":44.4278,"low":43.6033,"close":43.9698,"volume":645937,"unadjustedVolume":645937,"change":-0.219849,"changePercent":-0.498,"vwap":43.9225,"label":"Dec 26, 17","changeOverTime":-0.05524794214146208},{"date":"2017-12-27","open":43.9698,"high":44.2446,"low":43.2644,"close":43.4843,"volume":702714,"unadjustedVolume":702714,"change":-0.485499,"changePercent":-1.104,"vwap":43.666,"label":"Dec 27, 17","changeOverTime":-0.06567958213278162},{"date":"2017-12-28","open":43.2736,"high":45.0598,"low":43.2736,"close":44.6934,"volume":1114355,"unadjustedVolume":1114355,"change":1.2092,"changePercent":2.781,"vwap":44.4643,"label":"Dec 28, 17","changeOverTime":-0.039700393845439906},{"date":"2017-12-29","open":44.6568,"high":45.5362,"low":44.5194,"close":45.3896,"volume":1092951,"unadjustedVolume":1092951,"change":0.696188,"changePercent":1.558,"vwap":45.01,"label":"Dec 29, 17","changeOverTime":-0.024741572502583707},{"date":"2018-01-02","open":45.5179,"high":46.782,"low":45.4812,"close":46.5163,"volume":973427,"unadjustedVolume":973427,"change":1.1267,"changePercent":2.482,"vwap":46.2561,"label":"Jan 2, 18","changeOverTime":-0.0005328623517707799},{"date":"2018-01-03","open":46.8095,"high":48.7057,"low":46.7637,"close":48.6507,"volume":1281050,"unadjustedVolume":1281050,"change":2.1344,"changePercent":4.588,"vwap":48.1921,"label":"Jan 3, 18","changeOverTime":0.04532767811676132},{"date":"2018-01-04","open":49.008,"high":49.0629,"low":48.0919,"close":48.3393,"volume":916263,"unadjustedVolume":916263,"change":-0.311452,"changePercent":-0.64,"vwap":48.3616,"label":"Jan 4, 18","changeOverTime":0.03863681778041347},{"date":"2018-01-05","open":48.3026,"high":48.3301,"low":47.011,"close":48.1194,"volume":930474,"unadjustedVolume":930474,"change":-0.219849,"changePercent":-0.455,"vwap":47.7128,"label":"Jan 5, 18","changeOverTime":0.03391196168547797},{"date":"2018-01-08","open":48.2293,"high":48.5399,"low":47.4232,"close":48.0919,"volume":684864,"unadjustedVolume":684864,"change":-0.027481,"changePercent":-0.057,"vwap":47.9956,"label":"Jan 8, 18","changeOverTime":0.03332108609379672},{"date":"2018-01-09","open":48.2018,"high":48.298,"low":47.4965,"close":48.0461,"volume":500093,"unadjustedVolume":500093,"change":-0.045801,"changePercent":-0.095,"vwap":47.9443,"label":"Jan 9, 18","changeOverTime":0.032337009653832904},{"date":"2018-01-10","open":48.1744,"high":48.8064,"low":47.6705,"close":48.0736,"volume":478314,"unadjustedVolume":478314,"change":0.02748,"changePercent":0.057,"vwap":48.207,"label":"Jan 10, 18","changeOverTime":0.032927885245514155},{"date":"2018-01-11","open":48.1286,"high":49.3652,"low":48.0003,"close":49.0171,"volume":883079,"unadjustedVolume":883079,"change":0.943518,"changePercent":1.963,"vwap":48.8037,"label":"Jan 11, 18","changeOverTime":0.05320028963647183},{"date":"2018-01-12","open":49.2095,"high":50.1072,"low":48.6507,"close":49.5209,"volume":1113516,"unadjustedVolume":1113516,"change":0.503819,"changePercent":1.028,"vwap":49.394,"label":"Jan 12, 18","changeOverTime":0.06402513047607378},{"date":"2018-01-16","open":49.9698,"high":50.3179,"low":49.2278,"close":49.9515,"volume":977659,"unadjustedVolume":977659,"change":0.430538,"changePercent":0.869,"vwap":49.9291,"label":"Jan 16, 18","changeOverTime":0.07327716792254593},{"date":"2018-01-17","open":50.0156,"high":50.5148,"low":49.5484,"close":49.8049,"volume":564881,"unadjustedVolume":564881,"change":-0.146565,"changePercent":-0.293,"vwap":49.9591,"label":"Jan 17, 18","changeOverTime":0.07012726385925565},{"date":"2018-01-18","open":49.9148,"high":50.4828,"low":49.3286,"close":49.7316,"volume":593916,"unadjustedVolume":593916,"change":-0.073283,"changePercent":-0.147,"vwap":49.9117,"label":"Jan 18, 18","changeOverTime":0.06855231182761044},{"date":"2018-01-19","open":49.7866,"high":50.4736,"low":49.695,"close":50.4003,"volume":639688,"unadjustedVolume":639688,"change":0.668706,"changePercent":1.345,"vwap":50.2223,"label":"Jan 19, 18","changeOverTime":0.08292025757878523},{"date":"2018-01-22","open":50.3912,"high":51.7194,"low":50.2996,"close":51.2706,"volume":893030,"unadjustedVolume":893030,"change":0.870235,"changePercent":1.727,"vwap":51.2377,"label":"Jan 22, 18","changeOverTime":0.10161985857661296},{"date":"2018-01-23","open":51.2523,"high":51.8383,"low":50.611,"close":51.5729,"volume":690788,"unadjustedVolume":690788,"change":0.302292,"changePercent":0.59,"vwap":51.268,"label":"Jan 23, 18","changeOverTime":0.10811519280807709},{"date":"2018-01-24","open":51.6736,"high":52.0492,"low":51.4721,"close":51.7286,"volume":517502,"unadjustedVolume":517502,"change":0.155727,"changePercent":0.302,"vwap":51.7059,"label":"Jan 24, 18","changeOverTime":0.1114606229762511},{"date":"2018-01-25","open":51.8477,"high":52.095,"low":51.3897,"close":51.5637,"volume":462958,"unadjustedVolume":462958,"change":-0.164887,"changePercent":-0.319,"vwap":51.6604,"label":"Jan 25, 18","changeOverTime":0.10791751806467825},{"date":"2018-01-26","open":51.7561,"high":52.3515,"low":51.4171,"close":52.1408,"volume":403040,"unadjustedVolume":403040,"change":0.577103,"changePercent":1.119,"vwap":52.004,"label":"Jan 26, 18","changeOverTime":0.12031731093592542},{"date":"2018-01-29","open":52.1408,"high":52.3881,"low":50.9133,"close":51.0599,"volume":819026,"unadjustedVolume":819026,"change":-1.0809,"changePercent":-2.073,"vwap":51.6458,"label":"Jan 29, 18","changeOverTime":0.09709267722507631},{"date":"2018-01-30","open":50.5286,"high":50.5835,"low":48.9164,"close":49.8141,"volume":1060809,"unadjustedVolume":1060809,"change":-1.2458,"changePercent":-2.44,"vwap":49.8414,"label":"Jan 30, 18","changeOverTime":0.0703249386026545},{"date":"2018-01-31","open":50.0431,"high":50.4461,"low":48.9347,"close":49.3927,"volume":1050585,"unadjustedVolume":1050585,"change":-0.421378,"changePercent":-0.846,"vwap":49.5328,"label":"Jan 31, 18","changeOverTime":0.06127057589958118},{"date":"2018-02-01","open":49.2919,"high":49.7765,"low":49.1912,"close":49.4568,"volume":723642,"unadjustedVolume":723642,"change":0.064123,"changePercent":0.13,"vwap":49.4437,"label":"Feb 1, 18","changeOverTime":0.06264785318782756},{"date":"2018-02-02","open":49.008,"high":49.1362,"low":48.266,"close":48.3393,"volume":886683,"unadjustedVolume":886683,"change":-1.1176,"changePercent":-2.26,"vwap":48.6293,"label":"Feb 2, 18","changeOverTime":0.03863681778041347},{"date":"2018-02-05","open":48.0919,"high":48.9438,"low":46.3789,"close":47.7347,"volume":980845,"unadjustedVolume":980845,"change":-0.604584,"changePercent":-1.251,"vwap":47.8353,"label":"Feb 5, 18","changeOverTime":0.0256461493174849},{"date":"2018-02-06","open":46.8828,"high":49.0629,"low":46.8828,"close":48.8156,"volume":667266,"unadjustedVolume":667266,"change":1.0809,"changePercent":2.264,"vwap":47.948,"label":"Feb 6, 18","changeOverTime":0.04887078302833417},{"date":"2018-02-07","open":48.5774,"high":49.182,"low":47.4324,"close":48.2293,"volume":665319,"unadjustedVolume":665319,"change":-0.586264,"changePercent":-1.201,"vwap":48.192,"label":"Feb 7, 18","changeOverTime":0.03627331541368816},{"date":"2018-02-08","open":48.2751,"high":48.5498,"low":45.8568,"close":46.04,"volume":1165599,"unadjustedVolume":1165599,"change":-2.1893,"changePercent":-4.539,"vwap":46.7295,"label":"Feb 8, 18","changeOverTime":-0.010766827599691477},{"date":"2018-02-09","open":46.0858,"high":47.5881,"low":45.1514,"close":45.756,"volume":1604480,"unadjustedVolume":1604480,"change":-0.283971,"changePercent":-0.617,"vwap":46.06,"label":"Feb 9, 18","changeOverTime":-0.016868960982873202},{"date":"2018-02-12","open":46.1041,"high":47.3316,"low":45.9667,"close":46.837,"volume":578364,"unadjustedVolume":578364,"change":1.0809,"changePercent":2.362,"vwap":46.6618,"label":"Feb 12, 18","changeOverTime":0.006357821366491191},{"date":"2018-02-13","open":46.6446,"high":47.2858,"low":46.2599,"close":46.8186,"volume":481941,"unadjustedVolume":481941,"change":-0.01832,"changePercent":-0.039,"vwap":46.9371,"label":"Feb 13, 18","changeOverTime":0.005962471879693505},{"date":"2018-02-14","open":46.5713,"high":47.1759,"low":46.2736,"close":46.5255,"volume":584227,"unadjustedVolume":584227,"change":-0.293133,"changePercent":-0.626,"vwap":46.6238,"label":"Feb 14, 18","changeOverTime":-0.0003351876083719373},{"date":"2018-02-15","open":46.8736,"high":47.066,"low":46.1316,"close":46.837,"volume":726068,"unadjustedVolume":726068,"change":0.311453,"changePercent":0.669,"vwap":46.6518,"label":"Feb 15, 18","changeOverTime":0.006357821366491191},{"date":"2018-02-16","open":46.8111,"high":47.0084,"low":45.2614,"close":45.4492,"volume":1167028,"unadjustedVolume":1167028,"change":-1.3877,"changePercent":-2.963,"vwap":45.8865,"label":"Feb 16, 18","changeOverTime":-0.023460983947521708},{"date":"2018-02-20","open":45.6183,"high":46.21,"low":45.4774,"close":45.7498,"volume":464206,"unadjustedVolume":464206,"change":0.300552,"changePercent":0.661,"vwap":45.7869,"label":"Feb 20, 18","changeOverTime":-0.017002176570815895},{"date":"2018-02-21","open":45.7498,"high":45.8813,"low":45.1581,"close":45.2144,"volume":573476,"unadjustedVolume":573476,"change":-0.535359,"changePercent":-1.17,"vwap":45.4715,"label":"Feb 21, 18","changeOverTime":-0.02850598718122267},{"date":"2018-02-22","open":45.5995,"high":45.9658,"low":43.2045,"close":43.3642,"volume":926534,"unadjustedVolume":926534,"change":-1.8503,"changePercent":-4.092,"vwap":44.1987,"label":"Feb 22, 18","changeOverTime":-0.06826009698954265},{"date":"2018-02-23","open":43.6741,"high":44.5185,"low":43.0645,"close":44.1813,"volume":938296,"unadjustedVolume":938296,"change":0.817129,"changePercent":1.884,"vwap":44.0513,"label":"Feb 23, 18","changeOverTime":-0.050703571681803825},{"date":"2018-02-26","open":44.5288,"high":44.8012,"low":42.5846,"close":43.2796,"volume":1394861,"unadjustedVolume":1394861,"change":-0.90166,"changePercent":-2.041,"vwap":43.2071,"label":"Feb 26, 18","changeOverTime":-0.07007784517340583},{"date":"2018-02-27","open":43.3454,"high":43.505,"low":42.4625,"close":42.8945,"volume":1429613,"unadjustedVolume":1429613,"change":-0.385083,"changePercent":-0.89,"vwap":42.9106,"label":"Feb 27, 18","changeOverTime":-0.07835225209545969},{"date":"2018-02-28","open":43.0354,"high":43.599,"low":41.9835,"close":42.0774,"volume":1028926,"unadjustedVolume":1028926,"change":-0.817129,"changePercent":-1.905,"vwap":42.5883,"label":"Feb 28, 18","changeOverTime":-0.09590877740319853},{"date":"2018-03-01","open":42.1244,"high":42.8194,"low":41.805,"close":42.3122,"volume":868988,"unadjustedVolume":868988,"change":0.234807,"changePercent":0.558,"vwap":42.3294,"label":"Mar 1, 18","changeOverTime":-0.09086377416949756},{"date":"2018-03-02","open":42.0492,"high":42.4719,"low":41.4303,"close":41.7299,"volume":944569,"unadjustedVolume":944569,"change":-0.582321,"changePercent":-1.376,"vwap":41.8643,"label":"Mar 2, 18","changeOverTime":-0.10337529624353527},{"date":"2018-03-05","open":41.6078,"high":42.3592,"low":41.11,"close":42.068,"volume":837486,"unadjustedVolume":837486,"change":0.338122,"changePercent":0.81,"vwap":41.8441,"label":"Mar 5, 18","changeOverTime":-0.09611074942362777},{"date":"2018-03-06","open":42.2183,"high":42.3028,"low":41.326,"close":41.5045,"volume":680472,"unadjustedVolume":680472,"change":-0.563537,"changePercent":-1.34,"vwap":41.6871,"label":"Mar 6, 18","changeOverTime":-0.108218327456807},{"date":"2018-03-07","open":41.326,"high":41.636,"low":40.6122,"close":40.9973,"volume":529458,"unadjustedVolume":529458,"change":-0.507183,"changePercent":-1.222,"vwap":41.0399,"label":"Mar 7, 18","changeOverTime":-0.11911622200592589},{"date":"2018-03-08","open":41.0818,"high":41.1758,"low":40.3492,"close":40.5371,"volume":495902,"unadjustedVolume":495902,"change":-0.460222,"changePercent":-1.123,"vwap":40.6545,"label":"Mar 8, 18","changeOverTime":-0.12900425645289856},{"date":"2018-03-09","open":40.6498,"high":41.4575,"low":40.6498,"close":41.42,"volume":624855,"unadjustedVolume":624855,"change":0.882875,"changePercent":2.178,"vwap":41.2311,"label":"Mar 9, 18","changeOverTime":-0.11003392700215504},{"date":"2018-03-12","open":41.3918,"high":42.7631,"low":41.3918,"close":42.6128,"volume":955721,"unadjustedVolume":955721,"change":1.1928,"changePercent":2.88,"vwap":42.3631,"label":"Mar 12, 18","changeOverTime":-0.08440496679279175},{"date":"2018-03-13","open":42.547,"high":43.1857,"low":42.2747,"close":42.8006,"volume":660182,"unadjustedVolume":660182,"change":0.187846,"changePercent":0.441,"vwap":42.7513,"label":"Mar 13, 18","changeOverTime":-0.080369823661237},{"date":"2018-03-14","open":42.8758,"high":42.9039,"low":41.9553,"close":42.0398,"volume":361208,"unadjustedVolume":361208,"change":-0.760774,"changePercent":-1.777,"vwap":42.2482,"label":"Mar 14, 18","changeOverTime":-0.09671666548491549},{"date":"2018-03-15","open":42.0305,"high":42.331,"low":36.9023,"close":39.6636,"volume":2664935,"unadjustedVolume":2664935,"change":-2.3762,"changePercent":-5.652,"vwap":39.104,"label":"Mar 15, 18","changeOverTime":-0.14777261388321286},{"date":"2018-03-16","open":40.0205,"high":41.2697,"low":39.9735,"close":40.4526,"volume":1115574,"unadjustedVolume":1115574,"change":0.788951,"changePercent":1.989,"vwap":40.5577,"label":"Mar 16, 18","changeOverTime":-0.13081985599824678},{"date":"2018-03-19","open":40.3868,"high":40.3868,"low":38.3205,"close":38.4896,"volume":1082896,"unadjustedVolume":1082896,"change":-1.963,"changePercent":-4.853,"vwap":38.7893,"label":"Mar 19, 18","changeOverTime":-0.17299763005171767},{"date":"2018-03-20","open":38.6774,"high":38.9122,"low":37.5316,"close":37.7664,"volume":1379175,"unadjustedVolume":1379175,"change":-0.723206,"changePercent":-1.879,"vwap":37.9355,"label":"Mar 20, 18","changeOverTime":-0.18853658379367919},{"date":"2018-03-21","open":37.8227,"high":38.5741,"low":37.2028,"close":38.0387,"volume":1588200,"unadjustedVolume":1588200,"change":0.272377,"changePercent":0.721,"vwap":37.8753,"label":"Mar 21, 18","changeOverTime":-0.18268584111677638},{"date":"2018-03-22","open":37.5691,"high":38.1514,"low":36.6769,"close":36.9398,"volume":1170376,"unadjustedVolume":1170376,"change":-1.0989,"changePercent":-2.889,"vwap":37.1158,"label":"Mar 22, 18","changeOverTime":-0.20629722976036238},{"date":"2018-03-23","open":36.752,"high":37.2498,"low":36.0194,"close":36.0851,"volume":1190441,"unadjustedVolume":1190441,"change":-0.854696,"changePercent":-2.314,"vwap":36.4595,"label":"Mar 23, 18","changeOverTime":-0.22466164314981818},{"date":"2018-03-26","open":36.3763,"high":36.8271,"low":35.2304,"close":36.1227,"volume":865921,"unadjustedVolume":865921,"change":0.037568,"changePercent":0.104,"vwap":35.8105,"label":"Mar 26, 18","changeOverTime":-0.22385375506810107},{"date":"2018-03-27","open":35.9818,"high":36.9304,"low":33.0984,"close":35.4277,"volume":3445261,"unadjustedVolume":3445261,"change":-0.695028,"changePercent":-1.924,"vwap":34.8044,"label":"Mar 27, 18","changeOverTime":-0.2387867927487747},{"date":"2018-03-28","open":35.2774,"high":36.6299,"low":34.9778,"close":35.6625,"volume":1051446,"unadjustedVolume":1051446,"change":0.234807,"changePercent":0.663,"vwap":35.8603,"label":"Mar 28, 18","changeOverTime":-0.23374178951507374},{"date":"2018-03-29","open":35.6907,"high":36.4233,"low":34.9956,"close":35.1177,"volume":1426317,"unadjustedVolume":1426317,"change":-0.544752,"changePercent":-1.528,"vwap":35.4868,"label":"Mar 29, 18","changeOverTime":-0.24544757214590976},{"date":"2018-04-02","open":35.0708,"high":35.5028,"low":34.1081,"close":35.1929,"volume":886202,"unadjustedVolume":886202,"change":0.075138,"changePercent":0.214,"vwap":34.8249,"label":"Apr 2, 18","changeOverTime":-0.24383179598247567},{"date":"2018-04-03","open":35.2304,"high":35.6531,"low":34.2349,"close":35.5592,"volume":869675,"unadjustedVolume":869675,"change":0.366298,"changePercent":1.041,"vwap":35.1438,"label":"Apr 3, 18","changeOverTime":-0.23596133310128045},{"date":"2018-04-04","open":35.0238,"high":35.8879,"low":34.789,"close":35.3713,"volume":741274,"unadjustedVolume":741274,"change":-0.187845,"changePercent":-0.528,"vwap":35.3748,"label":"Apr 4, 18","changeOverTime":-0.23999862487135032},{"date":"2018-04-05","open":35.4746,"high":36.1603,"low":34.4697,"close":35.5498,"volume":846945,"unadjustedVolume":846945,"change":0.178453,"changePercent":0.505,"vwap":35.5138,"label":"Apr 5, 18","changeOverTime":-0.2361633051217097},{"date":"2018-04-06","open":35.3432,"high":35.7188,"low":34.357,"close":35.0238,"volume":1408172,"unadjustedVolume":1408172,"change":-0.525967,"changePercent":-1.48,"vwap":34.9558,"label":"Apr 6, 18","changeOverTime":-0.24746514371168707},{"date":"2018-04-09","open":35.2492,"high":35.5216,"low":34.2068,"close":34.6481,"volume":1631319,"unadjustedVolume":1631319,"change":-0.375691,"changePercent":-1.073,"vwap":34.7731,"label":"Apr 9, 18","changeOverTime":-0.25553757861331167},{"date":"2018-04-10","open":34.7514,"high":36.0664,"low":34.6481,"close":35.794,"volume":1770864,"unadjustedVolume":1770864,"change":1.1459,"changePercent":3.307,"vwap":35.3368,"label":"Apr 10, 18","changeOverTime":-0.23091632986757948},{"date":"2018-04-11","open":35.7282,"high":35.9443,"low":35.1083,"close":35.6155,"volume":824559,"unadjustedVolume":824559,"change":-0.178452,"changePercent":-0.499,"vwap":35.571,"label":"Apr 11, 18","changeOverTime":-0.23475164961722012},{"date":"2018-04-12","open":35.6155,"high":36.1509,"low":35.4465,"close":36.0288,"volume":1174086,"unadjustedVolume":1174086,"change":0.413259,"changePercent":1.16,"vwap":35.8735,"label":"Apr 12, 18","changeOverTime":-0.22587132663387852},{"date":"2018-04-13","open":36.0288,"high":36.6487,"low":35.6437,"close":36.3575,"volume":849641,"unadjustedVolume":849641,"change":0.32873,"changePercent":0.912,"vwap":36.2336,"label":"Apr 13, 18","changeOverTime":-0.2188087518344001},{"date":"2018-04-16","open":36.6769,"high":38.7432,"low":36.5548,"close":38.499,"volume":1864587,"unadjustedVolume":1864587,"change":2.1414,"changePercent":5.89,"vwap":37.978,"label":"Apr 16, 18","changeOverTime":-0.17279565803128843},{"date":"2018-04-17","open":38.7432,"high":39.6871,"low":38.4144,"close":39.1846,"volume":1421211,"unadjustedVolume":1421211,"change":0.685637,"changePercent":1.781,"vwap":39.2009,"label":"Apr 17, 18","changeOverTime":-0.15806459237104403},{"date":"2018-04-18","open":39.4006,"high":39.8233,"low":38.7244,"close":38.7432,"volume":686248,"unadjustedVolume":686248,"change":-0.441437,"changePercent":-1.127,"vwap":39.0421,"label":"Apr 18, 18","changeOverTime":-0.16754868277715823},{"date":"2018-04-19","open":38.8559,"high":39.0448,"low":37.5597,"close":37.9354,"volume":1138433,"unadjustedVolume":1138433,"change":-0.807736,"changePercent":-2.085,"vwap":38.0153,"label":"Apr 19, 18","changeOverTime":-0.18490538470298293},{"date":"2018-04-20","open":37.6912,"high":38.0378,"low":37.3437,"close":37.6724,"volume":734520,"unadjustedVolume":734520,"change":-0.262985,"changePercent":-0.693,"vwap":37.6754,"label":"Apr 20, 18","changeOverTime":-0.19055630399797163},{"date":"2018-04-23","open":37.9166,"high":38.4332,"low":37.71,"close":38.1608,"volume":753449,"unadjustedVolume":753449,"change":0.488399,"changePercent":1.296,"vwap":38.0709,"label":"Apr 23, 18","changeOverTime":-0.1800623534897112},{"date":"2018-04-24","open":38.1608,"high":38.6868,"low":37.3813,"close":37.6067,"volume":754449,"unadjustedVolume":754449,"change":-0.554144,"changePercent":-1.452,"vwap":37.9628,"label":"Apr 24, 18","changeOverTime":-0.19196795950246134},{"date":"2018-04-25","open":37.5316,"high":38.4802,"low":36.9492,"close":38.2172,"volume":858507,"unadjustedVolume":858507,"change":0.610498,"changePercent":1.623,"vwap":37.9535,"label":"Apr 25, 18","changeOverTime":-0.17885052136713575},{"date":"2018-04-26","open":38.2454,"high":39.1836,"low":38.0293,"close":38.236,"volume":519999,"unadjustedVolume":519999,"change":0.018784,"changePercent":0.049,"vwap":38.5133,"label":"Apr 26, 18","changeOverTime":-0.17844657732627728},{"date":"2018-04-27","open":38.3017,"high":38.8747,"low":37.9448,"close":38.3675,"volume":583748,"unadjustedVolume":583748,"change":0.131493,"changePercent":0.344,"vwap":38.5122,"label":"Apr 27, 18","changeOverTime":-0.17562111767878286},{"date":"2018-04-30","open":38.5741,"high":40.0863,"low":38.5084,"close":39.0249,"volume":1081258,"unadjustedVolume":1081258,"change":0.657459,"changePercent":1.714,"vwap":39.127,"label":"Apr 30, 18","changeOverTime":-0.16149596807982616},{"date":"2018-05-01","open":39.0249,"high":39.7763,"low":38.823,"close":39.3443,"volume":531008,"unadjustedVolume":531008,"change":0.319338,"changePercent":0.818,"vwap":39.3517,"label":"May 1, 18","changeOverTime":-0.154633216662262},{"date":"2018-05-02","open":39.3537,"high":39.7012,"low":38.9216,"close":39.1658,"volume":690594,"unadjustedVolume":690594,"change":-0.178453,"changePercent":-0.454,"vwap":39.3582,"label":"May 2, 18","changeOverTime":-0.15846853641190267},{"date":"2018-05-03","open":39.0437,"high":39.4194,"low":38.7056,"close":38.8934,"volume":749257,"unadjustedVolume":749257,"change":-0.272377,"changePercent":-0.695,"vwap":39.0627,"label":"May 3, 18","changeOverTime":-0.16432142772732058},{"date":"2018-05-04","open":35.0896,"high":37.0338,"low":34.6585,"close":36.3763,"volume":2773606,"unadjustedVolume":2773606,"change":-2.5171,"changePercent":-6.472,"vwap":35.8223,"label":"May 4, 18","changeOverTime":-0.2184048077935416},{"date":"2018-05-07","open":36.6581,"high":37.4852,"low":36.6487,"close":36.752,"volume":1135447,"unadjustedVolume":1135447,"change":0.375691,"changePercent":1.033,"vwap":36.9465,"label":"May 7, 18","changeOverTime":-0.21033237289191697},{"date":"2018-05-08","open":36.8177,"high":37.5597,"low":36.273,"close":37.3813,"volume":632790,"unadjustedVolume":632790,"change":0.629283,"changePercent":1.712,"vwap":36.9293,"label":"May 8, 18","changeOverTime":-0.1968109907157329},{"date":"2018-05-09","open":37.5503,"high":38.7807,"low":37.1371,"close":38.2172,"volume":1154490,"unadjustedVolume":1154490,"change":0.835913,"changePercent":2.236,"vwap":38.157,"label":"May 9, 18","changeOverTime":-0.17885052136713575},{"date":"2018-05-10","open":38.5084,"high":39.4006,"low":38.3393,"close":39.2222,"volume":1447062,"unadjustedVolume":1447062,"change":1.005,"changePercent":2.63,"vwap":38.9557,"label":"May 10, 18","changeOverTime":-0.15725670428932706},{"date":"2018-05-11","open":39.4667,"high":39.612,"low":38.2754,"close":38.4788,"volume":961111,"unadjustedVolume":961111,"change":-0.743341,"changePercent":-1.895,"vwap":38.6581,"label":"May 11, 18","changeOverTime":-0.17322968301135985},{"date":"2018-05-14","open":38.5466,"high":39.1084,"low":38.4982,"close":38.934,"volume":731836,"unadjustedVolume":731836,"change":0.455199,"changePercent":1.183,"vwap":38.9028,"label":"May 14, 18","changeOverTime":-0.16344908049014747},{"date":"2018-05-15","open":38.7403,"high":39.0115,"low":37.6459,"close":38.0043,"volume":880812,"unadjustedVolume":880812,"change":-0.929768,"changePercent":-2.388,"vwap":38.2925,"label":"May 15, 18","changeOverTime":-0.1834249727660068},{"date":"2018-05-16","open":38.072,"high":38.3335,"low":37.5491,"close":37.8202,"volume":864752,"unadjustedVolume":864752,"change":-0.184017,"changePercent":-0.484,"vwap":37.8934,"label":"May 16, 18","changeOverTime":-0.18738061627249894},{"date":"2018-05-17","open":37.9365,"high":38.4691,"low":37.4328,"close":37.6265,"volume":1074471,"unadjustedVolume":1074471,"change":-0.193701,"changePercent":-0.512,"vwap":37.9005,"label":"May 17, 18","changeOverTime":-0.1915425290764507},{"date":"2018-05-18","open":37.6265,"high":37.6927,"low":37.0745,"close":37.4328,"volume":512218,"unadjustedVolume":512218,"change":-0.193702,"changePercent":-0.515,"vwap":37.3976,"label":"May 18, 18","changeOverTime":-0.19570444188040248},{"date":"2018-05-21","open":37.7718,"high":37.7735,"low":36.6096,"close":36.6193,"volume":1121746,"unadjustedVolume":1121746,"change":-0.813547,"changePercent":-2.173,"vwap":37.0802,"label":"May 21, 18","changeOverTime":-0.21318361620159382},{"date":"2018-05-22","open":36.6871,"high":36.9486,"low":36.29,"close":36.4643,"volume":1450741,"unadjustedVolume":1450741,"change":-0.154961,"changePercent":-0.423,"vwap":36.6005,"label":"May 22, 18","changeOverTime":-0.21651400590016134},{"date":"2018-05-23","open":36.2125,"high":36.3868,"low":35.6314,"close":35.6411,"volume":1584928,"unadjustedVolume":1584928,"change":-0.823232,"changePercent":-2.258,"vwap":35.8348,"label":"May 23, 18","changeOverTime":-0.23420159815732758},{"date":"2018-05-24","open":35.5442,"high":35.5442,"low":34.5176,"close":34.8857,"volume":1128085,"unadjustedVolume":1128085,"change":-0.755436,"changePercent":-2.12,"vwap":34.9589,"label":"May 24, 18","changeOverTime":-0.250432413501185},{"date":"2018-05-25","open":34.6242,"high":35.2053,"low":34.5079,"close":34.7791,"volume":778402,"unadjustedVolume":778402,"change":-0.106536,"changePercent":-0.305,"vwap":34.8276,"label":"May 25, 18","changeOverTime":-0.25272286215839335},{"date":"2018-05-29","open":34.6435,"high":35.4958,"low":34.5757,"close":34.905,"volume":1048676,"unadjustedVolume":1048676,"change":0.125906,"changePercent":0.362,"vwap":35.1263,"label":"May 29, 18","changeOverTime":-0.25001772626775043},{"date":"2018-05-30","open":35.1375,"high":35.2731,"low":34.8953,"close":35.0697,"volume":1040871,"unadjustedVolume":1040871,"change":0.164647,"changePercent":0.472,"vwap":35.0317,"label":"May 30, 18","changeOverTime":-0.24647891863320812},{"date":"2018-05-31","open":35.0212,"high":35.399,"low":34.5564,"close":34.9147,"volume":1501241,"unadjustedVolume":1501241,"change":-0.154962,"changePercent":-0.442,"vwap":35.0551,"label":"May 31, 18","changeOverTime":-0.2498093083317755},{"date":"2018-06-01","open":34.9631,"high":35.2924,"low":34.382,"close":34.6435,"volume":939944,"unadjustedVolume":939944,"change":-0.271182,"changePercent":-0.777,"vwap":34.6955,"label":"Jun 1, 18","changeOverTime":-0.255636415985011},{"date":"2018-06-04","open":34.721,"high":35.5297,"low":34.7016,"close":35.4571,"volume":1807505,"unadjustedVolume":1807505,"change":0.813547,"changePercent":2.348,"vwap":35.1954,"label":"Jun 4, 18","changeOverTime":-0.23815509302530458},{"date":"2018-06-05","open":35.4958,"high":37.2876,"low":35.4958,"close":36.6483,"volume":1490108,"unadjustedVolume":1490108,"change":1.1913,"changePercent":3.36,"vwap":36.7011,"label":"Jun 5, 18","changeOverTime":-0.21256051103218448},{"date":"2018-06-06","open":36.7161,"high":36.7161,"low":35.5228,"close":35.7767,"volume":922950,"unadjustedVolume":922950,"change":-0.871657,"changePercent":-2.378,"vwap":35.9437,"label":"Jun 6, 18","changeOverTime":-0.23128804433070987},{"date":"2018-06-07","open":35.7089,"high":36.0188,"low":34.876,"close":35.612,"volume":1303958,"unadjustedVolume":1303958,"change":-0.164647,"changePercent":-0.46,"vwap":35.4752,"label":"Jun 7, 18","changeOverTime":-0.2348268519652522},{"date":"2018-06-08","open":35.5346,"high":35.8154,"low":34.7985,"close":35.3021,"volume":1313142,"unadjustedVolume":1313142,"change":-0.309922,"changePercent":-0.87,"vwap":35.1373,"label":"Jun 8, 18","changeOverTime":-0.24148548272387196},{"date":"2018-06-11","open":35.2731,"high":36.2319,"low":35.1472,"close":36.2028,"volume":1244528,"unadjustedVolume":1244528,"change":0.900712,"changePercent":2.551,"vwap":35.6179,"label":"Jun 11, 18","changeOverTime":-0.22213269561742194},{"date":"2018-06-12","open":35.4474,"high":36.6532,"low":35.399,"close":36.1835,"volume":1321569,"unadjustedVolume":1321569,"change":-0.01937,"changePercent":-0.054,"vwap":36.2432,"label":"Jun 12, 18","changeOverTime":-0.2225473828508565},{"date":"2018-06-13","open":36.1835,"high":36.3578,"low":35.4668,"close":35.6605,"volume":563119,"unadjustedVolume":563119,"change":-0.522994,"changePercent":-1.445,"vwap":35.8218,"label":"Jun 13, 18","changeOverTime":-0.2337847622853779},{"date":"2018-06-14","open":35.6605,"high":35.7379,"low":35.2537,"close":35.2827,"volume":544188,"unadjustedVolume":544188,"change":-0.377719,"changePercent":-1.059,"vwap":35.4504,"label":"Jun 14, 18","changeOverTime":-0.24190231859582179},{"date":"2018-06-15","open":35.1568,"high":35.2132,"low":34.4692,"close":34.5854,"volume":1560276,"unadjustedVolume":1560276,"change":-0.697325,"changePercent":-1.976,"vwap":34.6904,"label":"Jun 15, 18","changeOverTime":-0.25688477496234513},{"date":"2018-06-18","open":34.5854,"high":35.2537,"low":34.4983,"close":35.1859,"volume":608698,"unadjustedVolume":608698,"change":0.600475,"changePercent":1.736,"vwap":34.9463,"label":"Jun 18, 18","changeOverTime":-0.24398220067854012},{"date":"2018-06-19","open":34.9147,"high":35.3569,"low":34.7694,"close":35.244,"volume":674145,"unadjustedVolume":674145,"change":0.05811,"changePercent":0.165,"vwap":35.1647,"label":"Jun 19, 18","changeOverTime":-0.24273384170120604},{"date":"2018-06-20","open":35.399,"high":35.5829,"low":34.8857,"close":35.0794,"volume":727751,"unadjustedVolume":727751,"change":-0.164646,"changePercent":-0.467,"vwap":35.129,"label":"Jun 20, 18","changeOverTime":-0.24627050069723322},{"date":"2018-06-21","open":34.9728,"high":35.152,"low":34.7162,"close":34.9825,"volume":584243,"unadjustedVolume":584243,"change":-0.096851,"changePercent":-0.276,"vwap":34.9421,"label":"Jun 21, 18","changeOverTime":-0.24835253141846667},{"date":"2018-06-22","open":35.4183,"high":35.6992,"low":34.8953,"close":35.1859,"volume":746991,"unadjustedVolume":746991,"change":0.203387,"changePercent":0.581,"vwap":35.2156,"label":"Jun 22, 18","changeOverTime":-0.24398220067854012},{"date":"2018-06-25","open":35.2731,"high":35.2827,"low":34.4789,"close":34.5467,"volume":814789,"unadjustedVolume":814789,"change":-0.639216,"changePercent":-1.817,"vwap":34.726,"label":"Jun 25, 18","changeOverTime":-0.25771629806772933},{"date":"2018-06-26","open":34.6726,"high":35.3409,"low":34.2658,"close":35.2731,"volume":869780,"unadjustedVolume":869780,"change":0.726381,"changePercent":2.103,"vwap":34.7162,"label":"Jun 26, 18","changeOverTime":-0.24210858789328144},{"date":"2018-06-27","open":35.2827,"high":35.3802,"low":34.2368,"close":34.3723,"volume":1358387,"unadjustedVolume":1358387,"change":-0.900712,"changePercent":-2.554,"vwap":34.5272,"label":"Jun 27, 18","changeOverTime":-0.26146352363824654},{"date":"2018-06-28","open":34.5176,"high":34.5176,"low":33.675,"close":33.7622,"volume":1113292,"unadjustedVolume":1113292,"change":-0.61016,"changePercent":-1.775,"vwap":34.0332,"label":"Jun 28, 18","changeOverTime":-0.27457236721951134},{"date":"2018-06-29","open":34.0915,"high":34.2755,"low":33.4232,"close":34.0431,"volume":902330,"unadjustedVolume":902330,"change":0.280867,"changePercent":0.832,"vwap":33.9583,"label":"Jun 29, 18","changeOverTime":-0.2685368416303009},{"date":"2018-07-02","open":33.8978,"high":34.0527,"low":33.307,"close":33.675,"volume":933413,"unadjustedVolume":933413,"change":-0.368033,"changePercent":-1.081,"vwap":33.7937,"label":"Jul 2, 18","changeOverTime":-0.27644598000477005},{"date":"2018-07-03","open":33.7428,"high":34.4789,"low":33.4813,"close":33.5297,"volume":511605,"unadjustedVolume":511605,"change":-0.145276,"changePercent":-0.431,"vwap":33.7808,"label":"Jul 3, 18","changeOverTime":-0.27956795176736265},{"date":"2018-07-05","open":33.7912,"high":33.8881,"low":33.3457,"close":33.3457,"volume":743338,"unadjustedVolume":743338,"change":-0.184017,"changePercent":-0.549,"vwap":33.5258,"label":"Jul 5, 18","changeOverTime":-0.2835214466353395},{"date":"2018-07-06","open":33.3651,"high":33.5733,"low":32.9971,"close":33.336,"volume":866894,"unadjustedVolume":866894,"change":-0.009685,"changePercent":-0.029,"vwap":33.3203,"label":"Jul 6, 18","changeOverTime":-0.28372986457131444},{"date":"2018-07-09","open":33.462,"high":33.5463,"low":33.0068,"close":33.0164,"volume":880731,"unadjustedVolume":880731,"change":-0.319607,"changePercent":-0.959,"vwap":33.2153,"label":"Jul 9, 18","changeOverTime":-0.29059691326590914},{"date":"2018-07-10","open":33.0745,"high":33.3457,"low":32.784,"close":33.2973,"volume":1132563,"unadjustedVolume":1132563,"change":0.280867,"changePercent":0.851,"vwap":33.1029,"label":"Jul 10, 18","changeOverTime":-0.28456138767669864},{"date":"2018-07-11","open":33.2683,"high":33.859,"low":32.9727,"close":33.5588,"volume":1016645,"unadjustedVolume":1016645,"change":0.261497,"changePercent":0.785,"vwap":33.5204,"label":"Jul 11, 18","changeOverTime":-0.27894269795943805},{"date":"2018-07-12","open":33.7138,"high":34.5176,"low":33.5975,"close":34.4692,"volume":809623,"unadjustedVolume":809623,"change":0.910398,"changePercent":2.713,"vwap":34.2305,"label":"Jul 12, 18","changeOverTime":-0.2593814929170131},{"date":"2018-07-13","open":34.5273,"high":35.4474,"low":34.4692,"close":35.1375,"volume":1166996,"unadjustedVolume":1166996,"change":0.66827,"changePercent":1.939,"vwap":35.0223,"label":"Jul 13, 18","changeOverTime":-0.24502214171989914},{"date":"2018-07-16","open":35.1956,"high":35.302,"low":34.5041,"close":34.5467,"volume":896208,"unadjustedVolume":896208,"change":-0.59079,"changePercent":-1.681,"vwap":34.7716,"label":"Jul 16, 18","changeOverTime":-0.25771629806772933},{"date":"2018-07-17","open":34.4692,"high":34.4692,"low":33.8009,"close":33.8494,"volume":1460239,"unadjustedVolume":1460239,"change":-0.697325,"changePercent":-2.019,"vwap":33.96,"label":"Jul 17, 18","changeOverTime":-0.2726987544342527},{"date":"2018-07-18","open":33.8494,"high":34.6726,"low":31.8058,"close":32.1932,"volume":4030982,"unadjustedVolume":4030982,"change":-1.6561,"changePercent":-4.893,"vwap":32.6708,"label":"Jul 18, 18","changeOverTime":-0.30828450552307535},{"date":"2018-07-19","open":32.9583,"high":32.9971,"low":31.9608,"close":32.0479,"volume":2216374,"unadjustedVolume":2216374,"change":-0.145276,"changePercent":-0.451,"vwap":32.3277,"label":"Jul 19, 18","changeOverTime":-0.31140647728566795},{"date":"2018-07-20","open":31.9801,"high":32.0964,"low":31.0213,"close":32.0576,"volume":1626855,"unadjustedVolume":1626855,"change":0.009685,"changePercent":0.03,"vwap":31.5175,"label":"Jul 20, 18","changeOverTime":-0.3111980593496931},{"date":"2018-07-23","open":31.7671,"high":32.2029,"low":31.3797,"close":32.0382,"volume":1387726,"unadjustedVolume":1387726,"change":-0.01937,"changePercent":-0.06,"vwap":31.7138,"label":"Jul 23, 18","changeOverTime":-0.31161489522164276},{"date":"2018-07-24","open":31.9704,"high":32.4741,"low":31.7574,"close":31.9995,"volume":940104,"unadjustedVolume":940104,"change":-0.038741,"changePercent":-0.121,"vwap":32.0246,"label":"Jul 24, 18","changeOverTime":-0.3124464183270271},{"date":"2018-07-25","open":31.9995,"high":32.445,"low":31.6702,"close":32.416,"volume":811229,"unadjustedVolume":811229,"change":0.416459,"changePercent":1.301,"vwap":32.1626,"label":"Jul 25, 18","changeOverTime":-0.303497338911199},{"date":"2018-07-26","open":32.3482,"high":33.3942,"low":32.2126,"close":33.1133,"volume":1082488,"unadjustedVolume":1082488,"change":0.697326,"changePercent":2.151,"vwap":32.9588,"label":"Jul 26, 18","changeOverTime":-0.2885148825446755},{"date":"2018-07-27","open":33.123,"high":33.1859,"low":32.077,"close":32.3966,"volume":921697,"unadjustedVolume":921697,"change":-0.716696,"changePercent":-2.164,"vwap":32.4239,"label":"Jul 27, 18","changeOverTime":-0.3039141747831487},{"date":"2018-07-30","open":32.4644,"high":33.4329,"low":32.4644,"close":33.3264,"volume":1338712,"unadjustedVolume":1338712,"change":0.929767,"changePercent":2.87,"vwap":33.0717,"label":"Jul 30, 18","changeOverTime":-0.2839361338687741},{"date":"2018-07-31","open":33.3264,"high":33.7525,"low":33.2392,"close":33.5975,"volume":652340,"unadjustedVolume":652340,"change":0.271183,"changePercent":0.814,"vwap":33.5702,"label":"Jul 31, 18","changeOverTime":-0.2781111748540538},{"date":"2018-08-01","open":33.5394,"high":34.1786,"low":33.2101,"close":33.6944,"volume":1091053,"unadjustedVolume":1091053,"change":0.09685,"changePercent":0.288,"vwap":33.7913,"label":"Aug 1, 18","changeOverTime":-0.2760291441328202},{"date":"2018-08-02","open":33.8397,"high":34.8469,"low":33.6992,"close":34.2658,"volume":1107234,"unadjustedVolume":1107234,"change":0.57142,"changePercent":1.696,"vwap":34.3152,"label":"Aug 2, 18","changeOverTime":-0.26375182365693983},{"date":"2018-08-03","open":33.3554,"high":35.612,"low":33.0271,"close":35.215,"volume":2109971,"unadjustedVolume":2109971,"change":0.949138,"changePercent":2.77,"vwap":34.583,"label":"Aug 3, 18","changeOverTime":-0.24335694687061538},{"date":"2018-08-06","open":35.2053,"high":37.3554,"low":35.1665,"close":36.9098,"volume":1832268,"unadjustedVolume":1832268,"change":1.6949,"changePercent":4.813,"vwap":36.7115,"label":"Aug 6, 18","changeOverTime":-0.20694182131492386},{"date":"2018-08-07","open":37.0454,"high":38.3045,"low":37.0454,"close":37.8977,"volume":1998028,"unadjustedVolume":1998028,"change":0.987878,"changePercent":2.676,"vwap":37.8249,"label":"Aug 7, 18","changeOverTime":-0.18571542142321518},{"date":"2018-08-08","open":37.6072,"high":38.7306,"low":37.3544,"close":38.4885,"volume":2077993,"unadjustedVolume":2077993,"change":0.59079,"changePercent":1.559,"vwap":38.3514,"label":"Aug 8, 18","changeOverTime":-0.17302126507538496},{"date":"2018-08-09","open":38.5466,"high":39.1374,"low":38.3239,"close":38.8275,"volume":2508706,"unadjustedVolume":2508706,"change":0.338978,"changePercent":0.881,"vwap":38.7257,"label":"Aug 9, 18","changeOverTime":-0.16573738050884057},{"date":"2018-08-10","open":38.51,"high":38.9436,"low":36.8,"close":37.03,"volume":5059845,"unadjustedVolume":5059845,"change":-1.7975,"changePercent":-4.629,"vwap":37.3577,"label":"Aug 10, 18","changeOverTime":-0.20435915781964756},{"date":"2018-08-13","open":36.67,"high":36.88,"low":34.94,"close":35.03,"volume":1754202,"unadjustedVolume":1754202,"change":-2,"changePercent":-5.401,"vwap":35.6038,"label":"Aug 13, 18","changeOverTime":-0.24733192812374435},{"date":"2018-08-14","open":35.04,"high":36.09,"low":35.04,"close":35.42,"volume":1085600,"unadjustedVolume":1085600,"change":0.39,"changePercent":1.113,"vwap":35.6344,"label":"Aug 14, 18","changeOverTime":-0.23895223791444548},{"date":"2018-08-15","open":35.07,"high":35.94,"low":34.64,"close":35.49,"volume":1325493,"unadjustedVolume":1325493,"change":0.07,"changePercent":0.198,"vwap":35.2694,"label":"Aug 15, 18","changeOverTime":-0.2374481909538021},{"date":"2018-08-16","open":35.79,"high":35.825,"low":35.27,"close":35.48,"volume":761420,"unadjustedVolume":761420,"change":-0.01,"changePercent":-0.028,"vwap":35.5579,"label":"Aug 16, 18","changeOverTime":-0.23766305480532268},{"date":"2018-08-17","open":35.5,"high":37.12,"low":35.49,"close":36.81,"volume":869000,"unadjustedVolume":869000,"change":1.33,"changePercent":3.749,"vwap":36.6631,"label":"Aug 17, 18","changeOverTime":-0.20908616255309817},{"date":"2018-08-20","open":37,"high":37.4,"low":36.83,"close":37.14,"volume":1327496,"unadjustedVolume":1327496,"change":0.33,"changePercent":0.896,"vwap":37.1437,"label":"Aug 20, 18","changeOverTime":-0.20199565545292225},{"date":"2018-08-21","open":37.12,"high":37.75,"low":37.01,"close":37.01,"volume":836101,"unadjustedVolume":836101,"change":-0.13,"changePercent":-0.35,"vwap":37.2712,"label":"Aug 21, 18","changeOverTime":-0.2047888855226886},{"date":"2018-08-22","open":37,"high":37.34,"low":36.91,"close":37.22,"volume":782326,"unadjustedVolume":782326,"change":0.21,"changePercent":0.567,"vwap":37.1086,"label":"Aug 22, 18","changeOverTime":-0.2002767446407584},{"date":"2018-08-23","open":37.15,"high":37.16,"low":36.8,"close":36.86,"volume":515073,"unadjustedVolume":515073,"change":-0.36,"changePercent":-0.967,"vwap":36.9714,"label":"Aug 23, 18","changeOverTime":-0.20801184329549582},{"date":"2018-08-24","open":36.71,"high":37.2,"low":36.55,"close":36.92,"volume":558188,"unadjustedVolume":558188,"change":0.06,"changePercent":0.163,"vwap":36.9045,"label":"Aug 24, 18","changeOverTime":-0.20672266018637286},{"date":"2018-08-27","open":36.9,"high":37,"low":36.75,"close":36.85,"volume":474588,"unadjustedVolume":474588,"change":-0.07,"changePercent":-0.19,"vwap":36.8534,"label":"Aug 27, 18","changeOverTime":-0.20822670714701627},{"date":"2018-08-28","open":36.71,"high":36.95,"low":36.06,"close":36.3,"volume":596756,"unadjustedVolume":596756,"change":-0.55,"changePercent":-1.493,"vwap":36.3548,"label":"Aug 28, 18","changeOverTime":-0.22004421898064297},{"date":"2018-08-29","open":36.3,"high":36.48,"low":35.86,"close":35.95,"volume":636119,"unadjustedVolume":636119,"change":-0.35,"changePercent":-0.964,"vwap":36.1,"label":"Aug 29, 18","changeOverTime":-0.2275644537838598},{"date":"2018-08-30","open":35.85,"high":35.915,"low":35.31,"close":35.6,"volume":898905,"unadjustedVolume":898905,"change":-0.35,"changePercent":-0.974,"vwap":35.6206,"label":"Aug 30, 18","changeOverTime":-0.23508468858707676},{"date":"2018-08-31","open":35.5,"high":35.64,"low":35.0531,"close":35.26,"volume":745761,"unadjustedVolume":745761,"change":-0.34,"changePercent":-0.955,"vwap":35.2619,"label":"Aug 31, 18","changeOverTime":-0.2423900595387733},{"date":"2018-09-04","open":35.1,"high":35.74,"low":35.04,"close":35.53,"volume":876800,"unadjustedVolume":876800,"change":0.27,"changePercent":0.766,"vwap":35.4662,"label":"Sep 4, 18","changeOverTime":-0.23658873554772017},{"date":"2018-09-05","open":35.36,"high":35.79,"low":35.07,"close":35.75,"volume":918412,"unadjustedVolume":918412,"change":0.22,"changePercent":0.619,"vwap":35.5405,"label":"Sep 5, 18","changeOverTime":-0.23186173081426953},{"date":"2018-09-06","open":35.73,"high":36.22,"low":35.67,"close":36.14,"volume":745358,"unadjustedVolume":745358,"change":0.39,"changePercent":1.091,"vwap":35.9898,"label":"Sep 6, 18","changeOverTime":-0.22348204060497065},{"date":"2018-09-07","open":36.01,"high":36.76,"low":35.985,"close":36.74,"volume":795195,"unadjustedVolume":795195,"change":0.6,"changePercent":1.66,"vwap":36.5485,"label":"Sep 7, 18","changeOverTime":-0.21059020951374158},{"date":"2018-09-10","open":36.81,"high":37.19,"low":36.58,"close":37.19,"volume":961030,"unadjustedVolume":961030,"change":0.45,"changePercent":1.225,"vwap":37.0553,"label":"Sep 10, 18","changeOverTime":-0.20092133619531988},{"date":"2018-09-11","open":37.14,"high":37.73,"low":36.88,"close":37.65,"volume":1184154,"unadjustedVolume":1184154,"change":0.46,"changePercent":1.237,"vwap":37.4276,"label":"Sep 11, 18","changeOverTime":-0.1910375990253776},{"date":"2018-09-12","open":37.65,"high":38.64,"low":37.65,"close":38.1,"volume":938863,"unadjustedVolume":938863,"change":0.45,"changePercent":1.195,"vwap":38.1549,"label":"Sep 12, 18","changeOverTime":-0.18136872570695575},{"date":"2018-09-13","open":38.13,"high":38.43,"low":37.85,"close":38.18,"volume":465081,"unadjustedVolume":465081,"change":0.08,"changePercent":0.21,"vwap":38.1116,"label":"Sep 13, 18","changeOverTime":-0.17964981489479193},{"date":"2018-09-14","open":38.17,"high":38.2654,"low":37.25,"close":37.84,"volume":838150,"unadjustedVolume":838150,"change":-0.34,"changePercent":-0.891,"vwap":37.8909,"label":"Sep 14, 18","changeOverTime":-0.1869551858464883},{"date":"2018-09-17","open":37.8,"high":37.98,"low":36.49,"close":36.59,"volume":899435,"unadjustedVolume":899435,"change":-1.25,"changePercent":-3.303,"vwap":37.055,"label":"Sep 17, 18","changeOverTime":-0.2138131672865488},{"date":"2018-09-18","open":36.59,"high":36.91,"low":35.96,"close":36.35,"volume":815483,"unadjustedVolume":815483,"change":-0.24,"changePercent":-0.656,"vwap":36.3313,"label":"Sep 18, 18","changeOverTime":-0.21896989972304046},{"date":"2018-09-19","open":36.25,"high":36.68,"low":36.16,"close":36.27,"volume":574723,"unadjustedVolume":574723,"change":-0.08,"changePercent":-0.22,"vwap":36.3315,"label":"Sep 19, 18","changeOverTime":-0.2206888105352043},{"date":"2018-09-20","open":36.32,"high":36.62,"low":36.04,"close":36.17,"volume":648165,"unadjustedVolume":648165,"change":-0.1,"changePercent":-0.276,"vwap":36.2864,"label":"Sep 20, 18","changeOverTime":-0.22283744905040917},{"date":"2018-09-21","open":36.17,"high":36.44,"low":35.95,"close":36.02,"volume":1014737,"unadjustedVolume":1014737,"change":-0.15,"changePercent":-0.415,"vwap":36.091,"label":"Sep 21, 18","changeOverTime":-0.2260604068232164},{"date":"2018-09-24","open":36.05,"high":36.2285,"low":35.48,"close":35.59,"volume":762206,"unadjustedVolume":762206,"change":-0.43,"changePercent":-1.194,"vwap":35.735,"label":"Sep 24","changeOverTime":-0.2352995524385972},{"date":"2018-09-25","open":35.57,"high":35.639,"low":34.93,"close":35.46,"volume":567092,"unadjustedVolume":567092,"change":-0.13,"changePercent":-0.365,"vwap":35.275,"label":"Sep 25","changeOverTime":-0.23809278250836355},{"date":"2018-09-26","open":35.33,"high":35.73,"low":35.02,"close":35.34,"volume":694309,"unadjustedVolume":694309,"change":-0.12,"changePercent":-0.338,"vwap":35.3755,"label":"Sep 26","changeOverTime":-0.2406711487266093},{"date":"2018-09-27","open":35.39,"high":35.73,"low":35.28,"close":35.34,"volume":294407,"unadjustedVolume":294407,"change":0,"changePercent":0,"vwap":35.4672,"label":"Sep 27","changeOverTime":-0.2406711487266093},{"date":"2018-09-28","open":35.25,"high":36.46,"low":35.25,"close":35.71,"volume":435528,"unadjustedVolume":435528,"change":0.37,"changePercent":1.047,"vwap":35.826,"label":"Sep 28","changeOverTime":-0.23272118622035146},{"date":"2018-10-01","open":36.01,"high":36.8,"low":35.9078,"close":36.73,"volume":691725,"unadjustedVolume":691725,"change":1.02,"changePercent":2.856,"vwap":36.4948,"label":"Oct 1","changeOverTime":-0.21080507336526216},{"date":"2018-10-02","open":36.73,"high":37.36,"low":36.45,"close":36.54,"volume":583012,"unadjustedVolume":583012,"change":-0.19,"changePercent":-0.517,"vwap":36.708,"label":"Oct 2","changeOverTime":-0.21488748654415132},{"date":"2018-10-03","open":36.51,"high":37.15,"low":36.31,"close":36.74,"volume":554499,"unadjustedVolume":554499,"change":0.2,"changePercent":0.547,"vwap":36.73,"label":"Oct 3","changeOverTime":-0.21059020951374158},{"date":"2018-10-04","open":36.72,"high":36.94,"low":36.5,"close":36.52,"volume":354503,"unadjustedVolume":354503,"change":-0.22,"changePercent":-0.599,"vwap":36.6642,"label":"Oct 4","changeOverTime":-0.2153172142471922},{"date":"2018-10-05","open":36.54,"high":36.88,"low":36.06,"close":36.21,"volume":310711,"unadjustedVolume":310711,"change":-0.31,"changePercent":-0.849,"vwap":36.3009,"label":"Oct 5","changeOverTime":-0.22197799364432724},{"date":"2018-10-08","open":36,"high":36.461,"low":35.97,"close":36.24,"volume":434894,"unadjustedVolume":434894,"change":0.03,"changePercent":0.083,"vwap":36.2092,"label":"Oct 8","changeOverTime":-0.2213334020897658},{"date":"2018-10-09","open":36.22,"high":37.25,"low":36.17,"close":36.91,"volume":533027,"unadjustedVolume":533027,"change":0.67,"changePercent":1.849,"vwap":36.8792,"label":"Oct 9","changeOverTime":-0.20693752403789348},{"date":"2018-10-10","open":36.92,"high":37.06,"low":35.981,"close":36.05,"volume":559765,"unadjustedVolume":559765,"change":-0.86,"changePercent":-2.33,"vwap":36.3474,"label":"Oct 10","changeOverTime":-0.2254158152686551},{"date":"2018-10-11","open":35.85,"high":36.29,"low":35.07,"close":35.22,"volume":888416,"unadjustedVolume":888416,"change":-0.83,"changePercent":-2.302,"vwap":35.4476,"label":"Oct 11","changeOverTime":-0.24324951494485522},{"date":"2018-10-12","open":35.49,"high":35.75,"low":34.24,"close":34.83,"volume":1349120,"unadjustedVolume":1349120,"change":-0.39,"changePercent":-1.107,"vwap":34.8746,"label":"Oct 12","changeOverTime":-0.2516292051541541},{"date":"2018-10-15","open":34.9,"high":35.28,"low":34.66,"close":34.66,"volume":429324,"unadjustedVolume":429324,"change":-0.17,"changePercent":-0.488,"vwap":34.8955,"label":"Oct 15","changeOverTime":-0.2552818906300024},{"date":"2018-10-16","open":34.73,"high":36.25,"low":34.72,"close":35.97,"volume":990792,"unadjustedVolume":990792,"change":1.31,"changePercent":3.78,"vwap":35.7895,"label":"Oct 16","changeOverTime":-0.22713472608081892},{"date":"2018-10-17","open":35.97,"high":35.97,"low":34.85,"close":35.06,"volume":1415084,"unadjustedVolume":1415084,"change":-0.91,"changePercent":-2.53,"vwap":35.2619,"label":"Oct 17","changeOverTime":-0.2466873365691829},{"date":"2018-10-18","open":34.79,"high":35.38,"low":34.45,"close":34.52,"volume":1058352,"unadjustedVolume":1058352,"change":-0.54,"changePercent":-1.54,"vwap":34.7415,"label":"Oct 18","changeOverTime":-0.258289984551289},{"date":"2018-10-19","open":34.54,"high":35.2677,"low":34.13,"close":34.2,"volume":727671,"unadjustedVolume":727671,"change":-0.32,"changePercent":-0.927,"vwap":34.4577,"label":"Oct 19","changeOverTime":-0.2651656277999445},{"date":"2018-10-22","open":34.21,"high":34.42,"low":33.51,"close":33.77,"volume":622448,"unadjustedVolume":622448,"change":-0.43,"changePercent":-1.257,"vwap":33.9013,"label":"Oct 22","changeOverTime":-0.2744047734153253},{"date":"2018-10-23","open":33.28,"high":33.62,"low":32.7021,"close":33.3,"volume":589304,"unadjustedVolume":589304,"change":-0.47,"changePercent":-1.392,"vwap":33.1627,"label":"Oct 23","changeOverTime":-0.2845033744367882},{"date":"2018-10-24","open":33.25,"high":33.64,"low":32.84,"close":32.84,"volume":690625,"unadjustedVolume":690625,"change":-0.46,"changePercent":-1.381,"vwap":33.1503,"label":"Oct 24","changeOverTime":-0.2943871116067303},{"date":"2018-10-25","open":33.08,"high":33.79,"low":32.98,"close":33.46,"volume":602241,"unadjustedVolume":602241,"change":0.62,"changePercent":1.888,"vwap":33.4039,"label":"Oct 25","changeOverTime":-0.2810655528124604},{"date":"2018-10-26","open":33.1,"high":33.43,"low":32.14,"close":32.92,"volume":632015,"unadjustedVolume":632015,"change":-0.54,"changePercent":-1.614,"vwap":32.8751,"label":"Oct 26","changeOverTime":-0.2926682007945665},{"date":"2018-10-29","open":33,"high":33.6404,"low":31.8,"close":32.15,"volume":874498,"unadjustedVolume":874498,"change":-0.77,"changePercent":-2.339,"vwap":32.661,"label":"Oct 29","changeOverTime":-0.30921271736164385},{"date":"2018-10-30","open":32.05,"high":32.82,"low":31.41,"close":32.07,"volume":553754,"unadjustedVolume":553754,"change":-0.08,"changePercent":-0.249,"vwap":32.0033,"label":"Oct 30","changeOverTime":-0.31093162817380765},{"date":"2018-10-31","open":32.31,"high":33.31,"low":32.22,"close":32.81,"volume":963339,"unadjustedVolume":963339,"change":0.74,"changePercent":2.307,"vwap":32.9137,"label":"Oct 31","changeOverTime":-0.2950317031612918},{"date":"2018-11-01","open":32.96,"high":34.0768,"low":32.69,"close":33.81,"volume":872993,"unadjustedVolume":872993,"change":1,"changePercent":3.048,"vwap":33.5282,"label":"Nov 1","changeOverTime":-0.2735453180092434},{"date":"2018-11-02","open":33.17,"high":35.99,"low":33,"close":33.74,"volume":3007128,"unadjustedVolume":3007128,"change":-0.07,"changePercent":-0.207,"vwap":34.4736,"label":"Nov 2","changeOverTime":-0.2750493649698868}],"21":[{"date":"2017-10-24","open":16.1027,"high":16.2239,"low":16.0282,"close":16.112,"volume":69355,"unadjustedVolume":69355,"change":0.037275,"changePercent":0.232,"vwap":16.0953,"label":"Oct 24, 17","changeOverTime":0},{"date":"2017-10-25","open":16.2145,"high":16.2611,"low":15.8791,"close":16.2052,"volume":131904,"unadjustedVolume":131904,"change":0.093187,"changePercent":0.578,"vwap":16.0708,"label":"Oct 25, 17","changeOverTime":0.005784508440913795},{"date":"2017-10-26","open":16.1773,"high":16.4289,"low":16.1074,"close":16.2518,"volume":107834,"unadjustedVolume":107834,"change":0.046593,"changePercent":0.288,"vwap":16.2427,"label":"Oct 26, 17","changeOverTime":0.008676762661370472},{"date":"2017-10-27","open":16.2425,"high":16.5686,"low":16.1773,"close":16.5221,"volume":217996,"unadjustedVolume":217996,"change":0.270243,"changePercent":1.663,"vwap":16.4474,"label":"Oct 27, 17","changeOverTime":0.025453078450844088},{"date":"2017-10-30","open":16.5127,"high":16.7271,"low":16.4475,"close":16.7271,"volume":170953,"unadjustedVolume":170953,"change":0.205012,"changePercent":1.241,"vwap":16.6515,"label":"Oct 30, 17","changeOverTime":0.03817651439920568},{"date":"2017-10-31","open":16.7271,"high":16.8482,"low":16.6432,"close":16.8482,"volume":171869,"unadjustedVolume":171869,"change":0.121142,"changePercent":0.724,"vwap":16.7792,"label":"Oct 31, 17","changeOverTime":0.04569265143992057},{"date":"2017-11-01","open":16.8948,"high":17.2023,"low":16.8529,"close":17.0905,"volume":110005,"unadjustedVolume":110005,"change":0.242287,"changePercent":1.438,"vwap":17.1068,"label":"Nov 1, 17","changeOverTime":0.060731132075471726},{"date":"2017-11-02","open":17.0905,"high":17.1138,"low":16.8296,"close":16.8948,"volume":156930,"unadjustedVolume":156930,"change":-0.195693,"changePercent":-1.145,"vwap":16.9522,"label":"Nov 2, 17","changeOverTime":0.04858490566037747},{"date":"2017-11-03","open":16.8855,"high":17.1557,"low":16.8855,"close":17.0532,"volume":105432,"unadjustedVolume":105432,"change":0.158418,"changePercent":0.938,"vwap":17.0557,"label":"Nov 3, 17","changeOverTime":0.058416087388282155},{"date":"2017-11-06","open":17.1278,"high":17.1734,"low":16.988,"close":17.0998,"volume":353595,"unadjustedVolume":353595,"change":0.046593,"changePercent":0.273,"vwap":17.0708,"label":"Nov 6, 17","changeOverTime":0.06130834160873883},{"date":"2017-11-07","open":17.2396,"high":17.2396,"low":16.3357,"close":16.5966,"volume":127116,"unadjustedVolume":127116,"change":-0.50321,"changePercent":-2.943,"vwap":16.6493,"label":"Nov 7, 17","changeOverTime":0.03007696127110231},{"date":"2017-11-08","open":16.6339,"high":16.8575,"low":16.4894,"close":16.783,"volume":74315,"unadjustedVolume":74315,"change":0.186374,"changePercent":1.123,"vwap":16.7067,"label":"Nov 8, 17","changeOverTime":0.04164597815292968},{"date":"2017-11-09","open":16.8389,"high":17.0439,"low":16.7084,"close":16.783,"volume":58413,"unadjustedVolume":58413,"change":0,"changePercent":0,"vwap":16.8046,"label":"Nov 9, 17","changeOverTime":0.04164597815292968},{"date":"2017-11-10","open":16.755,"high":17.0066,"low":16.6152,"close":16.8202,"volume":53955,"unadjustedVolume":53955,"change":0.037274,"changePercent":0.222,"vwap":16.7764,"label":"Nov 10, 17","changeOverTime":0.04395481628599811},{"date":"2017-11-13","open":16.7737,"high":16.8063,"low":16.2798,"close":16.345,"volume":435630,"unadjustedVolume":435630,"change":-0.475252,"changePercent":-2.825,"vwap":16.4998,"label":"Nov 13, 17","changeOverTime":0.014461271102284047},{"date":"2017-11-14","open":16.3357,"high":16.4475,"low":16.2052,"close":16.2332,"volume":112300,"unadjustedVolume":112300,"change":-0.111825,"changePercent":-0.684,"vwap":16.2905,"label":"Nov 14, 17","changeOverTime":0.0075223435948362566},{"date":"2017-11-15","open":16.2332,"high":16.2798,"low":16.0188,"close":16.0934,"volume":200393,"unadjustedVolume":200393,"change":-0.139781,"changePercent":-0.861,"vwap":16.1072,"label":"Nov 15, 17","changeOverTime":-0.001154419066534216},{"date":"2017-11-16","open":16.1527,"high":16.2666,"low":15.887,"close":16.0198,"volume":76187,"unadjustedVolume":76187,"change":-0.07355,"changePercent":-0.457,"vwap":16.0484,"label":"Nov 16, 17","changeOverTime":-0.005722442899701979},{"date":"2017-11-17","open":16.0483,"high":16.2666,"low":16.0009,"close":16.2381,"volume":58759,"unadjustedVolume":58759,"change":0.218281,"changePercent":1.363,"vwap":16.1774,"label":"Nov 17, 17","changeOverTime":0.007826464746772654},{"date":"2017-11-20","open":16.2381,"high":16.371,"low":15.887,"close":15.9344,"volume":154640,"unadjustedVolume":154640,"change":-0.303694,"changePercent":-1.87,"vwap":16.0091,"label":"Nov 20, 17","changeOverTime":-0.011022840119165728},{"date":"2017-11-21","open":15.9344,"high":16.2666,"low":15.9344,"close":16.1242,"volume":76818,"unadjustedVolume":76818,"change":0.189808,"changePercent":1.191,"vwap":16.0692,"label":"Nov 21, 17","changeOverTime":0.0007571996027805356},{"date":"2017-11-22","open":16.1337,"high":16.2191,"low":16.0588,"close":16.1432,"volume":51376,"unadjustedVolume":51376,"change":0.018981,"changePercent":0.118,"vwap":16.1257,"label":"Nov 22, 17","changeOverTime":0.001936444885799522},{"date":"2017-11-24","open":16.1622,"high":16.2666,"low":16.0768,"close":16.0958,"volume":10144,"unadjustedVolume":10144,"change":-0.047452,"changePercent":-0.294,"vwap":16.1508,"label":"Nov 24, 17","changeOverTime":-0.0010054617676264754},{"date":"2017-11-27","open":16.1812,"high":16.7981,"low":16.1812,"close":16.7506,"volume":277944,"unadjustedVolume":277944,"change":0.65484,"changePercent":4.068,"vwap":16.6616,"label":"Nov 27, 17","changeOverTime":0.03963505461767629},{"date":"2017-11-28","open":16.8645,"high":16.9879,"low":16.6462,"close":16.8455,"volume":423101,"unadjustedVolume":423101,"change":0.094903,"changePercent":0.567,"vwap":16.782,"label":"Nov 28, 17","changeOverTime":0.04552507447864964},{"date":"2017-11-29","open":16.8455,"high":16.9214,"low":16.6558,"close":16.7316,"volume":279191,"unadjustedVolume":279191,"change":-0.113884,"changePercent":-0.676,"vwap":16.8085,"label":"Nov 29, 17","changeOverTime":0.038455809334657524},{"date":"2017-11-30","open":16.7411,"high":17.1492,"low":16.5513,"close":17.0448,"volume":343323,"unadjustedVolume":343323,"change":0.313183,"changePercent":1.872,"vwap":16.9579,"label":"Nov 30, 17","changeOverTime":0.05789473684210529},{"date":"2017-12-01","open":17.0638,"high":17.5003,"low":17.0448,"close":17.1967,"volume":367213,"unadjustedVolume":367213,"change":0.151848,"changePercent":0.891,"vwap":17.3242,"label":"Dec 1, 17","changeOverTime":0.06732249255213515},{"date":"2017-12-04","open":17.1967,"high":17.2726,"low":16.9025,"close":16.9404,"volume":251495,"unadjustedVolume":251495,"change":-0.256243,"changePercent":-1.49,"vwap":16.9876,"label":"Dec 4, 17","changeOverTime":0.051415094339622776},{"date":"2017-12-05","open":17.0068,"high":17.3058,"low":16.9879,"close":17.0638,"volume":77899,"unadjustedVolume":77899,"change":0.123377,"changePercent":0.728,"vwap":17.0903,"label":"Dec 5, 17","changeOverTime":0.059073982125124276},{"date":"2017-12-06","open":17.0638,"high":17.1824,"low":16.7981,"close":16.874,"volume":258139,"unadjustedVolume":258139,"change":-0.18981,"changePercent":-1.112,"vwap":17.0018,"label":"Dec 6, 17","changeOverTime":0.04729394240317779},{"date":"2017-12-07","open":16.9689,"high":17.1302,"low":16.8597,"close":17.0163,"volume":98547,"unadjustedVolume":98547,"change":0.142357,"changePercent":0.844,"vwap":17.0125,"label":"Dec 7, 17","changeOverTime":0.05612586891757714},{"date":"2017-12-08","open":17.0828,"high":17.5573,"low":16.9926,"close":17.339,"volume":199453,"unadjustedVolume":199453,"change":0.322675,"changePercent":1.896,"vwap":17.3427,"label":"Dec 8, 17","changeOverTime":0.07615441906653429},{"date":"2017-12-11","open":17.3485,"high":17.6237,"low":17.0923,"close":17.32,"volume":319365,"unadjustedVolume":319365,"change":-0.018981,"changePercent":-0.109,"vwap":17.448,"label":"Dec 11, 17","changeOverTime":0.07497517378351552},{"date":"2017-12-12","open":17.358,"high":17.4814,"low":16.9214,"close":17.0828,"volume":159782,"unadjustedVolume":159782,"change":-0.237261,"changePercent":-1.37,"vwap":17.0903,"label":"Dec 12, 17","changeOverTime":0.06025322740814304},{"date":"2017-12-13","open":17.0638,"high":17.32,"low":16.9594,"close":17.1872,"volume":144237,"unadjustedVolume":144237,"change":0.104395,"changePercent":0.611,"vwap":17.1712,"label":"Dec 13, 17","changeOverTime":0.06673286991062577},{"date":"2017-12-14","open":17.2346,"high":17.2895,"low":16.7696,"close":16.8265,"volume":161813,"unadjustedVolume":161813,"change":-0.360636,"changePercent":-2.098,"vwap":17.0528,"label":"Dec 14, 17","changeOverTime":0.044345829195630654},{"date":"2017-12-15","open":16.8075,"high":16.9784,"low":16.6652,"close":16.8075,"volume":192085,"unadjustedVolume":192085,"change":-0.018982,"changePercent":-0.113,"vwap":16.8063,"label":"Dec 15, 17","changeOverTime":0.04316658391261189},{"date":"2017-12-18","open":16.874,"high":17.0448,"low":16.7886,"close":16.8075,"volume":82477,"unadjustedVolume":82477,"change":0,"changePercent":0,"vwap":16.8937,"label":"Dec 18, 17","changeOverTime":0.04316658391261189},{"date":"2017-12-19","open":16.7886,"high":16.9376,"low":16.4469,"close":16.5133,"volume":127414,"unadjustedVolume":127414,"change":-0.294202,"changePercent":-1.75,"vwap":16.6453,"label":"Dec 19, 17","changeOverTime":0.024906901688182888},{"date":"2017-12-20","open":16.5323,"high":16.8645,"low":16.4754,"close":16.7981,"volume":77408,"unadjustedVolume":77408,"change":0.284713,"changePercent":1.724,"vwap":16.7014,"label":"Dec 20, 17","changeOverTime":0.042583167825223645},{"date":"2017-12-21","open":17.0496,"high":17.3343,"low":16.6937,"close":17.1587,"volume":124456,"unadjustedVolume":124456,"change":0.360636,"changePercent":2.147,"vwap":17.1497,"label":"Dec 21, 17","changeOverTime":0.0649640019860974},{"date":"2017-12-22","open":17.2156,"high":17.301,"low":17.1397,"close":17.2441,"volume":64100,"unadjustedVolume":64100,"change":0.085413,"changePercent":0.498,"vwap":17.2241,"label":"Dec 22, 17","changeOverTime":0.07026439920556116},{"date":"2017-12-26","open":17.1682,"high":17.5858,"low":17.1682,"close":17.4244,"volume":109464,"unadjustedVolume":109464,"change":0.180319,"changePercent":1.046,"vwap":17.4694,"label":"Dec 26, 17","changeOverTime":0.08145481628599803},{"date":"2017-12-27","open":17.4244,"high":17.4339,"low":17.0258,"close":17.0638,"volume":85095,"unadjustedVolume":85095,"change":-0.360636,"changePercent":-2.07,"vwap":17.1728,"label":"Dec 27, 17","changeOverTime":0.059073982125124276},{"date":"2017-12-28","open":16.9784,"high":17.1682,"low":16.8265,"close":17.0638,"volume":132266,"unadjustedVolume":132266,"change":0,"changePercent":0,"vwap":17.0138,"label":"Dec 28, 17","changeOverTime":0.059073982125124276},{"date":"2017-12-29","open":17.1112,"high":17.1824,"low":16.8835,"close":17.0258,"volume":61278,"unadjustedVolume":61278,"change":-0.037962,"changePercent":-0.222,"vwap":17.0218,"label":"Dec 29, 17","changeOverTime":0.05671549155908652},{"date":"2018-01-02","open":17.0543,"high":17.1777,"low":16.817,"close":17.0638,"volume":111076,"unadjustedVolume":111076,"change":0.037962,"changePercent":0.223,"vwap":17.013,"label":"Jan 2, 18","changeOverTime":0.059073982125124276},{"date":"2018-01-03","open":17.0638,"high":17.3295,"low":16.6557,"close":17.1872,"volume":426899,"unadjustedVolume":426899,"change":0.123375,"changePercent":0.723,"vwap":17.1265,"label":"Jan 3, 18","changeOverTime":0.06673286991062577},{"date":"2018-01-04","open":17.1777,"high":17.5858,"low":17.1777,"close":17.5003,"volume":194391,"unadjustedVolume":194391,"change":0.313183,"changePercent":1.822,"vwap":17.4438,"label":"Jan 4, 18","changeOverTime":0.08616559086395241},{"date":"2018-01-05","open":17.5003,"high":17.6332,"low":17.358,"close":17.4339,"volume":157238,"unadjustedVolume":157238,"change":-0.066433,"changePercent":-0.38,"vwap":17.5159,"label":"Jan 5, 18","changeOverTime":0.08204443892750764},{"date":"2018-01-08","open":17.3675,"high":17.7082,"low":17.358,"close":17.5573,"volume":81526,"unadjustedVolume":81526,"change":0.123377,"changePercent":0.708,"vwap":17.5666,"label":"Jan 8, 18","changeOverTime":0.08970332671300914},{"date":"2018-01-09","open":17.7091,"high":17.7566,"low":17.2441,"close":17.4529,"volume":143086,"unadjustedVolume":143086,"change":-0.104395,"changePercent":-0.595,"vwap":17.4059,"label":"Jan 9, 18","changeOverTime":0.08322368421052641},{"date":"2018-01-10","open":17.4339,"high":17.4624,"low":17.2346,"close":17.4149,"volume":155080,"unadjustedVolume":155080,"change":-0.037962,"changePercent":-0.218,"vwap":17.3788,"label":"Jan 10, 18","changeOverTime":0.08086519364448866},{"date":"2018-01-11","open":17.5003,"high":17.823,"low":17.4814,"close":17.6807,"volume":169502,"unadjustedVolume":169502,"change":0.265733,"changePercent":1.526,"vwap":17.6963,"label":"Jan 11, 18","changeOverTime":0.09736221449851064},{"date":"2018-01-12","open":17.7186,"high":18.0603,"low":17.5098,"close":17.9938,"volume":319435,"unadjustedVolume":319435,"change":0.313183,"changePercent":1.771,"vwap":17.8985,"label":"Jan 12, 18","changeOverTime":0.11679493545183726},{"date":"2018-01-16","open":18.0603,"high":18.0603,"low":17.5668,"close":17.5858,"volume":131832,"unadjustedVolume":131832,"change":-0.408088,"changePercent":-2.268,"vwap":17.7964,"label":"Jan 16, 18","changeOverTime":0.0914721946375373},{"date":"2018-01-17","open":17.5763,"high":17.8135,"low":17.4489,"close":17.7281,"volume":66950,"unadjustedVolume":66950,"change":0.142357,"changePercent":0.81,"vwap":17.7142,"label":"Jan 17, 18","changeOverTime":0.10030412115193664},{"date":"2018-01-18","open":17.6427,"high":17.6996,"low":17.4244,"close":17.5003,"volume":108532,"unadjustedVolume":108532,"change":-0.227772,"changePercent":-1.285,"vwap":17.6073,"label":"Jan 18, 18","changeOverTime":0.08616559086395241},{"date":"2018-01-19","open":17.5003,"high":17.7281,"low":17.3417,"close":17.5953,"volume":128454,"unadjustedVolume":128454,"change":0.094906,"changePercent":0.542,"vwap":17.5966,"label":"Jan 19, 18","changeOverTime":0.09206181727904689},{"date":"2018-01-22","open":17.6142,"high":17.8135,"low":17.434,"close":17.8135,"volume":247380,"unadjustedVolume":247380,"change":0.218279,"changePercent":1.241,"vwap":17.6829,"label":"Jan 22, 18","changeOverTime":0.10560451837140039},{"date":"2018-01-23","open":17.9654,"high":17.9654,"low":17.7186,"close":17.8895,"volume":179536,"unadjustedVolume":179536,"change":0.075924,"changePercent":0.426,"vwap":17.8603,"label":"Jan 23, 18","changeOverTime":0.11032149950347589},{"date":"2018-01-24","open":17.8989,"high":17.9464,"low":17.7186,"close":17.88,"volume":187830,"unadjustedVolume":187830,"change":-0.009491,"changePercent":-0.053,"vwap":17.8752,"label":"Jan 24, 18","changeOverTime":0.1097318768619663},{"date":"2018-01-25","open":17.8515,"high":17.9417,"low":17.6902,"close":17.7851,"volume":105672,"unadjustedVolume":105672,"change":-0.094903,"changePercent":-0.531,"vwap":17.8224,"label":"Jan 25, 18","changeOverTime":0.10384185700099316},{"date":"2018-01-26","open":17.7946,"high":17.88,"low":17.6996,"close":17.7661,"volume":88171,"unadjustedVolume":88171,"change":-0.018982,"changePercent":-0.107,"vwap":17.7768,"label":"Jan 26, 18","changeOverTime":0.10266261171797439},{"date":"2018-01-29","open":17.7661,"high":17.8705,"low":17.5953,"close":17.7946,"volume":138612,"unadjustedVolume":138612,"change":0.028472,"changePercent":0.16,"vwap":17.7506,"label":"Jan 29, 18","changeOverTime":0.10443147964250254},{"date":"2018-01-30","open":17.6237,"high":17.7281,"low":17.2631,"close":17.5003,"volume":216024,"unadjustedVolume":216024,"change":-0.294205,"changePercent":-1.653,"vwap":17.4532,"label":"Jan 30, 18","changeOverTime":0.08616559086395241},{"date":"2018-01-31","open":17.4624,"high":17.6854,"low":17.2916,"close":17.4244,"volume":97141,"unadjustedVolume":97141,"change":-0.075922,"changePercent":-0.434,"vwap":17.4159,"label":"Jan 31, 18","changeOverTime":0.08145481628599803},{"date":"2018-02-01","open":17.377,"high":17.6617,"low":16.7506,"close":17.0258,"volume":421641,"unadjustedVolume":421641,"change":-0.398598,"changePercent":-2.288,"vwap":17.0339,"label":"Feb 1, 18","changeOverTime":0.05671549155908652},{"date":"2018-02-02","open":16.9119,"high":16.9879,"low":16.6842,"close":16.7981,"volume":150811,"unadjustedVolume":150811,"change":-0.22777,"changePercent":-1.338,"vwap":16.8501,"label":"Feb 2, 18","changeOverTime":0.042583167825223645},{"date":"2018-02-05","open":16.6177,"high":16.9974,"low":16.4659,"close":16.6367,"volume":130882,"unadjustedVolume":130882,"change":-0.161338,"changePercent":-0.96,"vwap":16.7292,"label":"Feb 5, 18","changeOverTime":0.03256578947368439},{"date":"2018-02-06","open":16.4659,"high":16.836,"low":16.4659,"close":16.7696,"volume":87711,"unadjustedVolume":87711,"change":0.132866,"changePercent":0.799,"vwap":16.7037,"label":"Feb 6, 18","changeOverTime":0.040814299900695274},{"date":"2018-02-07","open":16.7886,"high":17.0448,"low":16.4184,"close":16.6652,"volume":263841,"unadjustedVolume":263841,"change":-0.104394,"changePercent":-0.623,"vwap":16.7914,"label":"Feb 7, 18","changeOverTime":0.03433465739821254},{"date":"2018-02-08","open":16.5798,"high":16.7032,"low":16.1195,"close":16.2286,"volume":237692,"unadjustedVolume":237692,"change":-0.43656,"changePercent":-2.62,"vwap":16.4265,"label":"Feb 8, 18","changeOverTime":0.0072368421052632715},{"date":"2018-02-09","open":16.371,"high":16.4564,"low":15.906,"close":16.3046,"volume":265186,"unadjustedVolume":265186,"change":0.075924,"changePercent":0.468,"vwap":16.1511,"label":"Feb 9, 18","changeOverTime":0.011953823237338776},{"date":"2018-02-12","open":16.3046,"high":16.7316,"low":16.3046,"close":16.5798,"volume":100399,"unadjustedVolume":100399,"change":0.275222,"changePercent":1.688,"vwap":16.5697,"label":"Feb 12, 18","changeOverTime":0.02903426017874879},{"date":"2018-02-13","open":16.4659,"high":16.6557,"low":16.2808,"close":16.4754,"volume":134995,"unadjustedVolume":134995,"change":-0.104394,"changePercent":-0.63,"vwap":16.5288,"label":"Feb 13, 18","changeOverTime":0.022554617676266275},{"date":"2018-02-14","open":16.352,"high":16.9974,"low":16.333,"close":16.874,"volume":189300,"unadjustedVolume":189300,"change":0.398596,"changePercent":2.419,"vwap":16.7473,"label":"Feb 14, 18","changeOverTime":0.04729394240317779},{"date":"2018-02-15","open":16.9879,"high":17.2631,"low":16.893,"close":17.1872,"volume":242728,"unadjustedVolume":242728,"change":0.313185,"changePercent":1.856,"vwap":17.0785,"label":"Feb 15, 18","changeOverTime":0.06673286991062577},{"date":"2018-02-16","open":17.2282,"high":17.4503,"low":17.1992,"close":17.3151,"volume":111374,"unadjustedVolume":111374,"change":0.127962,"changePercent":0.745,"vwap":17.3415,"label":"Feb 16, 18","changeOverTime":0.07467105263157912},{"date":"2018-02-20","open":17.2475,"high":17.5083,"low":17.1606,"close":17.3344,"volume":157907,"unadjustedVolume":157907,"change":0.019314,"changePercent":0.112,"vwap":17.3618,"label":"Feb 20, 18","changeOverTime":0.0758689175769613},{"date":"2018-02-21","open":17.2862,"high":17.4696,"low":17.2475,"close":17.2668,"volume":114567,"unadjustedVolume":114567,"change":-0.067599,"changePercent":-0.39,"vwap":17.3446,"label":"Feb 21, 18","changeOverTime":0.07167328699106267},{"date":"2018-02-22","open":17.3827,"high":17.4407,"low":17.2137,"close":17.3344,"volume":113700,"unadjustedVolume":113700,"change":0.067599,"changePercent":0.391,"vwap":17.3479,"label":"Feb 22, 18","changeOverTime":0.0758689175769613},{"date":"2018-02-23","open":17.3634,"high":17.5662,"low":17.2572,"close":17.5083,"volume":90879,"unadjustedVolume":90879,"change":0.173828,"changePercent":1.003,"vwap":17.415,"label":"Feb 23, 18","changeOverTime":0.0866621151936445},{"date":"2018-02-26","open":17.6531,"high":17.9815,"low":17.2668,"close":17.5662,"volume":195821,"unadjustedVolume":195821,"change":0.057942,"changePercent":0.331,"vwap":17.6964,"label":"Feb 26, 18","changeOverTime":0.09025571002979148},{"date":"2018-02-27","open":17.1413,"high":17.4986,"low":16.6584,"close":16.8999,"volume":543661,"unadjustedVolume":543661,"change":-0.666337,"changePercent":-3.793,"vwap":17.0289,"label":"Feb 27, 18","changeOverTime":0.04890143992055614},{"date":"2018-02-28","open":17.1413,"high":17.1413,"low":16.5522,"close":16.5522,"volume":293915,"unadjustedVolume":293915,"change":-0.347656,"changePercent":-2.057,"vwap":16.7787,"label":"Feb 28, 18","changeOverTime":0.02732125124131088},{"date":"2018-03-01","open":16.5522,"high":16.7357,"low":16.5329,"close":16.6488,"volume":104067,"unadjustedVolume":104067,"change":0.096571,"changePercent":0.583,"vwap":16.6502,"label":"Mar 1, 18","changeOverTime":0.03331678252234379},{"date":"2018-03-02","open":16.6295,"high":16.813,"low":16.475,"close":16.784,"volume":91743,"unadjustedVolume":91743,"change":0.1352,"changePercent":0.812,"vwap":16.6548,"label":"Mar 2, 18","changeOverTime":0.04170804369414106},{"date":"2018-03-05","open":16.784,"high":16.9393,"low":16.6343,"close":16.7357,"volume":67766,"unadjustedVolume":67766,"change":-0.048286,"changePercent":-0.288,"vwap":16.7351,"label":"Mar 5, 18","changeOverTime":0.03871027805362482},{"date":"2018-03-06","open":16.8709,"high":16.972,"low":16.7401,"close":16.8033,"volume":86300,"unadjustedVolume":86300,"change":0.067599,"changePercent":0.404,"vwap":16.8147,"label":"Mar 6, 18","changeOverTime":0.042905908639523455},{"date":"2018-03-07","open":16.6488,"high":16.7743,"low":16.4846,"close":16.5619,"volume":77879,"unadjustedVolume":77879,"change":-0.241426,"changePercent":-1.437,"vwap":16.6325,"label":"Mar 7, 18","changeOverTime":0.027923286991062755},{"date":"2018-03-08","open":16.5619,"high":16.6102,"low":16.4074,"close":16.5039,"volume":82412,"unadjustedVolume":82412,"change":-0.057943,"changePercent":-0.35,"vwap":16.4831,"label":"Mar 8, 18","changeOverTime":0.024323485600794642},{"date":"2018-03-09","open":16.6681,"high":16.9192,"low":16.5619,"close":16.9192,"volume":70198,"unadjustedVolume":70198,"change":0.415254,"changePercent":2.516,"vwap":16.8042,"label":"Mar 9, 18","changeOverTime":0.05009930486593854},{"date":"2018-03-12","open":16.9192,"high":17.0723,"low":16.8516,"close":17.064,"volume":108993,"unadjustedVolume":108993,"change":0.144856,"changePercent":0.856,"vwap":16.9891,"label":"Mar 12, 18","changeOverTime":0.05908639523336655},{"date":"2018-03-13","open":17.0834,"high":17.093,"low":16.7164,"close":16.8516,"volume":94956,"unadjustedVolume":94956,"change":-0.212456,"changePercent":-1.245,"vwap":16.9423,"label":"Mar 13, 18","changeOverTime":0.045903674280039906},{"date":"2018-03-14","open":16.8516,"high":17.0351,"low":16.5474,"close":16.6102,"volume":50778,"unadjustedVolume":50778,"change":-0.241426,"changePercent":-1.433,"vwap":16.671,"label":"Mar 14, 18","changeOverTime":0.03092105263157899},{"date":"2018-03-15","open":16.6391,"high":16.8033,"low":16.4267,"close":16.4653,"volume":93851,"unadjustedVolume":93851,"change":-0.144856,"changePercent":-0.872,"vwap":16.5566,"label":"Mar 15, 18","changeOverTime":0.021927755710029844},{"date":"2018-03-16","open":16.5136,"high":16.9095,"low":16.4363,"close":16.8999,"volume":127407,"unadjustedVolume":127407,"change":0.434569,"changePercent":2.639,"vwap":16.7572,"label":"Mar 16, 18","changeOverTime":0.04890143992055614},{"date":"2018-03-19","open":16.813,"high":16.813,"low":16.4363,"close":16.5812,"volume":52094,"unadjustedVolume":52094,"change":-0.318684,"changePercent":-1.886,"vwap":16.5503,"label":"Mar 19, 18","changeOverTime":0.029121151936444933},{"date":"2018-03-20","open":16.5812,"high":16.7357,"low":16.4846,"close":16.5715,"volume":142977,"unadjustedVolume":142977,"change":-0.009657,"changePercent":-0.058,"vwap":16.5624,"label":"Mar 20, 18","changeOverTime":0.028519116186693276},{"date":"2018-03-21","open":16.5619,"high":16.8033,"low":16.4653,"close":16.7067,"volume":79176,"unadjustedVolume":79176,"change":0.135198,"changePercent":0.816,"vwap":16.6833,"label":"Mar 21, 18","changeOverTime":0.036910377358490766},{"date":"2018-03-22","open":16.5329,"high":16.6102,"low":16.3398,"close":16.3687,"volume":82040,"unadjustedVolume":82040,"change":-0.337997,"changePercent":-2.023,"vwap":16.4843,"label":"Mar 22, 18","changeOverTime":0.015932224428997156},{"date":"2018-03-23","open":16.3687,"high":16.6198,"low":16.3687,"close":16.3784,"volume":55881,"unadjustedVolume":55881,"change":0.009658,"changePercent":0.059,"vwap":16.4776,"label":"Mar 23, 18","changeOverTime":0.016534260178748813},{"date":"2018-03-26","open":16.5715,"high":16.6488,"low":16.3591,"close":16.4556,"volume":92267,"unadjustedVolume":92267,"change":0.077256,"changePercent":0.472,"vwap":16.4272,"label":"Mar 26, 18","changeOverTime":0.021325719960278187},{"date":"2018-03-27","open":16.4556,"high":16.4556,"low":15.799,"close":16.0114,"volume":261888,"unadjustedVolume":261888,"change":-0.444225,"changePercent":-2.7,"vwap":16.1474,"label":"Mar 27, 18","changeOverTime":-0.00624379344587885},{"date":"2018-03-28","open":15.9535,"high":16.2239,"low":15.8666,"close":15.9535,"volume":83121,"unadjustedVolume":83121,"change":-0.057943,"changePercent":-0.362,"vwap":16.0281,"label":"Mar 28, 18","changeOverTime":-0.009837388282025716},{"date":"2018-03-29","open":16.0307,"high":16.1852,"low":15.9728,"close":15.9825,"volume":103848,"unadjustedVolume":103848,"change":0.028972,"changePercent":0.182,"vwap":16.0604,"label":"Mar 29, 18","changeOverTime":-0.00803748758689166},{"date":"2018-04-02","open":15.9438,"high":16.0983,"low":15.8376,"close":16.0211,"volume":270172,"unadjustedVolume":270172,"change":0.038628,"changePercent":0.242,"vwap":15.9558,"label":"Apr 2, 18","changeOverTime":-0.005641757696126972},{"date":"2018-04-03","open":16.0597,"high":16.3108,"low":16.0018,"close":16.1756,"volume":69088,"unadjustedVolume":69088,"change":0.154513,"changePercent":0.964,"vwap":16.1967,"label":"Apr 3, 18","changeOverTime":0.003947368421052693},{"date":"2018-04-04","open":16.0404,"high":16.1563,"low":15.9535,"close":16.0887,"volume":68042,"unadjustedVolume":68042,"change":-0.086914,"changePercent":-0.537,"vwap":16.0586,"label":"Apr 4, 18","changeOverTime":-0.0014461271102283386},{"date":"2018-04-05","open":16.0887,"high":16.417,"low":16.0887,"close":16.3204,"volume":384948,"unadjustedVolume":384948,"change":0.23177,"changePercent":1.441,"vwap":16.3217,"label":"Apr 5, 18","changeOverTime":0.0129344587884807},{"date":"2018-04-06","open":16.2335,"high":16.446,"low":16.108,"close":16.3301,"volume":257540,"unadjustedVolume":257540,"change":0.009657,"changePercent":0.059,"vwap":16.3217,"label":"Apr 6, 18","changeOverTime":0.01353649453823258},{"date":"2018-04-09","open":16.388,"high":16.5329,"low":16.2239,"close":16.2239,"volume":98456,"unadjustedVolume":98456,"change":-0.106227,"changePercent":-0.65,"vwap":16.4061,"label":"Apr 9, 18","changeOverTime":0.006945134061569149},{"date":"2018-04-10","open":16.388,"high":16.6198,"low":16.2239,"close":16.5715,"volume":78979,"unadjustedVolume":78979,"change":0.347654,"changePercent":2.143,"vwap":16.4526,"label":"Apr 10, 18","changeOverTime":0.028519116186693276},{"date":"2018-04-11","open":16.5329,"high":16.9675,"low":16.5329,"close":16.8806,"volume":300050,"unadjustedVolume":300050,"change":0.309026,"changePercent":1.865,"vwap":16.8442,"label":"Apr 11, 18","changeOverTime":0.04770357497517397},{"date":"2018-04-12","open":16.8806,"high":16.9288,"low":16.755,"close":16.8902,"volume":144444,"unadjustedVolume":144444,"change":0.009657,"changePercent":0.057,"vwap":16.8475,"label":"Apr 12, 18","changeOverTime":0.048299404170804486},{"date":"2018-04-13","open":16.9578,"high":16.9868,"low":16.7936,"close":16.8902,"volume":188430,"unadjustedVolume":188430,"change":0,"changePercent":0,"vwap":16.8821,"label":"Apr 13, 18","changeOverTime":0.048299404170804486},{"date":"2018-04-16","open":16.9964,"high":17.064,"low":16.6874,"close":16.9868,"volume":165446,"unadjustedVolume":165446,"change":0.096571,"changePercent":0.572,"vwap":16.9442,"label":"Apr 16, 18","changeOverTime":0.054294935451837174},{"date":"2018-04-17","open":17.0544,"high":17.0834,"low":16.9288,"close":16.9964,"volume":102673,"unadjustedVolume":102673,"change":0.009657,"changePercent":0.057,"vwap":16.9851,"label":"Apr 17, 18","changeOverTime":0.054890764647467914},{"date":"2018-04-18","open":17.0544,"high":17.4214,"low":17.0544,"close":17.2862,"volume":323562,"unadjustedVolume":323562,"change":0.289712,"changePercent":1.705,"vwap":17.3229,"label":"Apr 18, 18","changeOverTime":0.0728773584905662},{"date":"2018-04-19","open":17.2765,"high":17.3924,"low":17.1036,"close":17.1606,"volume":89890,"unadjustedVolume":89890,"change":-0.125542,"changePercent":-0.726,"vwap":17.2451,"label":"Apr 19, 18","changeOverTime":0.06508192651439924},{"date":"2018-04-20","open":17.151,"high":17.2186,"low":16.9095,"close":17.0351,"volume":122451,"unadjustedVolume":122451,"change":-0.125542,"changePercent":-0.732,"vwap":17.0945,"label":"Apr 20, 18","changeOverTime":0.05729270109235363},{"date":"2018-04-23","open":17.0254,"high":17.0254,"low":16.7743,"close":16.8709,"volume":143434,"unadjustedVolume":143434,"change":-0.16417,"changePercent":-0.964,"vwap":16.8917,"label":"Apr 23, 18","changeOverTime":0.04710153922542209},{"date":"2018-04-24","open":16.9288,"high":16.9288,"low":16.6778,"close":16.8516,"volume":131357,"unadjustedVolume":131357,"change":-0.019315,"changePercent":-0.114,"vwap":16.7926,"label":"Apr 24, 18","changeOverTime":0.045903674280039906},{"date":"2018-04-25","open":16.8516,"high":17.1413,"low":16.755,"close":17.1027,"volume":53819,"unadjustedVolume":53819,"change":0.251085,"changePercent":1.49,"vwap":16.9616,"label":"Apr 25, 18","changeOverTime":0.06148833167825226},{"date":"2018-04-26","open":17.1027,"high":17.3441,"low":17.0352,"close":17.1606,"volume":61691,"unadjustedVolume":61691,"change":0.057942,"changePercent":0.339,"vwap":17.1879,"label":"Apr 26, 18","changeOverTime":0.06508192651439924},{"date":"2018-04-27","open":17.0351,"high":17.1316,"low":16.8323,"close":16.8516,"volume":70939,"unadjustedVolume":70939,"change":-0.309027,"changePercent":-1.801,"vwap":16.9747,"label":"Apr 27, 18","changeOverTime":0.045903674280039906},{"date":"2018-04-30","open":16.9288,"high":17.1896,"low":16.8709,"close":17.151,"volume":89463,"unadjustedVolume":89463,"change":0.29937,"changePercent":1.777,"vwap":17.1098,"label":"Apr 30, 18","changeOverTime":0.06448609731876871},{"date":"2018-05-01","open":17.1413,"high":17.151,"low":16.784,"close":16.9964,"volume":60352,"unadjustedVolume":60352,"change":-0.154513,"changePercent":-0.901,"vwap":16.93,"label":"May 1, 18","changeOverTime":0.054890764647467914},{"date":"2018-05-02","open":16.9385,"high":17.0785,"low":16.8516,"close":16.8902,"volume":62992,"unadjustedVolume":62992,"change":-0.106228,"changePercent":-0.625,"vwap":16.9331,"label":"May 2, 18","changeOverTime":0.048299404170804486},{"date":"2018-05-03","open":16.813,"high":17.0737,"low":16.6102,"close":17.0351,"volume":108626,"unadjustedVolume":108626,"change":0.144856,"changePercent":0.858,"vwap":16.8891,"label":"May 3, 18","changeOverTime":0.05729270109235363},{"date":"2018-05-04","open":16.9771,"high":17.1027,"low":16.755,"close":16.9964,"volume":117472,"unadjustedVolume":117472,"change":-0.038628,"changePercent":-0.227,"vwap":17.0018,"label":"May 4, 18","changeOverTime":0.054890764647467914},{"date":"2018-05-07","open":17.0544,"high":17.2089,"low":16.8516,"close":16.9578,"volume":93110,"unadjustedVolume":93110,"change":-0.038629,"changePercent":-0.227,"vwap":17.0255,"label":"May 7, 18","changeOverTime":0.05249503475670312},{"date":"2018-05-08","open":17.3827,"high":17.5952,"low":17.0447,"close":17.431,"volume":228606,"unadjustedVolume":228606,"change":0.473197,"changePercent":2.79,"vwap":17.3814,"label":"May 8, 18","changeOverTime":0.08186444885799421},{"date":"2018-05-09","open":17.8656,"high":18.3388,"low":17.5952,"close":18.1553,"volume":282532,"unadjustedVolume":282532,"change":0.72428,"changePercent":4.155,"vwap":18.1961,"label":"May 9, 18","changeOverTime":0.12681852035749766},{"date":"2018-05-10","open":18.2132,"high":18.2905,"low":17.9815,"close":18.0587,"volume":257911,"unadjustedVolume":257911,"change":-0.09657,"changePercent":-0.532,"vwap":18.0837,"label":"May 10, 18","changeOverTime":0.12082298907646498},{"date":"2018-05-11","open":18.2036,"high":18.2132,"low":17.827,"close":17.8463,"volume":157877,"unadjustedVolume":157877,"change":-0.212456,"changePercent":-1.176,"vwap":18.0179,"label":"May 11, 18","changeOverTime":0.10764026812313811},{"date":"2018-05-14","open":18.0201,"high":18.078,"low":17.8559,"close":17.9042,"volume":159832,"unadjustedVolume":159832,"change":0.057943,"changePercent":0.325,"vwap":17.9681,"label":"May 14, 18","changeOverTime":0.11123386295928508},{"date":"2018-05-15","open":17.8076,"high":18.0337,"low":17.769,"close":17.9428,"volume":149076,"unadjustedVolume":149076,"change":0.038628,"changePercent":0.216,"vwap":17.8909,"label":"May 15, 18","changeOverTime":0.11362959285004966},{"date":"2018-05-16","open":17.9158,"high":18.2498,"low":17.8274,"close":17.9256,"volume":165483,"unadjustedVolume":165483,"change":-0.017192,"changePercent":-0.096,"vwap":18.0002,"label":"May 16, 18","changeOverTime":0.11256206554121159},{"date":"2018-05-17","open":17.9453,"high":18.3185,"low":17.8962,"close":18.073,"volume":322693,"unadjustedVolume":322693,"change":0.147334,"changePercent":0.822,"vwap":18.0994,"label":"May 17, 18","changeOverTime":0.12171052631578962},{"date":"2018-05-18","open":18.073,"high":18.2596,"low":18.0042,"close":18.0337,"volume":88198,"unadjustedVolume":88198,"change":-0.039289,"changePercent":-0.217,"vwap":18.0895,"label":"May 18, 18","changeOverTime":0.11927135054617685},{"date":"2018-05-21","open":18.2105,"high":18.3873,"low":18.1417,"close":18.2891,"volume":127637,"unadjustedVolume":127637,"change":0.255379,"changePercent":1.416,"vwap":18.2814,"label":"May 21, 18","changeOverTime":0.135122889771599},{"date":"2018-05-22","open":18.3676,"high":18.3775,"low":18.014,"close":18.1614,"volume":215318,"unadjustedVolume":215318,"change":-0.12769,"changePercent":-0.698,"vwap":18.2389,"label":"May 22, 18","changeOverTime":0.12719712015888793},{"date":"2018-05-23","open":18.2105,"high":18.3087,"low":17.9748,"close":18.073,"volume":94267,"unadjustedVolume":94267,"change":-0.0884,"changePercent":-0.487,"vwap":18.1171,"label":"May 23, 18","changeOverTime":0.12171052631578962},{"date":"2018-05-24","open":17.9944,"high":18.0042,"low":17.6801,"close":17.8864,"volume":110891,"unadjustedVolume":110891,"change":-0.186623,"changePercent":-1.033,"vwap":17.8634,"label":"May 24, 18","changeOverTime":0.11012909632571997},{"date":"2018-05-25","open":17.7783,"high":17.8274,"low":17.3756,"close":17.7292,"volume":156622,"unadjustedVolume":156622,"change":-0.157157,"changePercent":-0.879,"vwap":17.6089,"label":"May 25, 18","changeOverTime":0.10037239324726915},{"date":"2018-05-29","open":17.6408,"high":18.0533,"low":17.5748,"close":17.9748,"volume":200372,"unadjustedVolume":200372,"change":0.245557,"changePercent":1.385,"vwap":17.8914,"label":"May 29, 18","changeOverTime":0.11561569016881829},{"date":"2018-05-30","open":18.0435,"high":18.2694,"low":17.9158,"close":18.1614,"volume":162855,"unadjustedVolume":162855,"change":0.186623,"changePercent":1.038,"vwap":18.1303,"label":"May 30, 18","changeOverTime":0.12719712015888793},{"date":"2018-05-31","open":18.0239,"high":18.1997,"low":17.8569,"close":17.8765,"volume":95638,"unadjustedVolume":95638,"change":-0.284846,"changePercent":-1.568,"vwap":18.0547,"label":"May 31, 18","changeOverTime":0.10951464746772603},{"date":"2018-06-01","open":17.8864,"high":17.9512,"low":17.6408,"close":17.8176,"volume":157664,"unadjustedVolume":157664,"change":-0.058933,"changePercent":-0.33,"vwap":17.818,"label":"Jun 1, 18","changeOverTime":0.10585898709036747},{"date":"2018-06-04","open":17.8667,"high":18.0435,"low":17.6212,"close":17.7488,"volume":154905,"unadjustedVolume":154905,"change":-0.068756,"changePercent":-0.386,"vwap":17.8332,"label":"Jun 4, 18","changeOverTime":0.10158887785501497},{"date":"2018-06-05","open":17.6997,"high":17.8471,"low":17.6801,"close":17.6801,"volume":62005,"unadjustedVolume":62005,"change":-0.068756,"changePercent":-0.387,"vwap":17.7369,"label":"Jun 5, 18","changeOverTime":0.09732497517378359},{"date":"2018-06-06","open":17.8078,"high":17.8078,"low":17.5328,"close":17.631,"volume":51065,"unadjustedVolume":51065,"change":-0.049111,"changePercent":-0.278,"vwap":17.6438,"label":"Jun 6, 18","changeOverTime":0.09427755710029805},{"date":"2018-06-07","open":18.2203,"high":18.3676,"low":17.9944,"close":18.3185,"volume":424818,"unadjustedVolume":424818,"change":0.687559,"changePercent":3.9,"vwap":18.246,"label":"Jun 7, 18","changeOverTime":0.13694761668321762},{"date":"2018-06-08","open":18.4266,"high":18.439,"low":18.0769,"close":18.1908,"volume":229239,"unadjustedVolume":229239,"change":-0.12769,"changePercent":-0.697,"vwap":18.2338,"label":"Jun 8, 18","changeOverTime":0.12902184707050654},{"date":"2018-06-11","open":18.0926,"high":18.348,"low":17.6801,"close":18.2891,"volume":302694,"unadjustedVolume":302694,"change":0.098223,"changePercent":0.54,"vwap":17.9944,"label":"Jun 11, 18","changeOverTime":0.135122889771599},{"date":"2018-06-12","open":18.3775,"high":18.5248,"low":18.2203,"close":18.2989,"volume":129578,"unadjustedVolume":129578,"change":0.009822,"changePercent":0.054,"vwap":18.4256,"label":"Jun 12, 18","changeOverTime":0.1357311320754718},{"date":"2018-06-13","open":18.2792,"high":18.456,"low":18.1712,"close":18.1712,"volume":69295,"unadjustedVolume":69295,"change":-0.127689,"changePercent":-0.698,"vwap":18.2871,"label":"Jun 13, 18","changeOverTime":0.12780536246276072},{"date":"2018-06-14","open":18.1712,"high":18.2792,"low":17.9846,"close":18.1024,"volume":72962,"unadjustedVolume":72962,"change":-0.068756,"changePercent":-0.378,"vwap":18.1098,"label":"Jun 14, 18","changeOverTime":0.12353525322740821},{"date":"2018-06-15","open":18.073,"high":18.1024,"low":17.7292,"close":17.7292,"volume":73663,"unadjustedVolume":73663,"change":-0.373247,"changePercent":-2.062,"vwap":17.8378,"label":"Jun 15, 18","changeOverTime":0.10037239324726915},{"date":"2018-06-18","open":17.6801,"high":18.0828,"low":17.6801,"close":17.8765,"volume":107963,"unadjustedVolume":107963,"change":0.147334,"changePercent":0.831,"vwap":17.9464,"label":"Jun 18, 18","changeOverTime":0.10951464746772603},{"date":"2018-06-19","open":17.8765,"high":17.9355,"low":17.8274,"close":17.8372,"volume":35358,"unadjustedVolume":35358,"change":-0.039289,"changePercent":-0.22,"vwap":17.8666,"label":"Jun 19, 18","changeOverTime":0.10707547169811328},{"date":"2018-06-20","open":17.9649,"high":18.0533,"low":17.7881,"close":17.9649,"volume":108350,"unadjustedVolume":108350,"change":0.12769,"changePercent":0.716,"vwap":17.9477,"label":"Jun 20, 18","changeOverTime":0.11500124131082436},{"date":"2018-06-21","open":17.8962,"high":18.0632,"low":17.7783,"close":17.7881,"volume":77236,"unadjustedVolume":77236,"change":-0.176801,"changePercent":-0.984,"vwap":17.8868,"label":"Jun 21, 18","changeOverTime":0.10402805362462772},{"date":"2018-06-22","open":18.1614,"high":18.515,"low":18.0926,"close":18.1614,"volume":58788,"unadjustedVolume":58788,"change":0.373246,"changePercent":2.098,"vwap":18.2384,"label":"Jun 22, 18","changeOverTime":0.12719712015888793},{"date":"2018-06-25","open":18.5052,"high":18.5248,"low":18.2498,"close":18.4659,"volume":245170,"unadjustedVolume":245170,"change":0.304491,"changePercent":1.677,"vwap":18.4265,"label":"Jun 25, 18","changeOverTime":0.14609607745779563},{"date":"2018-06-26","open":18.5739,"high":18.6721,"low":18.3676,"close":18.4364,"volume":119479,"unadjustedVolume":119479,"change":-0.029467,"changePercent":-0.16,"vwap":18.5564,"label":"Jun 26, 18","changeOverTime":0.14426514399205567},{"date":"2018-06-27","open":18.4364,"high":18.6427,"low":18.3578,"close":18.3578,"volume":76429,"unadjustedVolume":76429,"change":-0.078578,"changePercent":-0.426,"vwap":18.5249,"label":"Jun 27, 18","changeOverTime":0.13938679245283037},{"date":"2018-06-28","open":18.3578,"high":18.5023,"low":18.1024,"close":18.1908,"volume":78097,"unadjustedVolume":78097,"change":-0.166979,"changePercent":-0.91,"vwap":18.2755,"label":"Jun 28, 18","changeOverTime":0.12902184707050654},{"date":"2018-06-29","open":18.2694,"high":18.5248,"low":18.073,"close":18.1614,"volume":95110,"unadjustedVolume":95110,"change":-0.029467,"changePercent":-0.162,"vwap":18.2469,"label":"Jun 29, 18","changeOverTime":0.12719712015888793},{"date":"2018-07-02","open":18.1024,"high":18.1024,"low":17.8372,"close":17.9453,"volume":117662,"unadjustedVolume":117662,"change":-0.21609,"changePercent":-1.19,"vwap":17.9643,"label":"Jul 2, 18","changeOverTime":0.11378475670307854},{"date":"2018-07-03","open":17.9748,"high":18.1908,"low":17.906,"close":17.9846,"volume":83084,"unadjustedVolume":83084,"change":0.039289,"changePercent":0.219,"vwap":18.0367,"label":"Jul 3, 18","changeOverTime":0.1162239324726913},{"date":"2018-07-05","open":18.1221,"high":18.1221,"low":17.7685,"close":17.8962,"volume":136979,"unadjustedVolume":136979,"change":-0.0884,"changePercent":-0.492,"vwap":17.9236,"label":"Jul 5, 18","changeOverTime":0.11073733862959298},{"date":"2018-07-06","open":17.8078,"high":18.0042,"low":17.8078,"close":17.8176,"volume":104988,"unadjustedVolume":104988,"change":-0.078578,"changePercent":-0.439,"vwap":17.8809,"label":"Jul 6, 18","changeOverTime":0.10585898709036747},{"date":"2018-07-09","open":17.8372,"high":18.0239,"low":17.7587,"close":17.9158,"volume":118614,"unadjustedVolume":118614,"change":0.098222,"changePercent":0.551,"vwap":17.9146,"label":"Jul 9, 18","changeOverTime":0.1119538232373388},{"date":"2018-07-10","open":17.9846,"high":18.0828,"low":17.8176,"close":17.8471,"volume":81812,"unadjustedVolume":81812,"change":-0.068755,"changePercent":-0.384,"vwap":17.9012,"label":"Jul 10, 18","changeOverTime":0.10768992055610743},{"date":"2018-07-11","open":17.8864,"high":17.9158,"low":17.631,"close":17.6604,"volume":94873,"unadjustedVolume":94873,"change":-0.186624,"changePercent":-1.046,"vwap":17.7479,"label":"Jul 11, 18","changeOverTime":0.09610228401191664},{"date":"2018-07-12","open":17.6801,"high":17.6997,"low":17.3952,"close":17.6506,"volume":142801,"unadjustedVolume":142801,"change":-0.009822,"changePercent":-0.056,"vwap":17.5615,"label":"Jul 12, 18","changeOverTime":0.09549404170804385},{"date":"2018-07-13","open":17.6899,"high":17.8864,"low":17.6801,"close":17.7292,"volume":68830,"unadjustedVolume":68830,"change":0.078578,"changePercent":0.445,"vwap":17.7889,"label":"Jul 13, 18","changeOverTime":0.10037239324726915},{"date":"2018-07-16","open":17.6801,"high":17.798,"low":17.4935,"close":17.6113,"volume":81811,"unadjustedVolume":81811,"change":-0.117867,"changePercent":-0.665,"vwap":17.588,"label":"Jul 16, 18","changeOverTime":0.0930548659384311},{"date":"2018-07-17","open":17.5819,"high":17.6703,"low":17.4836,"close":17.5819,"volume":78585,"unadjustedVolume":78585,"change":-0.029467,"changePercent":-0.167,"vwap":17.5281,"label":"Jul 17, 18","changeOverTime":0.09123013902681248},{"date":"2018-07-18","open":17.5622,"high":17.5622,"low":17.3167,"close":17.4444,"volume":87968,"unadjustedVolume":87968,"change":-0.137511,"changePercent":-0.782,"vwap":17.421,"label":"Jul 18, 18","changeOverTime":0.08269612711022861},{"date":"2018-07-19","open":17.3854,"high":17.5524,"low":17.2479,"close":17.2774,"volume":64292,"unadjustedVolume":64292,"change":-0.166979,"changePercent":-0.957,"vwap":17.4171,"label":"Jul 19, 18","changeOverTime":0.07233118172790479},{"date":"2018-07-20","open":17.2184,"high":17.2774,"low":16.9739,"close":17.022,"volume":97541,"unadjustedVolume":97541,"change":-0.255379,"changePercent":-1.478,"vwap":17.0817,"label":"Jul 20, 18","changeOverTime":0.056479642502482635},{"date":"2018-07-23","open":16.9729,"high":17.1791,"low":16.9041,"close":16.9139,"volume":94871,"unadjustedVolume":94871,"change":-0.108045,"changePercent":-0.635,"vwap":16.9802,"label":"Jul 23, 18","changeOverTime":0.04977035749751759},{"date":"2018-07-24","open":16.9238,"high":17.1693,"low":16.9238,"close":17.0907,"volume":45938,"unadjustedVolume":45938,"change":0.176801,"changePercent":1.045,"vwap":17.0819,"label":"Jul 24, 18","changeOverTime":0.060743545183714005},{"date":"2018-07-25","open":17.0711,"high":17.2577,"low":17.0023,"close":17.1693,"volume":137127,"unadjustedVolume":137127,"change":0.078578,"changePercent":0.46,"vwap":17.1472,"label":"Jul 25, 18","changeOverTime":0.06562189672293953},{"date":"2018-07-26","open":17.2479,"high":17.3068,"low":17.189,"close":17.297,"volume":24686,"unadjustedVolume":24686,"change":0.127689,"changePercent":0.744,"vwap":17.251,"label":"Jul 26, 18","changeOverTime":0.0735476663356506},{"date":"2018-07-27","open":17.2872,"high":17.2872,"low":16.9925,"close":17.0122,"volume":37537,"unadjustedVolume":37537,"change":-0.284845,"changePercent":-1.647,"vwap":17.1054,"label":"Jul 27, 18","changeOverTime":0.05587140019860984},{"date":"2018-07-30","open":17.1595,"high":17.1595,"low":16.9238,"close":16.9336,"volume":68837,"unadjustedVolume":68837,"change":-0.078579,"changePercent":-0.462,"vwap":16.9975,"label":"Jul 30, 18","changeOverTime":0.050993048659384324},{"date":"2018-07-31","open":16.9434,"high":16.968,"low":16.747,"close":16.8452,"volume":143373,"unadjustedVolume":143373,"change":-0.0884,"changePercent":-0.522,"vwap":16.8409,"label":"Jul 31, 18","changeOverTime":0.045506454816286006},{"date":"2018-08-01","open":16.747,"high":17.1693,"low":16.7175,"close":16.9434,"volume":132625,"unadjustedVolume":132625,"change":0.098223,"changePercent":0.583,"vwap":16.8725,"label":"Aug 1, 18","changeOverTime":0.051601290963257336},{"date":"2018-08-02","open":16.8452,"high":17.1693,"low":16.8452,"close":17.0318,"volume":91165,"unadjustedVolume":91165,"change":0.0884,"changePercent":0.522,"vwap":17.0544,"label":"Aug 2, 18","changeOverTime":0.057087884806355654},{"date":"2018-08-03","open":16.9532,"high":16.9788,"low":16.7568,"close":16.8648,"volume":222771,"unadjustedVolume":222771,"change":-0.166978,"changePercent":-0.98,"vwap":16.8383,"label":"Aug 3, 18","changeOverTime":0.04672293942403182},{"date":"2018-08-06","open":16.9434,"high":17.3265,"low":16.7912,"close":17.2086,"volume":78803,"unadjustedVolume":78803,"change":0.343779,"changePercent":2.038,"vwap":17.0926,"label":"Aug 6, 18","changeOverTime":0.06806107249255228},{"date":"2018-08-07","open":17.2872,"high":18.348,"low":17.2872,"close":18.073,"volume":285806,"unadjustedVolume":285806,"change":0.86436,"changePercent":5.023,"vwap":18.0463,"label":"Aug 7, 18","changeOverTime":0.12171052631578962},{"date":"2018-08-08","open":18.2105,"high":18.24,"low":17.9748,"close":18.1319,"volume":171807,"unadjustedVolume":171807,"change":0.058933,"changePercent":0.326,"vwap":18.161,"label":"Aug 8, 18","changeOverTime":0.1253661866931482},{"date":"2018-08-09","open":18.1712,"high":18.5052,"low":18.0828,"close":18.3971,"volume":185182,"unadjustedVolume":185182,"change":0.265202,"changePercent":1.463,"vwap":18.2174,"label":"Aug 9, 18","changeOverTime":0.14182596822244292},{"date":"2018-08-10","open":18.4069,"high":18.79,"low":18.3044,"close":18.7409,"volume":306624,"unadjustedVolume":306624,"change":0.343779,"changePercent":1.869,"vwap":18.6719,"label":"Aug 10, 18","changeOverTime":0.16316410129096337},{"date":"2018-08-13","open":18.7212,"high":18.7212,"low":18.3873,"close":18.5936,"volume":561996,"unadjustedVolume":561996,"change":-0.147334,"changePercent":-0.786,"vwap":18.5603,"label":"Aug 13, 18","changeOverTime":0.15402184707050648},{"date":"2018-08-14","open":18.6918,"high":18.9472,"low":18.6083,"close":18.6525,"volume":170086,"unadjustedVolume":170086,"change":0.058934,"changePercent":0.317,"vwap":18.7141,"label":"Aug 14, 18","changeOverTime":0.15767750744786505},{"date":"2018-08-15","open":18.57,"high":18.76,"low":18.44,"close":18.49,"volume":322408,"unadjustedVolume":322408,"change":-0.162491,"changePercent":-0.871,"vwap":18.6082,"label":"Aug 15, 18","changeOverTime":0.14759185700099306},{"date":"2018-08-16","open":18.55,"high":18.59,"low":18.4125,"close":18.56,"volume":152459,"unadjustedVolume":152459,"change":0.07,"changePercent":0.379,"vwap":18.5089,"label":"Aug 16, 18","changeOverTime":0.15193644488579944},{"date":"2018-08-17","open":18.56,"high":18.67,"low":18.47,"close":18.47,"volume":129430,"unadjustedVolume":129430,"change":-0.09,"changePercent":-0.485,"vwap":18.5206,"label":"Aug 17, 18","changeOverTime":0.1463505461767627},{"date":"2018-08-20","open":18.5,"high":18.56,"low":18.39,"close":18.45,"volume":101155,"unadjustedVolume":101155,"change":-0.02,"changePercent":-0.108,"vwap":18.4632,"label":"Aug 20, 18","changeOverTime":0.14510923535253234},{"date":"2018-08-21","open":18.49,"high":18.6,"low":18.45,"close":18.5,"volume":125840,"unadjustedVolume":125840,"change":0.05,"changePercent":0.271,"vwap":18.5122,"label":"Aug 21, 18","changeOverTime":0.14821251241310837},{"date":"2018-08-22","open":18.51,"high":18.67,"low":18.39,"close":18.59,"volume":92289,"unadjustedVolume":92289,"change":0.09,"changePercent":0.486,"vwap":18.5726,"label":"Aug 22, 18","changeOverTime":0.1537984111221451},{"date":"2018-08-23","open":18.61,"high":18.6665,"low":18.49,"close":18.55,"volume":98886,"unadjustedVolume":98886,"change":-0.04,"changePercent":-0.215,"vwap":18.588,"label":"Aug 23, 18","changeOverTime":0.15131578947368438},{"date":"2018-08-24","open":18.63,"high":18.725,"low":18.4876,"close":18.67,"volume":54995,"unadjustedVolume":54995,"change":0.12,"changePercent":0.647,"vwap":18.662,"label":"Aug 24, 18","changeOverTime":0.15876365441906676},{"date":"2018-08-27","open":18.57,"high":18.65,"low":18.37,"close":18.42,"volume":41429,"unadjustedVolume":41429,"change":-0.25,"changePercent":-1.339,"vwap":18.4907,"label":"Aug 27, 18","changeOverTime":0.14324726911618693},{"date":"2018-08-28","open":18.4,"high":18.44,"low":18.17,"close":18.44,"volume":187572,"unadjustedVolume":187572,"change":0.02,"changePercent":0.109,"vwap":18.2908,"label":"Aug 28, 18","changeOverTime":0.14448857994041728},{"date":"2018-08-29","open":18.45,"high":18.56,"low":18.4,"close":18.5,"volume":119960,"unadjustedVolume":119960,"change":0.06,"changePercent":0.325,"vwap":18.4978,"label":"Aug 29, 18","changeOverTime":0.14821251241310837},{"date":"2018-08-30","open":18.5,"high":18.54,"low":18.3,"close":18.47,"volume":41816,"unadjustedVolume":41816,"change":-0.03,"changePercent":-0.162,"vwap":18.4182,"label":"Aug 30, 18","changeOverTime":0.1463505461767627},{"date":"2018-08-31","open":18.47,"high":18.55,"low":18.47,"close":18.52,"volume":79153,"unadjustedVolume":79153,"change":0.05,"changePercent":0.271,"vwap":18.5005,"label":"Aug 31, 18","changeOverTime":0.14945382323733872},{"date":"2018-09-04","open":18.55,"high":18.68,"low":18.46,"close":18.55,"volume":96549,"unadjustedVolume":96549,"change":0.03,"changePercent":0.162,"vwap":18.5282,"label":"Sep 4, 18","changeOverTime":0.15131578947368438},{"date":"2018-09-05","open":18.61,"high":18.61,"low":18.42,"close":18.5,"volume":106917,"unadjustedVolume":106917,"change":-0.05,"changePercent":-0.27,"vwap":18.5065,"label":"Sep 5, 18","changeOverTime":0.14821251241310837},{"date":"2018-09-06","open":18.54,"high":18.56,"low":18.39,"close":18.52,"volume":204985,"unadjustedVolume":204985,"change":0.02,"changePercent":0.108,"vwap":18.474,"label":"Sep 6, 18","changeOverTime":0.14945382323733872},{"date":"2018-09-07","open":18.44,"high":18.57,"low":18.33,"close":18.55,"volume":80114,"unadjustedVolume":80114,"change":0.03,"changePercent":0.162,"vwap":18.4714,"label":"Sep 7, 18","changeOverTime":0.15131578947368438},{"date":"2018-09-10","open":18.55,"high":18.64,"low":18.3,"close":18.61,"volume":1078215,"unadjustedVolume":1078215,"change":0.06,"changePercent":0.323,"vwap":18.3157,"label":"Sep 10, 18","changeOverTime":0.15503972194637547},{"date":"2018-09-11","open":18.61,"high":19,"low":18.61,"close":18.87,"volume":195701,"unadjustedVolume":195701,"change":0.26,"changePercent":1.397,"vwap":18.9268,"label":"Sep 11, 18","changeOverTime":0.17117676266137058},{"date":"2018-09-12","open":18.89,"high":19.03,"low":18.35,"close":18.55,"volume":320632,"unadjustedVolume":320632,"change":-0.32,"changePercent":-1.696,"vwap":18.5228,"label":"Sep 12, 18","changeOverTime":0.15131578947368438},{"date":"2018-09-13","open":18.55,"high":18.6273,"low":18.41,"close":18.45,"volume":46952,"unadjustedVolume":46952,"change":-0.1,"changePercent":-0.539,"vwap":18.4802,"label":"Sep 13, 18","changeOverTime":0.14510923535253234},{"date":"2018-09-14","open":18.47,"high":18.47,"low":18.26,"close":18.44,"volume":101746,"unadjustedVolume":101746,"change":-0.01,"changePercent":-0.054,"vwap":18.362,"label":"Sep 14, 18","changeOverTime":0.14448857994041728},{"date":"2018-09-17","open":18.41,"high":18.5,"low":18.21,"close":18.36,"volume":41929,"unadjustedVolume":41929,"change":-0.08,"changePercent":-0.434,"vwap":18.331,"label":"Sep 17, 18","changeOverTime":0.13952333664349562},{"date":"2018-09-18","open":18.39,"high":18.51,"low":18.3306,"close":18.43,"volume":28984,"unadjustedVolume":28984,"change":0.07,"changePercent":0.381,"vwap":18.4203,"label":"Sep 18, 18","changeOverTime":0.143867924528302},{"date":"2018-09-19","open":18.47,"high":18.54,"low":18.37,"close":18.43,"volume":53952,"unadjustedVolume":53952,"change":0,"changePercent":0,"vwap":18.4686,"label":"Sep 19, 18","changeOverTime":0.143867924528302},{"date":"2018-09-20","open":18.53,"high":18.53,"low":17.87,"close":18.4,"volume":104182,"unadjustedVolume":104182,"change":-0.03,"changePercent":-0.163,"vwap":18.2661,"label":"Sep 20, 18","changeOverTime":0.14200595829195634},{"date":"2018-09-21","open":18.4,"high":18.5,"low":18.28,"close":18.4,"volume":157122,"unadjustedVolume":157122,"change":0,"changePercent":0,"vwap":18.3925,"label":"Sep 21, 18","changeOverTime":0.14200595829195634},{"date":"2018-09-24","open":18.6,"high":18.6847,"low":18.39,"close":18.4,"volume":78150,"unadjustedVolume":78150,"change":0,"changePercent":0,"vwap":18.4707,"label":"Sep 24","changeOverTime":0.14200595829195634},{"date":"2018-09-25","open":18.43,"high":18.51,"low":18.37,"close":18.4,"volume":114902,"unadjustedVolume":114902,"change":0,"changePercent":0,"vwap":18.4298,"label":"Sep 25","changeOverTime":0.14200595829195634},{"date":"2018-09-26","open":18.41,"high":18.4188,"low":18.09,"close":18.3,"volume":43844,"unadjustedVolume":43844,"change":-0.1,"changePercent":-0.543,"vwap":18.2541,"label":"Sep 26","changeOverTime":0.13579940417080452},{"date":"2018-09-27","open":18.29,"high":18.46,"low":18.2,"close":18.27,"volume":62265,"unadjustedVolume":62265,"change":-0.03,"changePercent":-0.164,"vwap":18.3373,"label":"Sep 27","changeOverTime":0.1339374379344589},{"date":"2018-09-28","open":18.27,"high":18.49,"low":18.14,"close":18.21,"volume":90156,"unadjustedVolume":90156,"change":-0.06,"changePercent":-0.328,"vwap":18.3022,"label":"Sep 28","changeOverTime":0.1302135054617678},{"date":"2018-10-01","open":18.29,"high":18.4351,"low":18.24,"close":18.4,"volume":86048,"unadjustedVolume":86048,"change":0.19,"changePercent":1.043,"vwap":18.3347,"label":"Oct 1","changeOverTime":0.14200595829195634},{"date":"2018-10-02","open":18.4,"high":18.46,"low":18.245,"close":18.3,"volume":56895,"unadjustedVolume":56895,"change":-0.1,"changePercent":-0.543,"vwap":18.3294,"label":"Oct 2","changeOverTime":0.13579940417080452},{"date":"2018-10-03","open":18.4,"high":18.445,"low":18.25,"close":18.4,"volume":171663,"unadjustedVolume":171663,"change":0.1,"changePercent":0.546,"vwap":18.3529,"label":"Oct 3","changeOverTime":0.14200595829195634},{"date":"2018-10-04","open":18.38,"high":18.38,"low":18.12,"close":18.3,"volume":91211,"unadjustedVolume":91211,"change":-0.1,"changePercent":-0.543,"vwap":18.263,"label":"Oct 4","changeOverTime":0.13579940417080452},{"date":"2018-10-05","open":18.28,"high":18.375,"low":18.2,"close":18.31,"volume":56679,"unadjustedVolume":56679,"change":0.01,"changePercent":0.055,"vwap":18.3099,"label":"Oct 5","changeOverTime":0.1364200595829196},{"date":"2018-10-08","open":18.28,"high":18.59,"low":18.01,"close":18.05,"volume":52981,"unadjustedVolume":52981,"change":-0.26,"changePercent":-1.42,"vwap":18.1499,"label":"Oct 8","changeOverTime":0.1202830188679247},{"date":"2018-10-09","open":18.03,"high":18.23,"low":17.89,"close":18.13,"volume":49696,"unadjustedVolume":49696,"change":0.08,"changePercent":0.443,"vwap":18.0823,"label":"Oct 9","changeOverTime":0.12524826216484614},{"date":"2018-10-10","open":18.1,"high":18.1405,"low":17.58,"close":17.61,"volume":105967,"unadjustedVolume":105967,"change":-0.52,"changePercent":-2.868,"vwap":17.8809,"label":"Oct 10","changeOverTime":0.09297418073485608},{"date":"2018-10-11","open":17.57,"high":17.77,"low":17.41,"close":17.45,"volume":96868,"unadjustedVolume":96868,"change":-0.16,"changePercent":-0.909,"vwap":17.5693,"label":"Oct 11","changeOverTime":0.08304369414101298},{"date":"2018-10-12","open":17.65,"high":17.98,"low":17.45,"close":17.62,"volume":73657,"unadjustedVolume":73657,"change":0.17,"changePercent":0.974,"vwap":17.5827,"label":"Oct 12","changeOverTime":0.09359483614697138},{"date":"2018-10-15","open":17.56,"high":17.63,"low":17.31,"close":17.33,"volume":66483,"unadjustedVolume":66483,"change":-0.29,"changePercent":-1.646,"vwap":17.3772,"label":"Oct 15","changeOverTime":0.0755958291956306},{"date":"2018-10-16","open":17.38,"high":17.72,"low":17.31,"close":17.67,"volume":65788,"unadjustedVolume":65788,"change":0.34,"changePercent":1.962,"vwap":17.5248,"label":"Oct 16","changeOverTime":0.09669811320754738},{"date":"2018-10-17","open":17.67,"high":17.67,"low":17.32,"close":17.53,"volume":137469,"unadjustedVolume":137469,"change":-0.14,"changePercent":-0.792,"vwap":17.4998,"label":"Oct 17","changeOverTime":0.08800893743793464},{"date":"2018-10-18","open":17.32,"high":17.44,"low":17.3,"close":17.35,"volume":99390,"unadjustedVolume":99390,"change":-0.18,"changePercent":-1.027,"vwap":17.3525,"label":"Oct 18","changeOverTime":0.07683714001986118},{"date":"2018-10-19","open":17.35,"high":17.584,"low":17.2,"close":17.25,"volume":73526,"unadjustedVolume":73526,"change":-0.1,"changePercent":-0.576,"vwap":17.2929,"label":"Oct 19","changeOverTime":0.07063058589870914},{"date":"2018-10-22","open":17.26,"high":17.34,"low":17.01,"close":17.07,"volume":55678,"unadjustedVolume":55678,"change":-0.18,"changePercent":-1.043,"vwap":17.1478,"label":"Oct 22","changeOverTime":0.059458788480635676},{"date":"2018-10-23","open":17,"high":17.2799,"low":16.58,"close":17.08,"volume":174722,"unadjustedVolume":174722,"change":0.01,"changePercent":0.059,"vwap":16.842,"label":"Oct 23","changeOverTime":0.06007944389275075},{"date":"2018-10-24","open":17.12,"high":17.125,"low":16.68,"close":16.7,"volume":72429,"unadjustedVolume":72429,"change":-0.38,"changePercent":-2.225,"vwap":16.8817,"label":"Oct 24","changeOverTime":0.03649453823237345},{"date":"2018-10-25","open":16.78,"high":16.83,"low":16.69,"close":16.78,"volume":103416,"unadjustedVolume":103416,"change":0.08,"changePercent":0.479,"vwap":16.7488,"label":"Oct 25","changeOverTime":0.041459781529295116},{"date":"2018-10-26","open":16.75,"high":16.86,"low":16.51,"close":16.63,"volume":67745,"unadjustedVolume":67745,"change":-0.15,"changePercent":-0.894,"vwap":16.6536,"label":"Oct 26","changeOverTime":0.032149950347567076},{"date":"2018-10-29","open":16.86,"high":17.13,"low":16.5747,"close":16.7,"volume":125806,"unadjustedVolume":125806,"change":0.07,"changePercent":0.421,"vwap":16.9101,"label":"Oct 29","changeOverTime":0.03649453823237345},{"date":"2018-10-30","open":16.72,"high":17.1,"low":16.65,"close":17.06,"volume":147716,"unadjustedVolume":147716,"change":0.36,"changePercent":2.156,"vwap":16.8702,"label":"Oct 30","changeOverTime":0.05883813306852039},{"date":"2018-10-31","open":17.13,"high":17.43,"low":16.81,"close":17.04,"volume":195151,"unadjustedVolume":195151,"change":-0.02,"changePercent":-0.117,"vwap":17.1376,"label":"Oct 31","changeOverTime":0.057596822244290025},{"date":"2018-11-01","open":17.03,"high":17.21,"low":16.83,"close":16.93,"volume":248951,"unadjustedVolume":248951,"change":-0.11,"changePercent":-0.646,"vwap":17.0278,"label":"Nov 1","changeOverTime":0.050769612711022934},{"date":"2018-11-02","open":16.97,"high":16.97,"low":16.85,"close":16.88,"volume":129504,"unadjustedVolume":129504,"change":-0.05,"changePercent":-0.295,"vwap":16.8881,"label":"Nov 2","changeOverTime":0.047666335650446916}]}
+{"1":[{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY."
+}],"2":[{
+    "Meta Data": {
+        "1. Information": "Daily Prices (open, high, low, close) and Volumes",
+        "2. Symbol": "ADT",
+        "3. Last Refreshed": "2018-11-05 15:12:53",
+        "4. Output Size": "Compact",
+        "5. Time Zone": "US/Eastern"
+    },
+    "Time Series (Daily)": {
+        "2018-11-05": {
+            "1. open": "7.7900",
+            "2. high": "7.8400",
+            "3. low": "7.5500",
+            "4. close": "7.7400",
+            "5. volume": "760993"
+        },
+        "2018-11-02": {
+            "1. open": "7.8000",
+            "2. high": "7.9400",
+            "3. low": "7.6300",
+            "4. close": "7.7700",
+            "5. volume": "932635"
+        },
+        "2018-11-01": {
+            "1. open": "7.7500",
+            "2. high": "7.7600",
+            "3. low": "7.5700",
+            "4. close": "7.7200",
+            "5. volume": "1445367"
+        },
+        "2018-10-31": {
+            "1. open": "7.3900",
+            "2. high": "7.8200",
+            "3. low": "7.3611",
+            "4. close": "7.7400",
+            "5. volume": "2404062"
+        },
+        "2018-10-30": {
+            "1. open": "7.2600",
+            "2. high": "7.3600",
+            "3. low": "7.2250",
+            "4. close": "7.3000",
+            "5. volume": "1201431"
+        },
+        "2018-10-29": {
+            "1. open": "7.5000",
+            "2. high": "7.5500",
+            "3. low": "7.2300",
+            "4. close": "7.3000",
+            "5. volume": "1730786"
+        },
+        "2018-10-26": {
+            "1. open": "7.4100",
+            "2. high": "7.5200",
+            "3. low": "7.1700",
+            "4. close": "7.4200",
+            "5. volume": "2303960"
+        },
+        "2018-10-25": {
+            "1. open": "7.3900",
+            "2. high": "7.5300",
+            "3. low": "7.2900",
+            "4. close": "7.4900",
+            "5. volume": "1478708"
+        },
+        "2018-10-24": {
+            "1. open": "7.4600",
+            "2. high": "7.5100",
+            "3. low": "7.1900",
+            "4. close": "7.3700",
+            "5. volume": "2820261"
+        },
+        "2018-10-23": {
+            "1. open": "7.3000",
+            "2. high": "7.5484",
+            "3. low": "7.2000",
+            "4. close": "7.5000",
+            "5. volume": "1264080"
+        },
+        "2018-10-22": {
+            "1. open": "7.7900",
+            "2. high": "7.8100",
+            "3. low": "7.2950",
+            "4. close": "7.3800",
+            "5. volume": "1821824"
+        },
+        "2018-10-19": {
+            "1. open": "7.7700",
+            "2. high": "7.9600",
+            "3. low": "7.7300",
+            "4. close": "7.7700",
+            "5. volume": "1430853"
+        },
+        "2018-10-18": {
+            "1. open": "7.6800",
+            "2. high": "7.8000",
+            "3. low": "7.6500",
+            "4. close": "7.7500",
+            "5. volume": "873197"
+        },
+        "2018-10-17": {
+            "1. open": "7.9700",
+            "2. high": "7.9800",
+            "3. low": "7.6600",
+            "4. close": "7.7700",
+            "5. volume": "1031127"
+        },
+        "2018-10-16": {
+            "1. open": "7.7900",
+            "2. high": "8.0200",
+            "3. low": "7.7150",
+            "4. close": "8.0100",
+            "5. volume": "1131512"
+        },
+        "2018-10-15": {
+            "1. open": "7.4700",
+            "2. high": "7.7473",
+            "3. low": "7.4000",
+            "4. close": "7.7200",
+            "5. volume": "1794940"
+        },
+        "2018-10-12": {
+            "1. open": "7.9000",
+            "2. high": "7.9900",
+            "3. low": "7.4100",
+            "4. close": "7.5200",
+            "5. volume": "3163478"
+        },
+        "2018-10-11": {
+            "1. open": "8.0600",
+            "2. high": "8.1800",
+            "3. low": "7.7300",
+            "4. close": "7.7700",
+            "5. volume": "3517028"
+        },
+        "2018-10-10": {
+            "1. open": "8.6000",
+            "2. high": "8.6400",
+            "3. low": "8.1300",
+            "4. close": "8.1400",
+            "5. volume": "2213744"
+        },
+        "2018-10-09": {
+            "1. open": "8.6600",
+            "2. high": "8.7650",
+            "3. low": "8.5700",
+            "4. close": "8.6300",
+            "5. volume": "943702"
+        },
+        "2018-10-08": {
+            "1. open": "8.6400",
+            "2. high": "8.7200",
+            "3. low": "8.5500",
+            "4. close": "8.6400",
+            "5. volume": "1512413"
+        },
+        "2018-10-05": {
+            "1. open": "8.7800",
+            "2. high": "8.8700",
+            "3. low": "8.6200",
+            "4. close": "8.6900",
+            "5. volume": "1243438"
+        },
+        "2018-10-04": {
+            "1. open": "8.8400",
+            "2. high": "8.8700",
+            "3. low": "8.6900",
+            "4. close": "8.7900",
+            "5. volume": "1194326"
+        },
+        "2018-10-03": {
+            "1. open": "8.8400",
+            "2. high": "8.8500",
+            "3. low": "8.5900",
+            "4. close": "8.8100",
+            "5. volume": "1962120"
+        },
+        "2018-10-02": {
+            "1. open": "9.1300",
+            "2. high": "9.1900",
+            "3. low": "8.6300",
+            "4. close": "8.7400",
+            "5. volume": "4000792"
+        },
+        "2018-10-01": {
+            "1. open": "9.4600",
+            "2. high": "9.5400",
+            "3. low": "9.0400",
+            "4. close": "9.2000",
+            "5. volume": "2084212"
+        },
+        "2018-09-28": {
+            "1. open": "9.4000",
+            "2. high": "9.5700",
+            "3. low": "9.3000",
+            "4. close": "9.3900",
+            "5. volume": "2296296"
+        },
+        "2018-09-27": {
+            "1. open": "9.3600",
+            "2. high": "9.5800",
+            "3. low": "9.2900",
+            "4. close": "9.3900",
+            "5. volume": "2025298"
+        },
+        "2018-09-26": {
+            "1. open": "9.2100",
+            "2. high": "9.4500",
+            "3. low": "9.1999",
+            "4. close": "9.3800",
+            "5. volume": "1443944"
+        },
+        "2018-09-25": {
+            "1. open": "9.3000",
+            "2. high": "9.3750",
+            "3. low": "9.1750",
+            "4. close": "9.2300",
+            "5. volume": "1323200"
+        },
+        "2018-09-24": {
+            "1. open": "9.3500",
+            "2. high": "9.4700",
+            "3. low": "9.2100",
+            "4. close": "9.2600",
+            "5. volume": "2853049"
+        },
+        "2018-09-21": {
+            "1. open": "9.7900",
+            "2. high": "9.8400",
+            "3. low": "9.3200",
+            "4. close": "9.3700",
+            "5. volume": "10142754"
+        },
+        "2018-09-20": {
+            "1. open": "8.4400",
+            "2. high": "9.0700",
+            "3. low": "8.3200",
+            "4. close": "8.9200",
+            "5. volume": "9326749"
+        },
+        "2018-09-19": {
+            "1. open": "8.5800",
+            "2. high": "8.6400",
+            "3. low": "8.3500",
+            "4. close": "8.3700",
+            "5. volume": "1707181"
+        },
+        "2018-09-18": {
+            "1. open": "8.3900",
+            "2. high": "8.9000",
+            "3. low": "8.3900",
+            "4. close": "8.5900",
+            "5. volume": "6629853"
+        },
+        "2018-09-17": {
+            "1. open": "8.5200",
+            "2. high": "8.5990",
+            "3. low": "8.3700",
+            "4. close": "8.4000",
+            "5. volume": "1658310"
+        },
+        "2018-09-14": {
+            "1. open": "8.5500",
+            "2. high": "8.6500",
+            "3. low": "8.5400",
+            "4. close": "8.5600",
+            "5. volume": "1302037"
+        },
+        "2018-09-13": {
+            "1. open": "8.6200",
+            "2. high": "8.7050",
+            "3. low": "8.5600",
+            "4. close": "8.5900",
+            "5. volume": "1068224"
+        },
+        "2018-09-12": {
+            "1. open": "8.5500",
+            "2. high": "8.6400",
+            "3. low": "8.4400",
+            "4. close": "8.6100",
+            "5. volume": "1540952"
+        },
+        "2018-09-11": {
+            "1. open": "8.5800",
+            "2. high": "8.6900",
+            "3. low": "8.4800",
+            "4. close": "8.5200",
+            "5. volume": "2682542"
+        },
+        "2018-09-10": {
+            "1. open": "8.8500",
+            "2. high": "8.8900",
+            "3. low": "8.5850",
+            "4. close": "8.6400",
+            "5. volume": "2081465"
+        },
+        "2018-09-07": {
+            "1. open": "8.9300",
+            "2. high": "9.0050",
+            "3. low": "8.7600",
+            "4. close": "8.8000",
+            "5. volume": "1034293"
+        },
+        "2018-09-06": {
+            "1. open": "8.7800",
+            "2. high": "9.1100",
+            "3. low": "8.6600",
+            "4. close": "8.9600",
+            "5. volume": "3998746"
+        },
+        "2018-09-05": {
+            "1. open": "8.8300",
+            "2. high": "8.9200",
+            "3. low": "8.2950",
+            "4. close": "8.7700",
+            "5. volume": "8316081"
+        },
+        "2018-09-04": {
+            "1. open": "8.9600",
+            "2. high": "9.2500",
+            "3. low": "8.8300",
+            "4. close": "9.1900",
+            "5. volume": "1721672"
+        },
+        "2018-08-31": {
+            "1. open": "8.9600",
+            "2. high": "9.0400",
+            "3. low": "8.8600",
+            "4. close": "8.9500",
+            "5. volume": "999543"
+        },
+        "2018-08-30": {
+            "1. open": "9.2500",
+            "2. high": "9.3200",
+            "3. low": "8.8400",
+            "4. close": "8.9300",
+            "5. volume": "3088130"
+        },
+        "2018-08-29": {
+            "1. open": "9.2700",
+            "2. high": "9.3400",
+            "3. low": "8.9650",
+            "4. close": "9.2500",
+            "5. volume": "3119927"
+        },
+        "2018-08-28": {
+            "1. open": "9.0500",
+            "2. high": "9.5950",
+            "3. low": "9.0000",
+            "4. close": "9.2100",
+            "5. volume": "4667882"
+        },
+        "2018-08-27": {
+            "1. open": "9.0500",
+            "2. high": "9.0600",
+            "3. low": "8.9500",
+            "4. close": "9.0400",
+            "5. volume": "1856135"
+        },
+        "2018-08-24": {
+            "1. open": "9.0200",
+            "2. high": "9.1300",
+            "3. low": "8.9500",
+            "4. close": "9.0100",
+            "5. volume": "1129170"
+        },
+        "2018-08-23": {
+            "1. open": "9.0800",
+            "2. high": "9.1300",
+            "3. low": "8.9000",
+            "4. close": "8.9900",
+            "5. volume": "3268332"
+        },
+        "2018-08-22": {
+            "1. open": "9.1400",
+            "2. high": "9.1500",
+            "3. low": "8.8100",
+            "4. close": "9.0800",
+            "5. volume": "2491277"
+        },
+        "2018-08-21": {
+            "1. open": "8.7600",
+            "2. high": "9.2200",
+            "3. low": "8.7100",
+            "4. close": "9.1400",
+            "5. volume": "3549052"
+        },
+        "2018-08-20": {
+            "1. open": "8.7500",
+            "2. high": "8.8200",
+            "3. low": "8.6300",
+            "4. close": "8.6900",
+            "5. volume": "1857748"
+        },
+        "2018-08-17": {
+            "1. open": "8.7300",
+            "2. high": "8.7700",
+            "3. low": "8.6000",
+            "4. close": "8.7100",
+            "5. volume": "1376797"
+        },
+        "2018-08-16": {
+            "1. open": "8.7900",
+            "2. high": "8.8450",
+            "3. low": "8.5450",
+            "4. close": "8.7200",
+            "5. volume": "2377149"
+        },
+        "2018-08-15": {
+            "1. open": "8.8700",
+            "2. high": "8.9000",
+            "3. low": "8.7100",
+            "4. close": "8.7300",
+            "5. volume": "1996555"
+        },
+        "2018-08-14": {
+            "1. open": "9.2000",
+            "2. high": "9.2100",
+            "3. low": "8.8600",
+            "4. close": "8.9000",
+            "5. volume": "3111342"
+        },
+        "2018-08-13": {
+            "1. open": "8.8900",
+            "2. high": "9.2300",
+            "3. low": "8.8900",
+            "4. close": "9.1500",
+            "5. volume": "2992987"
+        },
+        "2018-08-10": {
+            "1. open": "8.7100",
+            "2. high": "9.1500",
+            "3. low": "8.5500",
+            "4. close": "8.9000",
+            "5. volume": "4928879"
+        },
+        "2018-08-09": {
+            "1. open": "8.9300",
+            "2. high": "9.3300",
+            "3. low": "8.4100",
+            "4. close": "8.4700",
+            "5. volume": "6841959"
+        },
+        "2018-08-08": {
+            "1. open": "9.2100",
+            "2. high": "9.5150",
+            "3. low": "9.1400",
+            "4. close": "9.4800",
+            "5. volume": "5827839"
+        },
+        "2018-08-07": {
+            "1. open": "9.0800",
+            "2. high": "9.2500",
+            "3. low": "9.0300",
+            "4. close": "9.1500",
+            "5. volume": "2852719"
+        },
+        "2018-08-06": {
+            "1. open": "8.9200",
+            "2. high": "9.0400",
+            "3. low": "8.8500",
+            "4. close": "8.9800",
+            "5. volume": "1465114"
+        },
+        "2018-08-03": {
+            "1. open": "8.6400",
+            "2. high": "8.9450",
+            "3. low": "8.6400",
+            "4. close": "8.9100",
+            "5. volume": "1804505"
+        },
+        "2018-08-02": {
+            "1. open": "8.8800",
+            "2. high": "8.9100",
+            "3. low": "8.5600",
+            "4. close": "8.6200",
+            "5. volume": "2390251"
+        },
+        "2018-08-01": {
+            "1. open": "9.0300",
+            "2. high": "9.1500",
+            "3. low": "8.8600",
+            "4. close": "8.9500",
+            "5. volume": "1071516"
+        },
+        "2018-07-31": {
+            "1. open": "8.8000",
+            "2. high": "9.1800",
+            "3. low": "8.7800",
+            "4. close": "9.0100",
+            "5. volume": "3398845"
+        },
+        "2018-07-30": {
+            "1. open": "9.0000",
+            "2. high": "9.0400",
+            "3. low": "8.7700",
+            "4. close": "8.7800",
+            "5. volume": "1711625"
+        },
+        "2018-07-27": {
+            "1. open": "9.1800",
+            "2. high": "9.1900",
+            "3. low": "8.8700",
+            "4. close": "9.0100",
+            "5. volume": "2238197"
+        },
+        "2018-07-26": {
+            "1. open": "9.2000",
+            "2. high": "9.3200",
+            "3. low": "9.0000",
+            "4. close": "9.1000",
+            "5. volume": "1383901"
+        },
+        "2018-07-25": {
+            "1. open": "9.2600",
+            "2. high": "9.3400",
+            "3. low": "8.9750",
+            "4. close": "9.2300",
+            "5. volume": "1344302"
+        },
+        "2018-07-24": {
+            "1. open": "9.4100",
+            "2. high": "9.5300",
+            "3. low": "9.2200",
+            "4. close": "9.2500",
+            "5. volume": "1752372"
+        },
+        "2018-07-23": {
+            "1. open": "9.4000",
+            "2. high": "9.4700",
+            "3. low": "9.2350",
+            "4. close": "9.3600",
+            "5. volume": "1682307"
+        },
+        "2018-07-20": {
+            "1. open": "9.3800",
+            "2. high": "9.5000",
+            "3. low": "9.3100",
+            "4. close": "9.3500",
+            "5. volume": "1512466"
+        },
+        "2018-07-19": {
+            "1. open": "9.4500",
+            "2. high": "9.4650",
+            "3. low": "9.2200",
+            "4. close": "9.3600",
+            "5. volume": "2050856"
+        },
+        "2018-07-18": {
+            "1. open": "9.4100",
+            "2. high": "9.6000",
+            "3. low": "9.3700",
+            "4. close": "9.4500",
+            "5. volume": "2028605"
+        },
+        "2018-07-17": {
+            "1. open": "9.1800",
+            "2. high": "9.4250",
+            "3. low": "9.1500",
+            "4. close": "9.3900",
+            "5. volume": "2589178"
+        },
+        "2018-07-16": {
+            "1. open": "9.0200",
+            "2. high": "9.1900",
+            "3. low": "9.0000",
+            "4. close": "9.1800",
+            "5. volume": "1453196"
+        },
+        "2018-07-13": {
+            "1. open": "8.9100",
+            "2. high": "9.2100",
+            "3. low": "8.8300",
+            "4. close": "8.9600",
+            "5. volume": "2935796"
+        },
+        "2018-07-12": {
+            "1. open": "8.6700",
+            "2. high": "9.0400",
+            "3. low": "8.5050",
+            "4. close": "8.9200",
+            "5. volume": "2570878"
+        },
+        "2018-07-11": {
+            "1. open": "8.5600",
+            "2. high": "8.7700",
+            "3. low": "8.4400",
+            "4. close": "8.5800",
+            "5. volume": "1597854"
+        },
+        "2018-07-10": {
+            "1. open": "8.5900",
+            "2. high": "8.6700",
+            "3. low": "8.3400",
+            "4. close": "8.6200",
+            "5. volume": "2203078"
+        },
+        "2018-07-09": {
+            "1. open": "8.2300",
+            "2. high": "8.6200",
+            "3. low": "8.2200",
+            "4. close": "8.5400",
+            "5. volume": "1872162"
+        },
+        "2018-07-06": {
+            "1. open": "8.0400",
+            "2. high": "8.2450",
+            "3. low": "8.0100",
+            "4. close": "8.1800",
+            "5. volume": "794097"
+        },
+        "2018-07-05": {
+            "1. open": "8.1400",
+            "2. high": "8.1400",
+            "3. low": "7.8000",
+            "4. close": "8.0800",
+            "5. volume": "1888821"
+        },
+        "2018-07-03": {
+            "1. open": "8.1800",
+            "2. high": "8.2900",
+            "3. low": "8.0400",
+            "4. close": "8.0500",
+            "5. volume": "1478858"
+        },
+        "2018-07-02": {
+            "1. open": "8.5500",
+            "2. high": "8.6500",
+            "3. low": "8.0300",
+            "4. close": "8.1500",
+            "5. volume": "2936356"
+        },
+        "2018-06-29": {
+            "1. open": "8.5100",
+            "2. high": "8.9200",
+            "3. low": "8.4200",
+            "4. close": "8.6500",
+            "5. volume": "3132152"
+        },
+        "2018-06-28": {
+            "1. open": "8.8800",
+            "2. high": "8.9000",
+            "3. low": "8.3900",
+            "4. close": "8.4200",
+            "5. volume": "3688771"
+        },
+        "2018-06-27": {
+            "1. open": "8.8000",
+            "2. high": "9.0300",
+            "3. low": "8.7700",
+            "4. close": "8.8700",
+            "5. volume": "2056657"
+        },
+        "2018-06-26": {
+            "1. open": "8.7000",
+            "2. high": "8.8350",
+            "3. low": "8.7000",
+            "4. close": "8.7700",
+            "5. volume": "1710268"
+        },
+        "2018-06-25": {
+            "1. open": "8.7300",
+            "2. high": "8.8000",
+            "3. low": "8.5300",
+            "4. close": "8.6900",
+            "5. volume": "4656839"
+        },
+        "2018-06-22": {
+            "1. open": "8.7200",
+            "2. high": "8.8000",
+            "3. low": "8.5200",
+            "4. close": "8.7300",
+            "5. volume": "3302088"
+        },
+        "2018-06-21": {
+            "1. open": "8.7400",
+            "2. high": "8.9400",
+            "3. low": "8.5300",
+            "4. close": "8.6700",
+            "5. volume": "3147659"
+        },
+        "2018-06-20": {
+            "1. open": "8.2700",
+            "2. high": "8.8200",
+            "3. low": "8.2400",
+            "4. close": "8.7000",
+            "5. volume": "4370053"
+        },
+        "2018-06-19": {
+            "1. open": "8.2000",
+            "2. high": "8.3410",
+            "3. low": "8.1800",
+            "4. close": "8.2600",
+            "5. volume": "2222674"
+        },
+        "2018-06-18": {
+            "1. open": "8.0000",
+            "2. high": "8.3100",
+            "3. low": "7.9000",
+            "4. close": "8.2900",
+            "5. volume": "3409799"
+        },
+        "2018-06-15": {
+            "1. open": "8.0700",
+            "2. high": "8.1000",
+            "3. low": "7.9300",
+            "4. close": "7.9800",
+            "5. volume": "2759982"
+        }
+    }
+}],"3":[{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY."
+}],"4":[{
+    "Meta Data": {
+        "1. Information": "Daily Prices (open, high, low, close) and Volumes",
+        "2. Symbol": "AIS",
+        "3. Last Refreshed": "2018-01-30",
+        "4. Output Size": "Compact",
+        "5. Time Zone": "US/Eastern"
+    },
+    "Time Series (Daily)": {
+        "2018-01-30": {
+            "1. open": "0.8800",
+            "2. high": "0.8800",
+            "3. low": "0.6800",
+            "4. close": "0.6900",
+            "5. volume": "1100215"
+        },
+        "2018-01-29": {
+            "1. open": "0.9000",
+            "2. high": "0.9900",
+            "3. low": "0.8200",
+            "4. close": "0.8200",
+            "5. volume": "591803"
+        },
+        "2018-01-26": {
+            "1. open": "0.9600",
+            "2. high": "1.0300",
+            "3. low": "0.8100",
+            "4. close": "0.8600",
+            "5. volume": "550577"
+        },
+        "2018-01-25": {
+            "1. open": "1.0500",
+            "2. high": "1.0700",
+            "3. low": "0.9600",
+            "4. close": "0.9800",
+            "5. volume": "187486"
+        },
+        "2018-01-24": {
+            "1. open": "1.0800",
+            "2. high": "1.0900",
+            "3. low": "0.9900",
+            "4. close": "0.9900",
+            "5. volume": "140791"
+        },
+        "2018-01-23": {
+            "1. open": "1.1900",
+            "2. high": "1.1900",
+            "3. low": "1.0400",
+            "4. close": "1.0600",
+            "5. volume": "262930"
+        },
+        "2018-01-22": {
+            "1. open": "1.2000",
+            "2. high": "1.2500",
+            "3. low": "1.1000",
+            "4. close": "1.1200",
+            "5. volume": "271116"
+        },
+        "2018-01-19": {
+            "1. open": "1.1100",
+            "2. high": "1.2500",
+            "3. low": "1.1000",
+            "4. close": "1.1800",
+            "5. volume": "403617"
+        },
+        "2018-01-18": {
+            "1. open": "1.0500",
+            "2. high": "1.1400",
+            "3. low": "1.0300",
+            "4. close": "1.0900",
+            "5. volume": "159549"
+        },
+        "2018-01-17": {
+            "1. open": "1.0400",
+            "2. high": "1.0900",
+            "3. low": "1.0200",
+            "4. close": "1.0500",
+            "5. volume": "88839"
+        },
+        "2018-01-16": {
+            "1. open": "1.0000",
+            "2. high": "1.1200",
+            "3. low": "1.0000",
+            "4. close": "1.0600",
+            "5. volume": "212789"
+        },
+        "2018-01-12": {
+            "1. open": "1.2500",
+            "2. high": "1.2600",
+            "3. low": "1.0900",
+            "4. close": "1.1300",
+            "5. volume": "890299"
+        },
+        "2018-01-11": {
+            "1. open": "1.2300",
+            "2. high": "1.3000",
+            "3. low": "1.2300",
+            "4. close": "1.2600",
+            "5. volume": "73810"
+        },
+        "2018-01-10": {
+            "1. open": "1.3000",
+            "2. high": "1.3000",
+            "3. low": "1.2000",
+            "4. close": "1.2000",
+            "5. volume": "160796"
+        },
+        "2018-01-09": {
+            "1. open": "1.4000",
+            "2. high": "1.4000",
+            "3. low": "1.2700",
+            "4. close": "1.3200",
+            "5. volume": "156593"
+        },
+        "2018-01-08": {
+            "1. open": "1.4500",
+            "2. high": "1.4600",
+            "3. low": "1.3500",
+            "4. close": "1.4000",
+            "5. volume": "144750"
+        },
+        "2018-01-05": {
+            "1. open": "1.4600",
+            "2. high": "1.4700",
+            "3. low": "1.3500",
+            "4. close": "1.4500",
+            "5. volume": "266288"
+        },
+        "2018-01-04": {
+            "1. open": "1.3800",
+            "2. high": "1.4600",
+            "3. low": "1.3800",
+            "4. close": "1.4200",
+            "5. volume": "323512"
+        },
+        "2018-01-03": {
+            "1. open": "1.3300",
+            "2. high": "1.3900",
+            "3. low": "1.3100",
+            "4. close": "1.3700",
+            "5. volume": "269949"
+        },
+        "2018-01-02": {
+            "1. open": "1.2000",
+            "2. high": "1.3300",
+            "3. low": "1.2000",
+            "4. close": "1.2800",
+            "5. volume": "156414"
+        },
+        "2017-12-29": {
+            "1. open": "1.1100",
+            "2. high": "1.1900",
+            "3. low": "1.1000",
+            "4. close": "1.1700",
+            "5. volume": "134345"
+        },
+        "2017-12-28": {
+            "1. open": "1.3100",
+            "2. high": "1.3100",
+            "3. low": "1.0800",
+            "4. close": "1.0800",
+            "5. volume": "495471"
+        },
+        "2017-12-27": {
+            "1. open": "1.3200",
+            "2. high": "1.3300",
+            "3. low": "1.2900",
+            "4. close": "1.2900",
+            "5. volume": "273956"
+        },
+        "2017-12-26": {
+            "1. open": "1.3500",
+            "2. high": "1.3500",
+            "3. low": "1.3500",
+            "4. close": "1.3500",
+            "5. volume": "0"
+        },
+        "2017-12-22": {
+            "1. open": "1.1200",
+            "2. high": "1.4000",
+            "3. low": "1.1100",
+            "4. close": "1.3500",
+            "5. volume": "1202149"
+        },
+        "2017-12-21": {
+            "1. open": "1.0000",
+            "2. high": "1.1400",
+            "3. low": "1.0000",
+            "4. close": "1.1200",
+            "5. volume": "417140"
+        },
+        "2017-12-20": {
+            "1. open": "1.0000",
+            "2. high": "1.0300",
+            "3. low": "0.9700",
+            "4. close": "1.0300",
+            "5. volume": "164935"
+        },
+        "2017-12-19": {
+            "1. open": "1.0000",
+            "2. high": "1.0000",
+            "3. low": "0.9600",
+            "4. close": "0.9700",
+            "5. volume": "120350"
+        },
+        "2017-12-18": {
+            "1. open": "0.9200",
+            "2. high": "0.9600",
+            "3. low": "0.8900",
+            "4. close": "0.9500",
+            "5. volume": "97425"
+        },
+        "2017-12-15": {
+            "1. open": "0.9200",
+            "2. high": "0.9400",
+            "3. low": "0.8900",
+            "4. close": "0.9100",
+            "5. volume": "92980"
+        },
+        "2017-12-14": {
+            "1. open": "0.9400",
+            "2. high": "0.9400",
+            "3. low": "0.8900",
+            "4. close": "0.9200",
+            "5. volume": "150205"
+        },
+        "2017-12-13": {
+            "1. open": "0.9500",
+            "2. high": "0.9600",
+            "3. low": "0.9200",
+            "4. close": "0.9400",
+            "5. volume": "40860"
+        },
+        "2017-12-12": {
+            "1. open": "0.9600",
+            "2. high": "0.9900",
+            "3. low": "0.9200",
+            "4. close": "0.9200",
+            "5. volume": "131748"
+        },
+        "2017-12-11": {
+            "1. open": "1.0900",
+            "2. high": "1.0900",
+            "3. low": "0.8800",
+            "4. close": "0.9300",
+            "5. volume": "144445"
+        },
+        "2017-12-08": {
+            "1. open": "1.1100",
+            "2. high": "1.1100",
+            "3. low": "0.9800",
+            "4. close": "0.9800",
+            "5. volume": "110500"
+        },
+        "2017-12-07": {
+            "1. open": "1.0800",
+            "2. high": "1.1400",
+            "3. low": "1.0400",
+            "4. close": "1.0400",
+            "5. volume": "209022"
+        },
+        "2017-12-06": {
+            "1. open": "1.1400",
+            "2. high": "1.1500",
+            "3. low": "1.0400",
+            "4. close": "1.0400",
+            "5. volume": "165347"
+        },
+        "2017-12-05": {
+            "1. open": "1.0600",
+            "2. high": "1.1400",
+            "3. low": "0.9900",
+            "4. close": "1.1400",
+            "5. volume": "599550"
+        },
+        "2017-12-04": {
+            "1. open": "0.9900",
+            "2. high": "1.0800",
+            "3. low": "0.9200",
+            "4. close": "1.0600",
+            "5. volume": "530079"
+        },
+        "2017-12-01": {
+            "1. open": "0.9300",
+            "2. high": "0.9900",
+            "3. low": "0.9300",
+            "4. close": "0.9600",
+            "5. volume": "121400"
+        },
+        "2017-11-30": {
+            "1. open": "0.9300",
+            "2. high": "0.9300",
+            "3. low": "0.8800",
+            "4. close": "0.8800",
+            "5. volume": "115000"
+        },
+        "2017-11-29": {
+            "1. open": "0.8900",
+            "2. high": "0.9200",
+            "3. low": "0.8800",
+            "4. close": "0.8800",
+            "5. volume": "124600"
+        },
+        "2017-11-28": {
+            "1. open": "0.8400",
+            "2. high": "0.8900",
+            "3. low": "0.8300",
+            "4. close": "0.8600",
+            "5. volume": "287580"
+        },
+        "2017-11-27": {
+            "1. open": "0.9100",
+            "2. high": "0.9100",
+            "3. low": "0.8300",
+            "4. close": "0.8600",
+            "5. volume": "167630"
+        },
+        "2017-11-24": {
+            "1. open": "0.9100",
+            "2. high": "0.9300",
+            "3. low": "0.9000",
+            "4. close": "0.9000",
+            "5. volume": "237508"
+        },
+        "2017-11-22": {
+            "1. open": "1.0100",
+            "2. high": "1.0600",
+            "3. low": "0.9500",
+            "4. close": "0.9500",
+            "5. volume": "127755"
+        },
+        "2017-11-21": {
+            "1. open": "0.9400",
+            "2. high": "0.9900",
+            "3. low": "0.9400",
+            "4. close": "0.9600",
+            "5. volume": "36940"
+        },
+        "2017-11-20": {
+            "1. open": "1.0700",
+            "2. high": "1.1000",
+            "3. low": "0.9500",
+            "4. close": "0.9500",
+            "5. volume": "381180"
+        },
+        "2017-11-17": {
+            "1. open": "0.9800",
+            "2. high": "1.1100",
+            "3. low": "0.9500",
+            "4. close": "1.1000",
+            "5. volume": "543900"
+        },
+        "2017-11-16": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-11-15": {
+            "1. open": "0.9500",
+            "2. high": "1.0500",
+            "3. low": "0.9200",
+            "4. close": "1.0100",
+            "5. volume": "314200"
+        },
+        "2017-11-14": {
+            "1. open": "1.0400",
+            "2. high": "1.0400",
+            "3. low": "0.9400",
+            "4. close": "0.9400",
+            "5. volume": "422844"
+        },
+        "2017-11-13": {
+            "1. open": "1.0700",
+            "2. high": "1.1200",
+            "3. low": "0.9600",
+            "4. close": "1.0600",
+            "5. volume": "690831"
+        },
+        "2017-11-10": {
+            "1. open": "0.8000",
+            "2. high": "1.0400",
+            "3. low": "0.7600",
+            "4. close": "1.0400",
+            "5. volume": "1308406"
+        },
+        "2017-11-09": {
+            "1. open": "0.7800",
+            "2. high": "0.8100",
+            "3. low": "0.7600",
+            "4. close": "0.7900",
+            "5. volume": "203060"
+        },
+        "2017-11-08": {
+            "1. open": "0.7900",
+            "2. high": "0.8100",
+            "3. low": "0.7600",
+            "4. close": "0.7800",
+            "5. volume": "176750"
+        }
+    }
+}],"5":[{
+    "Meta Data": {
+        "1. Information": "Daily Prices (open, high, low, close) and Volumes",
+        "2. Symbol": "AOP",
+        "3. Last Refreshed": "2017-03-20",
+        "4. Output Size": "Compact",
+        "5. Time Zone": "US/Eastern"
+    },
+    "Time Series (Daily)": {
+        "2017-03-20": {
+            "1. open": "2.4010",
+            "2. high": "2.4010",
+            "3. low": "2.4010",
+            "4. close": "2.4010",
+            "5. volume": "0"
+        },
+        "2017-03-17": {
+            "1. open": "2.4010",
+            "2. high": "2.4010",
+            "3. low": "2.4010",
+            "4. close": "2.4010",
+            "5. volume": "0"
+        },
+        "2017-03-16": {
+            "1. open": "2.4010",
+            "2. high": "2.4010",
+            "3. low": "2.4010",
+            "4. close": "2.4010",
+            "5. volume": "0"
+        },
+        "2017-03-15": {
+            "1. open": "2.4010",
+            "2. high": "2.4010",
+            "3. low": "2.4010",
+            "4. close": "2.4010",
+            "5. volume": "0"
+        },
+        "2017-03-14": {
+            "1. open": "2.4010",
+            "2. high": "2.4010",
+            "3. low": "2.4010",
+            "4. close": "2.4010",
+            "5. volume": "0"
+        },
+        "2017-03-13": {
+            "1. open": "2.4010",
+            "2. high": "2.4010",
+            "3. low": "2.4010",
+            "4. close": "2.4010",
+            "5. volume": "0"
+        },
+        "2017-03-10": {
+            "1. open": "2.3720",
+            "2. high": "2.3720",
+            "3. low": "2.3720",
+            "4. close": "2.3720",
+            "5. volume": "0"
+        },
+        "2017-03-09": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-03-08": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-03-07": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-03-06": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-03-03": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-03-02": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-03-01": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-28": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-27": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-24": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-23": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-22": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-21": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-17": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-16": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-15": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-14": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-13": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-02-10": {
+            "1. open": "2.3130",
+            "2. high": "2.3130",
+            "3. low": "2.3130",
+            "4. close": "2.3130",
+            "5. volume": "0"
+        },
+        "2017-02-09": {
+            "1. open": "2.3490",
+            "2. high": "2.3490",
+            "3. low": "2.3490",
+            "4. close": "2.3490",
+            "5. volume": "0"
+        },
+        "2017-02-08": {
+            "1. open": "2.3500",
+            "2. high": "2.3500",
+            "3. low": "2.3500",
+            "4. close": "2.3500",
+            "5. volume": "0"
+        },
+        "2017-02-07": {
+            "1. open": "2.3200",
+            "2. high": "2.3200",
+            "3. low": "2.3200",
+            "4. close": "2.3200",
+            "5. volume": "0"
+        },
+        "2017-02-06": {
+            "1. open": "2.2810",
+            "2. high": "2.2810",
+            "3. low": "2.2810",
+            "4. close": "2.2810",
+            "5. volume": "0"
+        },
+        "2017-02-03": {
+            "1. open": "2.3200",
+            "2. high": "2.3200",
+            "3. low": "2.3200",
+            "4. close": "2.3200",
+            "5. volume": "0"
+        },
+        "2017-02-02": {
+            "1. open": "2.2650",
+            "2. high": "2.2650",
+            "3. low": "2.2650",
+            "4. close": "2.2650",
+            "5. volume": "0"
+        },
+        "2017-02-01": {
+            "1. open": "2.3200",
+            "2. high": "2.3200",
+            "3. low": "2.3200",
+            "4. close": "2.3200",
+            "5. volume": "0"
+        },
+        "2017-01-31": {
+            "1. open": "2.2470",
+            "2. high": "2.2470",
+            "3. low": "2.2470",
+            "4. close": "2.2470",
+            "5. volume": "0"
+        },
+        "2017-01-30": {
+            "1. open": "2.3200",
+            "2. high": "2.3200",
+            "3. low": "2.3200",
+            "4. close": "2.3200",
+            "5. volume": "0"
+        },
+        "2017-01-27": {
+            "1. open": "2.2780",
+            "2. high": "2.2780",
+            "3. low": "2.2780",
+            "4. close": "2.2780",
+            "5. volume": "0"
+        },
+        "2017-01-26": {
+            "1. open": "2.2660",
+            "2. high": "2.2660",
+            "3. low": "2.2660",
+            "4. close": "2.2660",
+            "5. volume": "0"
+        },
+        "2017-01-25": {
+            "1. open": "2.2280",
+            "2. high": "2.2280",
+            "3. low": "2.2280",
+            "4. close": "2.2280",
+            "5. volume": "0"
+        },
+        "2017-01-24": {
+            "1. open": "2.1920",
+            "2. high": "2.1920",
+            "3. low": "2.1920",
+            "4. close": "2.1920",
+            "5. volume": "0"
+        },
+        "2017-01-23": {
+            "1. open": "2.1650",
+            "2. high": "2.1650",
+            "3. low": "2.1650",
+            "4. close": "2.1650",
+            "5. volume": "0"
+        },
+        "2017-01-20": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-01-19": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-01-18": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-01-17": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-01-13": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-01-12": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2017-01-11": {
+            "1. open": "2.1390",
+            "2. high": "2.1390",
+            "3. low": "2.1390",
+            "4. close": "2.1390",
+            "5. volume": "0"
+        },
+        "2017-01-10": {
+            "1. open": "2.0830",
+            "2. high": "2.0830",
+            "3. low": "2.0830",
+            "4. close": "2.0830",
+            "5. volume": "0"
+        },
+        "2017-01-09": {
+            "1. open": "2.0790",
+            "2. high": "2.0790",
+            "3. low": "2.0790",
+            "4. close": "2.0790",
+            "5. volume": "0"
+        },
+        "2017-01-06": {
+            "1. open": "2.0700",
+            "2. high": "2.0700",
+            "3. low": "2.0700",
+            "4. close": "2.0700",
+            "5. volume": "0"
+        },
+        "2017-01-05": {
+            "1. open": "2.0380",
+            "2. high": "2.0380",
+            "3. low": "2.0380",
+            "4. close": "2.0380",
+            "5. volume": "0"
+        },
+        "2017-01-04": {
+            "1. open": "2.0630",
+            "2. high": "2.0630",
+            "3. low": "2.0630",
+            "4. close": "2.0630",
+            "5. volume": "0"
+        },
+        "2017-01-03": {
+            "1. open": "2.0390",
+            "2. high": "2.0390",
+            "3. low": "2.0390",
+            "4. close": "2.0390",
+            "5. volume": "0"
+        },
+        "2016-12-30": {
+            "1. open": "2.0040",
+            "2. high": "2.0040",
+            "3. low": "2.0040",
+            "4. close": "2.0040",
+            "5. volume": "0"
+        },
+        "2016-12-29": {
+            "1. open": "2.0040",
+            "2. high": "2.0040",
+            "3. low": "2.0040",
+            "4. close": "2.0040",
+            "5. volume": "0"
+        },
+        "2016-12-28": {
+            "1. open": "1.9480",
+            "2. high": "2.0040",
+            "3. low": "1.9480",
+            "4. close": "2.0040",
+            "5. volume": "0"
+        },
+        "2016-12-27": {
+            "1. open": "2.0210",
+            "2. high": "2.0210",
+            "3. low": "2.0210",
+            "4. close": "2.0210",
+            "5. volume": "0"
+        },
+        "2016-12-23": {
+            "1. open": "2.0210",
+            "2. high": "2.0210",
+            "3. low": "2.0210",
+            "4. close": "2.0210",
+            "5. volume": "0"
+        },
+        "2016-12-22": {
+            "1. open": "2.0330",
+            "2. high": "2.0330",
+            "3. low": "2.0330",
+            "4. close": "2.0330",
+            "5. volume": "0"
+        },
+        "2016-12-21": {
+            "1. open": "2.0020",
+            "2. high": "2.0020",
+            "3. low": "2.0020",
+            "4. close": "2.0020",
+            "5. volume": "0"
+        },
+        "2016-12-20": {
+            "1. open": "2.0120",
+            "2. high": "2.0120",
+            "3. low": "2.0120",
+            "4. close": "2.0120",
+            "5. volume": "0"
+        },
+        "2016-12-19": {
+            "1. open": "2.0240",
+            "2. high": "2.0240",
+            "3. low": "2.0240",
+            "4. close": "2.0240",
+            "5. volume": "0"
+        },
+        "2016-12-16": {
+            "1. open": "2.1050",
+            "2. high": "2.1050",
+            "3. low": "2.1050",
+            "4. close": "2.1050",
+            "5. volume": "0"
+        },
+        "2016-12-15": {
+            "1. open": "2.1070",
+            "2. high": "2.1070",
+            "3. low": "2.1070",
+            "4. close": "2.1070",
+            "5. volume": "0"
+        },
+        "2016-12-14": {
+            "1. open": "2.0640",
+            "2. high": "2.0640",
+            "3. low": "2.0640",
+            "4. close": "2.0640",
+            "5. volume": "0"
+        },
+        "2016-12-13": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-12": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-09": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-08": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-07": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-06": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-05": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-02": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-12-01": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-30": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-29": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-28": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-25": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-23": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-22": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-21": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-18": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-17": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-16": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-15": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-14": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-11": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-10": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-09": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-08": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-07": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-04": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-03": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-02": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-11-01": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-10-31": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-10-28": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-10-27": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-10-26": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        },
+        "2016-10-25": {
+            "1. open": "0.0000",
+            "2. high": "0.0000",
+            "3. low": "0.0000",
+            "4. close": "0.0000",
+            "5. volume": "0"
+        }
+    }
+}],"6":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"7":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"8":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"9":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"10":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"11":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"12":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"13":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"14":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"15":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"16":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"17":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"18":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"19":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"20":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"21":[{
+    "Meta Data": {
+        "1. Information": "Daily Prices (open, high, low, close) and Volumes",
+        "2. Symbol": "BSM",
+        "3. Last Refreshed": "2018-11-05 15:13:04",
+        "4. Output Size": "Compact",
+        "5. Time Zone": "US/Eastern"
+    },
+    "Time Series (Daily)": {
+        "2018-11-05": {
+            "1. open": "16.9500",
+            "2. high": "17.1500",
+            "3. low": "16.9800",
+            "4. close": "17.0000",
+            "5. volume": "153085"
+        },
+        "2018-11-02": {
+            "1. open": "16.9700",
+            "2. high": "16.9700",
+            "3. low": "16.8500",
+            "4. close": "16.8800",
+            "5. volume": "129504"
+        },
+        "2018-11-01": {
+            "1. open": "17.0300",
+            "2. high": "17.2100",
+            "3. low": "16.8300",
+            "4. close": "16.9300",
+            "5. volume": "248951"
+        },
+        "2018-10-31": {
+            "1. open": "17.1300",
+            "2. high": "17.4300",
+            "3. low": "16.8100",
+            "4. close": "17.0400",
+            "5. volume": "195151"
+        },
+        "2018-10-30": {
+            "1. open": "16.7200",
+            "2. high": "17.1000",
+            "3. low": "16.6500",
+            "4. close": "17.0600",
+            "5. volume": "147716"
+        },
+        "2018-10-29": {
+            "1. open": "16.8600",
+            "2. high": "17.1300",
+            "3. low": "16.5747",
+            "4. close": "16.7000",
+            "5. volume": "125806"
+        },
+        "2018-10-26": {
+            "1. open": "16.7500",
+            "2. high": "16.8600",
+            "3. low": "16.5100",
+            "4. close": "16.6300",
+            "5. volume": "67745"
+        },
+        "2018-10-25": {
+            "1. open": "16.7800",
+            "2. high": "16.8300",
+            "3. low": "16.6900",
+            "4. close": "16.7800",
+            "5. volume": "103416"
+        },
+        "2018-10-24": {
+            "1. open": "17.1200",
+            "2. high": "17.1250",
+            "3. low": "16.6800",
+            "4. close": "16.7000",
+            "5. volume": "72429"
+        },
+        "2018-10-23": {
+            "1. open": "17.0000",
+            "2. high": "17.2799",
+            "3. low": "16.5800",
+            "4. close": "17.0800",
+            "5. volume": "174722"
+        },
+        "2018-10-22": {
+            "1. open": "17.2600",
+            "2. high": "17.3400",
+            "3. low": "17.0100",
+            "4. close": "17.0700",
+            "5. volume": "55678"
+        },
+        "2018-10-19": {
+            "1. open": "17.3500",
+            "2. high": "17.5840",
+            "3. low": "17.2000",
+            "4. close": "17.2500",
+            "5. volume": "73526"
+        },
+        "2018-10-18": {
+            "1. open": "17.3200",
+            "2. high": "17.4400",
+            "3. low": "17.3000",
+            "4. close": "17.3500",
+            "5. volume": "99390"
+        },
+        "2018-10-17": {
+            "1. open": "17.6700",
+            "2. high": "17.6700",
+            "3. low": "17.3200",
+            "4. close": "17.5300",
+            "5. volume": "137469"
+        },
+        "2018-10-16": {
+            "1. open": "17.3800",
+            "2. high": "17.7200",
+            "3. low": "17.3100",
+            "4. close": "17.6700",
+            "5. volume": "65788"
+        },
+        "2018-10-15": {
+            "1. open": "17.5600",
+            "2. high": "17.6300",
+            "3. low": "17.3100",
+            "4. close": "17.3300",
+            "5. volume": "66483"
+        },
+        "2018-10-12": {
+            "1. open": "17.6500",
+            "2. high": "17.9800",
+            "3. low": "17.4500",
+            "4. close": "17.6200",
+            "5. volume": "73657"
+        },
+        "2018-10-11": {
+            "1. open": "17.5700",
+            "2. high": "17.7700",
+            "3. low": "17.4100",
+            "4. close": "17.4500",
+            "5. volume": "96868"
+        },
+        "2018-10-10": {
+            "1. open": "18.1000",
+            "2. high": "18.1405",
+            "3. low": "17.5800",
+            "4. close": "17.6100",
+            "5. volume": "105967"
+        },
+        "2018-10-09": {
+            "1. open": "18.0300",
+            "2. high": "18.2300",
+            "3. low": "17.8900",
+            "4. close": "18.1300",
+            "5. volume": "49696"
+        },
+        "2018-10-08": {
+            "1. open": "18.2800",
+            "2. high": "18.5900",
+            "3. low": "18.0100",
+            "4. close": "18.0500",
+            "5. volume": "52981"
+        },
+        "2018-10-05": {
+            "1. open": "18.2800",
+            "2. high": "18.3750",
+            "3. low": "18.2000",
+            "4. close": "18.3100",
+            "5. volume": "56679"
+        },
+        "2018-10-04": {
+            "1. open": "18.3800",
+            "2. high": "18.3800",
+            "3. low": "18.1200",
+            "4. close": "18.3000",
+            "5. volume": "91211"
+        },
+        "2018-10-03": {
+            "1. open": "18.4000",
+            "2. high": "18.4450",
+            "3. low": "18.2500",
+            "4. close": "18.4000",
+            "5. volume": "171663"
+        },
+        "2018-10-02": {
+            "1. open": "18.4000",
+            "2. high": "18.4600",
+            "3. low": "18.2450",
+            "4. close": "18.3000",
+            "5. volume": "56895"
+        },
+        "2018-10-01": {
+            "1. open": "18.2900",
+            "2. high": "18.4351",
+            "3. low": "18.2400",
+            "4. close": "18.4000",
+            "5. volume": "86048"
+        },
+        "2018-09-28": {
+            "1. open": "18.2700",
+            "2. high": "18.4900",
+            "3. low": "18.1400",
+            "4. close": "18.2100",
+            "5. volume": "90156"
+        },
+        "2018-09-27": {
+            "1. open": "18.2900",
+            "2. high": "18.4600",
+            "3. low": "18.2000",
+            "4. close": "18.2700",
+            "5. volume": "62265"
+        },
+        "2018-09-26": {
+            "1. open": "18.4100",
+            "2. high": "18.4188",
+            "3. low": "18.0900",
+            "4. close": "18.3000",
+            "5. volume": "43844"
+        },
+        "2018-09-25": {
+            "1. open": "18.4300",
+            "2. high": "18.5100",
+            "3. low": "18.3700",
+            "4. close": "18.4000",
+            "5. volume": "114902"
+        },
+        "2018-09-24": {
+            "1. open": "18.6000",
+            "2. high": "18.6847",
+            "3. low": "18.3900",
+            "4. close": "18.4000",
+            "5. volume": "78150"
+        },
+        "2018-09-21": {
+            "1. open": "18.4000",
+            "2. high": "18.5000",
+            "3. low": "18.2800",
+            "4. close": "18.4000",
+            "5. volume": "157122"
+        },
+        "2018-09-20": {
+            "1. open": "18.5300",
+            "2. high": "18.5300",
+            "3. low": "17.8700",
+            "4. close": "18.4000",
+            "5. volume": "104182"
+        },
+        "2018-09-19": {
+            "1. open": "18.4700",
+            "2. high": "18.5400",
+            "3. low": "18.3700",
+            "4. close": "18.4300",
+            "5. volume": "53952"
+        },
+        "2018-09-18": {
+            "1. open": "18.3900",
+            "2. high": "18.5100",
+            "3. low": "18.3306",
+            "4. close": "18.4300",
+            "5. volume": "28984"
+        },
+        "2018-09-17": {
+            "1. open": "18.4100",
+            "2. high": "18.5000",
+            "3. low": "18.2100",
+            "4. close": "18.3600",
+            "5. volume": "41929"
+        },
+        "2018-09-14": {
+            "1. open": "18.4700",
+            "2. high": "18.4700",
+            "3. low": "18.2600",
+            "4. close": "18.4400",
+            "5. volume": "101746"
+        },
+        "2018-09-13": {
+            "1. open": "18.5500",
+            "2. high": "18.6273",
+            "3. low": "18.4100",
+            "4. close": "18.4500",
+            "5. volume": "46952"
+        },
+        "2018-09-12": {
+            "1. open": "18.8900",
+            "2. high": "19.0300",
+            "3. low": "18.3500",
+            "4. close": "18.5500",
+            "5. volume": "320632"
+        },
+        "2018-09-11": {
+            "1. open": "18.6100",
+            "2. high": "19.0000",
+            "3. low": "18.6100",
+            "4. close": "18.8700",
+            "5. volume": "195701"
+        },
+        "2018-09-10": {
+            "1. open": "18.5500",
+            "2. high": "18.6400",
+            "3. low": "18.3000",
+            "4. close": "18.6100",
+            "5. volume": "1078215"
+        },
+        "2018-09-07": {
+            "1. open": "18.4400",
+            "2. high": "18.5700",
+            "3. low": "18.3300",
+            "4. close": "18.5500",
+            "5. volume": "80114"
+        },
+        "2018-09-06": {
+            "1. open": "18.5400",
+            "2. high": "18.5600",
+            "3. low": "18.3900",
+            "4. close": "18.5200",
+            "5. volume": "204985"
+        },
+        "2018-09-05": {
+            "1. open": "18.6100",
+            "2. high": "18.6100",
+            "3. low": "18.4200",
+            "4. close": "18.5000",
+            "5. volume": "106917"
+        },
+        "2018-09-04": {
+            "1. open": "18.5500",
+            "2. high": "18.6800",
+            "3. low": "18.4600",
+            "4. close": "18.5500",
+            "5. volume": "96549"
+        },
+        "2018-08-31": {
+            "1. open": "18.4700",
+            "2. high": "18.5500",
+            "3. low": "18.4700",
+            "4. close": "18.5200",
+            "5. volume": "79153"
+        },
+        "2018-08-30": {
+            "1. open": "18.5000",
+            "2. high": "18.5400",
+            "3. low": "18.3000",
+            "4. close": "18.4700",
+            "5. volume": "41816"
+        },
+        "2018-08-29": {
+            "1. open": "18.4500",
+            "2. high": "18.5600",
+            "3. low": "18.4000",
+            "4. close": "18.5000",
+            "5. volume": "119960"
+        },
+        "2018-08-28": {
+            "1. open": "18.4000",
+            "2. high": "18.4400",
+            "3. low": "18.1700",
+            "4. close": "18.4400",
+            "5. volume": "187572"
+        },
+        "2018-08-27": {
+            "1. open": "18.5700",
+            "2. high": "18.6500",
+            "3. low": "18.3700",
+            "4. close": "18.4200",
+            "5. volume": "41429"
+        },
+        "2018-08-24": {
+            "1. open": "18.6300",
+            "2. high": "18.7250",
+            "3. low": "18.4876",
+            "4. close": "18.6700",
+            "5. volume": "54995"
+        },
+        "2018-08-23": {
+            "1. open": "18.6100",
+            "2. high": "18.6665",
+            "3. low": "18.4900",
+            "4. close": "18.5500",
+            "5. volume": "98886"
+        },
+        "2018-08-22": {
+            "1. open": "18.5100",
+            "2. high": "18.6700",
+            "3. low": "18.3900",
+            "4. close": "18.5900",
+            "5. volume": "92289"
+        },
+        "2018-08-21": {
+            "1. open": "18.4900",
+            "2. high": "18.6000",
+            "3. low": "18.4500",
+            "4. close": "18.5000",
+            "5. volume": "125840"
+        },
+        "2018-08-20": {
+            "1. open": "18.5000",
+            "2. high": "18.5600",
+            "3. low": "18.3900",
+            "4. close": "18.4500",
+            "5. volume": "101155"
+        },
+        "2018-08-17": {
+            "1. open": "18.5600",
+            "2. high": "18.6700",
+            "3. low": "18.4700",
+            "4. close": "18.4700",
+            "5. volume": "129430"
+        },
+        "2018-08-16": {
+            "1. open": "18.5500",
+            "2. high": "18.5900",
+            "3. low": "18.4125",
+            "4. close": "18.5600",
+            "5. volume": "152459"
+        },
+        "2018-08-15": {
+            "1. open": "18.5700",
+            "2. high": "18.7600",
+            "3. low": "18.4400",
+            "4. close": "18.4900",
+            "5. volume": "322408"
+        },
+        "2018-08-14": {
+            "1. open": "19.0300",
+            "2. high": "19.2900",
+            "3. low": "18.9450",
+            "4. close": "18.9900",
+            "5. volume": "170086"
+        },
+        "2018-08-13": {
+            "1. open": "19.0600",
+            "2. high": "19.0600",
+            "3. low": "18.7200",
+            "4. close": "18.9300",
+            "5. volume": "561996"
+        },
+        "2018-08-10": {
+            "1. open": "18.7400",
+            "2. high": "19.1300",
+            "3. low": "18.6356",
+            "4. close": "19.0800",
+            "5. volume": "306624"
+        },
+        "2018-08-09": {
+            "1. open": "18.5000",
+            "2. high": "18.8400",
+            "3. low": "18.4100",
+            "4. close": "18.7300",
+            "5. volume": "185182"
+        },
+        "2018-08-08": {
+            "1. open": "18.5400",
+            "2. high": "18.5700",
+            "3. low": "18.3000",
+            "4. close": "18.4600",
+            "5. volume": "171807"
+        },
+        "2018-08-07": {
+            "1. open": "17.6000",
+            "2. high": "18.6800",
+            "3. low": "17.6000",
+            "4. close": "18.4000",
+            "5. volume": "285806"
+        },
+        "2018-08-06": {
+            "1. open": "17.2500",
+            "2. high": "17.6400",
+            "3. low": "17.0950",
+            "4. close": "17.5200",
+            "5. volume": "78803"
+        },
+        "2018-08-03": {
+            "1. open": "17.2600",
+            "2. high": "17.2860",
+            "3. low": "17.0600",
+            "4. close": "17.1700",
+            "5. volume": "222771"
+        },
+        "2018-08-02": {
+            "1. open": "17.1500",
+            "2. high": "17.4800",
+            "3. low": "17.1500",
+            "4. close": "17.3400",
+            "5. volume": "91165"
+        },
+        "2018-08-01": {
+            "1. open": "17.0500",
+            "2. high": "17.4800",
+            "3. low": "17.0200",
+            "4. close": "17.2500",
+            "5. volume": "132625"
+        },
+        "2018-07-31": {
+            "1. open": "17.2500",
+            "2. high": "17.2750",
+            "3. low": "17.0500",
+            "4. close": "17.1500",
+            "5. volume": "143373"
+        },
+        "2018-07-30": {
+            "1. open": "17.4700",
+            "2. high": "17.4700",
+            "3. low": "17.2300",
+            "4. close": "17.2400",
+            "5. volume": "68837"
+        },
+        "2018-07-27": {
+            "1. open": "17.6000",
+            "2. high": "17.6000",
+            "3. low": "17.3000",
+            "4. close": "17.3200",
+            "5. volume": "37537"
+        },
+        "2018-07-26": {
+            "1. open": "17.5600",
+            "2. high": "17.6200",
+            "3. low": "17.5000",
+            "4. close": "17.6100",
+            "5. volume": "24686"
+        },
+        "2018-07-25": {
+            "1. open": "17.3800",
+            "2. high": "17.5700",
+            "3. low": "17.3100",
+            "4. close": "17.4800",
+            "5. volume": "137127"
+        },
+        "2018-07-24": {
+            "1. open": "17.2300",
+            "2. high": "17.4800",
+            "3. low": "17.2300",
+            "4. close": "17.4000",
+            "5. volume": "45938"
+        },
+        "2018-07-23": {
+            "1. open": "17.2800",
+            "2. high": "17.4900",
+            "3. low": "17.2100",
+            "4. close": "17.2200",
+            "5. volume": "94871"
+        },
+        "2018-07-20": {
+            "1. open": "17.5300",
+            "2. high": "17.5900",
+            "3. low": "17.2810",
+            "4. close": "17.3300",
+            "5. volume": "97541"
+        },
+        "2018-07-19": {
+            "1. open": "17.7000",
+            "2. high": "17.8700",
+            "3. low": "17.5600",
+            "4. close": "17.5900",
+            "5. volume": "64292"
+        },
+        "2018-07-18": {
+            "1. open": "17.8800",
+            "2. high": "17.8800",
+            "3. low": "17.6300",
+            "4. close": "17.7600",
+            "5. volume": "87968"
+        },
+        "2018-07-17": {
+            "1. open": "17.9000",
+            "2. high": "17.9900",
+            "3. low": "17.8000",
+            "4. close": "17.9000",
+            "5. volume": "78585"
+        },
+        "2018-07-16": {
+            "1. open": "18.0000",
+            "2. high": "18.1200",
+            "3. low": "17.8100",
+            "4. close": "17.9300",
+            "5. volume": "81811"
+        },
+        "2018-07-13": {
+            "1. open": "18.0100",
+            "2. high": "18.2100",
+            "3. low": "18.0000",
+            "4. close": "18.0500",
+            "5. volume": "68830"
+        },
+        "2018-07-12": {
+            "1. open": "18.0000",
+            "2. high": "18.0200",
+            "3. low": "17.7100",
+            "4. close": "17.9700",
+            "5. volume": "142801"
+        },
+        "2018-07-11": {
+            "1. open": "18.2100",
+            "2. high": "18.2400",
+            "3. low": "17.9500",
+            "4. close": "17.9800",
+            "5. volume": "94873"
+        },
+        "2018-07-10": {
+            "1. open": "18.3100",
+            "2. high": "18.4100",
+            "3. low": "18.1400",
+            "4. close": "18.1700",
+            "5. volume": "81812"
+        },
+        "2018-07-09": {
+            "1. open": "18.1600",
+            "2. high": "18.3500",
+            "3. low": "18.0800",
+            "4. close": "18.2400",
+            "5. volume": "118614"
+        },
+        "2018-07-06": {
+            "1. open": "18.1300",
+            "2. high": "18.3300",
+            "3. low": "18.1300",
+            "4. close": "18.1400",
+            "5. volume": "104988"
+        },
+        "2018-07-05": {
+            "1. open": "18.4500",
+            "2. high": "18.4500",
+            "3. low": "18.0900",
+            "4. close": "18.2200",
+            "5. volume": "136979"
+        },
+        "2018-07-03": {
+            "1. open": "18.3000",
+            "2. high": "18.5200",
+            "3. low": "18.2300",
+            "4. close": "18.3100",
+            "5. volume": "83084"
+        },
+        "2018-07-02": {
+            "1. open": "18.4300",
+            "2. high": "18.4300",
+            "3. low": "18.1600",
+            "4. close": "18.2700",
+            "5. volume": "117662"
+        },
+        "2018-06-29": {
+            "1. open": "18.6000",
+            "2. high": "18.8600",
+            "3. low": "18.4000",
+            "4. close": "18.4900",
+            "5. volume": "95110"
+        },
+        "2018-06-28": {
+            "1. open": "18.6900",
+            "2. high": "18.8371",
+            "3. low": "18.4300",
+            "4. close": "18.5200",
+            "5. volume": "78097"
+        },
+        "2018-06-27": {
+            "1. open": "18.7700",
+            "2. high": "18.9800",
+            "3. low": "18.6900",
+            "4. close": "18.6900",
+            "5. volume": "76429"
+        },
+        "2018-06-26": {
+            "1. open": "18.9100",
+            "2. high": "19.0100",
+            "3. low": "18.7000",
+            "4. close": "18.7700",
+            "5. volume": "119479"
+        },
+        "2018-06-25": {
+            "1. open": "18.8400",
+            "2. high": "18.8600",
+            "3. low": "18.5800",
+            "4. close": "18.8000",
+            "5. volume": "245170"
+        },
+        "2018-06-22": {
+            "1. open": "18.4900",
+            "2. high": "18.8500",
+            "3. low": "18.4200",
+            "4. close": "18.4900",
+            "5. volume": "58788"
+        },
+        "2018-06-21": {
+            "1. open": "18.2200",
+            "2. high": "18.3900",
+            "3. low": "18.1000",
+            "4. close": "18.1100",
+            "5. volume": "77236"
+        },
+        "2018-06-20": {
+            "1. open": "18.2900",
+            "2. high": "18.3800",
+            "3. low": "18.1100",
+            "4. close": "18.2900",
+            "5. volume": "108350"
+        },
+        "2018-06-19": {
+            "1. open": "18.2000",
+            "2. high": "18.2600",
+            "3. low": "18.1500",
+            "4. close": "18.1600",
+            "5. volume": "35358"
+        },
+        "2018-06-18": {
+            "1. open": "18.0000",
+            "2. high": "18.4100",
+            "3. low": "18.0000",
+            "4. close": "18.2000",
+            "5. volume": "107963"
+        },
+        "2018-06-15": {
+            "1. open": "18.4000",
+            "2. high": "18.4300",
+            "3. low": "18.0500",
+            "4. close": "18.0500",
+            "5. volume": "73663"
+        }
+    }
+}],"22":[{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY."
+}],"23":[{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY."
+}],"24":[{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY."
+}],"25":[{
+    "Meta Data": {
+        "1. Information": "Daily Prices (open, high, low, close) and Volumes",
+        "2. Symbol": "CLL",
+        "3. Last Refreshed": "2018-11-05",
+        "4. Output Size": "Compact",
+        "5. Time Zone": "US/Eastern"
+    },
+    "Time Series (Daily)": {
+        "2018-11-05": {
+            "1. open": "28000.0000",
+            "2. high": "28000.0000",
+            "3. low": "26100.0000",
+            "4. close": "26100.0000",
+            "5. volume": "490"
+        },
+        "2018-11-02": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-11-01": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-10-31": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "6000"
+        },
+        "2018-10-30": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "1770"
+        },
+        "2018-10-29": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-10-26": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "8852"
+        },
+        "2018-10-25": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-24": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-23": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-22": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-19": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-18": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-17": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-16": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-15": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-12": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-11": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-10": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-09": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-08": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-05": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-04": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-03": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-02": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-10-01": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-28": {
+            "1. open": "27500.0000",
+            "2. high": "27500.0000",
+            "3. low": "27500.0000",
+            "4. close": "27500.0000",
+            "5. volume": "3510"
+        },
+        "2018-09-27": {
+            "1. open": "27500.0000",
+            "2. high": "27500.0000",
+            "3. low": "27500.0000",
+            "4. close": "27500.0000",
+            "5. volume": "2010"
+        },
+        "2018-09-26": {
+            "1. open": "27500.0000",
+            "2. high": "29500.0000",
+            "3. low": "27100.0000",
+            "4. close": "27500.0000",
+            "5. volume": "6330"
+        },
+        "2018-09-25": {
+            "1. open": "27900.0000",
+            "2. high": "27900.0000",
+            "3. low": "27900.0000",
+            "4. close": "27900.0000",
+            "5. volume": "0"
+        },
+        "2018-09-24": {
+            "1. open": "30500.0000",
+            "2. high": "30500.0000",
+            "3. low": "27900.0000",
+            "4. close": "27900.0000",
+            "5. volume": "820"
+        },
+        "2018-09-21": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-20": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-19": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-18": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-17": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-14": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-13": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-12": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-11": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "1"
+        },
+        "2018-09-10": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "10852"
+        },
+        "2018-09-07": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-06": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-05": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-09-04": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-08-31": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-08-30": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-08-29": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "0"
+        },
+        "2018-08-28": {
+            "1. open": "0.0015",
+            "2. high": "0.0015",
+            "3. low": "0.0015",
+            "4. close": "0.0015",
+            "5. volume": "12394"
+        },
+        "2018-08-27": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-24": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-23": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-22": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-21": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-20": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-17": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-16": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-15": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-14": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-13": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-10": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-09": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-08": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-07": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-06": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-03": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-02": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-08-01": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-31": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-30": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-27": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-26": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-25": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-24": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-23": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-20": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-07-19": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "2000"
+        },
+        "2018-07-18": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "0"
+        },
+        "2018-07-17": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "0"
+        },
+        "2018-07-16": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "0"
+        },
+        "2018-07-13": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "0"
+        },
+        "2018-07-12": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "0"
+        },
+        "2018-07-11": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "0"
+        },
+        "2018-07-10": {
+            "1. open": "0.0035",
+            "2. high": "0.0035",
+            "3. low": "0.0035",
+            "4. close": "0.0035",
+            "5. volume": "9500"
+        },
+        "2018-07-09": {
+            "1. open": "0.0040",
+            "2. high": "0.0040",
+            "3. low": "0.0040",
+            "4. close": "0.0040",
+            "5. volume": "0"
+        },
+        "2018-07-06": {
+            "1. open": "0.0040",
+            "2. high": "0.0040",
+            "3. low": "0.0040",
+            "4. close": "0.0040",
+            "5. volume": "149000"
+        },
+        "2018-07-05": {
+            "1. open": "0.0035",
+            "2. high": "0.0040",
+            "3. low": "0.0035",
+            "4. close": "0.0040",
+            "5. volume": "61000"
+        },
+        "2018-07-03": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "300000"
+        },
+        "2018-07-02": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "300000"
+        },
+        "2018-06-29": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-06-28": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "0"
+        },
+        "2018-06-27": {
+            "1. open": "0.0020",
+            "2. high": "0.0020",
+            "3. low": "0.0020",
+            "4. close": "0.0020",
+            "5. volume": "3475"
+        },
+        "2018-06-26": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-25": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-22": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-21": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-20": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-19": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-18": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "0"
+        },
+        "2018-06-15": {
+            "1. open": "0.0010",
+            "2. high": "0.0010",
+            "3. low": "0.0010",
+            "4. close": "0.0010",
+            "5. volume": "17706"
+        }
+    }
+}],"26":[{
+    "Error Message": "Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TIME_SERIES_DAILY."
+}],"27":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"28":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"29":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"30":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"31":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"32":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"33":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"34":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"35":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"36":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"37":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"38":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"39":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"40":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],"41":[{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}],
